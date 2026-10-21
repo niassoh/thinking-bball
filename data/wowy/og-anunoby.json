@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "NYK",
-  "gp": 67,
-  "generatedAt": "2026-10-02T04:05:45.824Z",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:53:49.209Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · NYK",
-      "minutes": 2224,
-      "poss": 4517,
-      "net": 9.032543723710427
+      "sub": "2026–27 · NYK",
+      "minutes": 32,
+      "poss": 67,
+      "net": -29.9
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · NYK",
-      "minutes": 1727,
-      "poss": 3469,
-      "net": 3.199769385990199
-    },
-    {
-      "label": "On, w/o Bridges",
-      "sub": "2025–26 · NYK",
-      "minutes": 616,
-      "poss": 1251,
-      "net": 13.589128697042366
+      "sub": "2026–27 · NYK",
+      "minutes": 16,
+      "poss": 35,
+      "net": 40
     },
     {
       "label": "On, w/o Brunson",
-      "sub": "2025–26 · NYK",
-      "minutes": 623,
-      "poss": 1236,
-      "net": 13.106796116504855
+      "sub": "2026–27 · NYK",
+      "minutes": 4,
+      "poss": 8,
+      "net": -26.7
     },
     {
-      "label": "On, w/o Towns",
-      "sub": "2025–26 · NYK",
-      "minutes": 719,
-      "poss": 1473,
-      "net": 9.843856076035303
+      "label": "On, w/o Bridges",
+      "sub": "2026–27 · NYK",
+      "minutes": 3,
+      "poss": 8,
+      "net": 13.3
     },
     {
-      "label": "Neither Anunoby nor Bridges",
-      "sub": "2025–26 · NYK",
-      "minutes": 643,
-      "poss": 1298.5,
-      "net": 4.081632653061225
+      "label": "On, w/o Hart",
+      "sub": "2026–27 · NYK",
+      "minutes": 12,
+      "poss": 26,
+      "net": -43.1
+    },
+    {
+      "label": "Neither Anunoby nor Brunson",
+      "sub": "2026–27 · NYK",
+      "minutes": 10,
+      "poss": 21,
+      "net": 33.3
     }
   ]
 }

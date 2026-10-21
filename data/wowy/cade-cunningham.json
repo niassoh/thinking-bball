@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "DET",
-  "gp": 64,
-  "generatedAt": "2026-10-02T03:33:52.380Z",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:52:43.495Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · DET",
-      "minutes": 2172,
-      "poss": 4490,
-      "net": 11.53674832962138
+      "sub": "2026–27 · DET",
+      "minutes": 35,
+      "poss": 76,
+      "net": -1.3
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · DET",
-      "minutes": 1789,
-      "poss": 3696.5,
-      "net": 4.084945218449885
-    },
-    {
-      "label": "On, w/o Robinson",
-      "sub": "2025–26 · DET",
-      "minutes": 756,
-      "poss": 1551.5,
-      "net": 8.765710602642605
-    },
-    {
-      "label": "On, w/o Duren",
-      "sub": "2025–26 · DET",
-      "minutes": 853,
-      "poss": 1760,
-      "net": 10.170454545454545
+      "sub": "2026–27 · DET",
+      "minutes": 13,
+      "poss": 24,
+      "net": 38.3
     },
     {
       "label": "On, w/o Thompson",
-      "sub": "2025–26 · DET",
-      "minutes": 974,
-      "poss": 2024.5,
-      "net": 11.607804396147197
+      "sub": "2026–27 · DET",
+      "minutes": 9,
+      "poss": 20,
+      "net": 0
     },
     {
-      "label": "Neither Cunningham nor Robinson",
-      "sub": "2025–26 · DET",
-      "minutes": 1091,
-      "poss": 2268,
-      "net": -0.13227513227513227
+      "label": "On, w/o Robinson",
+      "sub": "2026–27 · DET",
+      "minutes": 11,
+      "poss": 26,
+      "net": 19.6
+    },
+    {
+      "label": "On, w/o Duren",
+      "sub": "2026–27 · DET",
+      "minutes": 17,
+      "poss": 34,
+      "net": 26.5
+    },
+    {
+      "label": "Neither Cunningham nor Thompson",
+      "sub": "2026–27 · DET",
+      "minutes": 6,
+      "poss": 11,
+      "net": -38.1
     }
   ]
 }

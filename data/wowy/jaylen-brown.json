@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "BOS",
-  "gp": 71,
-  "generatedAt": "2026-10-02T04:06:49.561Z",
+  "season": "2026-27",
+  "team": "PHI",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:53:52.864Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · BOS",
-      "minutes": 2443,
-      "poss": 4908.5,
-      "net": 6.560048894774371
+      "sub": "2026–27 · PHI",
+      "minutes": 35,
+      "poss": 76,
+      "net": 22.4
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · BOS",
-      "minutes": 1503,
-      "poss": 2896.5,
-      "net": 10.668047643707922
+      "sub": "2026–27 · PHI",
+      "minutes": 13,
+      "poss": 26,
+      "net": -42.3
     },
     {
-      "label": "On, w/o White",
-      "sub": "2025–26 · BOS",
-      "minutes": 730,
-      "poss": 1456,
-      "net": -0.13736263736263737
+      "label": "On, w/o Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 5,
+      "poss": 14,
+      "net": 0
     },
     {
-      "label": "On, w/o Pritchard",
-      "sub": "2025–26 · BOS",
-      "minutes": 762,
-      "poss": 1538,
-      "net": 7.737321196358908
+      "label": "On, w/o Edgecombe",
+      "sub": "2026–27 · PHI",
+      "minutes": 9,
+      "poss": 20,
+      "net": 56.4
     },
     {
-      "label": "On, w/o Hauser",
-      "sub": "2025–26 · BOS",
-      "minutes": 1318,
-      "poss": 2635.5,
-      "net": 3.946120280781636
+      "label": "On, w/o James",
+      "sub": "2026–27 · PHI",
+      "minutes": 14,
+      "poss": 31,
+      "net": 25.8
     },
     {
-      "label": "Neither Brown nor White",
-      "sub": "2025–26 · BOS",
-      "minutes": 591,
-      "poss": 1168,
-      "net": 2.996575342465753
+      "label": "Neither Brown nor Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 3,
+      "poss": 6,
+      "net": -90.9
     }
   ]
 }

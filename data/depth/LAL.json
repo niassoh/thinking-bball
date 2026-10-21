@@ -1,7 +1,7 @@
 {
   "team": "LAL",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:50.022Z",
+  "generatedAt": "2026-10-21T17:49:03.235Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,7 +16,7 @@
           "name": "Collin Sexton",
           "slug": "collin-sexton",
           "espnId": "4277811",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Austin Reaves",
@@ -45,19 +45,19 @@
           "name": "Collin Sexton",
           "slug": "collin-sexton",
           "espnId": "4277811",
+          "status": "DTD"
+        },
+        {
+          "name": "Ziaire Williams",
+          "slug": "ziaire-williams",
+          "espnId": "4433137",
           "status": null
         },
         {
           "name": "Cameron Carr",
           "slug": "cameron-carr",
           "espnId": "5113969",
-          "status": null
-        },
-        {
-          "name": "Matisse Thybulle",
-          "slug": "matisse-thybulle",
-          "espnId": "3907498",
-          "status": null
+          "status": "OUT"
         }
       ]
     },
@@ -74,7 +74,7 @@
           "name": "Cameron Carr",
           "slug": "cameron-carr",
           "espnId": "5113969",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Matisse Thybulle",
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Jarred Vanderbilt",
-          "slug": "jarred-vanderbilt",
-          "espnId": "4278077",
-          "status": null
-        },
-        {
           "name": "Matisse Thybulle",
           "slug": "matisse-thybulle",
           "espnId": "3907498",
+          "status": null
+        },
+        {
+          "name": "Jarred Vanderbilt",
+          "slug": "jarred-vanderbilt",
+          "espnId": "4278077",
           "status": null
         }
       ]

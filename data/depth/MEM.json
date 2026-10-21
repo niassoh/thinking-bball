@@ -1,21 +1,21 @@
 {
   "team": "MEM",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:50.420Z",
+  "generatedAt": "2026-10-21T17:49:03.678Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
         {
-          "name": "Scotty Pippen Jr.",
-          "slug": "scotty-pippen-jr",
-          "espnId": "4431785",
-          "status": null
-        },
-        {
           "name": "Ty Jerome",
           "slug": "ty-jerome",
           "espnId": "4065733",
+          "status": null
+        },
+        {
+          "name": "Scotty Pippen Jr.",
+          "slug": "scotty-pippen-jr",
+          "espnId": "4431785",
           "status": null
         },
         {
@@ -42,21 +42,21 @@
           "status": null
         },
         {
+          "name": "Cam Spencer",
+          "slug": "cam-spencer",
+          "espnId": "4433083",
+          "status": null
+        },
+        {
           "name": "Ty Jerome",
           "slug": "ty-jerome",
           "espnId": "4065733",
           "status": null
         },
         {
-          "name": "Walter Clayton Jr.",
-          "slug": "walter-clayton-jr",
-          "espnId": "4896372",
-          "status": null
-        },
-        {
-          "name": "Cam Spencer",
-          "slug": "cam-spencer",
-          "espnId": "4433083",
+          "name": "Jahmai Mashack",
+          "slug": "jahmai-mashack",
+          "espnId": "4683934",
           "status": null
         }
       ]
@@ -65,15 +65,15 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Jerami Grant",
-          "slug": "jerami-grant",
-          "espnId": "2991070",
-          "status": null
-        },
-        {
           "name": "Jaylen Wells",
           "slug": "jaylen-wells",
           "espnId": "5112087",
+          "status": null
+        },
+        {
+          "name": "Jerami Grant",
+          "slug": "jerami-grant",
+          "espnId": "2991070",
           "status": null
         },
         {
@@ -86,7 +86,7 @@
           "name": "Karim Lopez",
           "slug": "karim-lopez",
           "espnId": "5231919",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -109,7 +109,7 @@
           "name": "Isaiah Stewart",
           "slug": "isaiah-stewart",
           "espnId": "4432810",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "GG Jackson",
@@ -126,13 +126,13 @@
           "name": "Zach Edey",
           "slug": "zach-edey",
           "espnId": "4600663",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Isaiah Stewart",
           "slug": "isaiah-stewart",
           "espnId": "4432810",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Quinten Post",

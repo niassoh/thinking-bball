@@ -1,7 +1,7 @@
 {
   "team": "NOP",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:52.096Z",
+  "generatedAt": "2026-10-21T17:49:05.287Z",
   "rows": [
     {
       "pos": "PG",
@@ -65,6 +65,12 @@
       "pos": "SF",
       "players": [
         {
+          "name": "Herbert Jones",
+          "slug": "herbert-jones",
+          "espnId": "4277813",
+          "status": null
+        },
+        {
           "name": "Saddiq Bey",
           "slug": "saddiq-bey",
           "espnId": "4397136",
@@ -74,12 +80,6 @@
           "name": "Bennedict Mathurin",
           "slug": "bennedict-mathurin",
           "espnId": "4683634",
-          "status": null
-        },
-        {
-          "name": "Herbert Jones",
-          "slug": "herbert-jones",
-          "espnId": "4277813",
           "status": null
         },
         {
@@ -123,12 +123,6 @@
       "pos": "C",
       "players": [
         {
-          "name": "Herbert Jones",
-          "slug": "herbert-jones",
-          "espnId": "4277813",
-          "status": null
-        },
-        {
           "name": "Yves Missi",
           "slug": "yves-missi",
           "espnId": "5061589",
@@ -144,6 +138,12 @@
           "name": "Derik Queen",
           "slug": "derik-queen",
           "espnId": "4869780",
+          "status": null
+        },
+        {
+          "name": "DeAndre Jordan",
+          "slug": "deandre-jordan",
+          "espnId": "3442",
           "status": null
         }
       ]

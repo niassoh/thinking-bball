@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "PHI",
-  "gp": 37,
-  "generatedAt": "2026-10-02T04:34:16.689Z",
+  "season": "2026-27",
+  "team": "BOS",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:54:15.583Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · PHI",
-      "minutes": 1135,
-      "poss": 2327.5,
-      "net": 3.823845327604726
+      "sub": "2026–27 · BOS",
+      "minutes": 31,
+      "poss": 65,
+      "net": 14
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · PHI",
-      "minutes": 2841,
-      "poss": 5933.5,
-      "net": -1.7527597539394961
+      "sub": "2026–27 · BOS",
+      "minutes": 17,
+      "poss": 35,
+      "net": -49.3
     },
     {
-      "label": "On, w/o Maxey",
-      "sub": "2025–26 · PHI",
-      "minutes": 291,
-      "poss": 588,
-      "net": 9.013605442176871
+      "label": "On, w/o Tatum",
+      "sub": "2026–27 · BOS",
+      "minutes": 5,
+      "poss": 9,
+      "net": 44.4
     },
     {
-      "label": "On, w/o Edgecombe",
-      "sub": "2025–26 · PHI",
-      "minutes": 299,
-      "poss": 633,
-      "net": 5.687203791469194
+      "label": "On, w/o White",
+      "sub": "2026–27 · BOS",
+      "minutes": 1,
+      "poss": 3,
+      "net": -80
     },
     {
-      "label": "On, w/o Grimes",
-      "sub": "2025–26 · PHI",
-      "minutes": 651,
-      "poss": 1330,
-      "net": 3.4586466165413534
+      "label": "On, w/o Pritchard",
+      "sub": "2026–27 · BOS",
+      "minutes": 20,
+      "poss": 42,
+      "net": 11.9
     },
     {
-      "label": "Neither George nor Maxey",
-      "sub": "2025–26 · PHI",
-      "minutes": 1024,
-      "poss": 2174.5,
-      "net": -8.323752586801564
+      "label": "Neither George nor Tatum",
+      "sub": "2026–27 · BOS",
+      "minutes": 5,
+      "poss": 10,
+      "net": -73.7
     }
   ]
 }

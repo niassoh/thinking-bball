@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "MEM",
-  "gp": 51,
-  "generatedAt": "2026-10-02T04:03:34.187Z",
+  "season": "2026-27",
+  "team": "PHI",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:53:36.899Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · MEM",
-      "minutes": 1088,
-      "poss": 2263,
-      "net": -5.037560760053027
+      "sub": "2026–27 · PHI",
+      "minutes": 26,
+      "poss": 54,
+      "net": 5.6
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · MEM",
-      "minutes": 2858,
-      "poss": 6041,
-      "net": -6.27379572918391
+      "sub": "2026–27 · PHI",
+      "minutes": 22,
+      "poss": 48,
+      "net": 6.3
     },
     {
-      "label": "On, w/o Wells",
-      "sub": "2025–26 · MEM",
-      "minutes": 610,
-      "poss": 1286,
-      "net": -5.287713841368585
+      "label": "On, w/o Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 8,
+      "poss": 20,
+      "net": -25.6
     },
     {
-      "label": "On, w/o Spencer",
-      "sub": "2025–26 · MEM",
-      "minutes": 546,
-      "poss": 1158,
-      "net": -8.376511226252159
+      "label": "On, w/o Edgecombe",
+      "sub": "2026–27 · PHI",
+      "minutes": 11,
+      "poss": 20,
+      "net": 25.6
     },
     {
-      "label": "On, w/o Coward",
-      "sub": "2025–26 · MEM",
-      "minutes": 913,
-      "poss": 1880,
-      "net": -5.531914893617021
+      "label": "On, w/o Brown",
+      "sub": "2026–27 · PHI",
+      "minutes": 12,
+      "poss": 24,
+      "net": -21.3
     },
     {
-      "label": "Neither Caldwell-Pope nor Wells",
-      "sub": "2025–26 · MEM",
-      "minutes": 1515,
-      "poss": 3222.5,
-      "net": -7.633824670287044
+      "label": "Neither Caldwell-Pope nor Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     }
   ]
 }

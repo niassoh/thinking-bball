@@ -5,18 +5,13 @@
     "reason": "not in index_master"
   },
   {
-    "slug": "ike-austin",
-    "name": "Ike Austin",
-    "reason": "not in index_master"
-  },
-  {
     "slug": "steven-smith",
     "name": "Steven Smith",
     "reason": "ambiguous or no season overlap in index_master"
   },
   {
-    "slug": "slava-medvedenko",
-    "name": "Slava Medvedenko",
+    "slug": "ike-austin",
+    "name": "Ike Austin",
     "reason": "not in index_master"
   },
   {
@@ -25,14 +20,14 @@
     "reason": "not in index_master"
   },
   {
-    "slug": "michael-sweetney",
-    "name": "Michael Sweetney",
+    "slug": "slava-medvedenko",
+    "name": "Slava Medvedenko",
     "reason": "not in index_master"
   },
   {
-    "slug": "nicolas-batum",
-    "name": "Nicolas Batum",
-    "reason": "active player without height"
+    "slug": "michael-sweetney",
+    "name": "Michael Sweetney",
+    "reason": "not in index_master"
   },
   {
     "slug": "pooh-jeter",
@@ -48,5 +43,10 @@
     "slug": "jaylin-williams",
     "name": "Jaylin Williams",
     "reason": "active player without height"
+  },
+  {
+    "slug": "egor-demin",
+    "name": "Egor Dëmin",
+    "reason": "not in index_master"
   }
 ]

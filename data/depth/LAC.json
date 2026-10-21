@@ -1,7 +1,7 @@
 {
   "team": "LAC",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:49.610Z",
+  "generatedAt": "2026-10-21T17:49:02.753Z",
   "rows": [
     {
       "pos": "PG",
@@ -28,7 +28,7 @@
           "name": "Bradley Beal",
           "slug": "bradley-beal",
           "espnId": "6580",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     },
@@ -45,18 +45,18 @@
           "name": "Bradley Beal",
           "slug": "bradley-beal",
           "espnId": "6580",
-          "status": "DTD"
+          "status": "OUT"
+        },
+        {
+          "name": "Kobe Sanders",
+          "slug": "kobe-sanders",
+          "espnId": "4702352",
+          "status": null
         },
         {
           "name": "Gradey Dick",
           "slug": "gradey-dick",
           "espnId": "5106258",
-          "status": null
-        },
-        {
-          "name": "Kris Dunn",
-          "slug": "kris-dunn",
-          "espnId": "2991139",
           "status": null
         }
       ]
@@ -65,9 +65,9 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Max Strus",
-          "slug": "max-strus",
-          "espnId": "4065778",
+          "name": "Derrick Jones Jr.",
+          "slug": "derrick-jones-jr",
+          "espnId": "3936099",
           "status": null
         },
         {
@@ -83,9 +83,9 @@
           "status": null
         },
         {
-          "name": "Derrick Jones Jr.",
-          "slug": "derrick-jones-jr",
-          "espnId": "3936099",
+          "name": "Gradey Dick",
+          "slug": "gradey-dick",
+          "espnId": "5106258",
           "status": null
         }
       ]
@@ -94,22 +94,22 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Derrick Jones Jr.",
-          "slug": "derrick-jones-jr",
-          "espnId": "3936099",
-          "status": null
-        },
-        {
           "name": "Rui Hachimura",
           "slug": "rui-hachimura",
           "espnId": "4066648",
           "status": null
         },
         {
+          "name": "Derrick Jones Jr.",
+          "slug": "derrick-jones-jr",
+          "espnId": "3936099",
+          "status": null
+        },
+        {
           "name": "Max Strus",
           "slug": "max-strus",
           "espnId": "4065778",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Baba Miller",
@@ -123,15 +123,15 @@
       "pos": "C",
       "players": [
         {
-          "name": "Brook Lopez",
-          "slug": "brook-lopez",
-          "espnId": "3448",
-          "status": null
-        },
-        {
           "name": "Isaiah Jackson",
           "slug": "isaiah-jackson",
           "espnId": "4432170",
+          "status": null
+        },
+        {
+          "name": "Brook Lopez",
+          "slug": "brook-lopez",
+          "espnId": "3448",
           "status": null
         },
         {

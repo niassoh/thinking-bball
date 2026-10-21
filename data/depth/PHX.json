@@ -1,7 +1,7 @@
 {
   "team": "PHX",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:55.148Z",
+  "generatedAt": "2026-10-21T17:49:07.280Z",
   "rows": [
     {
       "pos": "PG",
@@ -22,7 +22,7 @@
           "name": "Luke Kennard",
           "slug": "luke-kennard",
           "espnId": "3913174",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jamaree Bouyea",
@@ -45,7 +45,7 @@
           "name": "Luke Kennard",
           "slug": "luke-kennard",
           "espnId": "3913174",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Devin Booker",
@@ -135,15 +135,15 @@
           "status": null
         },
         {
+          "name": "Drew Timme",
+          "slug": "drew-timme",
+          "espnId": "4431695",
+          "status": null
+        },
+        {
           "name": "Duop Reath",
           "slug": "duop-reath",
           "espnId": "4066268",
-          "status": "DTD"
-        },
-        {
-          "name": "Koa Peat",
-          "slug": "koa-peat",
-          "espnId": "5041953",
           "status": null
         }
       ]

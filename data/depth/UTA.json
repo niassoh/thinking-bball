@@ -1,7 +1,7 @@
 {
   "team": "UTA",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:57.673Z",
+  "generatedAt": "2026-10-21T17:49:09.287Z",
   "rows": [
     {
       "pos": "PG",
@@ -28,7 +28,7 @@
           "name": "Trey Alexander",
           "slug": "trey-alexander",
           "espnId": "4433268",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     },
@@ -42,9 +42,9 @@
           "status": null
         },
         {
-          "name": "Ace Bailey",
-          "slug": "ace-bailey",
-          "espnId": "4873138",
+          "name": "Brice Sensabaugh",
+          "slug": "brice-sensabaugh",
+          "espnId": "5105839",
           "status": null
         },
         {
@@ -54,9 +54,9 @@
           "status": null
         },
         {
-          "name": "Brice Sensabaugh",
-          "slug": "brice-sensabaugh",
-          "espnId": "5105839",
+          "name": "Ace Bailey",
+          "slug": "ace-bailey",
+          "espnId": "4873138",
           "status": null
         }
       ]
@@ -71,6 +71,12 @@
           "status": null
         },
         {
+          "name": "Ace Bailey",
+          "slug": "ace-bailey",
+          "espnId": "4873138",
+          "status": null
+        },
+        {
           "name": "Brice Sensabaugh",
           "slug": "brice-sensabaugh",
           "espnId": "5105839",
@@ -80,12 +86,6 @@
           "name": "Josh Okogie",
           "slug": "josh-okogie",
           "espnId": "4065663",
-          "status": null
-        },
-        {
-          "name": "Josh Green",
-          "slug": "josh-green",
-          "espnId": "4432811",
           "status": null
         }
       ]
@@ -100,6 +100,12 @@
           "status": null
         },
         {
+          "name": "Lauri Markkanen",
+          "slug": "lauri-markkanen",
+          "espnId": "4066336",
+          "status": null
+        },
+        {
           "name": "Kyle Filipowski",
           "slug": "kyle-filipowski",
           "espnId": "4684793",
@@ -110,12 +116,6 @@
           "slug": "ace-bailey",
           "espnId": "4873138",
           "status": null
-        },
-        {
-          "name": "Lauri Markkanen",
-          "slug": "lauri-markkanen",
-          "espnId": "4066336",
-          "status": null
         }
       ]
     },
@@ -123,15 +123,15 @@
       "pos": "C",
       "players": [
         {
-          "name": "Jusuf Nurkic",
-          "slug": "jusuf-nurkic",
-          "espnId": "3102530",
-          "status": null
-        },
-        {
           "name": "Jaxson Hayes",
           "slug": "jaxson-hayes",
           "espnId": "4397077",
+          "status": null
+        },
+        {
+          "name": "Jaren Jackson Jr.",
+          "slug": "jaren-jackson-jr",
+          "espnId": "4277961",
           "status": null
         },
         {
@@ -141,9 +141,9 @@
           "status": null
         },
         {
-          "name": "Jaren Jackson Jr.",
-          "slug": "jaren-jackson-jr",
-          "espnId": "4277961",
+          "name": "Mo Bamba",
+          "slug": "mo-bamba",
+          "espnId": "4277919",
           "status": null
         }
       ]

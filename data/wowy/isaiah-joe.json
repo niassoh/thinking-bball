@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "OKC",
-  "gp": 71,
-  "generatedAt": "2026-10-02T03:41:08.978Z",
+  "season": "2026-27",
+  "team": "DET",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:52:58.844Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · OKC",
-      "minutes": 1507,
-      "poss": 3115,
-      "net": 11.428571428571429
+      "sub": "2026–27 · DET",
+      "minutes": 19,
+      "poss": 38,
+      "net": 0
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · OKC",
-      "minutes": 2464,
-      "poss": 5125,
-      "net": 10.887804878048781
+      "sub": "2026–27 · DET",
+      "minutes": 29,
+      "poss": 61,
+      "net": 13.1
     },
     {
-      "label": "On, w/o Gilgeous-Alexander",
-      "sub": "2025–26 · OKC",
-      "minutes": 846,
-      "poss": 1714,
-      "net": 6.76779463243874
+      "label": "On, w/o Cunningham",
+      "sub": "2026–27 · DET",
+      "minutes": 9,
+      "poss": 16,
+      "net": -12.5
     },
     {
-      "label": "On, w/o Wallace",
-      "sub": "2025–26 · OKC",
-      "minutes": 850,
-      "poss": 1754,
-      "net": 12.713797035347776
+      "label": "On, w/o Thompson",
+      "sub": "2026–27 · DET",
+      "minutes": 10,
+      "poss": 20,
+      "net": -20.5
     },
     {
-      "label": "On, w/o Holmgren",
-      "sub": "2025–26 · OKC",
-      "minutes": 938,
-      "poss": 1955,
-      "net": 8.797953964194374
+      "label": "On, w/o Robinson",
+      "sub": "2026–27 · DET",
+      "minutes": 19,
+      "poss": 38,
+      "net": 0
     },
     {
-      "label": "Neither Joe nor Gilgeous-Alexander",
-      "sub": "2025–26 · OKC",
-      "minutes": 866,
-      "poss": 1792.5,
-      "net": 0.5578800557880056
+      "label": "Neither Joe nor Cunningham",
+      "sub": "2026–27 · DET",
+      "minutes": 4,
+      "poss": 8,
+      "net": 146.7
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "GSW",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:48.070Z",
+  "generatedAt": "2026-10-21T17:49:01.527Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Stephen Curry",
           "slug": "stephen-curry",
           "espnId": "3975",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "De'Anthony Melton",
@@ -22,7 +22,7 @@
           "name": "Brandin Podziemski",
           "slug": "brandin-podziemski",
           "espnId": "4709138",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Brandon Williams",
@@ -39,7 +39,7 @@
           "name": "Brandin Podziemski",
           "slug": "brandin-podziemski",
           "espnId": "4709138",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "De'Anthony Melton",
@@ -65,21 +65,9 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Gui Santos",
-          "slug": "gui-santos",
-          "espnId": "4997536",
-          "status": null
-        },
-        {
           "name": "Yaxel Lendeborg",
           "slug": "yaxel-lendeborg",
           "espnId": "5175737",
-          "status": null
-        },
-        {
-          "name": "Will Richard",
-          "slug": "will-richard",
-          "espnId": "4897262",
           "status": null
         },
         {
@@ -87,24 +75,24 @@
           "slug": "gary-payton-ii",
           "espnId": "3134903",
           "status": null
+        },
+        {
+          "name": "Gui Santos",
+          "slug": "gui-santos",
+          "espnId": "4997536",
+          "status": null
+        },
+        {
+          "name": "Will Richard",
+          "slug": "will-richard",
+          "espnId": "4897262",
+          "status": null
         }
       ]
     },
     {
       "pos": "PF",
       "players": [
-        {
-          "name": "Draymond Green",
-          "slug": "draymond-green",
-          "espnId": "6589",
-          "status": null
-        },
-        {
-          "name": "Yaxel Lendeborg",
-          "slug": "yaxel-lendeborg",
-          "espnId": "5175737",
-          "status": null
-        },
         {
           "name": "Gui Santos",
           "slug": "gui-santos",
@@ -116,23 +104,6 @@
           "slug": "georges-niang",
           "espnId": "2990969",
           "status": null
-        }
-      ]
-    },
-    {
-      "pos": "C",
-      "players": [
-        {
-          "name": "Kristaps Porzingis",
-          "slug": "kristaps-porzingis",
-          "espnId": "3102531",
-          "status": "DTD"
-        },
-        {
-          "name": "Al Horford",
-          "slug": "al-horford",
-          "espnId": "3213",
-          "status": null
         },
         {
           "name": "Draymond Green",
@@ -141,10 +112,39 @@
           "status": null
         },
         {
+          "name": "Yaxel Lendeborg",
+          "slug": "yaxel-lendeborg",
+          "espnId": "5175737",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Draymond Green",
+          "slug": "draymond-green",
+          "espnId": "6589",
+          "status": null
+        },
+        {
+          "name": "Al Horford",
+          "slug": "al-horford",
+          "espnId": "3213",
+          "status": null
+        },
+        {
+          "name": "Kristaps Porzingis",
+          "slug": "kristaps-porzingis",
+          "espnId": "3102531",
+          "status": "OUT"
+        },
+        {
           "name": "Charles Bassey",
           "slug": "charles-bassey",
           "espnId": "4397886",
-          "status": null
+          "status": "DTD"
         }
       ]
     }

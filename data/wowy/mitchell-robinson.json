@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "NYK",
-  "gp": 60,
-  "generatedAt": "2026-10-02T05:10:34.205Z",
+  "season": "2026-27",
+  "team": "BOS",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:56:36.037Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · NYK",
-      "minutes": 1175,
-      "poss": 2335.5,
-      "net": 6.722329265681867
+      "sub": "2026–27 · BOS",
+      "minutes": 18,
+      "poss": 36,
+      "net": -22.2
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · NYK",
-      "minutes": 2776,
-      "poss": 5650.5,
-      "net": 6.406512697991327
+      "sub": "2026–27 · BOS",
+      "minutes": 30,
+      "poss": 63,
+      "net": 0
     },
     {
-      "label": "On, w/o Bridges",
-      "sub": "2025–26 · NYK",
-      "minutes": 491,
-      "poss": 988.5,
-      "net": 10.925644916540213
+      "label": "On, w/o Tatum",
+      "sub": "2026–27 · BOS",
+      "minutes": 7,
+      "poss": 14,
+      "net": -14.3
     },
     {
-      "label": "On, w/o Brunson",
-      "sub": "2025–26 · NYK",
-      "minutes": 293,
-      "poss": 588.5,
-      "net": -3.5683942225998297
+      "label": "On, w/o White",
+      "sub": "2026–27 · BOS",
+      "minutes": 1,
+      "poss": 3,
+      "net": -80
     },
     {
-      "label": "On, w/o Towns",
-      "sub": "2025–26 · NYK",
-      "minutes": 896,
-      "poss": 1779,
-      "net": 7.925801011804384
+      "label": "On, w/o George",
+      "sub": "2026–27 · BOS",
+      "minutes": 5,
+      "poss": 10,
+      "net": -80
     },
     {
-      "label": "Neither Robinson nor Bridges",
-      "sub": "2025–26 · NYK",
-      "minutes": 768,
-      "poss": 1561,
-      "net": 7.367072389493915
+      "label": "Neither Robinson nor Tatum",
+      "sub": "2026–27 · BOS",
+      "minutes": 3,
+      "poss": 5,
+      "net": -22.2
     }
   ]
 }

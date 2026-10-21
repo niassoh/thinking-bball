@@ -1,7 +1,7 @@
 {
   "team": "PHI",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:54.113Z",
+  "generatedAt": "2026-10-21T17:49:06.885Z",
   "rows": [
     {
       "pos": "PG",
@@ -103,13 +103,13 @@
           "name": "Dean Wade",
           "slug": "dean-wade",
           "espnId": "3912848",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Dominick Barlow",
           "slug": "dominick-barlow",
           "espnId": "4870562",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Justin Edwards",
@@ -132,18 +132,18 @@
           "name": "Adem Bona",
           "slug": "adem-bona",
           "espnId": "5105637",
-          "status": "DTD"
-        },
-        {
-          "name": "Ariel Hukporti",
-          "slug": "ariel-hukporti",
-          "espnId": "4871141",
           "status": null
         },
         {
           "name": "Dominick Barlow",
           "slug": "dominick-barlow",
           "espnId": "4870562",
+          "status": "OUT"
+        },
+        {
+          "name": "Jabari Walker",
+          "slug": "jabari-walker",
+          "espnId": "4432446",
           "status": null
         }
       ]

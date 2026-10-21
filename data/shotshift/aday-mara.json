@@ -1,0 +1,77 @@
+{
+  "season": "2026-27",
+  "generatedAt": "2026-10-21T17:57:14.230Z",
+  "window": {
+    "days": 30,
+    "seasonStart": "2026-10-20",
+    "restEnd": "2026-09-20",
+    "start": "2026-09-21",
+    "end": "2026-10-20"
+  },
+  "zones": {
+    "rim": {
+      "rest": {
+        "fga": 0,
+        "fgm": 0
+      },
+      "recent": {
+        "fga": 3,
+        "fgm": 2
+      }
+    },
+    "short_mid": {
+      "rest": {
+        "fga": 0,
+        "fgm": 0
+      },
+      "recent": {
+        "fga": 1,
+        "fgm": 1
+      }
+    },
+    "long_mid": {
+      "rest": {
+        "fga": 0,
+        "fgm": 0
+      },
+      "recent": {
+        "fga": 0,
+        "fgm": 0
+      }
+    },
+    "three": {
+      "rest": {
+        "fga": 0,
+        "fgm": 0
+      },
+      "recent": {
+        "fga": 0,
+        "fgm": 0
+      }
+    }
+  },
+  "league": {
+    "rim": {
+      "fga": 165,
+      "fgm": 93
+    },
+    "short_mid": {
+      "fga": 88,
+      "fgm": 31
+    },
+    "long_mid": {
+      "fga": 52,
+      "fgm": 18
+    },
+    "three": {
+      "fga": 213,
+      "fgm": 76
+    }
+  },
+  "shots": [
+    [-50,90,1,1,1],
+    [10,0,1,1,0],
+    [0,20,0,1,0],
+    [20,20,1,1,0]
+  ]
+}

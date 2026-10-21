@@ -1,7 +1,7 @@
 {
   "team": "CLE",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:45.420Z",
+  "generatedAt": "2026-10-21T17:48:59.810Z",
   "rows": [
     {
       "pos": "PG",
@@ -39,7 +39,7 @@
           "name": "Sam Merrill",
           "slug": "sam-merrill",
           "espnId": "4066757",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Tyrese Proctor",
@@ -62,7 +62,7 @@
           "name": "Peyton Watson",
           "slug": "peyton-watson",
           "espnId": "4576087",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Jaylon Tyson",
@@ -74,7 +74,7 @@
           "name": "Sam Merrill",
           "slug": "sam-merrill",
           "espnId": "4066757",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Mario Hezonja",
@@ -97,13 +97,13 @@
           "name": "Peyton Watson",
           "slug": "peyton-watson",
           "espnId": "4576087",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Nae'Qwan Tomlin",
           "slug": "nae-qwan-tomlin",
           "espnId": "5106268",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Jaylon Tyson",
@@ -138,7 +138,7 @@
           "name": "Khalifa Diop",
           "slug": "khalifa-diop",
           "espnId": "4997530",
-          "status": null
+          "status": "DTD"
         }
       ]
     }

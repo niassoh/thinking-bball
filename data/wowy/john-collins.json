@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "LAC",
-  "gp": 69,
-  "generatedAt": "2026-10-02T04:49:29.387Z",
+  "season": "2026-27",
+  "team": "DET",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:56:16.621Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · LAC",
-      "minutes": 1871,
-      "poss": 3764,
-      "net": -1.0095642933049946
+      "sub": "2026–27 · DET",
+      "minutes": 25,
+      "poss": 54,
+      "net": -24.3
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · LAC",
-      "minutes": 2085,
-      "poss": 4192,
-      "net": 3.125
+      "sub": "2026–27 · DET",
+      "minutes": 23,
+      "poss": 46,
+      "net": 46.2
     },
     {
-      "label": "On, w/o Dunn",
-      "sub": "2025–26 · LAC",
-      "minutes": 562,
-      "poss": 1142,
-      "net": 1.0507880910683012
+      "label": "On, w/o Cunningham",
+      "sub": "2026–27 · DET",
+      "minutes": 0,
+      "poss": 1,
+      "net": 300
     },
     {
-      "label": "On, w/o Leonard",
-      "sub": "2025–26 · LAC",
-      "minutes": 810,
-      "poss": 1647.5,
-      "net": -7.70864946889226
+      "label": "On, w/o Thompson",
+      "sub": "2026–27 · DET",
+      "minutes": 5,
+      "poss": 10,
+      "net": -150
     },
     {
-      "label": "On, w/o Lopez",
-      "sub": "2025–26 · LAC",
-      "minutes": 1131,
-      "poss": 2291.5,
-      "net": 2.2692559458869734
+      "label": "On, w/o Robinson",
+      "sub": "2026–27 · DET",
+      "minutes": 8,
+      "poss": 18,
+      "net": -11.1
     },
     {
-      "label": "Neither Collins nor Dunn",
-      "sub": "2025–26 · LAC",
-      "minutes": 1166,
-      "poss": 2340.5,
-      "net": 2.563554795983764
+      "label": "Neither Collins nor Cunningham",
+      "sub": "2026–27 · DET",
+      "minutes": 12,
+      "poss": 23,
+      "net": 26.7
     }
   ]
 }

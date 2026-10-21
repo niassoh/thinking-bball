@@ -1,7 +1,7 @@
 {
   "team": "MIL",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:51.257Z",
+  "generatedAt": "2026-10-21T17:49:04.488Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,12 +10,6 @@
           "name": "Ryan Rollins",
           "slug": "ryan-rollins",
           "espnId": "4591725",
-          "status": null
-        },
-        {
-          "name": "Kevin Porter Jr.",
-          "slug": "kevin-porter-jr",
-          "espnId": "4397140",
           "status": null
         },
         {
@@ -28,6 +22,12 @@
           "name": "Caris LeVert",
           "slug": "caris-levert",
           "espnId": "2991043",
+          "status": null
+        },
+        {
+          "name": "Brayden Burries",
+          "slug": "brayden-burries",
+          "espnId": "5082206",
           "status": null
         }
       ]
@@ -48,15 +48,15 @@
           "status": null
         },
         {
-          "name": "Gary Trent Jr.",
-          "slug": "gary-trent-jr",
-          "espnId": "4277843",
+          "name": "AJ Green",
+          "slug": "aj-green",
+          "espnId": "4397475",
           "status": null
         },
         {
-          "name": "Caris LeVert",
-          "slug": "caris-levert",
-          "espnId": "2991043",
+          "name": "Gary Trent Jr.",
+          "slug": "gary-trent-jr",
+          "espnId": "4277843",
           "status": null
         }
       ]
@@ -83,9 +83,9 @@
           "status": null
         },
         {
-          "name": "Nate Ament",
-          "slug": "nate-ament",
-          "espnId": "5164559",
+          "name": "AJ Green",
+          "slug": "aj-green",
+          "espnId": "4397475",
           "status": null
         }
       ]
@@ -100,21 +100,21 @@
           "status": null
         },
         {
+          "name": "Kel'el Ware",
+          "slug": "kel-el-ware",
+          "espnId": "5105623",
+          "status": null
+        },
+        {
           "name": "Nate Ament",
           "slug": "nate-ament",
           "espnId": "5164559",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Ousmane Dieng",
           "slug": "ousmane-dieng",
           "espnId": "4997526",
-          "status": null
-        },
-        {
-          "name": "Kel'el Ware",
-          "slug": "kel-el-ware",
-          "espnId": "5105623",
           "status": null
         }
       ]

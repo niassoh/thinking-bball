@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "CHI",
-  "gp": 55,
-  "generatedAt": "2026-10-02T03:42:04.238Z",
+  "season": "2026-27",
+  "team": "PHI",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:53:00.280Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · CHI",
-      "minutes": 170,
-      "poss": 352.5,
-      "net": -18.72340425531915
+      "sub": "2026–27 · PHI",
+      "minutes": 25,
+      "poss": 55,
+      "net": -9.2
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · CHI",
-      "minutes": 3781,
-      "poss": 8085,
-      "net": -4.465058750773037
+      "sub": "2026–27 · PHI",
+      "minutes": 23,
+      "poss": 48,
+      "net": 23.2
     },
     {
-      "label": "On, w/o Buzelis",
-      "sub": "2025–26 · CHI",
-      "minutes": 60,
-      "poss": 121,
-      "net": 1.6528925619834711
+      "label": "On, w/o Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 8,
+      "poss": 20,
+      "net": -25.6
     },
     {
-      "label": "On, w/o Jones",
-      "sub": "2025–26 · CHI",
-      "minutes": 145,
-      "poss": 302,
-      "net": -24.17218543046358
+      "label": "On, w/o Edgecombe",
+      "sub": "2026–27 · PHI",
+      "minutes": 13,
+      "poss": 27,
+      "net": 22.6
     },
     {
-      "label": "On, w/o Giddey",
-      "sub": "2025–26 · CHI",
-      "minutes": 146,
-      "poss": 302,
-      "net": -13.57615894039735
+      "label": "On, w/o Brown",
+      "sub": "2026–27 · PHI",
+      "minutes": 8,
+      "poss": 15,
+      "net": -106.7
     },
     {
-      "label": "Neither Simons nor Buzelis",
-      "sub": "2025–26 · CHI",
-      "minutes": 1643,
-      "poss": 3530,
-      "net": -3.4844192634560907
+      "label": "Neither Simons nor Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "PHI",
-  "gp": 63,
-  "generatedAt": "2026-10-02T05:15:39.022Z",
+  "season": "2026-27",
+  "team": "NYK",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:57:00.690Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · PHI",
-      "minutes": 1231,
-      "poss": 2525.5,
-      "net": -3.405266283904177
+      "sub": "2026–27 · NYK",
+      "minutes": 24,
+      "poss": 52,
+      "net": -11.5
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · PHI",
-      "minutes": 2745,
-      "poss": 5735.5,
-      "net": 1.2379042803591664
+      "sub": "2026–27 · NYK",
+      "minutes": 24,
+      "poss": 50,
+      "net": 0
     },
     {
-      "label": "On, w/o Maxey",
-      "sub": "2025–26 · PHI",
-      "minutes": 392,
-      "poss": 818.5,
-      "net": -4.153940134392181
+      "label": "On, w/o Brunson",
+      "sub": "2026–27 · NYK",
+      "minutes": 10,
+      "poss": 22,
+      "net": 4.5
     },
     {
-      "label": "On, w/o Edgecombe",
-      "sub": "2025–26 · PHI",
-      "minutes": 419,
-      "poss": 872.5,
-      "net": -10.659025787965616
+      "label": "On, w/o Bridges",
+      "sub": "2026–27 · NYK",
+      "minutes": 4,
+      "poss": 9,
+      "net": 11.1
     },
     {
-      "label": "On, w/o Grimes",
-      "sub": "2025–26 · PHI",
-      "minutes": 585,
-      "poss": 1201,
-      "net": -2.5811823480432974
+      "label": "On, w/o Anunoby",
+      "sub": "2026–27 · NYK",
+      "minutes": 9,
+      "poss": 20,
+      "net": 35
     },
     {
-      "label": "Neither Drummond nor Maxey",
-      "sub": "2025–26 · PHI",
-      "minutes": 923,
-      "poss": 1944,
-      "net": -4.8353909465020575
+      "label": "Neither Drummond nor Brunson",
+      "sub": "2026–27 · NYK",
+      "minutes": 4,
+      "poss": 7,
+      "net": 61.5
     }
   ]
 }

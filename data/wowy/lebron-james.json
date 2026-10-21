@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "LAL",
-  "gp": 60,
-  "generatedAt": "2026-10-02T04:35:39.176Z",
+  "season": "2026-27",
+  "team": "PHI",
+  "gp": 1,
+  "generatedAt": "2026-10-21T17:54:33.510Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · LAL",
-      "minutes": 1989,
-      "poss": 4061.5,
-      "net": 2.929951988181706
+      "sub": "2026–27 · PHI",
+      "minutes": 34,
+      "poss": 71,
+      "net": -2.8
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · LAL",
-      "minutes": 1952,
-      "poss": 4031.5,
-      "net": 0.6201165819174005
+      "sub": "2026–27 · PHI",
+      "minutes": 14,
+      "poss": 31,
+      "net": 25.8
     },
     {
-      "label": "On, w/o Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 858,
-      "poss": 1707.5,
-      "net": 5.973645680819912
+      "label": "On, w/o Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 3,
+      "poss": 6,
+      "net": -90.9
     },
     {
-      "label": "On, w/o LaRavia",
-      "sub": "2025–26 · LAL",
-      "minutes": 1040,
-      "poss": 2127,
-      "net": 2.8678890456041373
+      "label": "On, w/o Edgecombe",
+      "sub": "2026–27 · PHI",
+      "minutes": 7,
+      "poss": 14,
+      "net": -28.6
     },
     {
-      "label": "On, w/o Ayton",
-      "sub": "2025–26 · LAL",
-      "minutes": 860,
-      "poss": 1754.5,
-      "net": 5.6426332288401255
+      "label": "On, w/o Brown",
+      "sub": "2026–27 · PHI",
+      "minutes": 13,
+      "poss": 26,
+      "net": -42.3
     },
     {
-      "label": "Neither James nor Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 794,
-      "poss": 1628,
-      "net": -8.906633906633907
+      "label": "Neither James nor Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 5,
+      "poss": 14,
+      "net": 0
     }
   ]
 }

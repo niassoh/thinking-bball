@@ -1,11 +1,17 @@
 {
   "team": "POR",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:55.560Z",
+  "generatedAt": "2026-10-21T17:49:07.684Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
+        {
+          "name": "Damian Lillard",
+          "slug": "damian-lillard",
+          "espnId": "6606",
+          "status": null
+        },
         {
           "name": "Ja Morant",
           "slug": "ja-morant",
@@ -23,12 +29,6 @@
           "slug": "jrue-holiday",
           "espnId": "3995",
           "status": null
-        },
-        {
-          "name": "Deni Avdija",
-          "slug": "deni-avdija",
-          "espnId": "4683021",
-          "status": null
         }
       ]
     },
@@ -36,9 +36,9 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Damian Lillard",
-          "slug": "damian-lillard",
-          "espnId": "6606",
+          "name": "Ja Morant",
+          "slug": "ja-morant",
+          "espnId": "4279888",
           "status": null
         },
         {
@@ -48,15 +48,15 @@
           "status": null
         },
         {
-          "name": "Vit Krejci",
-          "slug": "vit-krejci",
-          "espnId": "4578893",
+          "name": "Scoot Henderson",
+          "slug": "scoot-henderson",
+          "espnId": "4683678",
           "status": null
         },
         {
-          "name": "Ja Morant",
-          "slug": "ja-morant",
-          "espnId": "4279888",
+          "name": "Damian Lillard",
+          "slug": "damian-lillard",
+          "espnId": "6606",
           "status": null
         }
       ]
@@ -77,16 +77,16 @@
           "status": null
         },
         {
-          "name": "Jeremy Sochan",
-          "slug": "jeremy-sochan",
-          "espnId": "4610139",
-          "status": null
-        },
-        {
           "name": "Jrue Holiday",
           "slug": "jrue-holiday",
           "espnId": "3995",
           "status": null
+        },
+        {
+          "name": "Deni Avdija",
+          "slug": "deni-avdija",
+          "espnId": "4683021",
+          "status": "DTD"
         }
       ]
     },
@@ -97,7 +97,7 @@
           "name": "Deni Avdija",
           "slug": "deni-avdija",
           "espnId": "4683021",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Sidy Cissoko",
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Jeremy Sochan",
-          "slug": "jeremy-sochan",
-          "espnId": "4610139",
-          "status": null
-        },
-        {
           "name": "Micah Potter",
           "slug": "micah-potter",
           "espnId": "4066399",
+          "status": "DTD"
+        },
+        {
+          "name": "Robert Williams III",
+          "slug": "robert-williams-iii",
+          "espnId": "4066211",
           "status": null
         }
       ]
@@ -138,7 +138,7 @@
           "name": "Micah Potter",
           "slug": "micah-potter",
           "espnId": "4066399",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Sidy Cissoko",

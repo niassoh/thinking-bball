@@ -1,7 +1,7 @@
 {
   "team": "IND",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:49.175Z",
+  "generatedAt": "2026-10-21T17:49:02.344Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,7 +16,7 @@
           "name": "T.J. McConnell",
           "slug": "tj-mcconnell",
           "espnId": "2530530",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Andrew Nembhard",
@@ -68,7 +68,7 @@
           "name": "Aaron Nesmith",
           "slug": "aaron-nesmith",
           "espnId": "4396909",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Jarace Walker",
@@ -129,15 +129,15 @@
           "status": null
         },
         {
-          "name": "Larry Nance Jr.",
-          "slug": "larry-nance-jr",
-          "espnId": "2580365",
-          "status": "DTD"
-        },
-        {
           "name": "Jay Huff",
           "slug": "jay-huff",
           "espnId": "4065731",
+          "status": null
+        },
+        {
+          "name": "Larry Nance Jr.",
+          "slug": "larry-nance-jr",
+          "espnId": "2580365",
           "status": null
         },
         {

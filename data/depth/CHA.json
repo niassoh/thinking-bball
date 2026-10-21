@@ -1,7 +1,7 @@
 {
   "team": "CHA",
   "season": "2026-27",
-  "generatedAt": "2026-10-02T03:01:43.532Z",
+  "generatedAt": "2026-10-21T17:48:59.006Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Coby White",
           "slug": "coby-white",
           "espnId": "4395651",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Dennis Schroder",
@@ -28,7 +28,7 @@
           "name": "Kylan Boswell",
           "slug": "kylan-boswell",
           "espnId": "4684269",
-          "status": null
+          "status": "OUT"
         }
       ]
     },
@@ -39,7 +39,7 @@
           "name": "Kon Knueppel",
           "slug": "kon-knueppel",
           "espnId": "5061575",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Grayson Allen",
@@ -57,7 +57,7 @@
           "name": "Coby White",
           "slug": "coby-white",
           "espnId": "4395651",
-          "status": null
+          "status": "OUT"
         }
       ]
     },
@@ -109,7 +109,7 @@
           "name": "Grant Williams",
           "slug": "grant-williams",
           "espnId": "4066218",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Tidjane Salaun",
@@ -123,15 +123,15 @@
       "pos": "C",
       "players": [
         {
-          "name": "Hannes Steinbach",
-          "slug": "hannes-steinbach",
-          "espnId": "5281370",
-          "status": null
-        },
-        {
           "name": "Moussa Diabate",
           "slug": "moussa-diabate",
           "espnId": "4433249",
+          "status": null
+        },
+        {
+          "name": "Hannes Steinbach",
+          "slug": "hannes-steinbach",
+          "espnId": "5281370",
           "status": null
         },
         {
