@@ -27,7 +27,7 @@ that fails keeps yesterday's files and the rest still run.
 | 2 | Depth charts, injuries | `npm run pull:depth` | `data/depth/` |
 | 3 | Season sheet | `node scripts/backfill-seasons.js $SEASON` | `dailycat-<YY>`; drives the **production sheet**: loads the season before into `Instructions!A13` (unsaved) and then the season, so its imports refetch |
 | 4 | Team sheet | `node sheets-teamcat.js --season=$SEASON` | `teamcat-<YY>` |
-| 5 | Recent shift (only if 3 succeeded) | `npm run pull:recent` | `data/recent-shift.json`, `data/recent-window.json`; sets and then clears the sheet's date window (`E13:F13`); skips itself until the season has 30 days of games |
+| 5 | Recent shift (only if 3 succeeded) | `npm run pull:recent` | `data/recent-shift.json`, `data/recent-window.json`; sets and then clears the sheet's date window (`E13:F13`); until the season has 30 days of games its window is the season so far and no player has a shift (audit #190) |
 | 6 | Lineups | `npm run pull:lineups` | `data/lineups/`, `data/lineup-players.json`, `data/stints.json` |
 | 7 | Bio | `npm run pull:bio` | `data/bio.json`; a rookie site_Data doesn't list yet takes the NBA id from 6's player list |
 | 8 | Player totals | `npm run pull:player-totals` | `data/player-totals.json` |

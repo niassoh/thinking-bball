@@ -121,6 +121,17 @@ const pullScope = async (sheets, from, to, before, maxMinutes) => {
 
 const daysBetween = (a, b) => (Date.parse(b) - Date.parse(a)) / 86400000 + 1
 
+// The profile's shifts (data/recent-shift.json) and the Leaderboard's window rows
+// (data/recent-window.json).
+const write = (season, win, players, recentRows) => {
+  fs.writeFileSync(OUT_FILE, JSON.stringify({ season, window: win, generatedAt: new Date().toISOString(), players }, null, 1) + '\n')
+  console.log(`recent-shift ${season}: ${Object.keys(players).length} players, window ${win.start}..${win.end}`)
+  const columns = [...ID_COLUMNS, ...ALL_STATS.filter(x => x.column).flatMap(x => [x.column, 'perc' + x.column])].filter(c => c in recentRows[0])
+  const rows = recentRows.map(r => Object.fromEntries(columns.map(c => [c, r[c]])))
+  fs.writeFileSync(WINDOW_FILE, JSON.stringify({ season, window: win, generatedAt: new Date().toISOString(), columns, rows }) + '\n')
+  console.log(`recent-window ${season}: ${rows.length} players, ${columns.length} columns`)
+}
+
 const main = async () => {
   const sheets = await sheetsClient()
   if (process.argv.includes('--restore')) return restore(sheets)
@@ -132,9 +143,12 @@ const main = async () => {
   const [scopeSeason] = await readFormulas(sheets, ['Instructions!A13'])
   if (scopeSeason !== season) throw new Error(`Instructions!A13 is ${scopeSeason}, expected ${season}; run the season pull first`)
   const win = recentWindow(await pbp.games(season))
-  // Until the season is a window old there's no "rest of season" to compare with (that pull
-  // never settles); the nightly run calls this every day regardless.
-  if (win.restEnd < win.seasonStart) return console.log(`recent-shift ${season}: under ${win.days} days of games, skipped`)
+  const keys = regularSeasonKeys()
+  const seasonRows = loadSheet(keys[keys.length - 1]).rows
+  // Until the season is a window old its window is the season so far, whose rows are the
+  // season's own, and there's no rest of it to compare with (that pull never settles): no
+  // player has a shift.
+  if (win.restEnd < win.seasonStart) return write(season, { ...win, start: win.seasonStart, restEnd: null }, {}, seasonRows)
 
   let recentRows
   let restRows
@@ -148,8 +162,6 @@ const main = async () => {
     console.log('cleared Instructions!E13:F13 (sheet back in season mode)')
   }
 
-  const keys = regularSeasonKeys()
-  const seasonRows = loadSheet(keys[keys.length - 1]).rows
   const bySlug = rows => new Map(rows.map(r => [slugify(r.Player), r]))
   const seasonMap = bySlug(seasonRows)
   const restMap = bySlug(restRows)
@@ -174,13 +186,7 @@ const main = async () => {
     }).filter(Boolean)
   }
 
-  fs.writeFileSync(OUT_FILE, JSON.stringify({ season, window: win, generatedAt: new Date().toISOString(), players }, null, 1) + '\n')
-  console.log(`recent-shift ${season}: ${Object.keys(players).length} players, window ${win.start}..${win.end}`)
-
-  const columns = [...ID_COLUMNS, ...ALL_STATS.filter(x => x.column).flatMap(x => [x.column, 'perc' + x.column])].filter(c => c in recentRows[0])
-  const rows = recentRows.map(r => Object.fromEntries(columns.map(c => [c, r[c]])))
-  fs.writeFileSync(WINDOW_FILE, JSON.stringify({ season, window: win, generatedAt: new Date().toISOString(), columns, rows }) + '\n')
-  console.log(`recent-window ${season}: ${rows.length} players, ${columns.length} columns`)
+  write(season, win, players, recentRows)
 }
 
 main().catch(err => {
