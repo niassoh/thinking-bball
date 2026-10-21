@@ -124,7 +124,6 @@ jobs:
         run: python analysis/footprint/footprint_pbp.py "$SEASON"
         timeout-minutes: 10
         continue-on-error: true
-      # Stars need 500 minutes; until then the files name none and profiles show no view.
       - id: lonestar
         if: steps.season.outcome == 'success' && steps.possessions.outcome == 'success'
         run: node scripts/lonestar.js --source=pbp --season="$SEASON" --refresh

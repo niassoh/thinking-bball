@@ -4,7 +4,7 @@
 //     over the season, and in its minutes with sets of its stars off and on. Its stars
 //     are its top four by star score (scoreOf: Load x (OBPM + 2), the sheet's, so a star
 //     both carries the offense and does it well; box score only, see scoreOf), among
-//     players with MIN_MINUTES for the team, those in a lead role (lib/lonestar.js leads:
+//     players with MIN_MINUTES for the team (any, in the season being played), those in a lead role (lib/lonestar.js leads:
 //     a league-median Load at OBPM >= 0) ahead; the rest only fill in. `loads` holds each
 //     of the team's players' sheet Load, for his ball competitors (lib/lonestar.js
 //     ballOf). Every player's stars are his top two of
@@ -112,12 +112,13 @@ const idOf = (name, bio) => {
   const id = (bio[slugify(name)] || {}).nbaId || historyIdOf(slugify(name))
   return id && String(id)
 }
-// A team's stars: its top STARS by star score among players with MIN_MINUTES for it,
-// those in a lead role first; `minutes` his minutes for the team.
-const pick = (sheetRows, minutes, bio) => {
+// A team's stars: its top STARS by star score among players with MIN_MINUTES for it (any
+// in the season being played: `open`), those in a lead role first; `minutes` his minutes
+// for the team.
+const pick = (sheetRows, minutes, bio, open) => {
   const ranked = sheetRows
     .map(r => ({ id: idOf(r.Player, bio), load: num(r.Load), obpm: num(r.OBPM), score: scoreOf(r) }))
-    .filter(r => r.id && r.score !== null && (minutes.get(r.id) || 0) >= MIN_MINUTES)
+    .filter(r => r.id && r.score !== null && (open ? minutes.get(r.id) > 0 : (minutes.get(r.id) || 0) >= MIN_MINUTES))
     .sort((a, b) => b.score - a.score)
   return [...ranked.filter(leads), ...ranked.filter(r => !leads(r))]
     .slice(0, STARS)
@@ -125,15 +126,16 @@ const pick = (sheetRows, minutes, bio) => {
 }
 // Each of a team's players' sheet Load: { nbaId: Load }.
 const loadsOf = (sheetRows, bio) => Object.fromEntries(sheetRows.filter(r => idOf(r.Player, bio) && num(r.Load) !== null).map(r => [idOf(r.Player, bio), num(r.Load)]))
-// The season's top-quarter Load: the 75th percentile of its rows' with MIN_MINUTES (a
+// The season's top-quarter Load: the 75th percentile of its rows' with MIN_MINUTES (any,
+// `open`; a
 // player's row with the most minutes, where the historical tab has one per team).
-const topLoadOf = rows => {
+const topLoadOf = (rows, open) => {
   const best = new Map()
   for (const r of rows) {
     const v = { mp: num(r.MP) || 0, load: num(r.Load) }
     if (!best.has(slugify(r.Player)) || v.mp > best.get(slugify(r.Player)).mp) best.set(slugify(r.Player), v)
   }
-  const loads = [...best.values()].filter(v => v.mp >= MIN_MINUTES && v.load !== null).map(v => v.load).sort((a, b) => a - b)
+  const loads = [...best.values()].filter(v => (open ? v.mp > 0 : v.mp >= MIN_MINUTES) && v.load !== null).map(v => v.load).sort((a, b) => a - b)
   return loads[Math.floor(loads.length * 0.75)]
 }
 // The sets stored for a team's stars: each alone and every pair.
@@ -153,9 +155,9 @@ const local = (season, spec) => {
 // `prev`: the team-season's file on disk with --reuse, whose season totals and sets are
 // kept (a set by its players, whatever their order), so only sets it lacks are pulled;
 // else null and everything is pulled.
-const team = async (season, abbr, teamId, sheetRows, bio, prev) => {
+const team = async (season, abbr, teamId, sheetRows, bio, prev, open) => {
   const base = prev ? prev.base : keep(await pbp.playersWith(teamId, season))
-  const top = pick(sheetRows, minutesOf(base), bio)
+  const top = pick(sheetRows, minutesOf(base), bio, open)
   const had = prev ? Object.fromEntries(Object.entries(prev.sets).map(([k, s]) => [k.split(',').sort().join(), s])) : {}
   const out = {}
   let kept = 0
@@ -186,10 +188,13 @@ const main = async () => {
   const bio = loadBio()
   const leagueFile = path.join(DATA, 'league.json')
   const league = fs.existsSync(leagueFile) ? JSON.parse(fs.readFileSync(leagueFile, 'utf8')) : { seasons: {} }
+  // The season being played: the newest on file or asked for.
+  const newest = [...Object.keys(league.seasons), latest].sort().pop()
   for (const season of seasons) {
     const rows = sheetRowsOf(season)
     if (!rows) throw new Error(`${season}: no sheet rows`)
     const current = season === latest
+    const open = season === newest
     const fileOf = abbr => path.join(DATA, season, `${abbr}.json`)
     // A team's file is built when asked (--refresh), when there's none, or for the season
     // being played; but a pbpstats run leaves one built from play-by-play alone (for a
@@ -214,19 +219,19 @@ const main = async () => {
       // Season totals first (to pick each team's stars on its minutes), then their sets.
       const totals = local(season, {})
       const abbrs = Object.keys(totals.teams).sort().filter(wanted)
-      const tops = Object.fromEntries(abbrs.map(a => [a, pick(mineOf(a), minutesOf(totals.teams[a].base), bio)]))
+      const tops = Object.fromEntries(abbrs.map(a => [a, pick(mineOf(a), minutesOf(totals.teams[a].base), bio, open)]))
       const got = local(season, Object.fromEntries(abbrs.map(a => [a, setsOf(tops[a])])))
       for (const a of abbrs) {
         write({ season, team: a, generatedAt: new Date().toISOString(), source: 'pbp', fields: FIELDS, top: tops[a], loads: loadsOf(mineOf(a), bio), base: got.teams[a].base, sets: got.teams[a].sets })
         done++
       }
-      league.seasons[season] = { ...got.league, topLoad: topLoadOf(rows) }
+      league.seasons[season] = { ...got.league, topLoad: topLoadOf(rows, open) }
     } else {
       const ids = await pbp.teamIds(season)
       for (const [abbr, teamId] of Object.entries(ids).sort()) {
         if (!wanted(abbr)) continue
         const prev = REUSE && fs.existsSync(fileOf(abbr)) ? JSON.parse(fs.readFileSync(fileOf(abbr), 'utf8')) : null
-        const { doc, kept } = await team(season, abbr, teamId, mineOf(abbr), bio, prev && prev.fields.join() === FIELDS.join() ? prev : null)
+        const { doc, kept } = await team(season, abbr, teamId, mineOf(abbr), bio, prev && prev.fields.join() === FIELDS.join() ? prev : null, open)
         write(doc, kept ? ` (${kept} kept)` : '')
         done++
       }
@@ -239,7 +244,7 @@ const main = async () => {
         ts: teams.reduce((s, t) => s + t.TsPct, 0) / teams.length,
         ortg: (100 * sum(teams, 'Points')) / sum(teams, 'OffPoss'),
         rimAstShare: sum(players, 'AtRimAssists') / sum(players, 'Assists'),
-        topLoad: topLoadOf(rows)
+        topLoad: topLoadOf(rows, open)
       }
     }
     console.log(`${season}: ${done} teams from ${SOURCE}; league TS ${league.seasons[season].ts.toFixed(4)}, ORTG ${league.seasons[season].ortg.toFixed(1)}`)

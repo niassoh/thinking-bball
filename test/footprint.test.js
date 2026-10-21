@@ -252,6 +252,15 @@ test('footprint: none without enough minutes on and off the floor', () => {
   assert.strictEqual(footprint(one([L('PCDEF', 400, {}), L('GCDEF', 400, {})]), 'P', LEAGUE, fns), null)
 })
 
+test('footprint: the season being played has no minutes floor', () => {
+  // 400 minutes on and 400 off: under the floor, except in the season being played.
+  const ts = { season: '2026-27', team: 'T', lineups: [L('PCDEF', 400, {}), L('GCDEF', 400, {})] }
+  assert.deepStrictEqual(footprintSeasons([ts], 'P'), [])
+  assert.deepStrictEqual(footprintSeasons([{ ...ts, current: true }], 'P'), ['2026-27'])
+  // Never for one who didn't play.
+  assert.deepStrictEqual(footprintSeasons([{ ...ts, current: true }], 'Z'), [])
+})
+
 test("footprint: corner denial is the share of opponents' shots from the corner", () => {
   // Opponents take 200 of 1,000 shots from the corner with P on, 100 with him off.
   const corner = n => ({ o: { Corner3FGA: n, FG3A: 400, FG2A: 600 }, poss: 1000 })

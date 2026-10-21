@@ -231,6 +231,17 @@ test('lonestar: changes rank biggest increase first, and thin samples go unranke
   assert.ok(lo <= mid && mid <= hi && lo < hi)
 })
 
+test('lonestar: in the season being played any minutes count, but thin samples still go unranked', () => {
+  // R with 150 minutes with A and B both off: too few to offer, except in the season being played.
+  const data = { league: { '2026-27': LEAGUE }, seasons: ['2026-27'], docs: [doc('2026-27', 400)] }
+  data.docs[0].sets['A,B'].off.R = row(150, 150)
+  const kinds = () => lonestar(data, leagueOf(data, ctx), 'R', ctx).views[0].scenarios.map(s => s.kind)
+  assert.deepStrictEqual(kinds(), ['one'])
+  data.docs[0].current = true
+  assert.deepStrictEqual(kinds(), ['one', 'two'])
+  assert.strictEqual(scenariosOf(data, 'R', ctx).find(s => s.kind === 'two').ranked, false)
+})
+
 test('lonestar: a view for every season since 1996-97 and every span, regular season only', () => {
   const { buildProfile, lonestarDoc } = require('../lib/profile')
   const p = buildProfile('nikola-jokic')
