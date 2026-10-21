@@ -119,9 +119,11 @@ and pushing the frontend by hand.
   over the lineup pull's. Its source is stats.nba.com's `playbyplayv3` and
   `boxscoretraditionalv3`; cdn.nba.com's liveData files refuse any non-browser client.
 - **The sheet:** don't run sheet scripts by hand between 10:00 and 11:30 UTC. Each run shows
-  the season before in the sheet for a few minutes, and the recent shift's window while
+  the season before in the sheet for a minute, and the recent shift's window while
   it runs. Don't cancel a run during steps 3–5: a killed step can't put the sheet back. If
-  one was killed, set `Instructions!A13` to the season and clear `E13:F13`.
+  one was killed, set `Instructions!A13` to the season, clear `E13:F13`, and put back the
+  `'PBP Team'!II52`, `IL52` and `IH60` formulas (originals in `scripts/backfill-seasons.js`
+  `TEAM_AVERAGES`).
 - **Local work:** pull before changing `data/`; the run commits it every night.
 - **Minutes:** 2,000 a month on the free tier, shared by all private repos; when they run
   out, runs stop until the month resets. Expect about 20–35 minutes a night until January

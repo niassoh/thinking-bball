@@ -204,6 +204,17 @@ const settle = async (sheets, season, before) => {
   throw new Error(`Sheet did not settle for ${season} within ${TIMEOUT_MS / 60000} minutes`)
 }
 
+// Waits until Format differs from `before`, loaded or not, and returns its fingerprint
+// then; `before` if it never does (a sheet erroring for both seasons looks the same).
+const changed = async (sheets, before) => {
+  for (let i = 0; i < 9; i++) {
+    await sleep(POLL_MS)
+    const now = fingerprint(await readFormat(sheets))
+    if (now !== before) return now
+  }
+  return before
+}
+
 // Same cleaning and percentile ranking as sheets-catmulti.js pullSheet, so the
 // backfilled keys are indistinguishable from the ones it writes.
 const toCache = data => {
@@ -328,11 +339,12 @@ const main = async () => {
     let current = original
     for (const season of seasons) {
       // Format only recalculates when A13 changes, so a season A13 already holds would
-      // never settle: load the season before it first (not saved).
+      // never settle: show the season before it first (not saved), only until Format
+      // reacts, since its imports aren't used and can fail (pbpstats' 502 on 2026-10-21).
       if (season === current) {
         const prior = `${Number(season.slice(0, 4)) - 1}-${season.slice(2, 4)}`
         await writeYear(sheets, prior)
-        before = fingerprint(await settle(sheets, prior, before))
+        before = await changed(sheets, before)
       }
       await writeYear(sheets, season)
       current = season
