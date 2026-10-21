@@ -182,6 +182,15 @@ test('profile: last season\'s players count as active in the new season\'s first
   assert.deepStrictEqual([x.active, p.active, p.retired], [grace, grace, !grace])
 })
 
+test('recent shift: a season under 30 days old has no shifts or shot maps yet, and every profile carries its window', { skip: !!require('../data/recent-shift.json').window.restEnd && 'the season is 30+ days old' }, () => {
+  const doc = require('../data/recent-shift.json')
+  for (const slug of ['shai-gilgeous-alexander', 'shaquille-o-neal']) {
+    const p = buildProfile(slug)
+    assert.deepStrictEqual(p.recentShift, { season: doc.season, window: doc.window, stats: [] })
+    assert.strictEqual(p.shotShift, null)
+  }
+})
+
 test('player index: active players without a portrait are ordered by (BPM + 2) x minutes over 3 seasons, weighted 1/2/3', () => {
   const seasons = regularSeasonKeys().slice(-3).map((key, i) => [new Map(loadSheet(key).rows.map(r => [slugify(r.Player), r])), i + 1])
   const value = slug => seasons.reduce((sum, [rows, w]) => {
