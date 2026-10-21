@@ -180,9 +180,13 @@ const fingerprint = data => (data.values || []).slice(5, 30).map(r => `${r[0]}:$
 // of the sheet, so a season counts as loaded only once each import has data.
 const TRACKING_CELLS = ['Touches!B3', 'Drives!B3', "'CS3'!B3", "'PU3'!B3", "'WO3'!B3", 'Inside6!B3']
 
+// Counts named players rather than reading a fixed row: early in a season Format's first
+// rows are blank ('All RS' has 375 formula rows, and its empty ones pass Sort's minutes
+// filter and sort first).
 const loaded = async (sheets, data, season) => {
   const v = data.values || []
-  if (!(v.length > 25 && v[15] && v[15][0] && v[15][0] !== '#N/A') || /Loading/i.test(JSON.stringify(v))) return false
+  const named = v.slice(5).filter(r => r[0] && r[0] !== '#N/A').length
+  if (named < 11 || /Loading/i.test(JSON.stringify(v))) return false
   if (season < '2013-14') return true
   const r = await sheets.spreadsheets.values.batchGet({ spreadsheetId: SHEET_ID, ranges: TRACKING_CELLS })
   return r.data.valueRanges.every(c => { const x = c.values && c.values[0] && c.values[0][0]; return x && !/Loading|#/.test(x) })
