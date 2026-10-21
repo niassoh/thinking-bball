@@ -3,7 +3,7 @@ const assert = require('node:assert')
 const { slugify, loadSheet, regularSeasonKeys, seasonFromKey: seasonOf, num } = require('../lib/players')
 const { percentileOf } = require('../lib/percentile')
 const { ALL_STATS, RELATIVE } = require('../lib/stats')
-const { buildProfile, footprintOf, leaderboard, leaderboardDelta, leaderboardRecent, playerIndex, teamList, distribution, lineupLeague, weightedMean, pullOffsets } = require('../lib/profile')
+const { buildProfile, footprintOf, leaderboard, leaderboardDelta, leaderboardRecent, playerIndex, teamList, distribution, lineupLeague, weightedMean, pullOffsets, fillWindows } = require('../lib/profile')
 
 // An illustrated portrait, as approved or in its jersey layers (lib/jerseys.js).
 const ILLUSTRATED = ['portrait', 'jersey']
@@ -22,6 +22,26 @@ test('percentileOf ranks ties together and respects lower-is-better', () => {
   assert.strictEqual(percentileOf(4, pool), 80)
   assert.strictEqual(percentileOf(1, pool, true), 80)
   assert.strictEqual(percentileOf(null, pool), null)
+})
+
+test('fillWindows: in the season being played a player with no wide-open threes yet keeps his 3yr window', () => {
+  const rows = entries => ({ rows: new Map(entries) })
+  const seasons = new Map([
+    ['2024-25', rows([['a', { MP: '2000' }]])],
+    ['2025-26', rows([['a', { MP: '1000' }]])],
+    ['2026-27', rows([['a', { MP: '30' }], ['b', { MP: '30', '3yr Wide Open 3s/36': '2.0', 'perc3yr Wide Open 3s/36': '0.00' }]])]
+  ])
+  const one = {
+    '2024-25': { a: { 'Wide Open 3s/36': 3, 'Wide Open 3%': 40 } },
+    '2025-26': { a: { 'Wide Open 3s/36': 1.5, 'Wide Open 3%': 30 } },
+    '2026-27': { a: { 'Wide Open 3s/36': 0 } }
+  }
+  fillWindows(seasons, one)
+  const [a, b] = ['a', 'b'].map(slug => seasons.get('2026-27').rows.get(slug))
+  // (3 x 2000 + 1.5 x 1000 + 0 x 30) / 3030 minutes; the percentage weighted by attempts.
+  assert.strictEqual(a['3yr Wide Open 3s/36'], '2.5')
+  assert.strictEqual(a['3yr Wide Open 3%'], '38.0')
+  assert.deepStrictEqual([a['perc3yr Wide Open 3s/36'], b['perc3yr Wide Open 3s/36']], ['0.50', '0.00'])
 })
 
 test('weightedMean ignores missing values and zero weights', () => {
