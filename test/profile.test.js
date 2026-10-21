@@ -423,6 +423,21 @@ test('playoffs card: each run against its own regular season', () => {
   assert.ok(bpm.spread > 0)
 })
 
+test('playoffs card: once the shot pull is on a newer season, the map\'s regular season comes from history', () => {
+  const po = require('../data/playoffs/shots/shai-gilgeous-alexander.json')
+  const bands = require(`../data/history/shot-bands/${po.season}.json`)
+  const mine = bands.players[require('../data/bio.json')['shai-gilgeous-alexander'].nbaId]
+  const map = buildProfile('shai-gilgeous-alexander', { type: 'playoffs' }).shotShift
+  assert.strictEqual(map.season, po.season)
+  bands.bands.forEach((zone, k) => {
+    assert.deepStrictEqual(map.zones[zone].rest, { fga: mine[2 * k], fgm: mine[2 * k + 1] }, zone)
+    // The history's packed shots decode to the same attempts and makes.
+    const dots = map.shots.filter(x => x[3] === 0 && x[4] === k)
+    assert.deepStrictEqual([dots.length, dots.filter(x => x[2] === 1).length], [mine[2 * k], mine[2 * k + 1]], zone)
+  })
+  assert.deepStrictEqual(map.league.rim, { fga: bands.league[0], fgm: bands.league[1] })
+})
+
 test('playoffs profile: a player without playoff runs has an empty one, not none', () => {
   const p = buildProfile('cooper-flagg', { type: 'playoffs' })
   assert.ok(p)
