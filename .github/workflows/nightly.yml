@@ -5,6 +5,9 @@
 name: nightly
 
 on:
+  # After the Mac's NBA.com job (1:30 am Pacific: 08:30 UTC in summer, 09:30 in winter).
+  schedule:
+    - cron: '17 10 * * *'
   workflow_dispatch:
 
 # Never two at once (both would drive the production sheet), and never cancelled mid-run:

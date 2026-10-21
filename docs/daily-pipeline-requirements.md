@@ -7,16 +7,17 @@ frontend's deploy builds the site from that. Changes to the pulls are recorded i
 
 ## Where things stand (2026-10-21)
 
-- **Dispatched by hand:** the nightly workflow (`.github/workflows/nightly.yml`) in the
-  private repo `niassoh/thinking-bball`; the frontend's deploy builds the data from this
-  repo (below). Setup is done except the key rotation and `TBBALL_DISPATCH` (steps 1, 3).
+- **Every night:** the nightly workflow (`.github/workflows/nightly.yml`) in the private
+  repo `niassoh/thinking-bball`, first green (but for the deploy's dispatch) 2026-10-21;
+  the frontend's deploy builds the data from this repo (below). Setup is done except the
+  key rotation and `TBBALL_DISPATCH` (steps 1, 3): until that token exists, deploy by hand
+  (`gh workflow run pages.yml -R niassoh/tbball`).
 - **On the Mac:** the NBA.com pulls, play-by-play and tracking (below).
-- **Next:** the schedule, once a dispatched run is green.
 
 ## The nightly run
 
-`.github/workflows/nightly.yml`, on GitHub Actions' free tier. Dispatched by hand until
-its first green run; then every night at 10:17 UTC (about 6 am ET), after the last game.
+`.github/workflows/nightly.yml`, on GitHub Actions' free tier: every night at 10:17 UTC
+(about 6 am ET), after the last game and the Mac's job.
 Steps run one after another; each pull has a timeout and `continue-on-error`, so a source
 that fails keeps yesterday's files and the rest still run.
 
