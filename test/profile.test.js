@@ -499,6 +499,13 @@ test('footprint: regular season only, a view for each season since 1996-97 and e
   assert.strictEqual(buildProfile('nikola-jokic', { type: 'playoffs' }).footprint, null)
 })
 
+test('footprint: without EPM for the season being played, its defense anchors come from last season\'s', { skip: !!require('../data/epm.json').seasons[seasonOf(regularSeasonKeys().pop())] && 'the export has the season' }, () => {
+  const newest = seasonOf(regularSeasonKeys().pop())
+  const d = footprintOf('shai-gilgeous-alexander')
+  const names = id => d.views.find(v => v.id === id).remove.def.flatMap(o => o.stars.map(x => x.name))
+  assert.ok(names(newest).length > 0)
+})
+
 test("footprint: teammates' stats leave his own shots out (Giannis's teammates shoot threes)", () => {
   const v = footprintOf('giannis-antetokounmpo').views.find(x => x.id === '2023-24..2024-25')
   // With him on, 57% of his teammates' shots are threes (checked by hand from the
