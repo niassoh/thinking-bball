@@ -171,6 +171,17 @@ test('recent shift: each stat carries the spread of season values across players
   }
 })
 
+test('profile: last season\'s players count as active in the new season\'s first three weeks, and only then', () => {
+  const [last, newest] = regularSeasonKeys().slice(-2).map(seasonOf)
+  const first = Object.values(require(`../data/footprint/${newest}/games.json`).games).sort()[0]
+  const grace = Date.now() - Date.parse(first) < 21 * 864e5
+  const depth = require('../data/depth/_index.json')
+  // Last seen last season, on no depth chart: active and not retired only in the grace.
+  const x = playerIndex().find(p => p.seasons[1] === last.replace('-', '–') && !depth[p.slug])
+  const p = buildProfile(x.slug)
+  assert.deepStrictEqual([x.active, p.active, p.retired], [grace, grace, !grace])
+})
+
 test('player index: active players without a portrait are ordered by (BPM + 2) x minutes over 3 seasons, weighted 1/2/3', () => {
   const seasons = regularSeasonKeys().slice(-3).map((key, i) => [new Map(loadSheet(key).rows.map(r => [slugify(r.Player), r])), i + 1])
   const value = slug => seasons.reduce((sum, [rows, w]) => {
