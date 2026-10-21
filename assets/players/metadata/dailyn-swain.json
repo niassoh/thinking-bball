@@ -1,0 +1,70 @@
+{
+  "player": "Dailyn Swain",
+  "playerId": "dailyn-swain",
+  "sourceUrl": "https://deweb-519a7.b-cdn.net/post-images/7f3fe591-ad47-4343-93aa-ac0dc3aeabbd.jpeg",
+  "downloadUrl": "https://deweb-519a7.b-cdn.net/post-images/7f3fe591-ad47-4343-93aa-ac0dc3aeabbd.jpeg",
+  "sourcePage": "https://roundtable.io/sports/nba/bulls/opinion/what-would-a-successful-g-league-stint-look-like-for-bulls-dailyn-swain",
+  "license": "unknown (Imagn Images via Roundtable)",
+  "licenseUrl": null,
+  "author": "Patrick Gorski / Imagn Images",
+  "credit": null,
+  "photoDate": "Oct 2026 preseason at the United Center, most likely Oct 7 vs PHX (article dated Oct 8 2026; no caption)",
+  "originalSize": null,
+  "storedSize": [
+    1600,
+    900
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/dailyn-swain.jpg",
+  "selectedAt": "2026-10-17T08:57:49.137Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 835,
+    "y": 380,
+    "size": 520
+  },
+  "needsReview": "no source fully meets the crop rules: the in-game pick is a tightly cropped 1600x900 web copy (no shoulders, arms around the head); the cleaner face is a post-game walk-off (alt 1). Searched nba.com posts/Summer League and preseason articles, Bulls site articles, opponent galleries, SI, Sun-Times, Roundtable, Yardbarker, Commons",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up at the ball on a shot, mouth open mid-breath)",
+  "jersey": "CHI white home #5, 2026-27 preseason",
+  "concerns": "2026 draftee (no regular season yet); publisher-cropped 1600x900 image ends at the neckline, so the square crop is face-heavy (chin ~75%, no shoulders); his own raised arm hides the right side of his head and a defender’s sleeved arm fills the left edge; Imagn photo via a fan site, license unknown; no nba.com Getty photo of him exists (Summer League and preseason articles/galleries captioned none)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://www.yardbarker.com/media/2/9/29ae9383df3ad32cb355a742c44926c299cef97b/thumb_16x9/01m4ekmrhf21ve765xfk.jpg",
+      "note": "(Oct 2026 preseason at the United Center, white, large clean 3/4 face, but post-game walk-off with fans on the court, energy ~5.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/voltaxMediaLibrary/mmsport/bulls_news/01kxq4g6pr8zme22pdva.jpg",
+      "note": "(Summer League July 2026, white, phone-quality soft photo, looking up with mouth closed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2026/07/260716_DailynSwain_4x5.jpg",
+      "note": "(Summer League July 2026, mid-dunk, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

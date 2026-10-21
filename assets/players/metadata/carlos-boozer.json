@@ -1,0 +1,149 @@
+{
+  "player": "Carlos Boozer",
+  "playerId": "carlos-boozer",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/gettyimages-98852331.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/gettyimages-98852331.jpg",
+  "sourcePage": "https://www.nba.com/jazz/jazz-honor-carlos-boozers-tenure-franchise",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "May 2010 (2010 WCSF Game 2 at LAL, Staples Center; Getty 98852331 caption: looks on in the first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1996
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/carlos-boozer.jpg",
+  "selectedAt": "2026-10-17T05:17:06.483Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1018,
+    "y": 20,
+    "size": 940
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (catching his breath between plays, lips parted, eyes up and off-camera; hands on hips below the crop)",
+  "jersey": "UTA navy road 2009-10 (2010 WCSF)",
+  "concerns": "energy at the low edge of the band (6), a breather moment rather than a reaction; 2009-10, not his 2007-08 peak",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Boozer_Eyes_The_Basket_%282485884570%29.jpg",
+      "note": "(CC BY 2.0 Stephanie Young Merzel, May 2008 WCSF vs LAL, white home, crouched looking up at the rim, energy ~6.5, but softer and Lakers heads fill the bottom of the crop)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Eyes_On_The_Ball.jpg",
+      "note": "(CC BY 2.0, Feb 2010 vs ATL, white home, looking up mouth open, energy 7, but heavy orange cast and Josh Smith’s face beside his)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:52.956Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/carlos-boozer-7ce15097-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/carlos-boozer/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.571Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/carlos-boozer.png",
+  "webp": [
+    "assets/players/webp/carlos-boozer-1024.webp",
+    "assets/players/webp/carlos-boozer-400.webp",
+    "assets/players/webp/carlos-boozer-200.webp",
+    "assets/players/webp/carlos-boozer-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/gettyimages-98852331.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:39.609Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/carlos-boozer-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/carlos-boozer/out.png",
+        "fixes": [],
+        "base": "a8360b435b8473509bb924a9f86548510bed7a42",
+        "importedAt": "2026-10-17T11:07:01.479Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0044,
+          "face": 2.6,
+          "purity": 0.989,
+          "coverage": 0.16,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1112,
+          "oldEdge": 0,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/carlos-boozer-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:52.960Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/carlos-boozer.webp",
+    "base": "a8360b435b8473509bb924a9f86548510bed7a42",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:53.196Z"
+  }
+}

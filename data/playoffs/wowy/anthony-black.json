@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "ORL",
+  "gp": 7,
+  "generatedAt": "2026-10-09T17:51:22.266Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 196,
+      "poss": 382.5,
+      "net": -15.947712418300652
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 140,
+      "poss": 280.5,
+      "net": 9.982174688057041
+    },
+    {
+      "label": "On, w/o Banchero",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 54,
+      "poss": 104,
+      "net": -11.538461538461538
+    },
+    {
+      "label": "On, w/o Bane",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 70,
+      "poss": 138,
+      "net": -16.666666666666664
+    },
+    {
+      "label": "On, w/o Suggs",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 82,
+      "poss": 152,
+      "net": -5.263157894736842
+    },
+    {
+      "label": "Neither Black nor Banchero",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 9,
+      "poss": 16,
+      "net": -25
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "player": "Marc Gasol",
+  "playerId": "marc-gasol",
+  "sourceUrl": "https://cdn.nba.com/manage/2021/09/GettyImages-1076443366.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2021/09/GettyImages-1076443366.jpg",
+  "sourcePage": "https://www.nba.com/news/grizzlies-waive-marc-gasol-days-after-trading-for-his-rights",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2018-12-21 (at SAC, Golden 1 Center; free throw)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/marc-gasol.jpg",
+  "selectedAt": "2026-10-17T05:15:53.686Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 610,
+    "y": 0,
+    "size": 760
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (at the free-throw line, eyes up at the rim, mouth open mid-breath)",
+  "jersey": "MEM white road 2018-19",
+  "concerns": "late-career Memphis (2018-19, shaved head) rather than his 2012-13 prime; no prime-era in-game MEM photo found on nba.com; hair top only ~4% down the crop (head near the image top edge, y=0); 1920x1080 source, face ~330px",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Marc_Gasol_20131118_Clippers_v_Grizzles_%28cropped%29.jpg",
+      "note": "(CC BY-SA 2.0 Verse Photography, Nov 18 2013 at LAC, MEM navy road prime era, mouth slightly open, but near-profile head and soft focus)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/1_marc_gasol_toronto_raptors_2019.jpg",
+      "note": "(Commons, Mar 2019 TOR vs CHA, small face, Raptors not MEM)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:59.574Z",
+      "promptAdditions": [
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/marc-gasol-8917b7f0-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/marc-gasol/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.662Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/marc-gasol.png",
+  "webp": [
+    "assets/players/webp/marc-gasol-1024.webp",
+    "assets/players/webp/marc-gasol-400.webp",
+    "assets/players/webp/marc-gasol-200.webp",
+    "assets/players/webp/marc-gasol-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2021/09/GettyImages-1076443366.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:52.774Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/marc-gasol-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/marc-gasol/out.png",
+        "fixes": [],
+        "base": "b9fd749d4d43cd3291dcc86d42d80fb744c04eda",
+        "importedAt": "2026-10-17T11:07:31.455Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 0
+          },
+          "silhouette": 0.0056,
+          "face": 4.3,
+          "purity": 0.99,
+          "coverage": 0.144,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1321,
+          "oldEdge": 0.051,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/marc-gasol-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "old-edge"
+          ],
+          "note": null,
+          "at": "2026-10-17T11:17:00.084Z"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "player": "Nae'Qwan Tomlin",
+  "playerId": "nae-qwan-tomlin",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612739/2026/04/DSC04300.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612739/2026/04/DSC04300.jpg",
+  "sourcePage": "https://www.nba.com/cavaliers/photos/photogallery-wascle-260412",
+  "license": "unknown (Cleveland Cavaliers via NBA.com)",
+  "licenseUrl": null,
+  "author": "Cleveland Cavaliers team photographer",
+  "credit": null,
+  "photoDate": "2026-04-12 (vs WAS, Rocket Arena, regular-season finale, his career-high 26-point game; uncaptioned team gallery)",
+  "originalSize": null,
+  "storedSize": [
+    2400,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/nae-qwan-tomlin.jpg",
+  "selectedAt": "2026-10-17T11:35:03.490Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 962,
+    "y": 731,
+    "size": 1100
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (open-mouthed grin mid-reaction, eyes just off-camera, arm raised toward the bench)",
+  "jersey": "CLE white #35, 2025-26 (same team 2026-27)",
+  "concerns": "uncaptioned Cavs team-gallery photo (identity clear from #35 and face); a referee’s head intrudes at the lower right of the crop and his raised arm fills the lower left; grin rather than McCain’s open-mouthed breath; white headband covers the hairline",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Luka_Doncic_and_Nae%27Qwan_Tomlin_%2855095317361%29.jpg",
+      "note": "(Commons CC BY 4.0, Jan 28 2026 vs LAL, navy, walking with a neutral face, energy ~4, face ~290px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612739/2026/04/1.png",
+      "note": "(Cavs feature, Tomlin shooting seen from behind, face hidden)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612739/2026/04/TS.png",
+      "note": "(Cavs feature, smiling in the warmup shirt during introductions)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

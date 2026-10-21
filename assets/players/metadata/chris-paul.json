@@ -1,0 +1,166 @@
+{
+  "player": "Chris Paul",
+  "playerId": "chris-paul",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2248532191-scaled-e1771018757479.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2248532191-scaled-e1771018757479.jpg",
+  "sourcePage": "https://www.nba.com/news/chris-pauls-extraordinary-basketball-journey-paved-by-relentless-pursuit-of-perfection",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1550,
+    873
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/chris-paul.jpg",
+  "selectedAt": "2026-10-05T19:51:48.398Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 481,
+    "y": 0,
+    "size": 566
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches: alert look up, mouth slightly open",
+  "jersey": "LAC orange City Edition 2025-26 (Nov 2025)",
+  "concerns": "face ~214px",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/02/GettyImages-2197292621.jpg",
+      "sourcePage": "https://www.nba.com/news/chris-paul-no-2-all-time-steals-stats-analysis",
+      "license": "unknown (Getty Images / NBAE via NBA.com)",
+      "score": 15,
+      "reason": "jersey was SAS; his 2025-26 team was LAC",
+      "previousPick": true
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:30.179Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/chris-paul-f2a522e8-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/chris-paul/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:02:55.148Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/chris-paul.png",
+  "webp": [
+    "assets/players/webp/chris-paul-1024.webp",
+    "assets/players/webp/chris-paul-400.webp",
+    "assets/players/webp/chris-paul-200.webp",
+    "assets/players/webp/chris-paul-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/02/GettyImages-2248532191-scaled-e1771018757479.jpg",
+  "supersededHistory": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/02/GettyImages-2197292621.jpg",
+      "sourcePage": "https://www.nba.com/news/chris-paul-no-2-all-time-steals-stats-analysis",
+      "sourceFile": "assets/player-sources/chris-paul.jpg",
+      "crop": {
+        "x": 808,
+        "y": 195,
+        "size": 784
+      },
+      "promptVersion": null,
+      "generationAttempt": 0,
+      "attempts": [],
+      "approved": false,
+      "masterFile": null,
+      "supersededReason": "jersey was SAS; his 2025-26 team was LAC",
+      "supersededFiles": []
+    }
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:02:55.412Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/chris-paul-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/chris-paul/out.png",
+        "fixes": [],
+        "base": "acb88cf7aed300c0f47a7dbe7d6ec8ef67ad7a87",
+        "importedAt": "2026-10-11T19:39:33.423Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0056,
+          "face": 4.2,
+          "purity": 0.979,
+          "coverage": 0.138,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1888,
+          "oldEdge": 0.005,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/chris-paul-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:48:55.680Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/chris-paul.webp",
+    "base": "acb88cf7aed300c0f47a7dbe7d6ec8ef67ad7a87",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:48:56.262Z"
+  }
+}

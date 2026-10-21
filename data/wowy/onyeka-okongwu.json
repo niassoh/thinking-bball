@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "ATL",
+  "gp": 74,
+  "generatedAt": "2026-10-02T05:04:46.162Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · ATL",
+      "minutes": 2297,
+      "poss": 4900,
+      "net": 2.2244897959183674
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · ATL",
+      "minutes": 1654,
+      "poss": 3477,
+      "net": 2.5596778832326716
+    },
+    {
+      "label": "On, w/o Alexander-Walker",
+      "sub": "2025–26 · ATL",
+      "minutes": 590,
+      "poss": 1231,
+      "net": -5.767668562144598
+    },
+    {
+      "label": "On, w/o Johnson",
+      "sub": "2025–26 · ATL",
+      "minutes": 761,
+      "poss": 1601.5,
+      "net": -0.561973150171714
+    },
+    {
+      "label": "On, w/o Daniels",
+      "sub": "2025–26 · ATL",
+      "minutes": 638,
+      "poss": 1374.5,
+      "net": -4.947253546744271
+    },
+    {
+      "label": "Neither Okongwu nor Alexander-Walker",
+      "sub": "2025–26 · ATL",
+      "minutes": 758,
+      "poss": 1581,
+      "net": 1.5812776723592663
+    }
+  ]
+}

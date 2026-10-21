@@ -1,0 +1,143 @@
+{
+  "player": "Marvin Bagley III",
+  "playerId": "marvin-bagley-iii",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612742/2026/04/bae774bd-32f2-4c4d-894a-aeff3d28a68a1BC04470.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612742/2026/04/bae774bd-32f2-4c4d-894a-aeff3d28a68a1BC04470.jpg",
+  "sourcePage": "https://www.nba.com/mavs/news/bagley-looking-for-permanent-home-hopes-to-sign-with-mavs-during-free-agency",
+  "license": "unknown (Dallas Mavericks team photography via NBA.com)",
+  "licenseUrl": null,
+  "author": "Dallas Mavericks",
+  "credit": null,
+  "photoDate": "Feb-Apr 2026 (DAL road game, exact date not captioned)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/marvin-bagley-iii.jpg",
+  "selectedAt": "2026-10-17T05:55:06.615Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 518,
+    "y": 0,
+    "size": 1965
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (looking up at the action, mouth open mid-breath, sweat on face)",
+  "jersey": "DAL white (Association), 2025-26",
+  "concerns": "FLAG: on the team bench during the game (in full uniform, not street clothes); DAL (2025-26) not DEN (2026-27): the only Nuggets in-game photos are 1024px preseason gallery shots where he is small or mid high-five; Mavs team-photographer image, no caption, so exact game unverified; crop in 3000px-scaled pixels (original 5000x3333); a fan at lower left and a teammate at the right edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612742/2026/04/14321f22-a1f7-4ed1-abe5-a7327a452e411BC05395.jpg",
+      "note": "(DAL white at PHX, on court, ~300px face, but lip-curled talking grimace and 1386px copy)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/10/GettyImages-2298052293.jpg",
+      "note": "(Oct 4 2026 DEN preseason vs UTA, high-five with Cameron Johnson, 1024px, small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/bagley-nets-meta-022426.jpg",
+      "note": "(Feb 24 2026 at BKN, DAL white, overhead shot, face foreshortened)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:59.835Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/marvin-bagley-iii-bd81fff3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/marvin-bagley-iii/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.785Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/marvin-bagley-iii.png",
+  "webp": [
+    "assets/players/webp/marvin-bagley-iii-1024.webp",
+    "assets/players/webp/marvin-bagley-iii-400.webp",
+    "assets/players/webp/marvin-bagley-iii-200.webp",
+    "assets/players/webp/marvin-bagley-iii-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612742/2026/04/bae774bd-32f2-4c4d-894a-aeff3d28a68a1BC04470.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:53.412Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/marvin-bagley-iii-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/marvin-bagley-iii/out.png",
+        "fixes": [],
+        "base": "686b9765655219e6b5f2bdfac2c64bb486276ba4",
+        "importedAt": "2026-10-17T11:07:33.524Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0033,
+          "face": 1.8,
+          "purity": 0.988,
+          "coverage": 0.122,
+          "strays": 77,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1323,
+          "oldEdge": 0.254,
+          "shadeLevels": 15,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/marvin-bagley-iii-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "old-edge"
+          ],
+          "note": null,
+          "at": "2026-10-17T11:17:00.176Z"
+        }
+      }
+    ]
+  }
+}

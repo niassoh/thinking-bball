@@ -1,0 +1,43 @@
+{
+  "season": "2025-26",
+  "generatedAt": "2026-10-09T18:28:42.847Z",
+  "playoffGames": 3,
+  "games": [
+    {
+      "date": "2026-04-30",
+      "gameId": "0042500126",
+      "opp": "NYK",
+      "home": true,
+      "result": "L",
+      "pts": 8,
+      "reb": 3,
+      "ast": 0,
+      "ts": 44.4,
+      "oppRank": 5
+    },
+    {
+      "date": "2026-04-25",
+      "gameId": "0042500124",
+      "opp": "NYK",
+      "home": true,
+      "result": "L",
+      "pts": 3,
+      "reb": 2,
+      "ast": 0,
+      "ts": 75,
+      "oppRank": 5
+    },
+    {
+      "date": "2026-04-18",
+      "gameId": "0042500121",
+      "opp": "NYK",
+      "home": false,
+      "result": "L",
+      "pts": 0,
+      "reb": 4,
+      "ast": 0,
+      "ts": null,
+      "oppRank": 5
+    }
+  ]
+}

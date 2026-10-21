@@ -1,0 +1,180 @@
+{
+  "player": "OG Anunoby",
+  "playerId": "og-anunoby",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2257638733_cropped_processed_by_imagy-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2257638733_cropped_processed_by_imagy-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/og-anunoby-hamstring-still-recovering",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1440
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/og-anunoby.jpg",
+  "selectedAt": "2026-10-05T01:41:41.075Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 746,
+    "y": 0,
+    "size": 985
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (mid-play, mouth open)",
+  "jersey": "NYK home white 2025-26",
+  "concerns": null,
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:24:41.977Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/og-anunoby-7fac90db-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/og-anunoby/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:24:56.998Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/og-anunoby.png",
+  "webp": [
+    "assets/players/webp/og-anunoby-1024.webp",
+    "assets/players/webp/og-anunoby-400.webp",
+    "assets/players/webp/og-anunoby-200.webp",
+    "assets/players/webp/og-anunoby-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/03/GettyImages-2257638733_cropped_processed_by_imagy-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T02:24:57.324Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:39.148Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:45:47.496Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/og-anunoby-7fac90db-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/og-anunoby/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:45:59.282Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/og-anunoby-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/og-anunoby/out.png",
+        "fixes": [],
+        "base": "6145d25f84a7b8602c6039acb69d1bbb1eca5ae3",
+        "importedAt": "2026-10-12T03:34:17.460Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0046,
+          "face": 1.9,
+          "purity": 0.989,
+          "coverage": 0.159,
+          "strays": 4,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1149,
+          "oldEdge": 0,
+          "shadeLevels": 7,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/og-anunoby-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:51.045Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/og-anunoby.webp",
+    "base": "6145d25f84a7b8602c6039acb69d1bbb1eca5ae3",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:17.855Z"
+  }
+}

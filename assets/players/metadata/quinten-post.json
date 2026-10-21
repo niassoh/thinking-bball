@@ -1,0 +1,64 @@
+{
+  "player": "Quinten Post",
+  "playerId": "quinten-post",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/Quinten_Post_1920x1080.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/Quinten_Post_1920x1080.jpg",
+  "sourcePage": "https://www.nba.com/news/quinten-post-free-agency-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "undated renamed nba.com photo (GSW road game, 2024-25 or 2025-26)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/quinten-post.jpg",
+  "selectedAt": "2026-10-17T08:58:08.003Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 650,
+    "y": 0,
+    "size": 630
+  },
+  "needsReview": "energy ~5.5 (below the 6-8 band) and Warriors jersey; searched nba.com posts tagged him, the Grizzlies team site (preseason recaps, galleries), the Warriors team site, Commons and web search for a Grizzlies preseason photo: none found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (standing during a stoppage, looking just off-camera, lips parted, eyelids a little heavy; engaged but quieter than McCain)",
+  "jersey": "GSW blue Icon #21, 2024-25 or 2025-26 (FLAG: wanted MEM 2026-27)",
+  "concerns": "FLAG jersey: Warriors uniform, he signed with Memphis in July 2026 and no nba.com/Grizzlies-site photo of him in a MEM uniform was found (Grizzlies site posts no game galleries; preseason recaps carry no photo of him); energy just under the band; face ~310px hair-to-chin in a 1920px image",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/Quinten_Post_Warriors_1920x1080.jpg",
+      "note": "(GSW The Town City Edition, mid free throw, arms and ball frame a small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Quinten_Post.jpg",
+      "note": "(Commons CC BY-SA 2.0, Boston College in the 2024 ACC tournament, college uniform)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

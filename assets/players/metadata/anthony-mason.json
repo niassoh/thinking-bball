@@ -1,0 +1,149 @@
+{
+  "player": "Anthony Mason",
+  "playerId": "anthony-mason",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/hornets/sites/hornets/files/150228_gameaction_mason.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/hornets/sites/hornets/files/150228_gameaction_mason.jpg",
+  "sourcePage": "https://www.nba.com/hornets/charlotte-hornets-statements-passing-anthony-mason",
+  "license": "unknown (NBAE / Charlotte Hornets via NBA.com)",
+  "licenseUrl": null,
+  "author": "NBAE (uncredited, Hornets team site)",
+  "credit": null,
+  "photoDate": "c. 1996-2000 (Hornets tenure; uncaptioned free-throw photo, road game)",
+  "originalSize": null,
+  "storedSize": [
+    777,
+    442
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/anthony-mason.jpg",
+  "selectedAt": "2026-10-17T05:19:51.730Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 164,
+    "y": 0,
+    "size": 383
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (eyes up at the rim, lips just parted, sweaty and focused at the free-throw line)",
+  "jersey": "CHH purple road, c. 1997-2000",
+  "concerns": "FLAG: small source (777x442), head ~200px tall so the crop is upscaled; uncaptioned team-site photo, exact game unverified; free-throw focus is calm-alert (energy 6, the low edge of the band); the ball enters the bottom edge of the crop; no larger Hornets in-game photo of Mason found on nba.com articles, Hornets history lists, birthday pages or Commons",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/02/GettyImages-88585031.jpg",
+      "note": "(1998 ECSF G2 at CHI, teal road, mouth open mid-pass, but face ~90px and his arm crosses the chin)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/12/GettyImages-461009391-scaled-e1733525588506.jpg",
+      "note": "(c. 1996, Knicks not Hornets, stretching)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:50.927Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/anthony-mason-8e565ad8-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/anthony-mason/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.085Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/anthony-mason.png",
+  "webp": [
+    "assets/players/webp/anthony-mason-1024.webp",
+    "assets/players/webp/anthony-mason-400.webp",
+    "assets/players/webp/anthony-mason-200.webp",
+    "assets/players/webp/anthony-mason-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/hornets/sites/hornets/files/150228_gameaction_mason.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:36.378Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/anthony-mason-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/anthony-mason/out.png",
+        "fixes": [],
+        "base": "2dc490d0eab5dad646e0853cf63b55207c753a35",
+        "importedAt": "2026-10-17T11:06:52.152Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.006,
+          "face": 5.1,
+          "purity": 0.987,
+          "coverage": 0.161,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1308,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/anthony-mason-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:50.546Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/anthony-mason.webp",
+    "base": "2dc490d0eab5dad646e0853cf63b55207c753a35",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:50.777Z"
+  }
+}

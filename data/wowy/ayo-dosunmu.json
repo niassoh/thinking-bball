@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "MIN",
+  "gp": 69,
+  "generatedAt": "2026-10-02T03:39:06.950Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · MIN",
+      "minutes": 694,
+      "poss": 1458.5,
+      "net": 1.988344189235516
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · MIN",
+      "minutes": 3262,
+      "poss": 6848.5,
+      "net": 3.5920274512667008
+    },
+    {
+      "label": "On, w/o Randle",
+      "sub": "2025–26 · MIN",
+      "minutes": 253,
+      "poss": 533.5,
+      "net": 1.3120899718837862
+    },
+    {
+      "label": "On, w/o DiVincenzo",
+      "sub": "2025–26 · MIN",
+      "minutes": 335,
+      "poss": 704.5,
+      "net": 2.55500354861604
+    },
+    {
+      "label": "On, w/o Gobert",
+      "sub": "2025–26 · MIN",
+      "minutes": 294,
+      "poss": 632,
+      "net": 0.949367088607595
+    },
+    {
+      "label": "Neither Dosunmu nor Randle",
+      "sub": "2025–26 · MIN",
+      "minutes": 1093,
+      "poss": 2307.5,
+      "net": 1.5601300108342362
+    }
+  ]
+}

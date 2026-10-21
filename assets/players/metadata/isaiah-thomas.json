@@ -1,0 +1,145 @@
+{
+  "player": "Isaiah Thomas",
+  "playerId": "isaiah-thomas",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Isaiah_Thomas%2C_Bradley_Beal_%2834362404882%29.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Isaiah_Thomas%2C_Bradley_Beal_%2834362404882%29.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Isaiah_Thomas,_Bradley_Beal_(34362404882).jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2017-05-07 (2017 East semifinals Game 4 at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    2304,
+    1703
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/isaiah-thomas.jpg",
+  "selectedAt": "2026-10-17T05:21:38.851Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1013,
+    "y": 264,
+    "size": 675
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (looking up and off-camera during a stoppage, mouth open mid-breath, mouthguard faintly visible)",
+  "jersey": "BOS green road 2016-17 (2017 playoffs)",
+  "concerns": "face ~290px in a 2304px original, slightly soft; Bradley Beal (white WAS jersey) half-visible at the left edge of the crop, not over Isaiah; green headband; mourning patch on jersey",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isaiah_Thomas_(34362207832).jpg",
+      "note": "(same game, talking with arm out, energy ~7, but face ~276px and Horford beside him)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isaiah_Thomas_(34460263975).jpg",
+      "note": "(same game, shouting after a play, energy ~9, too intense)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:55.756Z",
+      "promptAdditions": [
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/isaiah-thomas-93adc807-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/isaiah-thomas/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.443Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/isaiah-thomas.png",
+  "webp": [
+    "assets/players/webp/isaiah-thomas-1024.webp",
+    "assets/players/webp/isaiah-thomas-400.webp",
+    "assets/players/webp/isaiah-thomas-200.webp",
+    "assets/players/webp/isaiah-thomas-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/7/77/Isaiah_Thomas%2C_Bradley_Beal_%2834362404882%29.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:45.434Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/isaiah-thomas-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/isaiah-thomas/out.png",
+        "fixes": [],
+        "base": "c303509c78d3b87a438f5d1bd6fc8c5d5b2de9cd",
+        "importedAt": "2026-10-17T11:07:12.911Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0039,
+          "face": 3.1,
+          "purity": 0.993,
+          "coverage": 0.156,
+          "strays": 4435,
+          "faceStrays": 3325,
+          "holes": 0,
+          "edgeMoved": 1115,
+          "oldEdge": 0.136,
+          "shadeLevels": 10,
+          "shadeSource": "edit",
+          "failed": [
+            "strays",
+            "old-edge"
+          ],
+          "fixes": [
+            "spill",
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/isaiah-thomas-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "strays",
+            "old-edge"
+          ],
+          "note": null,
+          "at": "2026-10-17T11:16:59.913Z"
+        }
+      }
+    ]
+  }
+}

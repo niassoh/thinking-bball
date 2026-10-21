@@ -1,0 +1,70 @@
+{
+  "player": "Adem Bona",
+  "playerId": "adem-bona",
+  "sourceUrl": "https://media.nbcsportsphiladelphia.com/2026/10/Adem-Bona-Getty-Images-6.jpg",
+  "downloadUrl": "https://media.nbcsportsphiladelphia.com/2026/10/Adem-Bona-Getty-Images-6.jpg",
+  "sourcePage": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-injuries-anfernee-simons-adem-bona-sixers-preseason/758978/",
+  "license": "unknown (Getty Images / NBAE via NBC Sports Philadelphia)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "undated (2025-26 season or 2026 playoffs, at Madison Square Garden, free-throw line)",
+  "originalSize": null,
+  "storedSize": [
+    1501,
+    845
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/adem-bona.jpg",
+  "selectedAt": "2026-10-17T08:55:16.507Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 565,
+    "y": 0,
+    "size": 440
+  },
+  "needsReview": "face ~230px (<250) and energy ~6; searched nba.com posts tagged with him, 33 opponent team-site galleries vs PHI (none caption him), Sixers best-of galleries (dunks/screams only), SI/Imagn leads (screams, warmup), PhillyVoice (warmup shirt, arm over head), Getty search (2026 preseason in-game: only a high five)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (locked on the rim at the line, lips pushed out mid-exhale, not looking up)",
+  "jersey": "PHI white Association #30, 2025-26",
+  "concerns": "not nba.com: no unwatermarked nba.com Bona game photo found; face only ~230px hair-to-chin in a 1501px web copy; energy at the low edge of the band; he barely played the 2026 preseason (foot sprain), so no 2026-27 in-game photo",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://media.nbcsportsphiladelphia.com/2025/09/Adem-Bona-Getty-Images-4.jpg",
+      "note": "(blue road, hands on hips, broad grin, face ~250px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.nbcsportsphiladelphia.com/2026/09/Adem-Bona-Getty-Images-4.jpg",
+      "note": "(blue road free throw at WAS, mouth closed, face ~220px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/07/Photo-8-7.jpg",
+      "note": "(2025-10-28 vs WAS celebrating, screaming, off-band)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

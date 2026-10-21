@@ -1,0 +1,67 @@
+{
+  "season": "2025-26",
+  "generatedAt": "2026-10-09T19:15:32.797Z",
+  "playoffGames": 7,
+  "games": [
+    {
+      "date": "2026-05-02",
+      "gameId": "0042500117",
+      "opp": "PHI",
+      "home": true,
+      "result": "L",
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "ts": null,
+      "oppRank": 18
+    },
+    {
+      "date": "2026-04-30",
+      "gameId": "0042500116",
+      "opp": "PHI",
+      "home": false,
+      "result": "L",
+      "pts": 3,
+      "reb": 5,
+      "ast": 3,
+      "ts": 37.5,
+      "oppRank": 18
+    },
+    {
+      "date": "2026-04-28",
+      "gameId": "0042500115",
+      "opp": "PHI",
+      "home": true,
+      "result": "L",
+      "pts": 1,
+      "reb": 3,
+      "ast": 2,
+      "ts": 16.7,
+      "oppRank": 18
+    },
+    {
+      "date": "2026-04-26",
+      "gameId": "0042500114",
+      "opp": "PHI",
+      "home": false,
+      "result": "W",
+      "pts": 3,
+      "reb": 1,
+      "ast": 0,
+      "ts": 37.5,
+      "oppRank": 18
+    },
+    {
+      "date": "2026-04-24",
+      "gameId": "0042500113",
+      "opp": "PHI",
+      "home": false,
+      "result": "W",
+      "pts": 0,
+      "reb": 4,
+      "ast": 0,
+      "ts": null,
+      "oppRank": 18
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "GSW",
+  "gp": 73,
+  "generatedAt": "2026-10-02T03:24:40.148Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · GSW",
+      "minutes": 1142,
+      "poss": 2363.5,
+      "net": -4.611804527184261
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · GSW",
+      "minutes": 2819,
+      "poss": 5826.5,
+      "net": 1.0812666266197546
+    },
+    {
+      "label": "On, w/o Podziemski",
+      "sub": "2025–26 · GSW",
+      "minutes": 511,
+      "poss": 1062.5,
+      "net": -6.305882352941176
+    },
+    {
+      "label": "On, w/o Green",
+      "sub": "2025–26 · GSW",
+      "minutes": 694,
+      "poss": 1424.5,
+      "net": -3.2292032292032293
+    },
+    {
+      "label": "On, w/o Moody",
+      "sub": "2025–26 · GSW",
+      "minutes": 803,
+      "poss": 1651,
+      "net": -7.813446396123562
+    },
+    {
+      "label": "Neither Payton II nor Podziemski",
+      "sub": "2025–26 · GSW",
+      "minutes": 1117,
+      "poss": 2323,
+      "net": 0.2582866982350409
+    }
+  ]
+}

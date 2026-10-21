@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "PHI",
+  "gp": 10,
+  "generatedAt": "2026-10-09T18:46:15.095Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 96,
+      "poss": 184.5,
+      "net": 1.6260162601626018
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 432,
+      "poss": 847.5,
+      "net": -13.215339233038348
+    },
+    {
+      "label": "On, w/o Maxey",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 24,
+      "poss": 49.5,
+      "net": -8.080808080808081
+    },
+    {
+      "label": "On, w/o Edgecombe",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 28,
+      "poss": 54.5,
+      "net": 1.834862385321101
+    },
+    {
+      "label": "On, w/o George",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 34,
+      "poss": 66,
+      "net": 9.090909090909092
+    },
+    {
+      "label": "Neither Bona nor Maxey",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 66,
+      "poss": 134,
+      "net": -14.17910447761194
+    }
+  ]
+}

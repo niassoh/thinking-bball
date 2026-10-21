@@ -1,0 +1,72 @@
+{
+  "season": "2025-26",
+  "generatedAt": "2026-10-02T04:40:00.459Z",
+  "recent": {
+    "start": "2026-03-14",
+    "end": "2026-04-12",
+    "games": 15,
+    "seasonGames": 77
+  },
+  "games": [
+    {
+      "date": "2026-04-10",
+      "gameId": "0022501178",
+      "opp": "MIN",
+      "home": true,
+      "result": "L",
+      "pts": 16,
+      "reb": 6,
+      "ast": 2,
+      "ts": 53.3,
+      "oppRank": 10
+    },
+    {
+      "date": "2026-04-09",
+      "gameId": "0022501169",
+      "opp": "PHI",
+      "home": true,
+      "result": "W",
+      "pts": 19,
+      "reb": 5,
+      "ast": 0,
+      "ts": 55.9,
+      "oppRank": 18
+    },
+    {
+      "date": "2026-04-07",
+      "gameId": "0022501157",
+      "opp": "PHX",
+      "home": false,
+      "result": "W",
+      "pts": 20,
+      "reb": 6,
+      "ast": 1,
+      "ts": 52.6,
+      "oppRank": 15
+    },
+    {
+      "date": "2026-04-05",
+      "gameId": "0022501142",
+      "opp": "GSW",
+      "home": false,
+      "result": "W",
+      "pts": 23,
+      "reb": 9,
+      "ast": 1,
+      "ts": 95.8,
+      "oppRank": 20
+    },
+    {
+      "date": "2026-04-03",
+      "gameId": "0022501124",
+      "opp": "UTA",
+      "home": true,
+      "result": "W",
+      "pts": 18,
+      "reb": 5,
+      "ast": 0,
+      "ts": 52.9,
+      "oppRank": 27
+    }
+  ]
+}

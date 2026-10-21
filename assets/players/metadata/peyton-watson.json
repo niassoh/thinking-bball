@@ -1,0 +1,146 @@
+{
+  "player": "Peyton Watson",
+  "playerId": "peyton-watson",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612739/2026/10/DSC07837.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612739/2026/10/DSC07837.jpg",
+  "sourcePage": "https://www.nba.com/cavaliers/photos/photogallery-boscle-261008",
+  "license": "unknown (Cleveland Cavaliers team photographer via NBA.com)",
+  "licenseUrl": null,
+  "author": "Cleveland Cavaliers",
+  "credit": null,
+  "photoDate": "2026-10-08 (preseason game 1 vs BOS, Rocket Arena)",
+  "originalSize": null,
+  "storedSize": [
+    2399,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/peyton-watson.jpg",
+  "selectedAt": "2026-10-17T05:24:16.966Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 960,
+    "y": 111,
+    "size": 1145
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (glancing off-camera between plays, lips parted in a half-smile reaction, alert)",
+  "jersey": "CLE white home #8, 2026-27 preseason",
+  "concerns": "FLAG: preseason game (regular season not yet started), though in the regular CLE home uniform; no caption (team gallery), identified by #8 and the gallery; NBA headband; Cavs logo bug in the image top-left corner, outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/watson-gordon-031026-scaled.jpg",
+      "note": "(DEN white 2025-26 regular season, lips parted looking ahead, energy ~6, face ~230px, but his previous team)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/01/DOTN_Watson_1-1.jpg",
+      "note": "(DEN white, shouting celebration, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://www.bta.bg/upload/13982270/488c1914c936414ca7902ad42b6c8749--0--dd93487283cf4969846b717b3d8e1fe5.jpg",
+      "note": "(AP, CLE preseason Oct 11 2026, mid-shot and BTA-watermarked)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:01.280Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/peyton-watson-80b1313c-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/peyton-watson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.252Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/peyton-watson.png",
+  "webp": [
+    "assets/players/webp/peyton-watson-1024.webp",
+    "assets/players/webp/peyton-watson-400.webp",
+    "assets/players/webp/peyton-watson-200.webp",
+    "assets/players/webp/peyton-watson-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612739/2026/10/DSC07837.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:55.833Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/peyton-watson-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/peyton-watson/out.png",
+        "fixes": [],
+        "base": "fc9a673b53890a710c8178c53313d9e13090e873",
+        "importedAt": "2026-10-17T11:07:43.722Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0056,
+          "face": 5.6,
+          "purity": 0.976,
+          "coverage": 0.087,
+          "strays": 27,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2181,
+          "oldEdge": 0.025,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/peyton-watson-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:12:01.976Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/peyton-watson.webp",
+    "base": "fc9a673b53890a710c8178c53313d9e13090e873",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:12:02.233Z"
+  }
+}

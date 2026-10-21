@@ -1,0 +1,152 @@
+{
+  "team": "BKN",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:42.670Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Mikel Brown Jr.",
+          "slug": "mikel-brown-jr",
+          "espnId": "5101761",
+          "status": "DTD"
+        },
+        {
+          "name": "Ben Saraf",
+          "slug": "ben-saraf",
+          "espnId": "5242502",
+          "status": null
+        },
+        {
+          "name": "Nolan Traore",
+          "slug": "nolan-traore",
+          "espnId": "5279130",
+          "status": null
+        },
+        {
+          "name": "Egor Demin",
+          "slug": "egor-demin",
+          "espnId": "5175643",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Egor Demin",
+          "slug": "egor-demin",
+          "espnId": "5175643",
+          "status": null
+        },
+        {
+          "name": "Drake Powell",
+          "slug": "drake-powell",
+          "espnId": "5037873",
+          "status": null
+        },
+        {
+          "name": "Keon Ellis",
+          "slug": "keon-ellis",
+          "espnId": "4702177",
+          "status": null
+        },
+        {
+          "name": "Mikel Brown Jr.",
+          "slug": "mikel-brown-jr",
+          "espnId": "5101761",
+          "status": "DTD"
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Michael Porter Jr.",
+          "slug": "michael-porter-jr",
+          "espnId": "4278104",
+          "status": null
+        },
+        {
+          "name": "Keon Ellis",
+          "slug": "keon-ellis",
+          "espnId": "4702177",
+          "status": null
+        },
+        {
+          "name": "Noah Clowney",
+          "slug": "noah-clowney",
+          "espnId": "4712896",
+          "status": null
+        },
+        {
+          "name": "Josh Minott",
+          "slug": "josh-minott",
+          "espnId": "4687718",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Julius Randle",
+          "slug": "julius-randle",
+          "espnId": "3064514",
+          "status": null
+        },
+        {
+          "name": "Noah Clowney",
+          "slug": "noah-clowney",
+          "espnId": "4712896",
+          "status": null
+        },
+        {
+          "name": "Joshua Jefferson",
+          "slug": "joshua-jefferson",
+          "espnId": "4870564",
+          "status": null
+        },
+        {
+          "name": "Danny Wolf",
+          "slug": "danny-wolf",
+          "espnId": "5107173",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Day'Ron Sharpe",
+          "slug": "day-ron-sharpe",
+          "espnId": "4432194",
+          "status": null
+        },
+        {
+          "name": "Moritz Wagner",
+          "slug": "moritz-wagner",
+          "espnId": "3150844",
+          "status": null
+        },
+        {
+          "name": "Danny Wolf",
+          "slug": "danny-wolf",
+          "espnId": "5107173",
+          "status": null
+        },
+        {
+          "name": "Josh Minott",
+          "slug": "josh-minott",
+          "espnId": "4687718",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

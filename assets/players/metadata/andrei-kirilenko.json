@@ -1,0 +1,149 @@
+{
+  "player": "Andrei Kirilenko",
+  "playerId": "andrei-kirilenko",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kirilenko_%28cropped%29.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kirilenko_%28cropped%29.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Kirilenko_(cropped).jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": null,
+  "author": "Stephanie Young Merzel",
+  "credit": null,
+  "photoDate": "2008-05-11 (home playoff game vs LAL, EnergySolutions Arena, by the photo date; crop of Korver & Kirilenko.jpg)",
+  "originalSize": null,
+  "storedSize": [
+    1558,
+    1600
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/andrei-kirilenko.jpg",
+  "selectedAt": "2026-10-17T05:39:20.297Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 425,
+    "y": 50,
+    "size": 949
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (at the free-throw line looking up at the rim, mouth open with the tongue tip out)",
+  "jersey": "UTA white home #47, 2007-08 (2008 playoffs)",
+  "concerns": "fan photo, face a little soft (not motion-blurred); tongue tip showing; head tilted up toward the rim; 2007-08 rather than his 2004-05 peak, still with Utah; ball at the bottom edge of the full frame, outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kirilenko_Shoots_At_The_Free_Throw_Line.jpg",
+      "note": "(same game, CC BY 2.0, mid-shot with the ball and arms framing the head, lips pressed, energy ~6)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/legacy/photos/20130102-ak-107869434.jpg",
+      "note": "(nba.com Jazz 2001-2011 gallery, 750 px, faces ~120 px, too small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:50.496Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/andrei-kirilenko-b5ea17df-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/andrei-kirilenko/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:22.937Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/andrei-kirilenko.png",
+  "webp": [
+    "assets/players/webp/andrei-kirilenko-1024.webp",
+    "assets/players/webp/andrei-kirilenko-400.webp",
+    "assets/players/webp/andrei-kirilenko-200.webp",
+    "assets/players/webp/andrei-kirilenko-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kirilenko_%28cropped%29.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:35.416Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/andrei-kirilenko-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/andrei-kirilenko/out.png",
+        "fixes": [],
+        "base": "13e1f2c8529bd1eabc1a7427f05ee1c7060c0524",
+        "importedAt": "2026-10-17T11:06:48.860Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0106,
+          "face": 4.1,
+          "purity": 0.989,
+          "coverage": 0.121,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 673,
+          "oldEdge": 0,
+          "shadeLevels": 6,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/andrei-kirilenko-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:49.992Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/andrei-kirilenko.webp",
+    "base": "13e1f2c8529bd1eabc1a7427f05ee1c7060c0524",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:50.207Z"
+  }
+}

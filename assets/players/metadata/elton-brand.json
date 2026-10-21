@@ -1,0 +1,69 @@
+{
+  "player": "Elton Brand",
+  "playerId": "elton-brand",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/clippers/sites/clippers/files/1200-elton-brand-161021-22_0.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/clippers/sites/clippers/files/1200-elton-brand-161021-22_0.jpg",
+  "sourcePage": "https://www.nba.com/clippers/gallery/photo-gallery-former-clippers-star-elton-brand-retires",
+  "license": "unknown (NBAE / Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "NBAE / Getty Images",
+  "credit": null,
+  "photoDate": "2001-02 season (road game, 9/11 ribbon patch; undated Clippers retirement-gallery photo)",
+  "originalSize": null,
+  "storedSize": [
+    1200,
+    782
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/elton-brand.jpg",
+  "selectedAt": "2026-10-17T05:43:07.782Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 177,
+    "y": 123,
+    "size": 357
+  },
+  "needsReview": "No in-game Clippers photo of Brand in the 6-8 energy band with a usable face found. Searched: nba.com Clippers retirement and looking-back galleries (44 photos, 700-1200 px, mostly full-body action or posed), Clippers history/throwback galleries and 2005-06 gallery (477 px), the three Clippers all-time-leader articles (no Brand photo), Sixers-site Brand pages (76ers/GM era), Wikimedia Commons (only 76ers/Mavs/Hawks photos and a 190 px Clippers crop). Web search budget ran out mid-search.",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (walking back between plays, lips pushed out mid-exhale, eyes ahead just off-camera)",
+  "jersey": "LAC red road #42, 2001-02",
+  "concerns": "FLAG: energy ~5.5, below the 6-8 band; face only ~175 px in a 1200 px web copy (crop 357 px, will be upscaled), soft JPEG; 2001-02 rather than his 2005-06 peak; teammate #45 beside him, outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/clippers/sites/clippers/files/1200-elton-brand-161021-14_0.jpg",
+      "note": "(red road #42 vs LAL, ~260 px face, cheeks puffed, energy ~6.5, but near-profile with an opponent hand above the head)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/clippers/sites/clippers/files/legacy/photos/brand-140102-1.jpg",
+      "note": "(posed media-day portrait, rejected)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ]
+}

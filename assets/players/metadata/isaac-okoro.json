@@ -1,0 +1,177 @@
+{
+  "player": "Isaac Okoro",
+  "playerId": "isaac-okoro",
+  "sourceUrl": "https://cdn.nba.com/manage/2024/12/GettyImages-2189123192-scaled-e1734638848894.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2024/12/GettyImages-2189123192-scaled-e1734638848894.jpg",
+  "sourcePage": "https://www.nba.com/news/cavs-isaac-okoro-out-2-weeks-right-shoulder-sprain",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1702,
+    960
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/isaac-okoro.jpg",
+  "selectedAt": "2026-10-05T19:31:51.382Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 411,
+    "y": 15,
+    "size": 627
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "CHI (jersey edit from matas-buzelis's)",
+  "concerns": "LAST RESORT older team: Cavaliers 2024-25, not the 2025-26 Bulls; no usable 2025-26 Bulls game photo found (only media day) in Bulls posts or Suns/Nuggets/Hornets galleries; face ~237px",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:24.305Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "CHI (jersey edit from matas-buzelis's)",
+      "file": "assets/players/attempts/isaac-okoro-33bd3437-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/isaac-okoro/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:48.189Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/isaac-okoro.png",
+  "webp": [
+    "assets/players/webp/isaac-okoro-1024.webp",
+    "assets/players/webp/isaac-okoro-400.webp",
+    "assets/players/webp/isaac-okoro-200.webp",
+    "assets/players/webp/isaac-okoro-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2024/12/GettyImages-2189123192-scaled-e1734638848894.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:48.444Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: CLE -> CHI",
+      "archivedAt": "2026-10-09T08:56:24.236Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T02:50:37.115Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/isaac-okoro-33bd3437-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/isaac-okoro/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T02:50:51.397Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/isaac-okoro-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/isaac-okoro/out.png",
+        "fixes": [],
+        "base": "815b76d55d2007be057e97b4686a805cfbf62f9d",
+        "importedAt": "2026-10-11T19:41:17.122Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0037,
+          "face": 2.8,
+          "purity": 0.991,
+          "coverage": 0.164,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2501,
+          "oldEdge": 0.161,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/isaac-okoro-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "old edge 16.1% is the black jersey beside dark skin; beard tips over the collar take the trim colour",
+          "at": "2026-10-11T19:49:20.840Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/isaac-okoro.webp",
+    "base": "815b76d55d2007be057e97b4686a805cfbf62f9d",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:22.576Z"
+  }
+}

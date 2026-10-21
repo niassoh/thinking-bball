@@ -1,0 +1,70 @@
+{
+  "player": "Terrence Shannon Jr.",
+  "playerId": "terrence-shannon-jr",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/05/GettyImages-2275876634.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/05/GettyImages-2275876634.jpg",
+  "sourcePage": "https://www.nba.com/timberwolves/photos/wolves-pics-terrence-shannon-jr-25-26-season-photos",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-05-15 vs SAS, Target Center, 2026 playoffs (Getty 2275876634: shoots a free throw)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/terrence-shannon-jr.jpg",
+  "selectedAt": "2026-10-17T11:07:15.312Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1106,
+    "y": 274,
+    "size": 848
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (same look-up as McCain, lips parted, calm free-throw focus rather than mid-play alertness)",
+  "jersey": "MIN black classic #1 2025-26 (same team 2026-27)",
+  "concerns": "free-throw set moment: composed rather than reactive, energy at the low edge of the band; ball held at the waist, outside the crop; 2026 playoffs photo, no 2026 preseason photo of him found",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/05/GettyImages-2276770740.jpg",
+      "note": "(May 15 2026 vs SAS, black, handles the ball, lips parted looking ahead, energy ~6, face smaller)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/05/GettyImages-2272976303.jpg",
+      "note": "(Apr 27 2026 at DEN, white, dribbling, mouth closed, defender arm across chest)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/05/GettyImages-2270250495.jpg",
+      "note": "(Apr 10 2026 at HOU, black, celebrating with teeth bared, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

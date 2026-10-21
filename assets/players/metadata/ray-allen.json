@@ -1,0 +1,164 @@
+{
+  "player": "Ray Allen",
+  "playerId": "ray-allen",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bucks/sites/bucks/files/allen_29.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bucks/sites/bucks/files/allen_29.jpg",
+  "sourcePage": "https://www.nba.com/bucks/gallery/43-photos-ray-allen-bucks",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "October 30 2001 (opening night at UTA, Delta Center)",
+  "originalSize": null,
+  "storedSize": [
+    1955,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ray-allen.jpg",
+  "selectedAt": "2026-10-14T03:24:34.462Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 662,
+    "y": 332,
+    "size": 735
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (driving, looking off to his left, mouth open mid-breath)",
+  "jersey": "MIL purple road #34, 2001-02",
+  "concerns": "face ~277px; head turned 3/4 with eyes off-camera; John Starks partly in the full frame but outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bucks/sites/bucks/files/allen_14.jpg",
+      "note": "(2000 East first round at IND, MIL purple, open-mouthed look-off, energy 7, but film grain and softer)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ray_Allen_2008-01-13.jpg",
+      "note": "(BOS green 2007-08, 387px, calm look-off with mouth closed, energy ~5.5, not the target team)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:12.674Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/ray-allen-929e594e-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/ray-allen/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:28.393Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/ray-allen.png",
+  "webp": [
+    "assets/players/webp/ray-allen-1024.webp",
+    "assets/players/webp/ray-allen-400.webp",
+    "assets/players/webp/ray-allen-200.webp",
+    "assets/players/webp/ray-allen-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/bucks/sites/bucks/files/allen_29.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:28.906Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/ray-allen-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/ray-allen/out.png",
+        "fixes": [],
+        "base": "b380c1edb0130949ba253ef4d9e48a941de1be6b",
+        "importedAt": "2026-10-14T20:26:23.839Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0057,
+          "face": 4.8,
+          "purity": 0.989,
+          "coverage": 0.243,
+          "strays": 87,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1416,
+          "oldEdge": 0,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/ray-allen-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:15.936Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/ray-allen.webp",
+    "base": "b380c1edb0130949ba253ef4d9e48a941de1be6b",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:16.182Z"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player": "Patrick Williams",
+  "playerId": "patrick-williams",
+  "sourceUrl": "https://cdn.nba.com/manage/2024/06/GettyImages-1754642939.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2024/06/GettyImages-1754642939.jpg",
+  "sourcePage": "https://www.nba.com/news/patrick-williams-2024-free-agency",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2023-10-30 (at IND, Gainbridge Fieldhouse; Getty 1754642939)",
+  "originalSize": null,
+  "storedSize": [
+    2445,
+    1375
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/patrick-williams.jpg",
+  "selectedAt": "2026-10-17T08:50:21.734Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 690,
+    "y": 0,
+    "size": 740
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes off-camera to his right, mouth open mid-breath, focused)",
+  "jersey": "CHI red road (Icon) #44, 2023-24",
+  "concerns": "three seasons old (2023-24), but same team and same braids/beard look as 2025-26; busy crowd background; no 2025-26 or 2026 preseason nba.com Getty photo of him found (Bulls site posts no game galleries), the 2025-26 Bulls-site photos have smaller or flatter faces",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2025/11/251107_SamSmith_PatrickWilliams_GiannisAntetokounmpo_MilwaukeeBucks_4x5.jpg",
+      "note": "(Nov 7 2025 at MIL, white, frontal intent stare, energy ~6, face ~290px and soft)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2025/01/250129_SamSmith_PatrickWilliams_BostonCeltics_4x5.jpg",
+      "note": "(Jan 2025 at BOS, black Statement, hands on hips, energy ~5.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2024/10/241030_SamSmith_PatrickWilliams_OrlandoMagic_4x5.jpg",
+      "note": "(Oct 30 2024 vs ORL, white, triple-threat stare at camera, face ~275px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/02/GettyImages-1953497351.jpg",
+      "note": "(Jan 25 2024 at LAL, black, neutral look, 1920px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

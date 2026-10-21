@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "PHI",
+  "gp": 38,
+  "generatedAt": "2026-10-02T05:15:12.332Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · PHI",
+      "minutes": 1201,
+      "poss": 2481,
+      "net": 6.166868198307134
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · PHI",
+      "minutes": 2775,
+      "poss": 5780,
+      "net": -2.906574394463668
+    },
+    {
+      "label": "On, w/o Maxey",
+      "sub": "2025–26 · PHI",
+      "minutes": 239,
+      "poss": 499,
+      "net": -0.2004008016032064
+    },
+    {
+      "label": "On, w/o Edgecombe",
+      "sub": "2025–26 · PHI",
+      "minutes": 238,
+      "poss": 502.5,
+      "net": 17.313432835820898
+    },
+    {
+      "label": "On, w/o Grimes",
+      "sub": "2025–26 · PHI",
+      "minutes": 675,
+      "poss": 1379.5,
+      "net": 5.364262413918086
+    },
+    {
+      "label": "Neither Embiid nor Maxey",
+      "sub": "2025–26 · PHI",
+      "minutes": 1076,
+      "poss": 2263.5,
+      "net": -5.610779765849348
+    }
+  ]
+}

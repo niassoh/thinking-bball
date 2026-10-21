@@ -1,0 +1,429 @@
+{
+  "player": "Anthony Davis",
+  "playerId": "anthony-davis",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/10/anthony-davis-1920-2242370822.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/10/anthony-davis-1920-2242370822.jpg",
+  "sourcePage": "https://www.nba.com/news/anthony-davis-leaves-game-early",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/anthony-davis.jpg",
+  "selectedAt": "2026-10-02T03:42:42.858Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 520,
+    "y": 0,
+    "size": 650
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches: looking up/off, mouth open mid-breath",
+  "jersey": "WAS (jersey edit from kyshawn-george's)",
+  "concerns": "FLAG: not current team; wears sport goggles + headband (his current look)",
+  "rejectedCandidates": [
+    {
+      "index": 1,
+      "title": "File:Anthony Davis (38464014214).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Anthony_Davis_(38464014214).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": 10
+    },
+    {
+      "index": 2,
+      "title": "File:Anthony Davis (25306400548).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Anthony_Davis_(25306400548).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 3,
+      "title": "File:Anthony Davis 20160221.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Anthony_Davis_20160221.jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 4,
+      "title": "File:20140814 World Basketball Festival Anthony Davis (1).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140814_World_Basketball_Festival_Anthony_Davis_(1).JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 5,
+      "title": "File:20140814 World Basketball Festival Anthony Davis (2).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140814_World_Basketball_Festival_Anthony_Davis_(2).JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 6,
+      "title": "File:20140814 World Basketball Festival Anthony Davis (2) cropped.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140814_World_Basketball_Festival_Anthony_Davis_(2)_cropped.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 7,
+      "title": "File:Anthony Davis Feb 2014.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Anthony_Davis_Feb_2014.jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 8,
+      "title": "File:Anthony Davis 12711093105.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Anthony_Davis_12711093105.jpg",
+      "license": "CC BY-SA 2.0",
+      "score": 10
+    },
+    {
+      "index": 9,
+      "title": "File:20140101 Anthony Davis.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140101_Anthony_Davis.JPG",
+      "license": "CC BY-SA 3.0",
+      "score": null
+    },
+    {
+      "index": 10,
+      "title": "File:20140101 Anthony Davis (2).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140101_Anthony_Davis_(2).JPG",
+      "license": "CC BY-SA 3.0",
+      "score": null
+    },
+    {
+      "index": 11,
+      "title": "File:20140101 Nikola Peković guarded by Anthony Davis (1).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140101_Nikola_Pekovi%C4%87_guarded_by_Anthony_Davis_(1).JPG",
+      "license": "CC BY-SA 3.0",
+      "score": null
+    },
+    {
+      "index": 12,
+      "title": "File:20140101 Nikola Peković guarded by Anthony Davis (2).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140101_Nikola_Pekovi%C4%87_guarded_by_Anthony_Davis_(2).JPG",
+      "license": "CC BY-SA 3.0",
+      "score": null
+    },
+    {
+      "index": 13,
+      "title": "File:20140101 Anthony Davis blocks Kevin Love.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140101_Anthony_Davis_blocks_Kevin_Love.JPG",
+      "license": "CC BY-SA 3.0",
+      "score": null
+    },
+    {
+      "index": 14,
+      "title": "File:20140101 Anthony Davis in action (3).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140101_Anthony_Davis_in_action_(3).JPG",
+      "license": "CC BY-SA 3.0",
+      "score": null
+    },
+    {
+      "index": 15,
+      "title": "File:20140101 Anthony Davis in action (2).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20140101_Anthony_Davis_in_action_(2).JPG",
+      "license": "CC BY-SA 3.0",
+      "score": null
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Anthony_Davis_pre-game_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Anthony_Davis_pre-game_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "score": 13,
+      "reason": "user feedback 2026-10-01",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/adavis1.jpg",
+      "note": "(DAL blue, goggles, look-off 6.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages_AD.jpg",
+      "note": "(small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/adavis1.jpg",
+      "note": "(DAL blue, goggles, look-off 6.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages_AD.jpg",
+      "note": "(small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "masterFile": "assets/players/anthony-davis.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 4,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:21.855Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "WAS (jersey edit from kyshawn-george's)",
+      "file": "assets/players/attempts/anthony-davis-00ca89ca-r4-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/anthony-davis/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:42.818Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "approved": true,
+  "qaSummary": "Pass on attempt 1. Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain.",
+  "webp": [
+    "assets/players/webp/anthony-davis-1024.webp",
+    "assets/players/webp/anthony-davis-400.webp",
+    "assets/players/webp/anthony-davis-200.webp",
+    "assets/players/webp/anthony-davis-100.webp"
+  ],
+  "approvedAt": "2026-10-09T08:56:43.063Z",
+  "cancelledRounds": [
+    {
+      "reason": "user cancelled source-brightening step 2026-10-01 (\"Nvm, we dont have to do that\"); results not used",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:17:01.198Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/superseded/anthony-davis-00ca89ca-cancelled-brighten-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": null
+        }
+      ]
+    }
+  ],
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:16.313Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:06:07.224Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/anthony-davis-00ca89ca-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-02T04:09:15.205Z",
+            "checklistFile": "QA_CHECKLIST.md",
+            "note": "Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:35.706Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:36:51.155Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/anthony-davis-00ca89ca-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/anthony-davis/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:37:00.042Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "reason": "jersey: DAL -> WAS",
+      "archivedAt": "2026-10-09T08:56:21.761Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 3,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T17:36:42.546Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/anthony-davis-00ca89ca-r3-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/anthony-davis/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T17:36:58.405Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 4,
+  "latestAttempt": 1,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/10/anthony-davis-1920-2242370822.jpg",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/anthony-davis-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/anthony-davis/out.png",
+        "fixes": [],
+        "base": "e9ad7f6bb4aa1e410e707a78c2143fef94fb1121",
+        "importedAt": "2026-10-11T18:04:50.118Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0035,
+          "face": 2.8,
+          "purity": 0.993,
+          "coverage": 0.137,
+          "strays": 6,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 309,
+          "oldEdge": 0,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/anthony-davis-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: jersey fully keyed, logos/patches gone, accessories (goggles, headbands, T-shirt) untouched",
+          "at": "2026-10-11T18:05:58.158Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/anthony-davis.webp",
+    "base": "e9ad7f6bb4aa1e410e707a78c2143fef94fb1121",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T18:05:58.729Z"
+  }
+}

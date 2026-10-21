@@ -1,0 +1,164 @@
+{
+  "player": "Jason Kidd",
+  "playerId": "jason-kidd",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/06/GettyImages-72750655jk.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/06/GettyImages-72750655jk.jpg",
+  "sourcePage": "https://www.nba.com/news/brooklyn-nets-single-season-assists-per-game-leaders",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2006-11-10 (vs MIA, Continental Airlines Arena)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jason-kidd.jpg",
+  "selectedAt": "2026-10-14T03:36:25.992Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 592,
+    "y": 0,
+    "size": 780
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (standing on court, looking up off-camera, brow knit, lips parted)",
+  "jersey": "NJN white home 2006-07",
+  "concerns": "a little calmer than McCain; head close to top edge of crop (no clipping)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Jason_Kidd_mavs_allison.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, DAL navy road c. 2009, mouth open looking off, energy 7, 479px, but Mavericks not NJN)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2019/10/131017181228-jason-kidd-nets-player-iso.1280x720.jpg",
+      "note": "(renamed nba.com, NJN navy road with Finals patch 2002/03, dribbling, energy ~5.5, only 184px in a 1280px frame)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:06.475Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jason-kidd-d2569d11-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/jason-kidd/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:16.738Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jason-kidd.png",
+  "webp": [
+    "assets/players/webp/jason-kidd-1024.webp",
+    "assets/players/webp/jason-kidd-400.webp",
+    "assets/players/webp/jason-kidd-200.webp",
+    "assets/players/webp/jason-kidd-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/06/GettyImages-72750655jk.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:17.316Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jason-kidd-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/jason-kidd/out.png",
+        "fixes": [],
+        "base": "2ac1c8ac162953f1e623f4890a34fbd7d2d2bd00",
+        "importedAt": "2026-10-14T20:26:11.467Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0036,
+          "face": 3.4,
+          "purity": 0.988,
+          "coverage": 0.152,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 855,
+          "oldEdge": 0,
+          "shadeLevels": 10,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/jason-kidd-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:12.951Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/jason-kidd.webp",
+    "base": "2ac1c8ac162953f1e623f4890a34fbd7d2d2bd00",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:13.171Z"
+  }
+}

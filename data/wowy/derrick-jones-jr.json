@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "LAC",
+  "gp": 50,
+  "generatedAt": "2026-10-02T04:23:14.111Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · LAC",
+      "minutes": 1350,
+      "poss": 2741.5,
+      "net": 4.741929600583622
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · LAC",
+      "minutes": 2606,
+      "poss": 5214.5,
+      "net": -0.7095598811007767
+    },
+    {
+      "label": "On, w/o Dunn",
+      "sub": "2025–26 · LAC",
+      "minutes": 595,
+      "poss": 1208,
+      "net": 5.877483443708609
+    },
+    {
+      "label": "On, w/o Leonard",
+      "sub": "2025–26 · LAC",
+      "minutes": 489,
+      "poss": 994.5,
+      "net": -11.664152840623428
+    },
+    {
+      "label": "On, w/o Collins",
+      "sub": "2025–26 · LAC",
+      "minutes": 803,
+      "poss": 1632,
+      "net": 9.497549019607842
+    },
+    {
+      "label": "Neither Jones Jr. nor Dunn",
+      "sub": "2025–26 · LAC",
+      "minutes": 1133,
+      "poss": 2274.5,
+      "net": 0.04396570674873598
+    }
+  ]
+}

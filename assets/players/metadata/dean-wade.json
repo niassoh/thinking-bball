@@ -1,0 +1,211 @@
+{
+  "player": "Dean Wade",
+  "playerId": "dean-wade",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/06/GettyImages_DeanWade.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/06/GettyImages_DeanWade.jpg",
+  "sourcePage": "https://www.nba.com/news/dean-wade-76ers-deal",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/dean-wade.jpg",
+  "selectedAt": "2026-10-05T02:33:22.703Z",
+  "sourceSelectionScore": 11,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 738,
+    "y": 190,
+    "size": 395
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower",
+  "jersey": "PHI (jersey edit from tyrese-maxey's)",
+  "concerns": "WEAK PICK: jump-shot set point, so raised arms frame the head and the wrist/ball touch the top of his hair; calm shooting focus (energy ~5); face ~149px; file not Getty-numbered, identity verified visually (#32 Cleveland). No better 2025-26 photo found in nba.com articles or Cavs playoff galleries",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:23.332Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "PHI (jersey edit from tyrese-maxey's)",
+      "file": "assets/players/attempts/dean-wade-11102dd5-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/dean-wade/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:46.089Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/dean-wade.png",
+  "webp": [
+    "assets/players/webp/dean-wade-1024.webp",
+    "assets/players/webp/dean-wade-400.webp",
+    "assets/players/webp/dean-wade-200.webp",
+    "assets/players/webp/dean-wade-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/06/GettyImages_DeanWade.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:46.329Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:45.724Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:51:44.193Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/dean-wade-11102dd5-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/dean-wade/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:51:53.571Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "jersey: CLE -> PHI",
+      "archivedAt": "2026-10-09T08:56:23.252Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T18:05:00.061Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/dean-wade-11102dd5-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/dean-wade/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T18:05:10.360Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/dean-wade-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/dean-wade/out.png",
+        "fixes": [],
+        "base": "bc166f09fe391bab778583bc7bd25df25060d900",
+        "importedAt": "2026-10-11T19:40:14.027Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 0
+          },
+          "silhouette": 0.0053,
+          "face": 3.7,
+          "purity": 0.99,
+          "coverage": 0.108,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 672,
+          "oldEdge": 0,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/dean-wade-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:49:04.795Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/dean-wade.webp",
+    "base": "bc166f09fe391bab778583bc7bd25df25060d900",
+    "shift": {
+      "dx": -1,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:05.397Z"
+  }
+}

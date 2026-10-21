@@ -1,0 +1,173 @@
+{
+  "player": "Ivica Zubac",
+  "playerId": "ivica-zubac",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/02/zubac1-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/02/zubac1-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/ivica-zubac-trade-clippers-pacers-2026",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ivica-zubac.jpg",
+  "selectedAt": "2026-10-05T19:08:18.379Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 582,
+    "y": 18,
+    "size": 1381
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (free throw, looking up at rim, lips parted)",
+  "jersey": "IND (jersey edit from aaron-nesmith's)",
+  "concerns": "Clippers jersey, not IND (no Pacers photo found); renamed nba.com image, no Getty caption check, but clearly Zubac; free-throw stance with ball at lower right of crop; exact season of photo unverified",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:24.769Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "IND (jersey edit from aaron-nesmith's)",
+      "file": "assets/players/attempts/ivica-zubac-d13df7b7-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/ivica-zubac/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:49.085Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/ivica-zubac.png",
+  "webp": [
+    "assets/players/webp/ivica-zubac-1024.webp",
+    "assets/players/webp/ivica-zubac-400.webp",
+    "assets/players/webp/ivica-zubac-200.webp",
+    "assets/players/webp/ivica-zubac-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/02/zubac1-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:49.343Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: LAC -> IND",
+      "archivedAt": "2026-10-09T08:56:24.686Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T02:53:37.598Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/ivica-zubac-d13df7b7-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/ivica-zubac/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T02:53:49.065Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/ivica-zubac-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/ivica-zubac/out.png",
+        "fixes": [],
+        "base": "149b11354a0d77c8184704573d06a9580e95cca2",
+        "importedAt": "2026-10-11T19:41:29.118Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0041,
+          "face": 2.7,
+          "purity": 0.989,
+          "coverage": 0.114,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 326,
+          "oldEdge": 0,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/ivica-zubac-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:49:27.263Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/ivica-zubac.webp",
+    "base": "149b11354a0d77c8184704573d06a9580e95cca2",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:29.220Z"
+  }
+}

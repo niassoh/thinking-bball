@@ -1,0 +1,184 @@
+{
+  "player": "Saddiq Bey",
+  "playerId": "saddiq-bey",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/09/GettyImages-2287128485-scaled-e1789705687251.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/09/GettyImages-2287128485-scaled-e1789705687251.jpg",
+  "sourcePage": "https://www.nba.com/news/saddiq-bey-extension-pelicans",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1805,
+    1015
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/saddiq-bey.jpg",
+  "selectedAt": "2026-10-05T02:21:40.129Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 653,
+    "y": 21,
+    "size": 638
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "NOP City Edition black 2025-26",
+  "concerns": null,
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T19:23:11.883Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/saddiq-bey-edb0610d-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/saddiq-bey/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T19:23:37.026Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/saddiq-bey.png",
+  "webp": [
+    "assets/players/webp/saddiq-bey-1024.webp",
+    "assets/players/webp/saddiq-bey-400.webp",
+    "assets/players/webp/saddiq-bey-200.webp",
+    "assets/players/webp/saddiq-bey-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/09/GettyImages-2287128485-scaled-e1789705687251.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-05T19:23:37.401Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:42.345Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:16:48.813Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/saddiq-bey-edb0610d-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/saddiq-bey/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:16:55.430Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/saddiq-bey-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/saddiq-bey/out.png",
+        "fixes": [],
+        "base": "b0788eb511ff76f03722ec598fb29641d6cead74",
+        "importedAt": "2026-10-12T03:34:34.433Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0046,
+          "face": 3,
+          "purity": 0.971,
+          "coverage": 0.183,
+          "strays": 71,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 3530,
+          "oldEdge": 0.169,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/saddiq-bey-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "old-edge false positive: black jersey beside his beard; beard tips over the collar take the trim colour",
+          "at": "2026-10-12T03:41:53.855Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/saddiq-bey.webp",
+    "base": "b0788eb511ff76f03722ec598fb29641d6cead74",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:21.696Z"
+  }
+}

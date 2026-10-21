@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "GSW",
+  "gp": 49,
+  "generatedAt": "2026-10-02T03:10:34.612Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · GSW",
+      "minutes": 1125,
+      "poss": 2310.5,
+      "net": 4.111664141960614
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · GSW",
+      "minutes": 2836,
+      "poss": 5879.5,
+      "net": -2.398163109107917
+    },
+    {
+      "label": "On, w/o Podziemski",
+      "sub": "2025–26 · GSW",
+      "minutes": 468,
+      "poss": 964.5,
+      "net": -1.8662519440124419
+    },
+    {
+      "label": "On, w/o Green",
+      "sub": "2025–26 · GSW",
+      "minutes": 615,
+      "poss": 1258.5,
+      "net": 14.143822010329757
+    },
+    {
+      "label": "On, w/o Moody",
+      "sub": "2025–26 · GSW",
+      "minutes": 801,
+      "poss": 1649.5,
+      "net": 2.8493482873598057
+    },
+    {
+      "label": "Neither Melton nor Podziemski",
+      "sub": "2025–26 · GSW",
+      "minutes": 1160,
+      "poss": 2421,
+      "net": -1.7761255679471293
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "player": "Royce O'Neale",
+  "playerId": "royce-o-neale",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/04/2273136982.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/04/2273136982.jpg",
+  "sourcePage": "https://www.nba.com/suns/photos/suns-vs-thunder-game-3-apr-25-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/royce-o-neale.jpg",
+  "selectedAt": "2026-10-05T02:25:26.295Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1172,
+    "y": 635,
+    "size": 677
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (reacting, mouth open, looking off)",
+  "jersey": "CHA (jersey edit from brandon-miller's)",
+  "concerns": "Suns team-site gallery photo (Apr 25 2026, playoffs G3 vs OKC); headband; raised arm at right edge, clear of face",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2255300065-e1768189015781.jpg",
+      "sourcePage": "https://www.nba.com/game/was-vs-phx-0022500555",
+      "license": "unknown (Getty Images / NBAE via NBA.com)",
+      "score": 11,
+      "reason": "re-source: shooting arm covers part of the face",
+      "previousPick": true
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:29.285Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "CHA (jersey edit from brandon-miller's)",
+      "file": "assets/players/attempts/royce-o-neale-50b3e0b1-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/royce-o-neale/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:59.419Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/royce-o-neale.png",
+  "webp": [
+    "assets/players/webp/royce-o-neale-1024.webp",
+    "assets/players/webp/royce-o-neale-400.webp",
+    "assets/players/webp/royce-o-neale-200.webp",
+    "assets/players/webp/royce-o-neale-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/04/2273136982.jpg",
+  "supersededHistory": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2255300065-e1768189015781.jpg",
+      "sourcePage": "https://www.nba.com/game/was-vs-phx-0022500555",
+      "sourceFile": "assets/player-sources/royce-o-neale.jpg",
+      "crop": {
+        "x": 511,
+        "y": 231,
+        "size": 458
+      },
+      "promptVersion": null,
+      "generationAttempt": 0,
+      "attempts": [],
+      "approved": false,
+      "masterFile": null,
+      "supersededReason": "re-source: shooting arm covers part of the face",
+      "supersededFiles": []
+    }
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:59.675Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:42.626Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:16:48.387Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/royce-o-neale-50b3e0b1-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/royce-o-neale/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:16:54.539Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "jersey: PHX -> CHA",
+      "archivedAt": "2026-10-09T08:56:29.214Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T19:18:11.985Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/royce-o-neale-50b3e0b1-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/royce-o-neale/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T19:18:25.136Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/royce-o-neale-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/royce-o-neale/out.png",
+        "fixes": [],
+        "base": "c6c0a0314ceb6b1173970d4dd0792f0fc34489ce",
+        "importedAt": "2026-10-12T03:34:28.706Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0041,
+          "face": 2.7,
+          "purity": 0.992,
+          "coverage": 0.177,
+          "strays": 2,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1015,
+          "oldEdge": 0,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/royce-o-neale-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:51.540Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/royce-o-neale.webp",
+    "base": "c6c0a0314ceb6b1173970d4dd0792f0fc34489ce",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:20.323Z"
+  }
+}

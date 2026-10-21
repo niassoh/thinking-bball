@@ -1,0 +1,180 @@
+{
+  "player": "De'Aaron Fox",
+  "playerId": "de-aaron-fox",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/03/GettyImages-2204242588-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/03/GettyImages-2204242588-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/deaaron-fox-spurs-contract-extension",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/de-aaron-fox.jpg",
+  "selectedAt": "2026-10-05T01:40:56.173Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 773,
+    "y": 57,
+    "size": 874
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "SAS black City Edition (ATX) 2024-25",
+  "concerns": "same team but 2024-25 season (Mar 2025); energy a bit below McCain; only usable nba.com candidate",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T18:04:59.895Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/de-aaron-fox-cd920a0b-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/de-aaron-fox/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T18:05:09.999Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/de-aaron-fox.png",
+  "webp": [
+    "assets/players/webp/de-aaron-fox-1024.webp",
+    "assets/players/webp/de-aaron-fox-400.webp",
+    "assets/players/webp/de-aaron-fox-200.webp",
+    "assets/players/webp/de-aaron-fox-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/03/GettyImages-2204242588-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-05T18:05:10.300Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:38.031Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:15:42.251Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/de-aaron-fox-cd920a0b-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/de-aaron-fox/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:16:13.931Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/de-aaron-fox-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/de-aaron-fox/out.png",
+        "fixes": [],
+        "base": "e3a794a4aa066f3f66b52fa85ab12f8aec9e090e",
+        "importedAt": "2026-10-11T19:40:08.208Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0044,
+          "face": 2.3,
+          "purity": 0.983,
+          "coverage": 0.063,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1059,
+          "oldEdge": 0,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/de-aaron-fox-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:49:03.209Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/de-aaron-fox.webp",
+    "base": "e3a794a4aa066f3f66b52fa85ab12f8aec9e090e",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:03.821Z"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "player": "Al Horford",
+  "playerId": "al-horford",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-2213406391.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-2213406391.jpg",
+  "sourcePage": "https://www.nba.com/news/celtics-horford-porzingis-game-3",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/al-horford.jpg",
+  "selectedAt": "2026-10-05T19:50:12.168Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 730,
+    "y": 127,
+    "size": 546
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "GSW (jersey edit from brandin-podziemski's)",
+  "concerns": "LAST RESORT older team: Celtics 2024-25 playoffs, not the 2025-26 Warriors; only 2025-26 GSW photos found were a profile (captioned as talking to media) and two drives with an arm across the face (Suns Feb 5 2026 gallery); Warriors posts, Nuggets/Hornets/Celtics galleries had none; blurred teammate behind at right; face ~206px",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:21.691Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "GSW (jersey edit from brandin-podziemski's)",
+      "file": "assets/players/attempts/al-horford-265baf52-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/al-horford/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:42.515Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/al-horford.png",
+  "webp": [
+    "assets/players/webp/al-horford-1024.webp",
+    "assets/players/webp/al-horford-400.webp",
+    "assets/players/webp/al-horford-200.webp",
+    "assets/players/webp/al-horford-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/05/GettyImages-2213406391.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:42.771Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: BOS -> GSW",
+      "archivedAt": "2026-10-09T08:56:21.608Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T02:50:36.362Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/al-horford-265baf52-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/al-horford/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T02:50:49.607Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/al-horford-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/al-horford/out.png",
+        "fixes": [],
+        "base": "f3d5ccd63cac4f790be4f44e955b39bc44aac446",
+        "importedAt": "2026-10-11T18:04:40.384Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0042,
+          "face": 6,
+          "purity": 0.992,
+          "coverage": 0.267,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1010,
+          "oldEdge": 0.001,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/al-horford-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: jersey fully keyed, logos/patches gone, accessories (goggles, headbands, T-shirt) untouched",
+          "at": "2026-10-11T18:05:55.532Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/al-horford.webp",
+    "base": "f3d5ccd63cac4f790be4f44e955b39bc44aac446",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T18:05:56.158Z"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "player": "Nene",
+  "playerId": "nene",
+  "sourceUrl": "https://cdn.bleacherreport.net/images_root/slides/photos/000/679/749/87910705_original.jpg",
+  "downloadUrl": "https://cdn.bleacherreport.net/images_root/slides/photos/000/679/749/87910705_original.jpg",
+  "sourcePage": "https://bleacherreport.com/articles/590652-bye-bye-baby-10-reasons-the-denver-nuggets-need-to-trade-nene-now",
+  "license": "unknown (Getty Images via Bleacher Report)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2009-05-21 (2009 West finals Game 2 at LAL, Staples Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1998
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/nene.jpg",
+  "selectedAt": "2026-10-17T05:48:40.891Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1001,
+    "y": 0,
+    "size": 1998
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (mouth open making his case to referee Steve Javie, eyes engaged off-camera, not shouting)",
+  "jersey": "DEN light-blue road #31, 2008-09 playoffs",
+  "concerns": "not nba.com or Commons: Getty photo (id 87910705, caption checked: talks with referee in Game 2) hosted unwatermarked on Bleacher Report; nba.com only had 200-300px legacy Nuggets thumbnails and Commons only Wizards-era or straining/tiny Nuggets shots; arguing with a referee (mild); head fills the frame so the max square (full image height) puts hair top at ~5% and chin at ~63%; referee shoulder in lower-left of crop; one season before his best 2009-10",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.bleacherreport.net/images_root/slides/photos/000/679/732/107805975_original.jpg",
+      "note": "(Getty 107805975, Dec 28 2010 vs POR, DEN white, sharp 525px head, but closed-mouth look-off during a break, energy ~4.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.bleacherreport.net/images_root/slides/photos/000/679/741/106923571_original.jpg",
+      "note": "(Getty 106923571, Nov 16 2010 vs NYK, DEN white, huge face grinning up from the floor, head tilted sideways near-horizontal)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nene_Hilario_January_25%2C_2011.jpg",
+      "note": "(CC BY-SA 2.0, Jan 25 2011 at WAS, DEN blue, straining for a rebound with arm across, too intense)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:00.494Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/nene-bd0ddad6-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/nene/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.998Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/nene.png",
+  "webp": [
+    "assets/players/webp/nene-1024.webp",
+    "assets/players/webp/nene-400.webp",
+    "assets/players/webp/nene-200.webp",
+    "assets/players/webp/nene-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.bleacherreport.net/images_root/slides/photos/000/679/749/87910705_original.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:54.483Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/nene-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/nene/out.png",
+        "fixes": [],
+        "base": "d6bbaf666cda1aa961ced9df788c746e81b1ab97",
+        "importedAt": "2026-10-17T11:07:38.011Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0047,
+          "face": 4.9,
+          "purity": 0.978,
+          "coverage": 0.083,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2029,
+          "oldEdge": 0,
+          "shadeLevels": 11,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/nene-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:12:00.444Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/nene.webp",
+    "base": "d6bbaf666cda1aa961ced9df788c746e81b1ab97",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:12:00.649Z"
+  }
+}

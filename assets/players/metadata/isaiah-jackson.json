@@ -1,0 +1,64 @@
+{
+  "player": "Isaiah Jackson",
+  "playerId": "isaiah-jackson",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/03/Getty-Images-2264831130.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/03/Getty-Images-2264831130.jpg",
+  "sourcePage": "https://www.nba.com/clippers/photos/gallery-clippers-vs-memphis-grizzlies-3-7-26",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-03-07 (at MEM, FedExForum; Getty 2264831130 caption: drives to the basket)",
+  "originalSize": null,
+  "storedSize": [
+    1500,
+    1000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/isaiah-jackson.jpg",
+  "selectedAt": "2026-10-17T05:59:12.342Z",
+  "sourceSelectionScore": 8,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 1,
+    "faceSize": 0,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 866,
+    "y": 504,
+    "size": 250
+  },
+  "needsReview": "no usable LAC in-game face found: only ~30 games with LAC after the Feb 5 2026 trade. Searched: 32 nba.com LAC game pages, 22 Clippers team-site galleries (10 Getty photos of him, all distant action/dunks, plus 96 team-photographer photos without him in close-up), SI Clippers and Pacers sitemaps (heroes: a warmup-shirt sideline photo, other players), nba.com Pacers/Clippers news sitemaps, Commons (2022 IND, tiny). Consider the warmup alt only if the user accepts it, or wait for 2026-27 game photos",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (driving to the rim, mouth open, eyes up at the ball)",
+  "jersey": "LAC red Statement 2025-26",
+  "concerns": "FLAG: face only ~105px (1500x1000 web copy, overhead rim-camera angle, head foreshortened from above); the ball enters the right of the crop and his arm the lower right; mid-drive so a little past McCain",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_clippers/01knscgdagvyeptzy0sc.jpg",
+      "note": "(SI Apr 2026 Jackson injury-timeline article hero: large sharp face but Clippers warmup shirt on the sideline, rejected)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/11/jackson-rebound.jpg",
+      "note": "(nba.com, IND yellow 2024-25, overhead rim-cam rebound, face ~150px, older team)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

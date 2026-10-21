@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "SAC",
+  "gp": 62,
+  "generatedAt": "2026-10-02T03:52:11.859Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · SAC",
+      "minutes": 1364,
+      "poss": 2850,
+      "net": -8.947368421052632
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · SAC",
+      "minutes": 2587,
+      "poss": 5333.5,
+      "net": -10.593418955657635
+    },
+    {
+      "label": "On, w/o DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 727,
+      "poss": 1520,
+      "net": -8.092105263157896
+    },
+    {
+      "label": "On, w/o Raynaud",
+      "sub": "2025–26 · SAC",
+      "minutes": 831,
+      "poss": 1748,
+      "net": -6.464530892448512
+    },
+    {
+      "label": "On, w/o Clifford",
+      "sub": "2025–26 · SAC",
+      "minutes": 755,
+      "poss": 1592,
+      "net": -9.045226130653267
+    },
+    {
+      "label": "Neither Monk nor DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 819,
+      "poss": 1674.5,
+      "net": -6.509405792773962
+    }
+  ]
+}

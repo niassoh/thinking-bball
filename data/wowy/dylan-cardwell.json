@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "SAC",
+  "gp": 44,
+  "generatedAt": "2026-10-02T05:21:19.999Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · SAC",
+      "minutes": 907,
+      "poss": 1853.5,
+      "net": -3.5608308605341246
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · SAC",
+      "minutes": 3044,
+      "poss": 6330,
+      "net": -11.911532385466035
+    },
+    {
+      "label": "On, w/o DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 524,
+      "poss": 1078.5,
+      "net": -0.6490496059341678
+    },
+    {
+      "label": "On, w/o Raynaud",
+      "sub": "2025–26 · SAC",
+      "minutes": 672,
+      "poss": 1362,
+      "net": -0.4405286343612335
+    },
+    {
+      "label": "On, w/o Clifford",
+      "sub": "2025–26 · SAC",
+      "minutes": 338,
+      "poss": 702.5,
+      "net": -11.245551601423486
+    },
+    {
+      "label": "Neither Cardwell nor DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 1022,
+      "poss": 2116,
+      "net": -10.633270321361058
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "player": "Kevin Johnson",
+  "playerId": "kevin-johnson",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/i.cdn.turner.com/drp/nba/suns/sites/default/files/johnsonkj150423_777x442.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/i.cdn.turner.com/drp/nba/suns/sites/default/files/johnsonkj150423_777x442.jpg",
+  "sourcePage": "https://www.nba.com/suns/history/suns-throwback-kevin-johnsons-unretirement",
+  "license": "unknown (NBA.com / Suns)",
+  "licenseUrl": null,
+  "author": "NBA.com (Suns team site, uncredited)",
+  "credit": null,
+  "photoDate": "c. 1996-98 (PHX home vs UTA and John Stockton; dated by the Jazz 1996+ road uniform, no caption)",
+  "originalSize": null,
+  "storedSize": [
+    777,
+    442
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kevin-johnson.jpg",
+  "selectedAt": "2026-10-17T05:58:45.573Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 325,
+    "y": 0,
+    "size": 290
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (bringing the ball up, glancing off to his right at Stockton, mouth open mid-breath)",
+  "jersey": "PHX white home sunburst #7, c. 1996-98",
+  "concerns": "small film-scan source (777x442): head ~140px, face ~110px, crop 290px will be upscaled, grainy and soft; 3/4 profile looking to the side; hair top only ~3% below the crop top (head near the image edge); exact game unverified",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/legacy/main_photo/9495_johnson_2.jpg",
+      "note": "(PHX purple road 1994-95, frontal, mouth open but eyes down at the ball, energy ~6, 800x450)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/93finals_08.jpg",
+      "note": "(1993 Finals at CHI, purple road, larger face ~280px, looking up mouth open, but a low-angle courtside shot with a microphone at the edge, likely not live play)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/99000404bg_johnson_3.jpg",
+      "note": "(PHX white home, broad grin, energy ~7, 777x442)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/05-triple-double-kj.jpg",
+      "note": "(PHX black alternate 1990s, 1500px, but shouting, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:58.759Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kevin-johnson-db41d574-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/kevin-johnson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.368Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kevin-johnson.png",
+  "webp": [
+    "assets/players/webp/kevin-johnson-1024.webp",
+    "assets/players/webp/kevin-johnson-400.webp",
+    "assets/players/webp/kevin-johnson-200.webp",
+    "assets/players/webp/kevin-johnson-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/i.cdn.turner.com/drp/nba/suns/sites/default/files/johnsonkj150423_777x442.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:50.821Z",
+  "background": "transparent"
+}

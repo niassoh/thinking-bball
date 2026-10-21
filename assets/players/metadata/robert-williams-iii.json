@@ -1,0 +1,143 @@
+{
+  "player": "Robert Williams III",
+  "playerId": "robert-williams-iii",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/06/williams2.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/06/williams2.jpg",
+  "sourcePage": "https://www.nba.com/news/robert-williams-iii-free-agency-2026",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/robert-williams-iii.jpg",
+  "selectedAt": "2026-10-05T19:33:18.163Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 430,
+    "y": 0,
+    "size": 960
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "different (in-game grin rather than alert look)",
+  "jersey": "POR black City Edition (PDX), likely 2025-26",
+  "concerns": "hero image not Getty-named, so no caption check; identity verified visually (#35 PDX, Robert Williams III); smiling while looking off-camera rather than McCain-style alertness; exact game date unknown (at Charlotte)",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:33.635Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/robert-williams-iii-61050041-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/robert-williams-iii/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:02:54.138Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/robert-williams-iii.png",
+  "webp": [
+    "assets/players/webp/robert-williams-iii-1024.webp",
+    "assets/players/webp/robert-williams-iii-400.webp",
+    "assets/players/webp/robert-williams-iii-200.webp",
+    "assets/players/webp/robert-williams-iii-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/06/williams2.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:02:54.437Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/robert-williams-iii-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/robert-williams-iii/out.png",
+        "fixes": [],
+        "base": "aea9872fb4237faaac0823b03fe4f71259b822dd",
+        "importedAt": "2026-10-12T03:34:27.305Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0028,
+          "face": 2.9,
+          "purity": 0.99,
+          "coverage": 0.128,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 881,
+          "oldEdge": 0.132,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/robert-williams-iii-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "old-edge false positive: black jersey beside his locks",
+          "at": "2026-10-12T03:41:53.759Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/robert-williams-iii.webp",
+    "base": "aea9872fb4237faaac0823b03fe4f71259b822dd",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:19.924Z"
+  }
+}

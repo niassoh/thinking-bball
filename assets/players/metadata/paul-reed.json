@@ -1,0 +1,140 @@
+{
+  "player": "Paul Reed",
+  "playerId": "paul-reed",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_pistons/01jfb1tgvjky0vzfmwv1.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_pistons/01jfb1tgvjky0vzfmwv1.jpg",
+  "sourcePage": "https://www.si.com/nba/pistons/onsi/news/detroit-pistons-coach-addresses-recent-roster-moves-after-win-vs-heat",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Imagn Images (photographer uncredited on page)",
+  "credit": null,
+  "photoDate": "2024-25 season, by Dec 18 2024 (undated hero photo)",
+  "originalSize": null,
+  "storedSize": [
+    1986,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/paul-reed.jpg",
+  "selectedAt": "2026-10-17T05:55:45.918Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 721,
+    "y": 627,
+    "size": 744
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (rising into a jumper, eyes up at the rim, brow knit, lips pushed out; mouth closed)",
+  "jersey": "DET blue Icon 2024-25",
+  "concerns": "FLAG: 2024-25, a season older than wanted (2025-26 DET photos found were a near-profile look-off, a jersey-pulling celebration and small Getty action shots); shooting arms frame both sides of the head (not over the face); editorial wire photo via SI.com, not nba.com; game unverified",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_pistons/01kh95yrezjpaxw6t5mc.jpg",
+      "note": "(SI Feb 2026 Reed article hero, 2025-26 DET navy vs TOR, lips parted energy ~6, but near-profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/11/reed-emotion-meta-111225.jpg",
+      "note": "(nba.com, Nov 12 2025 vs CHI, City Edition, pulling his jersey and yelling, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:00.996Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/paul-reed-ed99b39a-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/paul-reed/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.161Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/paul-reed.png",
+  "webp": [
+    "assets/players/webp/paul-reed-1024.webp",
+    "assets/players/webp/paul-reed-400.webp",
+    "assets/players/webp/paul-reed-200.webp",
+    "assets/players/webp/paul-reed-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_pistons/01jfb1tgvjky0vzfmwv1.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:55.316Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/paul-reed-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/paul-reed/out.png",
+        "fixes": [],
+        "base": "33a7327c99ef2f819e39d321a2afaafa7c52f811",
+        "importedAt": "2026-10-17T11:07:41.489Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0047,
+          "face": 2.7,
+          "purity": 0.991,
+          "coverage": 0.147,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 884,
+          "oldEdge": 0,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/paul-reed-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:12:01.414Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/paul-reed.webp",
+    "base": "33a7327c99ef2f819e39d321a2afaafa7c52f811",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:12:01.640Z"
+  }
+}

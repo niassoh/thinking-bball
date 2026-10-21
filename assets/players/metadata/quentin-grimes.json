@@ -1,0 +1,211 @@
+{
+  "player": "Quentin Grimes",
+  "playerId": "quentin-grimes",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/10/Quentin_Grimes_1920x1080.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/10/Quentin_Grimes_1920x1080.jpg",
+  "sourcePage": "https://www.nba.com/news/grimes-signs-qualifying-offer-with-76ers",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/quentin-grimes.jpg",
+  "selectedAt": "2026-10-05T02:35:17.931Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 677,
+    "y": 53,
+    "size": 607
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "slightly lower (focused bring-up, mouth slightly open)",
+  "jersey": "LAL (jersey edit from austin-reaves's)",
+  "concerns": "renamed nba.com hero (no Getty caption; identity confirmed visually: PHI #5 Grimes); likely a 2024-25 photo; energy a touch below band",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:29.163Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "LAL (jersey edit from austin-reaves's)",
+      "file": "assets/players/attempts/quentin-grimes-00cc01ce-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/quentin-grimes/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:59.158Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/quentin-grimes.png",
+  "webp": [
+    "assets/players/webp/quentin-grimes-1024.webp",
+    "assets/players/webp/quentin-grimes-400.webp",
+    "assets/players/webp/quentin-grimes-200.webp",
+    "assets/players/webp/quentin-grimes-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/10/Quentin_Grimes_1920x1080.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:59.367Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:46.689Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:10:44.223Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/quentin-grimes-00cc01ce-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/quentin-grimes/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:10:51.346Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "jersey: PHI -> LAL",
+      "archivedAt": "2026-10-09T08:56:29.100Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T19:11:13.971Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/quentin-grimes-00cc01ce-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/quentin-grimes/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T19:11:24.675Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/quentin-grimes-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/quentin-grimes/out.png",
+        "fixes": [],
+        "base": "d322968f907cc6b74bca4098eb560711a8c178ea",
+        "importedAt": "2026-10-12T03:34:23.488Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 0
+          },
+          "silhouette": 0.0042,
+          "face": 2.4,
+          "purity": 0.99,
+          "coverage": 0.126,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1611,
+          "oldEdge": 0,
+          "shadeLevels": 10,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/quentin-grimes-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:51.375Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/quentin-grimes.webp",
+    "base": "d322968f907cc6b74bca4098eb560711a8c178ea",
+    "shift": {
+      "dx": -1,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:19.145Z"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "DEN",
+  "gp": 57,
+  "generatedAt": "2026-10-02T04:14:22.284Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · DEN",
+      "minutes": 861,
+      "poss": 1784,
+      "net": 1.1210762331838564
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · DEN",
+      "minutes": 3125,
+      "poss": 6417.5,
+      "net": 6.264121542656797
+    },
+    {
+      "label": "On, w/o Murray",
+      "sub": "2025–26 · DEN",
+      "minutes": 496,
+      "poss": 1035,
+      "net": 0.7729468599033816
+    },
+    {
+      "label": "On, w/o Jokić",
+      "sub": "2025–26 · DEN",
+      "minutes": 450,
+      "poss": 910.5,
+      "net": -10.98297638660077
+    },
+    {
+      "label": "On, w/o Hardaway Jr.",
+      "sub": "2025–26 · DEN",
+      "minutes": 547,
+      "poss": 1134.5,
+      "net": 5.376817981489642
+    },
+    {
+      "label": "Neither Strawther nor Murray",
+      "sub": "2025–26 · DEN",
+      "minutes": 838,
+      "poss": 1727,
+      "net": -0.9843659525188188
+    }
+  ]
+}

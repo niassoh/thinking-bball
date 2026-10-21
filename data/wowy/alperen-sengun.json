@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "HOU",
+  "gp": 72,
+  "generatedAt": "2026-10-02T04:31:13.710Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · HOU",
+      "minutes": 2398,
+      "poss": 4782.5,
+      "net": 4.286461055933089
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · HOU",
+      "minutes": 1583,
+      "poss": 3198.5,
+      "net": 6.972018133500078
+    },
+    {
+      "label": "On, w/o Thompson",
+      "sub": "2025–26 · HOU",
+      "minutes": 419,
+      "poss": 828.5,
+      "net": -4.465902232951117
+    },
+    {
+      "label": "On, w/o Durant",
+      "sub": "2025–26 · HOU",
+      "minutes": 696,
+      "poss": 1349.5,
+      "net": 8.002964060763246
+    },
+    {
+      "label": "On, w/o Smith Jr.",
+      "sub": "2025–26 · HOU",
+      "minutes": 638,
+      "poss": 1288.5,
+      "net": 3.104384943733023
+    },
+    {
+      "label": "Neither Sengun nor Thompson",
+      "sub": "2025–26 · HOU",
+      "minutes": 608,
+      "poss": 1236.5,
+      "net": 7.844723008491711
+    }
+  ]
+}

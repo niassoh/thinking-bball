@@ -1,0 +1,139 @@
+{
+  "player": "Terry Rozier",
+  "playerId": "terry-rozier",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2242677292-scaled-e1773076729931.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2242677292-scaled-e1773076729931.jpg",
+  "sourcePage": "https://www.nba.com/news/hornets-heat-2nd-round-pick-terry-rozier-trade",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1568,
+    880
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/terry-rozier.jpg",
+  "selectedAt": "2026-10-05T19:34:53.962Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 543,
+    "y": 0,
+    "size": 504
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (dribbling, eyes ahead, mouth open)",
+  "jersey": "MIA white Association 2025-26 preseason (Oct 17 2025)",
+  "concerns": "PRESEASON game in regular uniform (he did not play in 2025-26 regular season after Oct 2025 leave); face ~191px, slightly soft",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:34.468Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/terry-rozier-08c79d01-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/terry-rozier/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:03:05.998Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/terry-rozier.png",
+  "webp": [
+    "assets/players/webp/terry-rozier-1024.webp",
+    "assets/players/webp/terry-rozier-400.webp",
+    "assets/players/webp/terry-rozier-200.webp",
+    "assets/players/webp/terry-rozier-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/03/GettyImages-2242677292-scaled-e1773076729931.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:03:06.261Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/terry-rozier-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/terry-rozier/out.png",
+        "fixes": [],
+        "base": "e264c083b325b714ab828273cc4bbeb7a90f0bb0",
+        "importedAt": "2026-10-12T03:34:39.012Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.005,
+          "face": 2.5,
+          "purity": 0.994,
+          "coverage": 0.244,
+          "strays": 4,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2547,
+          "oldEdge": 0.013,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/terry-rozier-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:52.043Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/terry-rozier.webp",
+    "base": "e264c083b325b714ab828273cc4bbeb7a90f0bb0",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:22.676Z"
+  }
+}

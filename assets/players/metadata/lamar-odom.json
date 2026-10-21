@@ -1,0 +1,164 @@
+{
+  "player": "Lamar Odom",
+  "playerId": "lamar-odom",
+  "sourceUrl": "https://cdn.nba.com/manage/2024/10/GettyImages-112205386-scaled-e1730148972912.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2024/10/GettyImages-112205386-scaled-e1730148972912.jpg",
+  "sourcePage": "https://www.nba.com/news/nba-players-born-on-nov-6",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "April 13, 2011 (at SAC, Power Balance Pavilion)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1442
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/lamar-odom.jpg",
+  "selectedAt": "2026-10-14T03:40:06.218Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 862,
+    "y": 7,
+    "size": 850
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (glancing just off-camera, lips parted in a half-smile mid-breath)",
+  "jersey": "LAL purple road 2010-11 (Sixth Man of the Year season)",
+  "concerns": "none (energy at the low end of the band; slight smile)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/LamarOdom.jpg",
+      "note": "(LAL purple 2007, 305px, arguing a call with arm out, energy ~8, Bynum’s face behind him in the crop)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/LakersSpurs0693.jpg",
+      "note": "(LAL 2007, 141px, too small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:08.350Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/lamar-odom-1a0e0d43-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/lamar-odom/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:21.357Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/lamar-odom.png",
+  "webp": [
+    "assets/players/webp/lamar-odom-1024.webp",
+    "assets/players/webp/lamar-odom-400.webp",
+    "assets/players/webp/lamar-odom-200.webp",
+    "assets/players/webp/lamar-odom-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2024/10/GettyImages-112205386-scaled-e1730148972912.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:22.109Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/lamar-odom-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/lamar-odom/out.png",
+        "fixes": [],
+        "base": "70c2d996229066ed12bd159a4b2ebb3f2c7fa403",
+        "importedAt": "2026-10-14T20:26:14.893Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0058,
+          "face": 3.8,
+          "purity": 0.993,
+          "coverage": 0.215,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2203,
+          "oldEdge": 0,
+          "shadeLevels": 11,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/lamar-odom-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:13.817Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/lamar-odom.webp",
+    "base": "70c2d996229066ed12bd159a4b2ebb3f2c7fa403",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:14.074Z"
+  }
+}

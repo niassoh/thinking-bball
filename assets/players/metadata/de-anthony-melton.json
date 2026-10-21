@@ -1,0 +1,70 @@
+{
+  "player": "De'Anthony Melton",
+  "playerId": "de-anthony-melton",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_warriors/01kbdjt6n146mjc9fa0f.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_warriors/01kbdjt6n146mjc9fa0f.jpg",
+  "sourcePage": "https://www.si.com/nba/warriors/onsi/news/predicting-warriors-minutes-distribution-with-melton-seth-curry-in-rotation-01kbdebajdgq",
+  "license": "unknown (Imagn Images on SI.com)",
+  "licenseUrl": null,
+  "author": "David Richard / Imagn Images",
+  "credit": null,
+  "photoDate": "c. 2024-11-08 (at CLE, Rocket Mortgage FieldHouse; Cleveland photographer, Donovan Mitchell defending; his only Warriors games before the Dec 2025 upload were Oct-Nov 2024)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/de-anthony-melton.jpg",
+  "selectedAt": "2026-10-17T08:42:37.213Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 905,
+    "y": 311,
+    "size": 1250
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (mid-drive, mouth open mid-breath, locked-in look, but eyes ahead-down rather than up and off)",
+  "jersey": "GSW white association #8, 2024-25",
+  "concerns": "SI/Imagn editorial photo, not nba.com, license unknown; game date inferred, not captioned (figcaption only names him and the photographer); 2024-25 rather than 2025-26/2026-27 (same team, same look); Mitchell’s shoulder at the left edge of the crop; nba.com has no usable 2025-26 or 2026 preseason Melton photo (Warriors post no game galleries; nba.com articles reuse two 2024 isos)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/11/melton-iso.jpg",
+      "note": "(nba.com, GSW blue at POR 2024-25, big frontal face but a full open-mouthed laugh, mood off from McCain)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_warriors/01k6ghhjze44ht8g59vq.jpg",
+      "note": "(SI, GSW blue, broad smile with hands out, head near profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/10/deanthony-melton-iso.jpg",
+      "note": "(nba.com, GSW blue dribbling, near-neutral, smaller face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,117 @@
+{
+  "player": "Charles Barkley",
+  "playerId": "charles-barkley",
+  "sourceUrl": "https://cdn.nba.com/manage/2022/01/NEW-Charles-Barkley-75-Stories-16x9-1.jpeg",
+  "downloadUrl": "https://cdn.nba.com/manage/2022/01/NEW-Charles-Barkley-75-Stories-16x9-1.jpeg",
+  "sourcePage": "https://www.nba.com/watch/video/75-stories-charles-barkley",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": "c. 1992-96 (PHX white home; dated by uniform, no caption)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/charles-barkley.jpg",
+  "selectedAt": "2026-10-14T03:26:53.992Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 0,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 1020,
+    "y": 0,
+    "size": 900
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches in energy (looking up and off-camera, mouth open) but smiling rather than concentrating",
+  "jersey": "PHX white home, c. 1992-96",
+  "concerns": "FLAG: outside his 1996-99 window and not the HOU target jersey; no in-game Rockets photo of him exists in nba.com articles, galleries or Commons (searched ~30 pages); source is a 75 Stories title graphic, crop kept right of the text panel (tighter than 2.65x face because the frame is only 1080px tall); film grain",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2021/09/GettyImages-944725588-scaled-e1630680396729.jpg",
+      "note": "(caption-checked Getty, PHX at BOS Apr 2 1993, sharp 326px, but a broad laugh at the camera)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2022/03/Charles-Bakley-copy-scaled-e1647979412811.jpg",
+      "note": "(PHX white cut out onto a 75th graphic, talking with fist up, energy ~7, 314px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:36:59.898Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/charles-barkley-3bbe8c5e-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/charles-barkley/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:02.073Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/charles-barkley.png",
+  "webp": [
+    "assets/players/webp/charles-barkley-1024.webp",
+    "assets/players/webp/charles-barkley-400.webp",
+    "assets/players/webp/charles-barkley-200.webp",
+    "assets/players/webp/charles-barkley-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2022/01/NEW-Charles-Barkley-75-Stories-16x9-1.jpeg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:02.744Z",
+  "background": "transparent"
+}

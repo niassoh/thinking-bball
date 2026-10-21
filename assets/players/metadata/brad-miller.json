@@ -1,0 +1,149 @@
+{
+  "player": "Brad Miller",
+  "playerId": "brad-miller",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612758/2022/08/BRAD-MILLER-BLOG-POST-1920x1080-1.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612758/2022/08/BRAD-MILLER-BLOG-POST-1920x1080-1.jpg",
+  "sourcePage": "https://www.nba.com/kings/news/true-to-himself-and-his-country-roots-brad-miller-found-natural-fit-with-kings",
+  "license": "unknown (Kings / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Sacramento Kings / NBAE",
+  "credit": null,
+  "photoDate": "c. 2003-2008 (Kings home game at ARCO Arena, undated)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/brad-miller.jpg",
+  "selectedAt": "2026-10-17T05:39:55.689Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 790,
+    "y": 0,
+    "size": 1080
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches in intensity, different mood (broad open-mouth grin, eyes up and off-camera, sweat on the shoulders)",
+  "jersey": "SAC white home #52 (purple trim), c. 2003-08",
+  "concerns": "Kings-site blog header: renamed image with an added film-grain filter and a red/blue tint strip at the far left edge (outside the crop); no Getty caption, game and date unknown; laughing grin rather than game focus; head top close to the frame top (box limited by the 1080 px height)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brad_Miller.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, Feb 2009, mouth open mid-pass, energy ~6.5, but Bulls #52 not Kings)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Yao_Ming_shooting_over_Brad_Miller_2008-02-13.jpg",
+      "note": "(CC0, Kings purple road 2008, near-profile with his own arm across the frame, face ~150 px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:51.896Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/brad-miller-359a58e9-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/brad-miller/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.327Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/brad-miller.png",
+  "webp": [
+    "assets/players/webp/brad-miller-1024.webp",
+    "assets/players/webp/brad-miller-400.webp",
+    "assets/players/webp/brad-miller-200.webp",
+    "assets/players/webp/brad-miller-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612758/2022/08/BRAD-MILLER-BLOG-POST-1920x1080-1.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:38.115Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/brad-miller-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/brad-miller/out.png",
+        "fixes": [],
+        "base": "c355b578456de6e6408329070b61030712731110",
+        "importedAt": "2026-10-17T11:06:58.018Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0047,
+          "face": 6.8,
+          "purity": 0.989,
+          "coverage": 0.138,
+          "strays": 203,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1182,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/brad-miller-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:52.095Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/brad-miller.webp",
+    "base": "c355b578456de6e6408329070b61030712731110",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:52.313Z"
+  }
+}

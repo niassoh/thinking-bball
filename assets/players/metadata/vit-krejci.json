@@ -1,0 +1,134 @@
+{
+  "player": "Vít Krejčí",
+  "playerId": "vit-krejci",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/02/2259813141.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/02/2259813141.jpg",
+  "sourcePage": "https://www.nba.com/suns/photos/sunsat-trail-blazers-feb-3-2026",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-02-03 (vs PHX, Moda Center, first half; Getty caption: celebrates after making a three)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/vit-krejci.jpg",
+  "selectedAt": "2026-10-17T05:56:21.376Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1157,
+    "y": 135,
+    "size": 520
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (jogging back after a three, eyes up and off to his right, mouth open mid-breath, a small fist pump below the face)",
+  "jersey": "POR black/teal PDX City Edition #27, 2025-26",
+  "concerns": "caption says celebrates, but the frame is a mild look-off on the jog back, no shout; head ~420px in the 5000px original, ~250px in the stored 3000px copy; his fist sits at the bottom-left edge of the crop; head tilted slightly",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/Vit_Krejci_1920x1080.jpg",
+      "note": "(nba.com trade article, ATL black #27 2025-26, dribbling, wrong team)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:03.001Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/vit-krejci-266d0ae6-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/vit-krejci/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.971Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/vit-krejci.png",
+  "webp": [
+    "assets/players/webp/vit-krejci-1024.webp",
+    "assets/players/webp/vit-krejci-400.webp",
+    "assets/players/webp/vit-krejci-200.webp",
+    "assets/players/webp/vit-krejci-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/02/2259813141.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:59.492Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/vit-krejci-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/vit-krejci/out.png",
+        "fixes": [],
+        "base": "d26a672bd62121d854aa412e7eb8a03fa90770af",
+        "importedAt": "2026-10-17T11:07:51.892Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.006,
+          "face": 2.4,
+          "purity": 0.979,
+          "coverage": 0.084,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1131,
+          "oldEdge": 0.026,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/vit-krejci-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:12:03.698Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/vit-krejci.webp",
+    "base": "d26a672bd62121d854aa412e7eb8a03fa90770af",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:12:03.906Z"
+  }
+}

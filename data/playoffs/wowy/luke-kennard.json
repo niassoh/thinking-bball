@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "LAL",
+  "gp": 10,
+  "generatedAt": "2026-10-09T18:20:28.370Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 326,
+      "poss": 631.5,
+      "net": -1.583531274742676
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 159,
+      "poss": 303,
+      "net": -12.871287128712872
+    },
+    {
+      "label": "On, w/o Hachimura",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 58,
+      "poss": 110,
+      "net": 9.090909090909092
+    },
+    {
+      "label": "On, w/o James",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 81,
+      "poss": 161.5,
+      "net": -9.287925696594428
+    },
+    {
+      "label": "On, w/o Smart",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 99,
+      "poss": 190,
+      "net": -8.947368421052632
+    },
+    {
+      "label": "Neither Kennard nor Hachimura",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 40,
+      "poss": 76.5,
+      "net": -9.15032679738562
+    }
+  ]
+}

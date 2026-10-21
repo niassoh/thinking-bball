@@ -1,0 +1,173 @@
+{
+  "player": "Aaron Wiggins",
+  "playerId": "aaron-wiggins",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/06/wiggins1.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/06/wiggins1.jpg",
+  "sourcePage": "https://www.nba.com/news/reports-hawks-acquire-guard-aaron-wiggins-from-thunder",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/aaron-wiggins.jpg",
+  "selectedAt": "2026-10-05T19:16:52.967Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 709,
+    "y": 10,
+    "size": 495
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "ATL (jersey edit from cj-mccollum's)",
+  "concerns": "non-Getty hero file, no caption check; identity verified visually (#21 Thunder, Aaron Wiggins); face ~187px, slightly soft; traded to ATL in 2026 offseason",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:21.513Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "ATL (jersey edit from cj-mccollum's)",
+      "file": "assets/players/attempts/aaron-wiggins-ca8f59e2-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/aaron-wiggins/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:42.261Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/aaron-wiggins.png",
+  "webp": [
+    "assets/players/webp/aaron-wiggins-1024.webp",
+    "assets/players/webp/aaron-wiggins-400.webp",
+    "assets/players/webp/aaron-wiggins-200.webp",
+    "assets/players/webp/aaron-wiggins-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/06/wiggins1.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:42.465Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: OKC -> ATL",
+      "archivedAt": "2026-10-09T08:56:21.399Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T02:50:36.079Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/aaron-wiggins-ca8f59e2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/aaron-wiggins/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T02:50:48.841Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/aaron-wiggins-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/aaron-wiggins/out.png",
+        "fixes": [],
+        "base": "123194418685542e3a93b1fa12e725995d07406c",
+        "importedAt": "2026-10-11T17:33:43.428Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0046,
+          "face": 3.2,
+          "purity": 0.987,
+          "coverage": 0.205,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1510,
+          "oldEdge": 0,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/aaron-wiggins-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: jersey fully keyed, logos/patches gone, accessories untouched; aj-green's 1.6% silhouette is redrawn hair edges (unused)",
+          "at": "2026-10-11T17:34:48.678Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/aaron-wiggins.webp",
+    "base": "123194418685542e3a93b1fa12e725995d07406c",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T17:34:49.292Z"
+  }
+}

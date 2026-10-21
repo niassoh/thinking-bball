@@ -1,0 +1,93 @@
+{
+  "player": "Spencer Jones",
+  "playerId": "spencer-jones",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/inside_the_nuggets/01kbdefsgxmzsyycxrbv.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/inside_the_nuggets/01kbdefsgxmzsyycxrbv.jpg",
+  "sourcePage": "https://www.si.com/nba/nuggets/onsi/news/denver-nuggets-early-standout-locked-up-new-contract-spencer-jones",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Mark J. Rebilas / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-11-29 (at PHX, Mortgage Matchup Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2101
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/spencer-jones.jpg",
+  "selectedAt": "2026-10-17T05:37:02.982Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 714,
+    "y": 60,
+    "size": 1500
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (looking up and off-camera, mouth open mid-breath, alert)",
+  "jersey": "DEN white association 2025-26",
+  "concerns": "editorial Imagn photo from SI.com, not nba.com (no usable nba.com or Commons photo found; team galleries only carry 1024px action shots); stored image downscaled from 5128px to 3000px",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ReutersImages/mmsport/inside_the_nuggets/01kygreq1nr7pnkwq7eb.jpg",
+      "note": "(Mar 24 2026 at PHX, white, look-off with lips pressed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/inside_the_nuggets/01kedjme827twasfkarf.jpg",
+      "note": "(Dec 25 2025 vs MIN, black city, high-five with arm beside head and pursed lips, energy ~6)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:02.285Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/spencer-jones-4dd8e1a4-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/spencer-jones/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.609Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/spencer-jones.png",
+  "webp": [
+    "assets/players/webp/spencer-jones-1024.webp",
+    "assets/players/webp/spencer-jones-400.webp",
+    "assets/players/webp/spencer-jones-200.webp",
+    "assets/players/webp/spencer-jones-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/inside_the_nuggets/01kbdefsgxmzsyycxrbv.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:57.780Z",
+  "background": "transparent"
+}

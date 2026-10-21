@@ -1,0 +1,64 @@
+{
+  "player": "Brayden Burries",
+  "playerId": "brayden-burries",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/bucks_zone/01m52jxdfc1bet0xc0gx.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/bucks_zone/01m52jxdfc1bet0xc0gx.jpg",
+  "sourcePage": "https://www.si.com/nba/bucks/onsi/the-most-promising-prospect-on-the-milwaukee-bucks-01m52js61csm",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Benny Sieu / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-14 (preseason vs CHI, Fiserv Forum)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1999
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/brayden-burries.jpg",
+  "selectedAt": "2026-10-17T11:13:14.967Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 640,
+    "y": 17,
+    "size": 1700
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (looking up and off-camera during a stoppage, lips parted mid-breath)",
+  "jersey": "MIL white Association 2026-27 #0 (preseason)",
+  "concerns": "SI team site (Imagn), not nba.com: nba.com was blocked during this search and the Bucks site posts only practice/shootaround galleries; preseason photo, rookie with no regular-season games yet",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/bucks_zone/01m4bwzybn1q49df32p5.jpg",
+      "note": "(Oct 2026 preseason, white, talking with Taylor Jenkins, full profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://wp.clutchpoints.com/wp-content/uploads/2026/10/Brayden-Burries-against-the-Thunder.jpg",
+      "note": "(Oct 7 2026 at OKC, green, mid-drive, 1200px image so the face is small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

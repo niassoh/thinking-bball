@@ -1,0 +1,70 @@
+{
+  "player": "Micah Potter",
+  "playerId": "micah-potter",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_trail_blazers/01kx8x322ffp7wc9wzvy.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_trail_blazers/01kx8x322ffp7wc9wzvy.jpg",
+  "sourcePage": "https://www.si.com/nba/trailblazers/onsi/5-burning-questions-blazers-pacers-micah-potter",
+  "license": "unknown (Imagn Images via Reuters Connect / SI.com)",
+  "licenseUrl": null,
+  "author": "Imagn Images",
+  "credit": null,
+  "photoDate": "2025-26 regular season vs MIA, Gainbridge Fieldhouse (celebrates a made basket, first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1997
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/micah-potter.jpg",
+  "selectedAt": "2026-10-17T11:05:27.291Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 898,
+    "y": 0,
+    "size": 1000
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (open-mouth smile looking off-camera after a basket; engaged, relaxed rather than concentrated)",
+  "jersey": "IND white #11 2025-26 (FLAG: not POR; claimed off waivers by Portland July 2026)",
+  "concerns": "FLAG jersey: Pacers 2025-26, not his 2026-27 Blazers; the only usable-size Blazers photos are 2026 preseason: a straining/grimacing box-out (energy ~9, opponent across the frame), a mid-dunk and back views; not nba.com: Pacers-site photos of him are 1130px web copies; SI/Imagn editorial, license unknown; smile rather than McCain-style concentration",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_trail_blazers/01m4en1n6jg2k48963je.jpg",
+      "note": "(Oct 7 2026 preseason vs GSW, POR white, teeth-bared grimace boxing out Graham Ike, energy ~9, opponent shoulder in frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612757/2026/10/00029-2.jpg",
+      "note": "(Blazers gallery Oct 12 2026 vs London Lions, POR red, mid-dunk; his other frames there are back views)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_pacers/01kx79kf7tn97y7tre80.jpg",
+      "note": "(IND white 2025-26, mouth open mid-breath but eyes cast down, a teammate hand blurred in the foreground)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

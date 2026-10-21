@@ -1,0 +1,139 @@
+{
+  "player": "Aaron Nesmith",
+  "playerId": "aaron-nesmith",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/05/POTN_AaronNesmith_05.27-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/05/POTN_AaronNesmith_05.27-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/the-athletic-in-nba-playoffs-playing-injured-is-the-expectation-aaron-nesmith-has-met-the-moment",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1440
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/aaron-nesmith.jpg",
+  "selectedAt": "2026-10-05T19:24:13.191Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 807,
+    "y": 0,
+    "size": 896
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "slightly lower (free throw, eyes up on rim, lips pursed/parted)",
+  "jersey": "IND gold Statement 2024-25 playoffs (same team 2025-26)",
+  "concerns": "2025 playoffs photo (2024-25); no usable 2025-26 game photo (only media day and an on-floor injury grimace); renamed nba.com image, no Getty caption check, but clearly Nesmith (#23 Pacers, locs)",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:46:38.545Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/aaron-nesmith-7ccfdeed-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/aaron-nesmith/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:46:47.983Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/aaron-nesmith.png",
+  "webp": [
+    "assets/players/webp/aaron-nesmith-1024.webp",
+    "assets/players/webp/aaron-nesmith-400.webp",
+    "assets/players/webp/aaron-nesmith-200.webp",
+    "assets/players/webp/aaron-nesmith-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/05/POTN_AaronNesmith_05.27-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T02:46:48.301Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/aaron-nesmith-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/aaron-nesmith/out.png",
+        "fixes": [],
+        "base": "9553801790a9cf1910c0591133cafbe0053a3b8f",
+        "importedAt": "2026-10-11T17:33:40.907Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 1
+          },
+          "silhouette": 0.0059,
+          "face": 6.5,
+          "purity": 0.981,
+          "coverage": 0.126,
+          "strays": 17,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2157,
+          "oldEdge": 0.001,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/aaron-nesmith-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: jersey fully keyed, logos/patches gone, accessories untouched; aj-green's 1.6% silhouette is redrawn hair edges (unused)",
+          "at": "2026-10-11T17:34:47.970Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/aaron-nesmith.webp",
+    "base": "9553801790a9cf1910c0591133cafbe0053a3b8f",
+    "shift": {
+      "dx": -1,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T17:34:48.549Z"
+  }
+}

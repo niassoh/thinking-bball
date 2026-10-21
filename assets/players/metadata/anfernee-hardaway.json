@@ -1,0 +1,164 @@
+{
+  "player": "Anfernee Hardaway",
+  "playerId": "anfernee-hardaway",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/03-triple-double-penny-hardaway.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/03-triple-double-penny-hardaway.jpg",
+  "sourcePage": "https://www.nba.com/suns/gallery/ten-best-suns-triple-doubles",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": "c. 2000 (Suns vs Spurs, playoff signage; undated Suns triple-doubles gallery photo)",
+  "originalSize": null,
+  "storedSize": [
+    1500,
+    1000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/anfernee-hardaway.jpg",
+  "selectedAt": "2026-10-14T03:19:21.627Z",
+  "sourceSelectionScore": 11,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 451,
+    "y": 1,
+    "size": 528
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (looking up off-camera, mouth open mid-breath, triple-threat)",
+  "jersey": "PHX white home sunburst, 1999-00",
+  "concerns": "FLAG: face 199px (below 250, will be upscaled), slightly soft film scan; PHX not target ORL: no usable in-game ORL photo found on nba.com (Getty scans of 22 Magic/history pages under both names, Magic/Suns legacy pages) or Commons; photostore.nba.com ORL frames are watermarked and ~600px with tiny faces",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/magic/sites/magic/files/penny-hardaway-orlando-magic-2016.jpg",
+      "note": "(ORL pinstripe but mid-dunk, head tilted back, 154px face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2021/07/penny640.jpg",
+      "note": "(ORL pinstripe 1990s, mid-dunk, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:36:56.488Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/anfernee-hardaway-a96a70a6-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/anfernee-hardaway/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:41:59.144Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/anfernee-hardaway.png",
+  "webp": [
+    "assets/players/webp/anfernee-hardaway-1024.webp",
+    "assets/players/webp/anfernee-hardaway-400.webp",
+    "assets/players/webp/anfernee-hardaway-200.webp",
+    "assets/players/webp/anfernee-hardaway-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/03-triple-double-penny-hardaway.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:41:59.784Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/anfernee-hardaway-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/anfernee-hardaway/out.png",
+        "fixes": [],
+        "base": "d6b871085cf1e59261d823eaced289cd644b459d",
+        "importedAt": "2026-10-14T20:25:51.896Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0038,
+          "face": 7.4,
+          "purity": 0.985,
+          "coverage": 0.217,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2306,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/anfernee-hardaway-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:09.306Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/anfernee-hardaway.webp",
+    "base": "d6b871085cf1e59261d823eaced289cd644b459d",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:09.549Z"
+  }
+}

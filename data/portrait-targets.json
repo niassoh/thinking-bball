@@ -1,0 +1,5012 @@
+{
+  "generatedAt": "2026-10-02T02:44:18.962Z",
+  "method": {
+    "seasons": [
+      {
+        "season": "2023-24",
+        "weight": 1
+      },
+      {
+        "season": "2024-25",
+        "weight": 2
+      },
+      {
+        "season": "2025-26",
+        "weight": 3
+      }
+    ],
+    "weightTimesMP": true,
+    "minMP": 1000,
+    "minSeasons": 2
+  },
+  "targets": [
+    {
+      "rank": 1,
+      "slug": "nikola-jokic",
+      "name": "Nikola Jokić",
+      "team": "DEN",
+      "weightedBpm": 9.64,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 9.2,
+          "mp": 2737
+        },
+        {
+          "season": "2024-25",
+          "bpm": 9.8,
+          "mp": 2540
+        },
+        {
+          "season": "2025-26",
+          "bpm": 9.7,
+          "mp": 2265
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "shai-gilgeous-alexander",
+      "name": "Shai Gilgeous-Alexander",
+      "team": "OKC",
+      "weightedBpm": 8.32,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 7.4,
+          "mp": 2553
+        },
+        {
+          "season": "2024-25",
+          "bpm": 8.4,
+          "mp": 2598
+        },
+        {
+          "season": "2025-26",
+          "bpm": 8.6,
+          "mp": 2259
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "giannis-antetokounmpo",
+      "name": "Giannis Antetokounmpo",
+      "team": "MIL",
+      "weightedBpm": 6.34,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 6.8,
+          "mp": 2567
+        },
+        {
+          "season": "2024-25",
+          "bpm": 6.8,
+          "mp": 2289
+        },
+        {
+          "season": "2025-26",
+          "bpm": 5.3,
+          "mp": 1039
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "luka-doncic",
+      "name": "Luka Dončić",
+      "team": "LAL",
+      "weightedBpm": 6.09,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4.1,
+          "mp": 2624
+        },
+        {
+          "season": "2024-25",
+          "bpm": 5.8,
+          "mp": 1769
+        },
+        {
+          "season": "2025-26",
+          "bpm": 7,
+          "mp": 2289
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "jayson-tatum",
+      "name": "Jayson Tatum",
+      "team": "BOS",
+      "weightedBpm": 5.6,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 5.8,
+          "mp": 2645
+        },
+        {
+          "season": "2024-25",
+          "bpm": 5.5,
+          "mp": 2624
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "victor-wembanyama",
+      "name": "Victor Wembanyama",
+      "team": "SAS",
+      "weightedBpm": 5.36,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 2.8,
+          "mp": 2106
+        },
+        {
+          "season": "2024-25",
+          "bpm": 4.3,
+          "mp": 1527
+        },
+        {
+          "season": "2025-26",
+          "bpm": 6.9,
+          "mp": 1866
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "tyrese-haliburton",
+      "name": "Tyrese Haliburton",
+      "team": "IND",
+      "weightedBpm": 5.09,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 5.3,
+          "mp": 2224
+        },
+        {
+          "season": "2024-25",
+          "bpm": 5,
+          "mp": 2451
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "isaiah-hartenstein",
+      "name": "Isaiah Hartenstein",
+      "team": "OKC",
+      "weightedBpm": 4.98,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4.6,
+          "mp": 1896
+        },
+        {
+          "season": "2024-25",
+          "bpm": 5.3,
+          "mp": 1590
+        },
+        {
+          "season": "2025-26",
+          "bpm": 4.9,
+          "mp": 1137
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "domantas-sabonis",
+      "name": "Domantas Sabonis",
+      "team": "SAC",
+      "weightedBpm": 4.88,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 5.5,
+          "mp": 2928
+        },
+        {
+          "season": "2024-25",
+          "bpm": 4.5,
+          "mp": 2405
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "slug": "jalen-williams",
+      "name": "Jalen Williams",
+      "team": "OKC",
+      "weightedBpm": 4.8,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4.2,
+          "mp": 2223
+        },
+        {
+          "season": "2024-25",
+          "bpm": 5.1,
+          "mp": 2237
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "slug": "cade-cunningham",
+      "name": "Cade Cunningham",
+      "team": "DET",
+      "weightedBpm": 4.79,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 0.6,
+          "mp": 2074
+        },
+        {
+          "season": "2024-25",
+          "bpm": 4.3,
+          "mp": 2452
+        },
+        {
+          "season": "2025-26",
+          "bpm": 6.5,
+          "mp": 2172
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "slug": "lebron-james",
+      "name": "LeBron James",
+      "team": "LAL",
+      "weightedBpm": 4.78,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 5.8,
+          "mp": 2504
+        },
+        {
+          "season": "2024-25",
+          "bpm": 5.1,
+          "mp": 2444
+        },
+        {
+          "season": "2025-26",
+          "bpm": 4.1,
+          "mp": 1989
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "slug": "kristaps-porzingis",
+      "name": "Kristaps Porziņģis",
+      "team": "BOS",
+      "weightedBpm": 4.65,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 5.3,
+          "mp": 1690
+        },
+        {
+          "season": "2024-25",
+          "bpm": 4.2,
+          "mp": 1210
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "slug": "karl-anthony-towns",
+      "name": "Karl-Anthony Towns",
+      "team": "NYK",
+      "weightedBpm": 4.64,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4,
+          "mp": 2026
+        },
+        {
+          "season": "2024-25",
+          "bpm": 5.1,
+          "mp": 2517
+        },
+        {
+          "season": "2025-26",
+          "bpm": 4.5,
+          "mp": 2322
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "slug": "alperen-sengun",
+      "name": "Alperen Sengun",
+      "team": "HOU",
+      "weightedBpm": 4.53,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4.2,
+          "mp": 2046
+        },
+        {
+          "season": "2024-25",
+          "bpm": 3.8,
+          "mp": 2370
+        },
+        {
+          "season": "2025-26",
+          "bpm": 5.1,
+          "mp": 2398
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "slug": "jamal-murray",
+      "name": "Jamal Murray",
+      "team": "DEN",
+      "weightedBpm": 4.52,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4.4,
+          "mp": 1861
+        },
+        {
+          "season": "2024-25",
+          "bpm": 3.6,
+          "mp": 2394
+        },
+        {
+          "season": "2025-26",
+          "bpm": 5.1,
+          "mp": 2652
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "slug": "anthony-davis",
+      "name": "Anthony Davis",
+      "team": "DAL",
+      "weightedBpm": 4.51,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4.9,
+          "mp": 2700
+        },
+        {
+          "season": "2024-25",
+          "bpm": 4.2,
+          "mp": 1706
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "slug": "chet-holmgren",
+      "name": "Chet Holmgren",
+      "team": "OKC",
+      "weightedBpm": 4.47,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4.4,
+          "mp": 2413
+        },
+        {
+          "season": "2025-26",
+          "bpm": 4.5,
+          "mp": 1997
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "slug": "donovan-mitchell",
+      "name": "Donovan Mitchell",
+      "team": "CLE",
+      "weightedBpm": 4.44,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4.2,
+          "mp": 1943
+        },
+        {
+          "season": "2024-25",
+          "bpm": 4.3,
+          "mp": 2232
+        },
+        {
+          "season": "2025-26",
+          "bpm": 4.6,
+          "mp": 2342
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "slug": "jalen-brunson",
+      "name": "Jalen Brunson",
+      "team": "NYK",
+      "weightedBpm": 4.43,
+      "seasons": [
+        {
+          "season": "2023-24",
+          "bpm": 4.8,
+          "mp": 2726
+        },
+        {
+          "season": "2024-25",
+          "bpm": 4.6,
+          "mp": 2301
+        },
+        {
+          "season": "2025-26",
+          "bpm": 4.2,
+          "mp": 2590
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "slug": "kevin-durant",
+      "name": "Kevin Durant",
+      "team": "HOU",
+      "bpm": 4.8,
+      "mp": 2840,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 22,
+      "slug": "scottie-barnes",
+      "name": "Scottie Barnes",
+      "team": "TOR",
+      "bpm": 4.7,
+      "mp": 2681,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 23,
+      "slug": "amen-thompson",
+      "name": "Amen Thompson",
+      "team": "HOU",
+      "bpm": 4,
+      "mp": 2953,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 24,
+      "slug": "jalen-johnson",
+      "name": "Jalen Johnson",
+      "team": "ATL",
+      "bpm": 4.6,
+      "mp": 2532,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 25,
+      "slug": "james-harden",
+      "name": "James Harden",
+      "team": "CLE",
+      "bpm": 4.6,
+      "mp": 2438,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 26,
+      "slug": "mikal-bridges",
+      "name": "Mikal Bridges",
+      "team": "NYK",
+      "bpm": 3.8,
+      "mp": 2692,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 27,
+      "slug": "tyrese-maxey",
+      "name": "Tyrese Maxey",
+      "team": "PHI",
+      "bpm": 3.7,
+      "mp": 2661,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 28,
+      "slug": "jaylen-brown",
+      "name": "Jaylen Brown",
+      "team": "BOS",
+      "bpm": 3.8,
+      "mp": 2443,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 29,
+      "slug": "derrick-white",
+      "name": "Derrick White",
+      "team": "BOS",
+      "bpm": 3.3,
+      "mp": 2625,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 30,
+      "slug": "payton-pritchard",
+      "name": "Payton Pritchard",
+      "team": "BOS",
+      "bpm": 3.3,
+      "mp": 2556,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 31,
+      "slug": "kawhi-leonard",
+      "name": "Kawhi Leonard",
+      "team": "LAC",
+      "bpm": 4.4,
+      "mp": 2085,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 32,
+      "slug": "julius-randle",
+      "name": "Julius Randle",
+      "team": "MIN",
+      "bpm": 3.1,
+      "mp": 2610,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 33,
+      "slug": "jalen-duren",
+      "name": "Jalen Duren",
+      "team": "DET",
+      "bpm": 4.7,
+      "mp": 1976,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 34,
+      "slug": "stephon-castle",
+      "name": "Stephon Castle",
+      "team": "SAS",
+      "bpm": 4.2,
+      "mp": 2038,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 35,
+      "slug": "dyson-daniels",
+      "name": "Dyson Daniels",
+      "team": "ATL",
+      "bpm": 3,
+      "mp": 2520,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 36,
+      "slug": "evan-mobley",
+      "name": "Evan Mobley",
+      "team": "CLE",
+      "bpm": 4,
+      "mp": 2074,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 37,
+      "slug": "ausar-thompson",
+      "name": "Ausar Thompson",
+      "team": "DET",
+      "bpm": 4.5,
+      "mp": 1896,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 38,
+      "slug": "jabari-smith-jr",
+      "name": "Jabari Smith Jr.",
+      "team": "HOU",
+      "bpm": 2.5,
+      "mp": 2705,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 39,
+      "slug": "kon-knueppel",
+      "name": "Kon Knueppel",
+      "team": "CHA",
+      "bpm": 2.7,
+      "mp": 2551,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 40,
+      "slug": "lamelo-ball",
+      "name": "LaMelo Ball",
+      "team": "CHA",
+      "bpm": 3.9,
+      "mp": 2017,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 41,
+      "slug": "desmond-bane",
+      "name": "Desmond Bane",
+      "team": "ORL",
+      "bpm": 2.3,
+      "mp": 2756,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 42,
+      "slug": "de-aaron-fox",
+      "name": "De'Aaron Fox",
+      "team": "SAS",
+      "bpm": 3.3,
+      "mp": 2231,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 43,
+      "slug": "onyeka-okongwu",
+      "name": "Onyeka Okongwu",
+      "team": "ATL",
+      "bpm": 3.1,
+      "mp": 2297,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 44,
+      "slug": "josh-hart",
+      "name": "Josh Hart",
+      "team": "NYK",
+      "bpm": 3.7,
+      "mp": 1994,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 45,
+      "slug": "deni-avdija",
+      "name": "Deni Avdija",
+      "team": "POR",
+      "bpm": 3.1,
+      "mp": 2199,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 46,
+      "slug": "duncan-robinson",
+      "name": "Duncan Robinson",
+      "team": "DET",
+      "bpm": 3.3,
+      "mp": 2113,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 47,
+      "slug": "nickeil-alexander-walker",
+      "name": "Nickeil Alexander-Walker",
+      "team": "ATL",
+      "bpm": 2.3,
+      "mp": 2603,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 48,
+      "slug": "immanuel-quickley",
+      "name": "Immanuel Quickley",
+      "team": "TOR",
+      "bpm": 3,
+      "mp": 2231,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 49,
+      "slug": "jaden-mcdaniels",
+      "name": "Jaden McDaniels",
+      "team": "MIN",
+      "bpm": 2.8,
+      "mp": 2316,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 50,
+      "slug": "anthony-edwards",
+      "name": "Anthony Edwards",
+      "team": "MIN",
+      "bpm": 3.2,
+      "mp": 2137,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 51,
+      "slug": "donovan-clingan",
+      "name": "Donovan Clingan",
+      "team": "POR",
+      "bpm": 3.3,
+      "mp": 2094,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 52,
+      "slug": "trey-murphy-iii",
+      "name": "Trey Murphy III",
+      "team": "NOP",
+      "bpm": 2.7,
+      "mp": 2341,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 53,
+      "slug": "og-anunoby",
+      "name": "OG Anunoby",
+      "team": "NYK",
+      "bpm": 2.9,
+      "mp": 2224,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 54,
+      "slug": "brandon-ingram",
+      "name": "Brandon Ingram",
+      "team": "TOR",
+      "bpm": 2.1,
+      "mp": 2604,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 55,
+      "slug": "bam-adebayo",
+      "name": "Bam Adebayo",
+      "team": "MIA",
+      "bpm": 2.5,
+      "mp": 2365,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 56,
+      "slug": "nikola-vucevic",
+      "name": "Nikola Vučević",
+      "team": "BOS",
+      "bpm": 3.8,
+      "mp": 1818,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 57,
+      "slug": "paolo-banchero",
+      "name": "Paolo Banchero",
+      "team": "ORL",
+      "bpm": 2.2,
+      "mp": 2502,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 58,
+      "slug": "donte-divincenzo",
+      "name": "Donte DiVincenzo",
+      "team": "MIN",
+      "bpm": 2.2,
+      "mp": 2494,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 59,
+      "slug": "julian-champagnie",
+      "name": "Julian Champagnie",
+      "team": "SAS",
+      "bpm": 2.6,
+      "mp": 2266,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 60,
+      "slug": "rudy-gobert",
+      "name": "Rudy Gobert",
+      "team": "MIN",
+      "bpm": 2.3,
+      "mp": 2380,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 61,
+      "slug": "austin-reaves",
+      "name": "Austin Reaves",
+      "team": "LAL",
+      "bpm": 3.7,
+      "mp": 1762,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 62,
+      "slug": "miles-bridges",
+      "name": "Miles Bridges",
+      "team": "CHA",
+      "bpm": 2.2,
+      "mp": 2387,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 63,
+      "slug": "vj-edgecombe",
+      "name": "VJ Edgecombe",
+      "team": "PHI",
+      "bpm": 1.8,
+      "mp": 2623,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 64,
+      "slug": "cason-wallace",
+      "name": "Cason Wallace",
+      "team": "OKC",
+      "bpm": 2.7,
+      "mp": 2046,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 65,
+      "slug": "devin-vassell",
+      "name": "Devin Vassell",
+      "team": "SAS",
+      "bpm": 2.7,
+      "mp": 2044,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 66,
+      "slug": "devin-booker",
+      "name": "Devin Booker",
+      "team": "PHX",
+      "bpm": 2.4,
+      "mp": 2146,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 67,
+      "slug": "neemias-queta",
+      "name": "Neemias Queta",
+      "team": "BOS",
+      "bpm": 2.8,
+      "mp": 1926,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 68,
+      "slug": "tobias-harris",
+      "name": "Tobias Harris",
+      "team": "DET",
+      "bpm": 3.1,
+      "mp": 1745,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 69,
+      "slug": "reed-sheppard",
+      "name": "Reed Sheppard",
+      "team": "HOU",
+      "bpm": 2.1,
+      "mp": 2147,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 70,
+      "slug": "moussa-diabate",
+      "name": "Moussa Diabaté",
+      "team": "CHA",
+      "bpm": 2.6,
+      "mp": 1899,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 71,
+      "slug": "sandro-mamukelashvili",
+      "name": "Sandro Mamukelashvili",
+      "team": "TOR",
+      "bpm": 2.9,
+      "mp": 1751,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 72,
+      "slug": "toumani-camara",
+      "name": "Toumani Camara",
+      "team": "POR",
+      "bpm": 1.1,
+      "mp": 2731,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 73,
+      "slug": "wendell-carter-jr",
+      "name": "Wendell Carter Jr.",
+      "team": "ORL",
+      "bpm": 1.7,
+      "mp": 2288,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 74,
+      "slug": "brandon-miller",
+      "name": "Brandon Miller",
+      "team": "CHA",
+      "bpm": 2.3,
+      "mp": 1968,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 75,
+      "slug": "andrew-wiggins",
+      "name": "Andrew Wiggins",
+      "team": "MIA",
+      "bpm": 2.1,
+      "mp": 2063,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 76,
+      "slug": "ayo-dosunmu",
+      "name": "Ayo Dosunmu",
+      "team": "MIN",
+      "bpm": 2.3,
+      "mp": 1881,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 77,
+      "slug": "luke-kornet",
+      "name": "Luke Kornet",
+      "team": "SAS",
+      "bpm": 3.6,
+      "mp": 1430,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 78,
+      "slug": "collin-gillespie",
+      "name": "Collin Gillespie",
+      "team": "PHX",
+      "bpm": 1.5,
+      "mp": 2282,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 79,
+      "slug": "tim-hardaway-jr",
+      "name": "Tim Hardaway Jr.",
+      "team": "DEN",
+      "bpm": 1.7,
+      "mp": 2127,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 80,
+      "slug": "jaime-jaquez-jr",
+      "name": "Jaime Jaquez Jr.",
+      "team": "MIA",
+      "bpm": 1.7,
+      "mp": 2121,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 81,
+      "slug": "oso-ighodaro",
+      "name": "Oso Ighodaro",
+      "team": "PHX",
+      "bpm": 2.3,
+      "mp": 1808,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 82,
+      "slug": "harrison-barnes",
+      "name": "Harrison Barnes",
+      "team": "SAS",
+      "bpm": 1.9,
+      "mp": 1986,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 83,
+      "slug": "ajay-mitchell",
+      "name": "Ajay Mitchell",
+      "team": "OKC",
+      "bpm": 3.2,
+      "mp": 1473,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 84,
+      "slug": "naz-reid",
+      "name": "Naz Reid",
+      "team": "MIN",
+      "bpm": 1.8,
+      "mp": 2007,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 85,
+      "slug": "kris-dunn",
+      "name": "Kris Dunn",
+      "team": "LAC",
+      "bpm": 1.4,
+      "mp": 2228,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 86,
+      "slug": "keldon-johnson",
+      "name": "Keldon Johnson",
+      "team": "SAS",
+      "bpm": 1.9,
+      "mp": 1911,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 87,
+      "slug": "saddiq-bey",
+      "name": "Saddiq Bey",
+      "team": "NOP",
+      "bpm": 1.3,
+      "mp": 2246,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 88,
+      "slug": "cameron-johnson",
+      "name": "Cameron Johnson",
+      "team": "DEN",
+      "bpm": 2.5,
+      "mp": 1647,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 89,
+      "slug": "royce-o-neale",
+      "name": "Royce O'Neale",
+      "team": "PHX",
+      "bpm": 1.3,
+      "mp": 2213,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 90,
+      "slug": "jarrett-allen",
+      "name": "Jarrett Allen",
+      "team": "CLE",
+      "bpm": 2.8,
+      "mp": 1519,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 91,
+      "slug": "josh-giddey",
+      "name": "Josh Giddey",
+      "team": "CHI",
+      "bpm": 2.2,
+      "mp": 1731,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 92,
+      "slug": "cooper-flagg",
+      "name": "Cooper Flagg",
+      "team": "DAL",
+      "bpm": 1.1,
+      "mp": 2344,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 93,
+      "slug": "rj-barrett",
+      "name": "RJ Barrett",
+      "team": "TOR",
+      "bpm": 2.2,
+      "mp": 1726,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 94,
+      "slug": "cj-mccollum",
+      "name": "CJ McCollum",
+      "team": "ATL",
+      "bpm": 1.2,
+      "mp": 2263,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 95,
+      "slug": "brandin-podziemski",
+      "name": "Brandin Podziemski",
+      "team": "GSW",
+      "bpm": 1.1,
+      "mp": 2333,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 96,
+      "slug": "sam-hauser",
+      "name": "Sam Hauser",
+      "team": "BOS",
+      "bpm": 1.7,
+      "mp": 1934,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 97,
+      "slug": "jimmy-butler-iii",
+      "name": "Jimmy Butler III",
+      "team": "GSW",
+      "bpm": 4,
+      "mp": 1182,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 98,
+      "slug": "derik-queen",
+      "name": "Derik Queen",
+      "team": "NOP",
+      "bpm": 1.5,
+      "mp": 2023,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 99,
+      "slug": "jake-laravia",
+      "name": "Jake LaRavia",
+      "team": "LAL",
+      "bpm": 1.4,
+      "mp": 2061,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 100,
+      "slug": "zion-williamson",
+      "name": "Zion Williamson",
+      "team": "NOP",
+      "bpm": 1.8,
+      "mp": 1841,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 101,
+      "slug": "jalen-suggs",
+      "name": "Jalen Suggs",
+      "team": "ORL",
+      "bpm": 2.4,
+      "mp": 1574,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 102,
+      "slug": "ryan-rollins",
+      "name": "Ryan Rollins",
+      "team": "MIL",
+      "bpm": 0.9,
+      "mp": 2375,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 103,
+      "slug": "stephen-curry",
+      "name": "Stephen Curry",
+      "team": "GSW",
+      "bpm": 3.1,
+      "mp": 1329,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 104,
+      "slug": "john-collins",
+      "name": "John Collins",
+      "team": "LAC",
+      "bpm": 1.6,
+      "mp": 1871,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 105,
+      "slug": "anthony-black",
+      "name": "Anthony Black",
+      "team": "ORL",
+      "bpm": 1.5,
+      "mp": 1910,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 106,
+      "slug": "davion-mitchell",
+      "name": "Davion Mitchell",
+      "team": "MIA",
+      "bpm": 1.3,
+      "mp": 2000,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 107,
+      "slug": "joel-embiid",
+      "name": "Joel Embiid",
+      "team": "PHI",
+      "bpm": 3.4,
+      "mp": 1201,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 108,
+      "slug": "kel-el-ware",
+      "name": "Kel'el Ware",
+      "team": "MIA",
+      "bpm": 1.8,
+      "mp": 1704,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 109,
+      "slug": "draymond-green",
+      "name": "Draymond Green",
+      "team": "GSW",
+      "bpm": 1.4,
+      "mp": 1869,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 110,
+      "slug": "paul-reed",
+      "name": "Paul Reed",
+      "team": "DET",
+      "bpm": 5,
+      "mp": 901,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 111,
+      "slug": "dylan-harper",
+      "name": "Dylan Harper",
+      "team": "SAS",
+      "bpm": 2,
+      "mp": 1558,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 112,
+      "slug": "mitchell-robinson",
+      "name": "Mitchell Robinson",
+      "team": "NYK",
+      "bpm": 3.3,
+      "mp": 1175,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 113,
+      "slug": "kevin-huerter",
+      "name": "Kevin Huerter",
+      "team": "DET",
+      "bpm": 2,
+      "mp": 1549,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 114,
+      "slug": "bruce-brown",
+      "name": "Bruce Brown",
+      "team": "DEN",
+      "bpm": 1.1,
+      "mp": 1998,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 115,
+      "slug": "norman-powell",
+      "name": "Norman Powell",
+      "team": "MIA",
+      "bpm": 1.6,
+      "mp": 1717,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 116,
+      "slug": "nic-claxton",
+      "name": "Nic Claxton",
+      "team": "BKN",
+      "bpm": 1.2,
+      "mp": 1920,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 117,
+      "slug": "jaylin-williams",
+      "name": "Jaylin Williams",
+      "team": "OKC",
+      "bpm": 2.8,
+      "mp": 1277,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 118,
+      "slug": "deandre-ayton",
+      "name": "Deandre Ayton",
+      "team": "LAL",
+      "bpm": 1.1,
+      "mp": 1958,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 119,
+      "slug": "isaiah-joe",
+      "name": "Isaiah Joe",
+      "team": "OKC",
+      "bpm": 2,
+      "mp": 1507,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 120,
+      "slug": "jakob-poeltl",
+      "name": "Jakob Poeltl",
+      "team": "TOR",
+      "bpm": 3.2,
+      "mp": 1149,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 121,
+      "slug": "kyle-filipowski",
+      "name": "Kyle Filipowski",
+      "team": "UTA",
+      "bpm": 1.3,
+      "mp": 1801,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 122,
+      "slug": "luguentz-dort",
+      "name": "Luguentz Dort",
+      "team": "OKC",
+      "bpm": 1.2,
+      "mp": 1849,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 123,
+      "slug": "demar-derozan",
+      "name": "DeMar DeRozan",
+      "team": "SAC",
+      "bpm": 0.4,
+      "mp": 2406,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 124,
+      "slug": "peyton-watson",
+      "name": "Peyton Watson",
+      "team": "DEN",
+      "bpm": 1.6,
+      "mp": 1598,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 125,
+      "slug": "collin-murray-boyles",
+      "name": "Collin Murray-Boyles",
+      "team": "TOR",
+      "bpm": 2.6,
+      "mp": 1246,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 126,
+      "slug": "jaylon-tyson",
+      "name": "Jaylon Tyson",
+      "team": "CLE",
+      "bpm": 1.2,
+      "mp": 1777,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 127,
+      "slug": "naji-marshall",
+      "name": "Naji Marshall",
+      "team": "DAL",
+      "bpm": 0.6,
+      "mp": 2184,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 128,
+      "slug": "dean-wade",
+      "name": "Dean Wade",
+      "team": "CLE",
+      "bpm": 2.3,
+      "mp": 1318,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 129,
+      "slug": "mark-williams",
+      "name": "Mark Williams",
+      "team": "PHX",
+      "bpm": 2,
+      "mp": 1416,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 130,
+      "slug": "herbert-jones",
+      "name": "Herbert Jones",
+      "team": "NOP",
+      "bpm": 1.5,
+      "mp": 1588,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 131,
+      "slug": "tristan-da-silva",
+      "name": "Tristan da Silva",
+      "team": "ORL",
+      "bpm": 0.9,
+      "mp": 1899,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 132,
+      "slug": "jordan-goodwin",
+      "name": "Jordan Goodwin",
+      "team": "PHX",
+      "bpm": 1.5,
+      "mp": 1572,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 133,
+      "slug": "marcus-smart",
+      "name": "Marcus Smart",
+      "team": "LAL",
+      "bpm": 1.1,
+      "mp": 1769,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 134,
+      "slug": "day-ron-sharpe",
+      "name": "Day'Ron Sharpe",
+      "team": "BKN",
+      "bpm": 2.7,
+      "mp": 1160,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 135,
+      "slug": "paul-george",
+      "name": "Paul George",
+      "team": "PHI",
+      "bpm": 2.8,
+      "mp": 1135,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 136,
+      "slug": "tre-jones",
+      "name": "Tre Jones",
+      "team": "CHI",
+      "bpm": 1.1,
+      "mp": 1752,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 137,
+      "slug": "sam-merrill",
+      "name": "Sam Merrill",
+      "team": "CLE",
+      "bpm": 1.9,
+      "mp": 1377,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 138,
+      "slug": "keyonte-george",
+      "name": "Keyonte George",
+      "team": "UTA",
+      "bpm": 1,
+      "mp": 1786,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 139,
+      "slug": "pascal-siakam",
+      "name": "Pascal Siakam",
+      "team": "IND",
+      "bpm": 0.6,
+      "mp": 2057,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 140,
+      "slug": "aaron-gordon",
+      "name": "Aaron Gordon",
+      "team": "DEN",
+      "bpm": 3.3,
+      "mp": 1005,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 141,
+      "slug": "jrue-holiday",
+      "name": "Jrue Holiday",
+      "team": "POR",
+      "bpm": 1.4,
+      "mp": 1560,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 142,
+      "slug": "quentin-grimes",
+      "name": "Quentin Grimes",
+      "team": "PHI",
+      "bpm": 0.4,
+      "mp": 2206,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 143,
+      "slug": "grayson-allen",
+      "name": "Grayson Allen",
+      "team": "PHX",
+      "bpm": 1.6,
+      "mp": 1467,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 144,
+      "slug": "isaiah-stewart",
+      "name": "Isaiah Stewart",
+      "team": "DET",
+      "bpm": 2,
+      "mp": 1317,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 145,
+      "slug": "tari-eason",
+      "name": "Tari Eason",
+      "team": "HOU",
+      "bpm": 1.4,
+      "mp": 1549,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 146,
+      "slug": "michael-porter-jr",
+      "name": "Michael Porter Jr.",
+      "team": "BKN",
+      "bpm": 1.1,
+      "mp": 1689,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 147,
+      "slug": "kelly-oubre-jr",
+      "name": "Kelly Oubre Jr.",
+      "team": "PHI",
+      "bpm": 1.3,
+      "mp": 1574,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 148,
+      "slug": "kevin-porter-jr",
+      "name": "Kevin Porter Jr.",
+      "team": "MIL",
+      "bpm": 2.1,
+      "mp": 1261,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 149,
+      "slug": "goga-bitadze",
+      "name": "Goga Bitadze",
+      "team": "ORL",
+      "bpm": 3.2,
+      "mp": 972,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 150,
+      "slug": "luka-garza",
+      "name": "Luka Garza",
+      "team": "BOS",
+      "bpm": 2.5,
+      "mp": 1118,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 151,
+      "slug": "rui-hachimura",
+      "name": "Rui Hachimura",
+      "team": "LAL",
+      "bpm": 0.6,
+      "mp": 1927,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 152,
+      "slug": "jock-landale",
+      "name": "Jock Landale",
+      "team": "ATL",
+      "bpm": 1.3,
+      "mp": 1506,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 153,
+      "slug": "pelle-larsson",
+      "name": "Pelle Larsson",
+      "team": "MIA",
+      "bpm": 0.6,
+      "mp": 1849,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 154,
+      "slug": "myles-turner",
+      "name": "Myles Turner",
+      "team": "MIL",
+      "bpm": 0.5,
+      "mp": 1912,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 155,
+      "slug": "javonte-green",
+      "name": "Javonte Green",
+      "team": "DET",
+      "bpm": 1.3,
+      "mp": 1446,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 156,
+      "slug": "christian-braun",
+      "name": "Christian Braun",
+      "team": "DEN",
+      "bpm": 1.4,
+      "mp": 1399,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 157,
+      "slug": "darius-garland",
+      "name": "Darius Garland",
+      "team": "LAC",
+      "bpm": 1.5,
+      "mp": 1344,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 158,
+      "slug": "luke-kennard",
+      "name": "Luke Kennard",
+      "team": "LAL",
+      "bpm": 0.8,
+      "mp": 1680,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 159,
+      "slug": "andrew-nembhard",
+      "name": "Andrew Nembhard",
+      "team": "IND",
+      "bpm": 0.6,
+      "mp": 1786,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 160,
+      "slug": "jay-huff",
+      "name": "Jay Huff",
+      "team": "IND",
+      "bpm": 0.7,
+      "mp": 1719,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 161,
+      "slug": "brook-lopez",
+      "name": "Brook Lopez",
+      "team": "LAC",
+      "bpm": 0.8,
+      "mp": 1635,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 162,
+      "slug": "jerami-grant",
+      "name": "Jerami Grant",
+      "team": "POR",
+      "bpm": 0.7,
+      "mp": 1695,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 163,
+      "slug": "gary-payton-ii",
+      "name": "Gary Payton II",
+      "team": "GSW",
+      "bpm": 2,
+      "mp": 1142,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 164,
+      "slug": "matas-buzelis",
+      "name": "Matas Buzelis",
+      "team": "CHI",
+      "bpm": 0,
+      "mp": 2248,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 165,
+      "slug": "tyler-herro",
+      "name": "Tyler Herro",
+      "team": "MIA",
+      "bpm": 2.3,
+      "mp": 1033,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 166,
+      "slug": "dominick-barlow",
+      "name": "Dominick Barlow",
+      "team": "PHI",
+      "bpm": 0.6,
+      "mp": 1689,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 167,
+      "slug": "jusuf-nurkic",
+      "name": "Jusuf Nurkić",
+      "team": "UTA",
+      "bpm": 2,
+      "mp": 1083,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 168,
+      "slug": "derrick-jones-jr",
+      "name": "Derrick Jones Jr.",
+      "team": "LAC",
+      "bpm": 1.2,
+      "mp": 1350,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 169,
+      "slug": "ryan-kalkbrenner",
+      "name": "Ryan Kalkbrenner",
+      "team": "CHA",
+      "bpm": 0.9,
+      "mp": 1479,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 170,
+      "slug": "franz-wagner",
+      "name": "Franz Wagner",
+      "team": "ORL",
+      "bpm": 2.2,
+      "mp": 1019,
+      "batch": "vorp-2025-26"
+    },
+    {
+      "rank": 171,
+      "slug": "ivica-zubac",
+      "name": "Ivica Zubac",
+      "team": "IND",
+      "bpm": 0.4,
+      "mp": 1447,
+      "value": 47678,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 172,
+      "slug": "damian-lillard",
+      "name": "Damian Lillard",
+      "team": "MIL",
+      "bpm": 4.1,
+      "mp": 2093,
+      "value": 38688,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 173,
+      "slug": "al-horford",
+      "name": "Al Horford",
+      "team": "GSW",
+      "bpm": 1.8,
+      "mp": 969,
+      "value": 38109,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 174,
+      "slug": "jaren-jackson-jr",
+      "name": "Jaren Jackson Jr.",
+      "team": "UTA",
+      "bpm": 0.1,
+      "mp": 1455,
+      "value": 35043,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 175,
+      "slug": "daniel-gafford",
+      "name": "Daniel Gafford",
+      "team": "DAL",
+      "bpm": 1,
+      "mp": 1194,
+      "value": 33037,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 176,
+      "slug": "coby-white",
+      "name": "Coby White",
+      "team": "CHA",
+      "bpm": 0.9,
+      "mp": 1250,
+      "value": 32950,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 177,
+      "slug": "trae-young",
+      "name": "Trae Young",
+      "team": "ATL",
+      "bpm": 2.3,
+      "mp": 2739,
+      "value": 32489,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 178,
+      "slug": "alex-caruso",
+      "name": "Alex Caruso",
+      "team": "OKC",
+      "bpm": 1.1,
+      "mp": 1020,
+      "value": 31366,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 179,
+      "slug": "fred-vanvleet",
+      "name": "Fred VanVleet",
+      "team": "HOU",
+      "bpm": 2.1,
+      "mp": 2113,
+      "value": 30747,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 180,
+      "slug": "keon-ellis",
+      "name": "Keon Ellis",
+      "team": "CLE",
+      "bpm": 0.8,
+      "mp": 1479,
+      "value": 30651,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 181,
+      "slug": "santi-aldama",
+      "name": "Santi Aldama",
+      "team": "MEM",
+      "bpm": 1,
+      "mp": 1198,
+      "value": 29946,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 182,
+      "slug": "aaron-wiggins",
+      "name": "Aaron Wiggins",
+      "team": "OKC",
+      "bpm": 0.5,
+      "mp": 1414,
+      "value": 28939,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 183,
+      "slug": "mike-conley",
+      "name": "Mike Conley",
+      "team": "MIN",
+      "bpm": -0.3,
+      "mp": 991,
+      "value": 28882,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 184,
+      "slug": "kyrie-irving",
+      "name": "Kyrie Irving",
+      "team": "DAL",
+      "bpm": 2.4,
+      "mp": 1804,
+      "value": 28461,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 185,
+      "slug": "dillon-brooks",
+      "name": "Dillon Brooks",
+      "team": "PHX",
+      "bpm": -0.2,
+      "mp": 1702,
+      "value": 28450,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 186,
+      "slug": "caris-levert",
+      "name": "Caris LeVert",
+      "team": "DET",
+      "bpm": 0.8,
+      "mp": 1154,
+      "value": 28183,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 187,
+      "slug": "keegan-murray",
+      "name": "Keegan Murray",
+      "team": "SAC",
+      "bpm": 1.5,
+      "mp": 2610,
+      "value": 27849,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 188,
+      "slug": "kyle-anderson",
+      "name": "Kyle Anderson",
+      "team": "MIN",
+      "bpm": 2.9,
+      "mp": 853,
+      "value": 27817,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 189,
+      "slug": "russell-westbrook",
+      "name": "Russell Westbrook",
+      "team": "SAC",
+      "bpm": -0.8,
+      "mp": 1853,
+      "value": 26851,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 190,
+      "slug": "jonas-valanciunas",
+      "name": "Jonas Valančiūnas",
+      "team": "DEN",
+      "bpm": 1,
+      "mp": 871,
+      "value": 26672,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 191,
+      "slug": "pj-washington",
+      "name": "P.J. Washington",
+      "team": "DAL",
+      "bpm": -0.3,
+      "mp": 1736,
+      "value": 26382,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 192,
+      "slug": "bobby-portis",
+      "name": "Bobby Portis",
+      "team": "MIL",
+      "bpm": 0.2,
+      "mp": 1619,
+      "value": 26221,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 193,
+      "slug": "zach-lavine",
+      "name": "Zach LaVine",
+      "team": "SAC",
+      "bpm": -1.6,
+      "mp": 1224,
+      "value": 24039,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 194,
+      "slug": "jalen-green",
+      "name": "Jalen Green",
+      "team": "PHX",
+      "bpm": -1.2,
+      "mp": 828,
+      "value": 23595,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 195,
+      "slug": "kentavious-caldwell-pope",
+      "name": "Kentavious Caldwell-Pope",
+      "team": "MEM",
+      "bpm": -1.6,
+      "mp": 1088,
+      "value": 22764,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 196,
+      "slug": "lauri-markkanen",
+      "name": "Lauri Markkanen",
+      "team": "UTA",
+      "bpm": 0.9,
+      "mp": 1443,
+      "value": 22604,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 197,
+      "slug": "bennedict-mathurin",
+      "name": "Bennedict Mathurin",
+      "team": "LAC",
+      "bpm": 0.1,
+      "mp": 1620,
+      "value": 22552,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 198,
+      "slug": "miles-mcbride",
+      "name": "Miles McBride",
+      "team": "NYK",
+      "bpm": 1.2,
+      "mp": 1080,
+      "value": 22343,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 199,
+      "slug": "malik-monk",
+      "name": "Malik Monk",
+      "team": "SAC",
+      "bpm": -1.6,
+      "mp": 1364,
+      "value": 21782,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 200,
+      "slug": "tj-mcconnell",
+      "name": "T.J. McConnell",
+      "team": "IND",
+      "bpm": 1,
+      "mp": 963,
+      "value": 21705,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 201,
+      "slug": "moses-moody",
+      "name": "Moses Moody",
+      "team": "GSW",
+      "bpm": 0.7,
+      "mp": 1540,
+      "value": 21365,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 202,
+      "slug": "max-strus",
+      "name": "Max Strus",
+      "team": "CLE",
+      "bpm": 2.8,
+      "mp": 1273,
+      "value": 21177,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 203,
+      "slug": "collin-sexton",
+      "name": "Collin Sexton",
+      "team": "CHI",
+      "bpm": 0.4,
+      "mp": 1613,
+      "value": 21003,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 204,
+      "slug": "nicolas-batum",
+      "name": "Nicolas Batum",
+      "team": "LAC",
+      "bpm": -0.5,
+      "mp": 1295,
+      "value": 20878,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 205,
+      "slug": "jaxson-hayes",
+      "name": "Jaxson Hayes",
+      "team": "LAL",
+      "bpm": 1.4,
+      "mp": 1207,
+      "value": 20580,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 206,
+      "slug": "precious-achiuwa",
+      "name": "Precious Achiuwa",
+      "team": "SAC",
+      "bpm": -0.3,
+      "mp": 1745,
+      "value": 19622,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 207,
+      "slug": "dennis-schroder",
+      "name": "Dennis Schröder",
+      "team": "CLE",
+      "bpm": -0.1,
+      "mp": 1696,
+      "value": 19424,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 208,
+      "slug": "chris-paul",
+      "name": "Chris Paul",
+      "team": "SAS",
+      "bpm": 1,
+      "mp": 2292,
+      "value": 19417,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 209,
+      "slug": "isaac-okoro",
+      "name": "Isaac Okoro",
+      "team": "CHI",
+      "bpm": -0.7,
+      "mp": 1695,
+      "value": 18989,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 210,
+      "slug": "kenrich-williams",
+      "name": "Kenrich Williams",
+      "team": "OKC",
+      "bpm": 0.8,
+      "mp": 855,
+      "value": 18852,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 211,
+      "slug": "taurean-prince",
+      "name": "Taurean Prince",
+      "team": "MIL",
+      "bpm": 1.2,
+      "mp": 2166,
+      "value": 18711,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 212,
+      "slug": "malik-beasley",
+      "name": "Malik Beasley",
+      "team": "DET",
+      "bpm": 0.7,
+      "mp": 2283,
+      "value": 18638,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 213,
+      "slug": "clint-capela",
+      "name": "Clint Capela",
+      "team": "HOU",
+      "bpm": 0.3,
+      "mp": 926,
+      "value": 18624,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 214,
+      "slug": "spencer-dinwiddie",
+      "name": "Spencer Dinwiddie",
+      "team": "DAL",
+      "bpm": 0.8,
+      "mp": 2136,
+      "value": 18418,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 215,
+      "slug": "obi-toppin",
+      "name": "Obi Toppin",
+      "team": "IND",
+      "bpm": 1.7,
+      "mp": 1545,
+      "value": 18353,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 216,
+      "slug": "aaron-nesmith",
+      "name": "Aaron Nesmith",
+      "team": "IND",
+      "bpm": -1.5,
+      "mp": 1335,
+      "value": 18093,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 217,
+      "slug": "jose-alvarado",
+      "name": "Jose Alvarado",
+      "team": "NYK",
+      "bpm": 1.1,
+      "mp": 1370,
+      "value": 18043,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 218,
+      "slug": "tyus-jones",
+      "name": "Tyus Jones",
+      "team": "DEN",
+      "bpm": -1,
+      "mp": 979,
+      "value": 17915,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 219,
+      "slug": "jalen-smith",
+      "name": "Jalen Smith",
+      "team": "CHI",
+      "bpm": 0.6,
+      "mp": 1095,
+      "value": 17836,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 220,
+      "slug": "buddy-hield",
+      "name": "Buddy Hield",
+      "team": "ATL",
+      "bpm": -0.9,
+      "mp": 819,
+      "value": 17444,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 221,
+      "slug": "khris-middleton",
+      "name": "Khris Middleton",
+      "team": "DAL",
+      "bpm": -0.9,
+      "mp": 1439,
+      "value": 17351,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 222,
+      "slug": "bradley-beal",
+      "name": "Bradley Beal",
+      "team": "PHX",
+      "bpm": 0.8,
+      "mp": 1702,
+      "value": 17306,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 223,
+      "slug": "klay-thompson",
+      "name": "Klay Thompson",
+      "team": "DAL",
+      "bpm": -1.6,
+      "mp": 1497,
+      "value": 17130,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 224,
+      "slug": "kelly-olynyk",
+      "name": "Kelly Olynyk",
+      "team": "NOP",
+      "bpm": 2,
+      "mp": 891,
+      "value": 16978,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 225,
+      "slug": "terance-mann",
+      "name": "Terance Mann",
+      "team": "BKN",
+      "bpm": -0.8,
+      "mp": 1529,
+      "value": 16970,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 226,
+      "slug": "anfernee-simons",
+      "name": "Anfernee Simons",
+      "team": "CHI",
+      "bpm": -1.2,
+      "mp": 1372,
+      "value": 16968,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 227,
+      "slug": "kyle-kuzma",
+      "name": "Kyle Kuzma",
+      "team": "MIL",
+      "bpm": -0.3,
+      "mp": 1806,
+      "value": 16960,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 228,
+      "slug": "d-angelo-russell",
+      "name": "D'Angelo Russell",
+      "team": "BKN",
+      "bpm": -0.2,
+      "mp": 1481,
+      "value": 16758,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 229,
+      "slug": "de-andre-hunter",
+      "name": "De'Andre Hunter",
+      "team": "SAC",
+      "bpm": -2.2,
+      "mp": 1175,
+      "value": 16589,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 230,
+      "slug": "andre-drummond",
+      "name": "Andre Drummond",
+      "team": "PHI",
+      "bpm": 1.4,
+      "mp": 1231,
+      "value": 16339,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 231,
+      "slug": "scotty-pippen-jr",
+      "name": "Scotty Pippen Jr.",
+      "team": "MEM",
+      "bpm": 2.7,
+      "mp": 1683,
+      "value": 15820,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 232,
+      "slug": "zaccharie-risacher",
+      "name": "Zaccharie Risacher",
+      "team": "ATL",
+      "bpm": 0.5,
+      "mp": 1503,
+      "value": 15327,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 233,
+      "slug": "ja-morant",
+      "name": "Ja Morant",
+      "team": "MEM",
+      "bpm": 3,
+      "mp": 1519,
+      "value": 15190,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 234,
+      "slug": "ty-jerome",
+      "name": "Ty Jerome",
+      "team": "CLE",
+      "bpm": 3.4,
+      "mp": 1393,
+      "value": 15044,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 235,
+      "slug": "jonathan-kuminga",
+      "name": "Jonathan Kuminga",
+      "team": "ATL",
+      "bpm": -0.2,
+      "mp": 830,
+      "value": 14942,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 236,
+      "slug": "haywood-highsmith",
+      "name": "Haywood Highsmith",
+      "team": "MIA",
+      "bpm": 1.1,
+      "mp": 1818,
+      "value": 14823,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 237,
+      "slug": "dorian-finney-smith",
+      "name": "Dorian Finney-Smith",
+      "team": "LAL",
+      "bpm": 0.8,
+      "mp": 1821,
+      "value": 14646,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 238,
+      "slug": "jaylen-wells",
+      "name": "Jaylen Wells",
+      "team": "MEM",
+      "bpm": -1.2,
+      "mp": 1821,
+      "value": 14585,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 239,
+      "slug": "ryan-dunn",
+      "name": "Ryan Dunn",
+      "team": "PHX",
+      "bpm": 0.8,
+      "mp": 1355,
+      "value": 14484,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 240,
+      "slug": "max-christie",
+      "name": "Max Christie",
+      "team": "DAL",
+      "bpm": -0.9,
+      "mp": 2244,
+      "value": 14306,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 241,
+      "slug": "kevon-looney",
+      "name": "Kevon Looney",
+      "team": "GSW",
+      "bpm": 2.3,
+      "mp": 1142,
+      "value": 13884,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 242,
+      "slug": "ja-kobe-walter",
+      "name": "Ja'Kobe Walter",
+      "team": "TOR",
+      "bpm": 0.8,
+      "mp": 1474,
+      "value": 13705,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 243,
+      "slug": "yves-missi",
+      "name": "Yves Missi",
+      "team": "NOP",
+      "bpm": 0.3,
+      "mp": 1297,
+      "value": 13644,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 244,
+      "slug": "dejounte-murray",
+      "name": "Dejounte Murray",
+      "team": "NOP",
+      "bpm": -0.5,
+      "mp": 1012,
+      "value": 13611,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 245,
+      "slug": "walker-kessler",
+      "name": "Walker Kessler",
+      "team": "UTA",
+      "bpm": 0.7,
+      "mp": 1740,
+      "value": 13278,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 246,
+      "slug": "dereck-lively-ii",
+      "name": "Dereck Lively II",
+      "team": "DAL",
+      "bpm": 3,
+      "mp": 833,
+      "value": 13118,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 247,
+      "slug": "bones-hyland",
+      "name": "Bones Hyland",
+      "team": "MIN",
+      "bpm": 1.6,
+      "mp": 1177,
+      "value": 12712,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 248,
+      "slug": "aj-green",
+      "name": "AJ Green",
+      "team": "MIL",
+      "bpm": -1,
+      "mp": 2270,
+      "value": 12451,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 249,
+      "slug": "kyshawn-george",
+      "name": "Kyshawn George",
+      "team": "WAS",
+      "bpm": 0.2,
+      "mp": 1391,
+      "value": 12424,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 250,
+      "slug": "marvin-bagley-iii",
+      "name": "Marvin Bagley III",
+      "team": "DAL",
+      "bpm": 1,
+      "mp": 1201,
+      "value": 12389,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 251,
+      "slug": "nikola-jovic",
+      "name": "Nikola Jović",
+      "team": "MIA",
+      "bpm": -1.3,
+      "mp": 808,
+      "value": 12335,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 252,
+      "slug": "dru-smith",
+      "name": "Dru Smith",
+      "team": "MIA",
+      "bpm": 1.6,
+      "mp": 1141,
+      "value": 12323,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 253,
+      "slug": "jarace-walker",
+      "name": "Jarace Walker",
+      "team": "IND",
+      "bpm": -1,
+      "mp": 1953,
+      "value": 12031,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 254,
+      "slug": "jeremy-sochan",
+      "name": "Jeremy Sochan",
+      "team": "SAS",
+      "bpm": 1.1,
+      "mp": 1367,
+      "value": 11984,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 255,
+      "slug": "jordan-poole",
+      "name": "Jordan Poole",
+      "team": "NOP",
+      "bpm": -1.1,
+      "mp": 933,
+      "value": 11834,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 256,
+      "slug": "isaiah-jackson",
+      "name": "Isaiah Jackson",
+      "team": "LAC",
+      "bpm": 2.3,
+      "mp": 908,
+      "value": 11713,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 257,
+      "slug": "baylor-scheierman",
+      "name": "Baylor Scheierman",
+      "team": "BOS",
+      "bpm": 0.7,
+      "mp": 1429,
+      "value": 11575,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 258,
+      "slug": "caleb-martin",
+      "name": "Caleb Martin",
+      "team": "DAL",
+      "bpm": -0.9,
+      "mp": 856,
+      "value": 11492,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 259,
+      "slug": "robert-williams-iii",
+      "name": "Robert Williams III",
+      "team": "POR",
+      "bpm": 1.8,
+      "mp": 1008,
+      "value": 11491,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 260,
+      "slug": "ziaire-williams",
+      "name": "Ziaire Williams",
+      "team": "BKN",
+      "bpm": -0.5,
+      "mp": 1281,
+      "value": 11413,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 261,
+      "slug": "zach-collins",
+      "name": "Zach Collins",
+      "team": "CHI",
+      "bpm": 1.8,
+      "mp": 976,
+      "value": 11385,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 262,
+      "slug": "jamal-shead",
+      "name": "Jamal Shead",
+      "team": "TOR",
+      "bpm": -0.1,
+      "mp": 1852,
+      "value": 11143,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 263,
+      "slug": "sion-james",
+      "name": "Sion James",
+      "team": "CHA",
+      "bpm": 0,
+      "mp": 1843,
+      "value": 11058,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 264,
+      "slug": "john-konchar",
+      "name": "John Konchar",
+      "team": "UTA",
+      "bpm": 0.7,
+      "mp": 1115,
+      "value": 11026,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 265,
+      "slug": "amir-coffey",
+      "name": "Amir Coffey",
+      "team": "LAC",
+      "bpm": 0.3,
+      "mp": 1748,
+      "value": 10961,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 266,
+      "slug": "ben-sheppard",
+      "name": "Ben Sheppard",
+      "team": "IND",
+      "bpm": -1.1,
+      "mp": 1390,
+      "value": 10951,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 267,
+      "slug": "jonathan-isaac",
+      "name": "Jonathan Isaac",
+      "team": "ORL",
+      "bpm": 1.2,
+      "mp": 1090,
+      "value": 10723,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 268,
+      "slug": "gary-trent-jr",
+      "name": "Gary Trent Jr.",
+      "team": "MIL",
+      "bpm": -2.2,
+      "mp": 1377,
+      "value": 10653,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 269,
+      "slug": "shaedon-sharpe",
+      "name": "Shaedon Sharpe",
+      "team": "POR",
+      "bpm": -1.1,
+      "mp": 1471,
+      "value": 10622,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 270,
+      "slug": "terry-rozier",
+      "name": "Terry Rozier",
+      "team": "MIA",
+      "bpm": -1.3,
+      "mp": 1658,
+      "value": 10481,
+      "batch": "vorp3-next100"
+    },
+    {
+      "rank": 271,
+      "slug": "michael-jordan",
+      "name": "Michael Jordan",
+      "team": "CHI",
+      "tier": 1,
+      "value": 90000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 272,
+      "slug": "kobe-bryant",
+      "name": "Kobe Bryant",
+      "team": "LAL",
+      "tier": 1,
+      "value": 382000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 273,
+      "slug": "shaquille-o-neal",
+      "name": "Shaquille O'Neal",
+      "team": "LAL",
+      "tier": 1,
+      "value": 266000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 274,
+      "slug": "tim-duncan",
+      "name": "Tim Duncan",
+      "team": "SAS",
+      "tier": 1,
+      "value": 371000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 275,
+      "slug": "kevin-garnett",
+      "name": "Kevin Garnett",
+      "team": "MIN",
+      "tier": 1,
+      "value": 351000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 276,
+      "slug": "dirk-nowitzki",
+      "name": "Dirk Nowitzki",
+      "team": "DAL",
+      "tier": 1,
+      "value": 319000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 277,
+      "slug": "allen-iverson",
+      "name": "Allen Iverson",
+      "team": "PHI",
+      "tier": 1,
+      "value": 178000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 278,
+      "slug": "steve-nash",
+      "name": "Steve Nash",
+      "team": "PHX",
+      "tier": 1,
+      "value": 238000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 279,
+      "slug": "dwyane-wade",
+      "name": "Dwyane Wade",
+      "team": "MIA",
+      "tier": 1,
+      "value": 224000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 280,
+      "slug": "jason-kidd",
+      "name": "Jason Kidd",
+      "team": "NJN",
+      "tier": 1,
+      "value": 281000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 281,
+      "slug": "paul-pierce",
+      "name": "Paul Pierce",
+      "team": "BOS",
+      "tier": 1,
+      "value": 264000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 282,
+      "slug": "ray-allen",
+      "name": "Ray Allen",
+      "team": "MIL",
+      "tier": 1,
+      "value": 251000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 283,
+      "slug": "karl-malone",
+      "name": "Karl Malone",
+      "team": "UTA",
+      "tier": 1,
+      "value": 192000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 284,
+      "slug": "john-stockton",
+      "name": "John Stockton",
+      "team": "UTA",
+      "tier": 1,
+      "value": 131000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 285,
+      "slug": "scottie-pippen",
+      "name": "Scottie Pippen",
+      "team": "CHI",
+      "tier": 1,
+      "value": 126000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 286,
+      "slug": "hakeem-olajuwon",
+      "name": "Hakeem Olajuwon",
+      "team": "HOU",
+      "tier": 1,
+      "value": 47000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 287,
+      "slug": "david-robinson",
+      "name": "David Robinson",
+      "team": "SAS",
+      "tier": 1,
+      "value": 104000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 288,
+      "slug": "tracy-mcgrady",
+      "name": "Tracy McGrady",
+      "team": "ORL",
+      "tier": 1,
+      "value": 167000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 289,
+      "slug": "vince-carter",
+      "name": "Vince Carter",
+      "team": "TOR",
+      "tier": 1,
+      "value": 180000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 290,
+      "slug": "yao-ming",
+      "name": "Yao Ming",
+      "team": "HOU",
+      "tier": 1,
+      "value": 77000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 291,
+      "slug": "chris-webber",
+      "name": "Chris Webber",
+      "team": "SAC",
+      "tier": 1,
+      "value": 178000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 292,
+      "slug": "gary-payton",
+      "name": "Gary Payton",
+      "team": "SEA",
+      "tier": 1,
+      "value": 198000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 293,
+      "slug": "reggie-miller",
+      "name": "Reggie Miller",
+      "team": "IND",
+      "tier": 1,
+      "value": 134000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 294,
+      "slug": "carmelo-anthony",
+      "name": "Carmelo Anthony",
+      "team": "DEN",
+      "tier": 1,
+      "value": 141000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 295,
+      "slug": "dwight-howard",
+      "name": "Dwight Howard",
+      "team": "ORL",
+      "tier": 1,
+      "value": 142000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 296,
+      "slug": "pau-gasol",
+      "name": "Pau Gasol",
+      "team": "LAL",
+      "tier": 2,
+      "value": 198000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 297,
+      "slug": "tony-parker",
+      "name": "Tony Parker",
+      "team": "SAS",
+      "tier": 2,
+      "value": 176000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 298,
+      "slug": "manu-ginobili",
+      "name": "Manu Ginobili",
+      "team": "SAS",
+      "tier": 2,
+      "value": 170000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 299,
+      "slug": "chauncey-billups",
+      "name": "Chauncey Billups",
+      "team": "DET",
+      "tier": 2,
+      "value": 201000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 300,
+      "slug": "ben-wallace",
+      "name": "Ben Wallace",
+      "team": "DET",
+      "tier": 2,
+      "value": 177000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 301,
+      "slug": "derrick-rose",
+      "name": "Derrick Rose",
+      "team": "CHI",
+      "tier": 2,
+      "value": 54000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 302,
+      "slug": "grant-hill",
+      "name": "Grant Hill",
+      "team": "DET",
+      "tier": 2,
+      "value": 140000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 303,
+      "slug": "alonzo-mourning",
+      "name": "Alonzo Mourning",
+      "team": "MIA",
+      "tier": 2,
+      "value": 69000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 304,
+      "slug": "patrick-ewing",
+      "name": "Patrick Ewing",
+      "team": "NYK",
+      "tier": 2,
+      "value": 35000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 305,
+      "slug": "charles-barkley",
+      "name": "Charles Barkley",
+      "team": "HOU",
+      "tier": 2,
+      "value": 41000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 306,
+      "slug": "dennis-rodman",
+      "name": "Dennis Rodman",
+      "team": "CHI",
+      "tier": 2,
+      "value": 36000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 307,
+      "slug": "chris-bosh",
+      "name": "Chris Bosh",
+      "team": "TOR",
+      "tier": 2,
+      "value": 133000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 308,
+      "slug": "amar-e-stoudemire",
+      "name": "Amar'e Stoudemire",
+      "team": "PHX",
+      "tier": 2,
+      "value": 125000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 309,
+      "slug": "rasheed-wallace",
+      "name": "Rasheed Wallace",
+      "team": "DET",
+      "tier": 2,
+      "value": 233000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 310,
+      "slug": "dikembe-mutombo",
+      "name": "Dikembe Mutombo",
+      "team": "ATL",
+      "tier": 2,
+      "value": 90000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 311,
+      "slug": "anfernee-hardaway",
+      "name": "Anfernee Hardaway",
+      "team": "ORL",
+      "tier": 2,
+      "value": 61000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 312,
+      "slug": "shawn-marion",
+      "name": "Shawn Marion",
+      "team": "PHX",
+      "tier": 2,
+      "value": 209000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 313,
+      "slug": "gilbert-arenas",
+      "name": "Gilbert Arenas",
+      "team": "WAS",
+      "tier": 2,
+      "value": 79000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 314,
+      "slug": "steve-francis",
+      "name": "Steve Francis",
+      "team": "HOU",
+      "tier": 2,
+      "value": 93000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 315,
+      "slug": "baron-davis",
+      "name": "Baron Davis",
+      "team": "GSW",
+      "tier": 2,
+      "value": 133000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 316,
+      "slug": "rajon-rondo",
+      "name": "Rajon Rondo",
+      "team": "BOS",
+      "tier": 2,
+      "value": 98000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 317,
+      "slug": "metta-world-peace",
+      "name": "Metta World Peace",
+      "team": "IND",
+      "tier": 2,
+      "value": 138000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 318,
+      "slug": "lamar-odom",
+      "name": "Lamar Odom",
+      "team": "LAL",
+      "tier": 2,
+      "value": 177000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 319,
+      "slug": "deron-williams",
+      "name": "Deron Williams",
+      "team": "UTA",
+      "tier": 2,
+      "value": 133000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 320,
+      "slug": "shawn-kemp",
+      "name": "Shawn Kemp",
+      "team": "SEA",
+      "tier": 2,
+      "value": 55000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 321,
+      "slug": "jason-williams",
+      "name": "Jason Williams",
+      "team": "SAC",
+      "tier": 3,
+      "value": 57000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 322,
+      "slug": "stephon-marbury",
+      "name": "Stephon Marbury",
+      "team": "PHX",
+      "tier": 3,
+      "value": 115000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 323,
+      "slug": "latrell-sprewell",
+      "name": "Latrell Sprewell",
+      "team": "NYK",
+      "tier": 3,
+      "value": 82000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 324,
+      "slug": "peja-stojakovic",
+      "name": "Peja Stojakovic",
+      "team": "SAC",
+      "tier": 3,
+      "value": 126000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 325,
+      "slug": "andrei-kirilenko",
+      "name": "Andrei Kirilenko",
+      "team": "UTA",
+      "tier": 3,
+      "value": 126000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 326,
+      "slug": "brandon-roy",
+      "name": "Brandon Roy",
+      "team": "POR",
+      "tier": 3,
+      "value": 53000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 327,
+      "slug": "elton-brand",
+      "name": "Elton Brand",
+      "team": "LAC",
+      "tier": 3,
+      "value": 136000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 328,
+      "slug": "jermaine-o-neal",
+      "name": "Jermaine O'Neal",
+      "team": "IND",
+      "tier": 3,
+      "value": 88000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 329,
+      "slug": "richard-hamilton",
+      "name": "Richard Hamilton",
+      "team": "DET",
+      "tier": 3,
+      "value": 128000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 330,
+      "slug": "tayshaun-prince",
+      "name": "Tayshaun Prince",
+      "team": "DET",
+      "tier": 3,
+      "value": 134000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 331,
+      "slug": "michael-redd",
+      "name": "Michael Redd",
+      "team": "MIL",
+      "tier": 3,
+      "value": 60000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 332,
+      "slug": "robert-horry",
+      "name": "Robert Horry",
+      "team": "LAL",
+      "tier": 3,
+      "value": 99000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 333,
+      "slug": "derek-fisher",
+      "name": "Derek Fisher",
+      "team": "LAL",
+      "tier": 3,
+      "value": 125000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 334,
+      "slug": "antoine-walker",
+      "name": "Antoine Walker",
+      "team": "BOS",
+      "tier": 3,
+      "value": 116000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 335,
+      "slug": "vlade-divac",
+      "name": "Vlade Divac",
+      "team": "SAC",
+      "tier": 3,
+      "value": 123000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 336,
+      "slug": "mike-bibby",
+      "name": "Mike Bibby",
+      "team": "SAC",
+      "tier": 3,
+      "value": 137000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 337,
+      "slug": "joe-johnson",
+      "name": "Joe Johnson",
+      "team": "ATL",
+      "tier": 3,
+      "value": 130000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 338,
+      "slug": "rashard-lewis",
+      "name": "Rashard Lewis",
+      "team": "SEA",
+      "tier": 3,
+      "value": 137000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 339,
+      "slug": "carlos-boozer",
+      "name": "Carlos Boozer",
+      "team": "UTA",
+      "tier": 3,
+      "value": 119000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 340,
+      "slug": "michael-finley",
+      "name": "Michael Finley",
+      "team": "DAL",
+      "tier": 3,
+      "value": 169000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 341,
+      "slug": "jason-terry",
+      "name": "Jason Terry",
+      "team": "DAL",
+      "tier": 3,
+      "value": 154000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 342,
+      "slug": "marcus-camby",
+      "name": "Marcus Camby",
+      "team": "DEN",
+      "tier": 3,
+      "value": 136000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 343,
+      "slug": "mitch-richmond",
+      "name": "Mitch Richmond",
+      "team": "SAC",
+      "tier": 3,
+      "value": 33000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 344,
+      "slug": "tim-hardaway",
+      "name": "Tim Hardaway",
+      "team": "MIA",
+      "tier": 3,
+      "value": 73000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 345,
+      "slug": "eddie-jones",
+      "name": "Eddie Jones",
+      "team": "MIA",
+      "tier": 3,
+      "value": 155000,
+      "batch": "historical-must-haves"
+    },
+    {
+      "rank": 346,
+      "slug": "kevin-love",
+      "name": "Kevin Love",
+      "team": "MIN",
+      "bestSeason": "2013-14",
+      "bestBpm": 5.4,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 347,
+      "slug": "brad-miller",
+      "name": "Brad Miller",
+      "team": "SAC",
+      "bestSeason": "2003-04",
+      "bestBpm": 5.2,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 348,
+      "slug": "blake-griffin",
+      "name": "Blake Griffin",
+      "team": "LAC",
+      "bestSeason": "2013-14",
+      "bestBpm": 5.2,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 349,
+      "slug": "kyle-lowry",
+      "name": "Kyle Lowry",
+      "team": "TOR",
+      "bestSeason": "2016-17",
+      "bestBpm": 5.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 350,
+      "slug": "josh-smith",
+      "name": "Josh Smith",
+      "team": "ATL",
+      "bestSeason": "2009-10",
+      "bestBpm": 5.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 351,
+      "slug": "marc-gasol",
+      "name": "Marc Gasol",
+      "team": "MEM",
+      "bestSeason": "2012-13",
+      "bestBpm": 5,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 352,
+      "slug": "sam-cassell",
+      "name": "Sam Cassell",
+      "team": "MIN",
+      "bestSeason": "2003-04",
+      "bestBpm": 5,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 353,
+      "slug": "brent-barry",
+      "name": "Brent Barry",
+      "team": "SEA",
+      "bestSeason": "2001-02",
+      "bestBpm": 4.9,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 354,
+      "slug": "joakim-noah",
+      "name": "Joakim Noah",
+      "team": "CHI",
+      "bestSeason": "2013-14",
+      "bestBpm": 4.7,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 355,
+      "slug": "toni-kukoc",
+      "name": "Toni Kukoc",
+      "team": "CHI",
+      "bestSeason": "1996-97",
+      "bestBpm": 4.7,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 356,
+      "slug": "demarcus-cousins",
+      "name": "DeMarcus Cousins",
+      "team": "NOP",
+      "bestSeason": "2017-18",
+      "bestBpm": 4.5,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 357,
+      "slug": "anthony-mason",
+      "name": "Anthony Mason",
+      "team": "CHH",
+      "bestSeason": "1996-97",
+      "bestBpm": 4.5,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 358,
+      "slug": "paul-millsap",
+      "name": "Paul Millsap",
+      "team": "ATL",
+      "bestSeason": "2015-16",
+      "bestBpm": 4.4,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 359,
+      "slug": "clyde-drexler",
+      "name": "Clyde Drexler",
+      "team": "HOU",
+      "bestSeason": "1996-97",
+      "bestBpm": 4.3,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 360,
+      "slug": "jeff-hornacek",
+      "name": "Jeff Hornacek",
+      "team": "UTA",
+      "bestSeason": "1996-97",
+      "bestBpm": 4.3,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 361,
+      "slug": "detlef-schrempf",
+      "name": "Detlef Schrempf",
+      "team": "SEA",
+      "bestSeason": "1996-97",
+      "bestBpm": 4.3,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 362,
+      "slug": "isaiah-thomas",
+      "name": "Isaiah Thomas",
+      "team": "BOS",
+      "bestSeason": "2016-17",
+      "bestBpm": 4.3,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 363,
+      "slug": "arvydas-sabonis",
+      "name": "Arvydas Sabonis",
+      "team": "POR",
+      "bestSeason": "2002-03",
+      "bestBpm": 4.2,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 364,
+      "slug": "nene",
+      "name": "Nene",
+      "team": "DEN",
+      "bestSeason": "2009-10",
+      "bestBpm": 4.2,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 365,
+      "slug": "mookie-blaylock",
+      "name": "Mookie Blaylock",
+      "team": "ATL",
+      "bestSeason": "1996-97",
+      "bestBpm": 4.2,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 366,
+      "slug": "boris-diaw",
+      "name": "Boris Diaw",
+      "team": "PHX",
+      "bestSeason": "2005-06",
+      "bestBpm": 4.2,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 367,
+      "slug": "david-west",
+      "name": "David West",
+      "team": "GSW",
+      "bestSeason": "2016-17",
+      "bestBpm": 4.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 368,
+      "slug": "hedo-turkoglu",
+      "name": "Hedo Turkoglu",
+      "team": "ORL",
+      "bestSeason": "2007-08",
+      "bestBpm": 4.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 369,
+      "slug": "gordon-hayward",
+      "name": "Gordon Hayward",
+      "team": "UTA",
+      "bestSeason": "2016-17",
+      "bestBpm": 4.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 370,
+      "slug": "kevin-johnson",
+      "name": "Kevin Johnson",
+      "team": "PHX",
+      "bestSeason": "1996-97",
+      "bestBpm": 4.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 371,
+      "slug": "doug-christie",
+      "name": "Doug Christie",
+      "team": "SAC",
+      "bestSeason": "2001-02",
+      "bestBpm": 4.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 372,
+      "slug": "caron-butler",
+      "name": "Caron Butler",
+      "team": "WAS",
+      "bestSeason": "2007-08",
+      "bestBpm": 4.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 373,
+      "slug": "luol-deng",
+      "name": "Luol Deng",
+      "team": "CHI",
+      "bestSeason": "2011-12",
+      "bestBpm": 4.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 374,
+      "slug": "jameer-nelson",
+      "name": "Jameer Nelson",
+      "team": "ORL",
+      "bestSeason": "2008-09",
+      "bestBpm": 4.1,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 375,
+      "slug": "andrew-bogut",
+      "name": "Andrew Bogut",
+      "team": "GSW",
+      "bestSeason": "2015-16",
+      "bestBpm": 4,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 376,
+      "slug": "andrew-bynum",
+      "name": "Andrew Bynum",
+      "team": "LAL",
+      "bestSeason": "2007-08",
+      "bestBpm": 4,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 377,
+      "slug": "brevin-knight",
+      "name": "Brevin Knight",
+      "team": "CLE",
+      "bestSeason": "1997-98",
+      "bestBpm": 4,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 378,
+      "slug": "christian-laettner",
+      "name": "Christian Laettner",
+      "team": "ATL",
+      "bestSeason": "1996-97",
+      "bestBpm": 4,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 379,
+      "slug": "mason-plumlee",
+      "name": "Mason Plumlee",
+      "team": "DEN",
+      "bestSeason": "2018-19",
+      "bestBpm": 3.9,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 380,
+      "slug": "nerlens-noel",
+      "name": "Nerlens Noel",
+      "team": "OKC",
+      "bestSeason": "2019-20",
+      "bestBpm": 3.9,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 381,
+      "slug": "chandler-parsons",
+      "name": "Chandler Parsons",
+      "team": "HOU",
+      "bestSeason": "2013-14",
+      "bestBpm": 3.9,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 382,
+      "slug": "joe-ingles",
+      "name": "Joe Ingles",
+      "team": "UTA",
+      "bestSeason": "2020-21",
+      "bestBpm": 3.9,
+      "kind": "historical",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 383,
+      "slug": "ronald-holland-ii",
+      "name": "Ronald Holland II",
+      "team": "DET",
+      "kind": "current",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 384,
+      "slug": "cam-spencer",
+      "name": "Cam Spencer",
+      "team": "MEM",
+      "kind": "current",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 385,
+      "slug": "vit-krejci",
+      "name": "Vít Krejčí",
+      "team": "POR",
+      "kind": "current",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 386,
+      "slug": "jordan-walsh",
+      "name": "Jordan Walsh",
+      "team": "BOS",
+      "kind": "current",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 387,
+      "slug": "gui-santos",
+      "name": "Gui Santos",
+      "team": "GSW",
+      "kind": "current",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 388,
+      "slug": "spencer-jones",
+      "name": "Spencer Jones",
+      "team": "DEN",
+      "kind": "current",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 389,
+      "slug": "justin-champagnie",
+      "name": "Justin Champagnie",
+      "team": "WAS",
+      "kind": "current",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 390,
+      "slug": "mouhamed-gueye",
+      "name": "Mouhamed Gueye",
+      "team": "ATL",
+      "kind": "current",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 391,
+      "slug": "daniss-jenkins",
+      "name": "Daniss Jenkins",
+      "team": "DET",
+      "kind": "current",
+      "batch": "best-bpm-and-depth"
+    },
+    {
+      "rank": 392,
+      "slug": "cedric-coward",
+      "name": "Cedric Coward",
+      "team": "MEM",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 393,
+      "slug": "alex-sarr",
+      "name": "Alex Sarr",
+      "team": "WAS",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 394,
+      "slug": "egor-demin",
+      "name": "Egor Demin",
+      "team": "BKN",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 395,
+      "slug": "zach-edey",
+      "name": "Zach Edey",
+      "team": "MEM",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 396,
+      "slug": "mikel-brown-jr",
+      "name": "Mikel Brown Jr.",
+      "team": "BKN",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 397,
+      "slug": "hannes-steinbach",
+      "name": "Hannes Steinbach",
+      "team": "CHA",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 398,
+      "slug": "caleb-wilson",
+      "name": "Caleb Wilson",
+      "team": "CHI",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 399,
+      "slug": "keaton-wagler",
+      "name": "Keaton Wagler",
+      "team": "LAC",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 400,
+      "slug": "cameron-boozer",
+      "name": "Cameron Boozer",
+      "team": "MEM",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 401,
+      "slug": "darius-acuff-jr",
+      "name": "Darius Acuff Jr.",
+      "team": "SAC",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 402,
+      "slug": "darryn-peterson",
+      "name": "Darryn Peterson",
+      "team": "UTA",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 403,
+      "slug": "aj-dybantsa",
+      "name": "AJ Dybantsa",
+      "team": "WAS",
+      "depthSlot": 1,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 404,
+      "slug": "craig-porter-jr",
+      "name": "Craig Porter Jr.",
+      "team": "CLE",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 405,
+      "slug": "adem-bona",
+      "name": "Adem Bona",
+      "team": "PHI",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 406,
+      "slug": "de-anthony-melton",
+      "name": "De'Anthony Melton",
+      "team": "GSW",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 407,
+      "slug": "landry-shamet",
+      "name": "Landry Shamet",
+      "team": "NYK",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 408,
+      "slug": "sidy-cissoko",
+      "name": "Sidy Cissoko",
+      "team": "POR",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 409,
+      "slug": "kobe-sanders",
+      "name": "Kobe Sanders",
+      "team": "LAC",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 410,
+      "slug": "jeremiah-fears",
+      "name": "Jeremiah Fears",
+      "team": "NOP",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 411,
+      "slug": "brice-sensabaugh",
+      "name": "Brice Sensabaugh",
+      "team": "UTA",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 412,
+      "slug": "maxime-raynaud",
+      "name": "Maxime Raynaud",
+      "team": "SAC",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 413,
+      "slug": "bilal-coulibaly",
+      "name": "Bilal Coulibaly",
+      "team": "WAS",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 414,
+      "slug": "isaiah-collier",
+      "name": "Isaiah Collier",
+      "team": "UTA",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 415,
+      "slug": "taylor-hendricks",
+      "name": "Taylor Hendricks",
+      "team": "MEM",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 416,
+      "slug": "jordan-clarkson",
+      "name": "Jordan Clarkson",
+      "team": "NYK",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 417,
+      "slug": "patrick-williams",
+      "name": "Patrick Williams",
+      "team": "CHI",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 418,
+      "slug": "jared-mccain",
+      "name": "Jared McCain",
+      "team": "OKC",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 419,
+      "slug": "ace-bailey",
+      "name": "Ace Bailey",
+      "team": "UTA",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 420,
+      "slug": "carter-bryant",
+      "name": "Carter Bryant",
+      "team": "SAS",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 421,
+      "slug": "ousmane-dieng",
+      "name": "Ousmane Dieng",
+      "team": "MIL",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 422,
+      "slug": "noah-clowney",
+      "name": "Noah Clowney",
+      "team": "BKN",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 423,
+      "slug": "nique-clifford",
+      "name": "Nique Clifford",
+      "team": "SAC",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 424,
+      "slug": "bub-carrington",
+      "name": "Bub Carrington",
+      "team": "WAS",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 425,
+      "slug": "ben-saraf",
+      "name": "Ben Saraf",
+      "team": "BKN",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 426,
+      "slug": "tre-johnson",
+      "name": "Tre Johnson",
+      "team": "WAS",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 427,
+      "slug": "drake-powell",
+      "name": "Drake Powell",
+      "team": "BKN",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 428,
+      "slug": "moritz-wagner",
+      "name": "Moritz Wagner",
+      "team": "BKN",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 429,
+      "slug": "larry-nance-jr",
+      "name": "Larry Nance Jr.",
+      "team": "IND",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 430,
+      "slug": "steven-adams",
+      "name": "Steven Adams",
+      "team": "HOU",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 431,
+      "slug": "scoot-henderson",
+      "name": "Scoot Henderson",
+      "team": "POR",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 432,
+      "slug": "marcus-sasser",
+      "name": "Marcus Sasser",
+      "team": "DAL",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 433,
+      "slug": "kingston-flemings",
+      "name": "Kingston Flemings",
+      "team": "ATL",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 434,
+      "slug": "dailyn-swain",
+      "name": "Dailyn Swain",
+      "team": "CHI",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 435,
+      "slug": "morez-johnson-jr",
+      "name": "Morez Johnson Jr.",
+      "team": "DAL",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 436,
+      "slug": "yaxel-lendeborg",
+      "name": "Yaxel Lendeborg",
+      "team": "GSW",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 437,
+      "slug": "cameron-carr",
+      "name": "Cameron Carr",
+      "team": "LAL",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 438,
+      "slug": "brayden-burries",
+      "name": "Brayden Burries",
+      "team": "MIL",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 439,
+      "slug": "nate-ament",
+      "name": "Nate Ament",
+      "team": "MIL",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 440,
+      "slug": "isaiah-evans",
+      "name": "Isaiah Evans",
+      "team": "MIN",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 441,
+      "slug": "terrence-shannon-jr",
+      "name": "Terrence Shannon Jr.",
+      "team": "MIN",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 442,
+      "slug": "joan-beringer",
+      "name": "Joan Beringer",
+      "team": "MIN",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 443,
+      "slug": "jamal-cain",
+      "name": "Jamal Cain",
+      "team": "ORL",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 444,
+      "slug": "labaron-philon-jr",
+      "name": "Labaron Philon Jr.",
+      "team": "PHI",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 445,
+      "slug": "khaman-maluach",
+      "name": "Khaman Maluach",
+      "team": "PHX",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 446,
+      "slug": "allen-graves",
+      "name": "Allen Graves",
+      "team": "TOR",
+      "depthSlot": 2,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 447,
+      "slug": "dylan-cardwell",
+      "name": "Dylan Cardwell",
+      "team": "SAC",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 448,
+      "slug": "justin-edwards",
+      "name": "Justin Edwards",
+      "team": "PHI",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 449,
+      "slug": "josh-okogie",
+      "name": "Josh Okogie",
+      "team": "UTA",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 450,
+      "slug": "jarred-vanderbilt",
+      "name": "Jarred Vanderbilt",
+      "team": "LAL",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 451,
+      "slug": "nae-qwan-tomlin",
+      "name": "Nae'Qwan Tomlin",
+      "team": "CLE",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 452,
+      "slug": "will-richard",
+      "name": "Will Richard",
+      "team": "GSW",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 453,
+      "slug": "julian-strawther",
+      "name": "Julian Strawther",
+      "team": "DEN",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 454,
+      "slug": "karlo-matkovic",
+      "name": "Karlo Matkovic",
+      "team": "NOP",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 455,
+      "slug": "quinten-post",
+      "name": "Quinten Post",
+      "team": "MEM",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 456,
+      "slug": "hugo-gonzalez",
+      "name": "Hugo Gonzalez",
+      "team": "BOS",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 457,
+      "slug": "kasparas-jakucionis",
+      "name": "Kasparas Jakucionis",
+      "team": "MIL",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 458,
+      "slug": "micah-potter",
+      "name": "Micah Potter",
+      "team": "POR",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 459,
+      "slug": "danny-wolf",
+      "name": "Danny Wolf",
+      "team": "BKN",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 460,
+      "slug": "gradey-dick",
+      "name": "Gradey Dick",
+      "team": "LAC",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 461,
+      "slug": "gg-jackson",
+      "name": "GG Jackson",
+      "team": "MEM",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 462,
+      "slug": "corey-kispert",
+      "name": "Corey Kispert",
+      "team": "ATL",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 463,
+      "slug": "jericho-sims",
+      "name": "Jericho Sims",
+      "team": "MIL",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 464,
+      "slug": "jevon-carter",
+      "name": "Jevon Carter",
+      "team": "ORL",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 465,
+      "slug": "will-riley",
+      "name": "Will Riley",
+      "team": "WAS",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 466,
+      "slug": "walter-clayton-jr",
+      "name": "Walter Clayton Jr.",
+      "team": "MEM",
+      "depthSlot": 3,
+      "kind": "current",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 467,
+      "slug": "andre-iguodala",
+      "name": "Andre Iguodala",
+      "team": "GSW",
+      "bestSeason": "2016-17",
+      "careerValue": 175018,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 468,
+      "slug": "andre-miller",
+      "name": "Andre Miller",
+      "team": "CLE",
+      "bestSeason": "2001-02",
+      "careerValue": 153376,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 469,
+      "slug": "lamarcus-aldridge",
+      "name": "LaMarcus Aldridge",
+      "team": "SAS",
+      "bestSeason": "2015-16",
+      "careerValue": 150195,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 470,
+      "slug": "shane-battier",
+      "name": "Shane Battier",
+      "team": "MEM",
+      "bestSeason": "2005-06",
+      "careerValue": 125754,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 471,
+      "slug": "trevor-ariza",
+      "name": "Trevor Ariza",
+      "team": "LAL",
+      "bestSeason": "2008-09",
+      "careerValue": 116817,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 472,
+      "slug": "antawn-jamison",
+      "name": "Antawn Jamison",
+      "team": "CLE",
+      "bestSeason": "2009-10",
+      "careerValue": 114828,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 473,
+      "slug": "richard-jefferson",
+      "name": "Richard Jefferson",
+      "team": "NJN",
+      "bestSeason": "2003-04",
+      "careerValue": 108155,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 474,
+      "slug": "clifford-robinson",
+      "name": "Clifford Robinson",
+      "team": "PHX",
+      "bestSeason": "1998-99",
+      "careerValue": 107692,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 475,
+      "slug": "kyle-korver",
+      "name": "Kyle Korver",
+      "team": "ATL",
+      "bestSeason": "2014-15",
+      "careerValue": 104242,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 476,
+      "slug": "thaddeus-young",
+      "name": "Thaddeus Young",
+      "team": "CHI",
+      "bestSeason": "2020-21",
+      "careerValue": 102341,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 477,
+      "slug": "serge-ibaka",
+      "name": "Serge Ibaka",
+      "team": "OKC",
+      "bestSeason": "2012-13",
+      "careerValue": 98630,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 478,
+      "slug": "kenyon-martin",
+      "name": "Kenyon Martin",
+      "team": "NJN",
+      "bestSeason": "2003-04",
+      "careerValue": 98131,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 479,
+      "slug": "pj-brown",
+      "name": "P.J. Brown",
+      "team": "MIA",
+      "bestSeason": "1997-98",
+      "careerValue": 96701,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 480,
+      "slug": "deandre-jordan",
+      "name": "DeAndre Jordan",
+      "team": "LAC",
+      "bestSeason": "2013-14",
+      "careerValue": 96532,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 481,
+      "slug": "rudy-gay",
+      "name": "Rudy Gay",
+      "team": "MEM",
+      "bestSeason": "2010-11",
+      "careerValue": 94939,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 482,
+      "slug": "jason-richardson",
+      "name": "Jason Richardson",
+      "team": "PHX",
+      "bestSeason": "2008-09",
+      "careerValue": 94821,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    },
+    {
+      "rank": 483,
+      "slug": "gerald-wallace",
+      "name": "Gerald Wallace",
+      "team": "CHA",
+      "bestSeason": "2008-09",
+      "careerValue": 91801,
+      "kind": "historical",
+      "batch": "depth-and-career"
+    }
+  ],
+  "batches": [
+    {
+      "batch": "vorp-2025-26",
+      "addedAt": "2026-10-05T01:29:47.509Z",
+      "method": "next 150 by 2025-26 (BPM + 2) x MP"
+    },
+    {
+      "batch": "vorp3-next100",
+      "addedAt": "2026-10-05T19:06:27.926Z",
+      "method": "next 100 by (BPM + 2) x MP, 2023-24..2025-26 weighted 1/2/3"
+    },
+    {
+      "batch": "historical-must-haves",
+      "addedAt": "2026-10-14T02:56:20.622Z",
+      "method": "75 must-have 1996-97..2012-13 players without an illustrated portrait: fame first, then (BPM + 2) x MP over the window plus 1.5x playoffs; team = the jersey wanted in the source (prime team in the window); ranks 1-50 sourced first"
+    },
+    {
+      "batch": "best-bpm-and-depth",
+      "addedAt": "2026-10-17T05:09:25.814Z",
+      "method": "50 historical by best single-season BPM (800+ MP; team = that season's) and 50 on the depth charts by (BPM + 2) x MP, 2023-24..2025-26 weighted 1/2/3, none with an illustrated portrait",
+      "slugs": [
+        "kevin-love",
+        "brad-miller",
+        "blake-griffin",
+        "kyle-lowry",
+        "josh-smith",
+        "marcus-camby",
+        "marc-gasol",
+        "sam-cassell",
+        "steve-francis",
+        "brandon-roy",
+        "brent-barry",
+        "andrei-kirilenko",
+        "carlos-boozer",
+        "joakim-noah",
+        "toni-kukoc",
+        "peja-stojakovic",
+        "eddie-jones",
+        "demarcus-cousins",
+        "anthony-mason",
+        "robert-horry",
+        "paul-millsap",
+        "elton-brand",
+        "tim-hardaway",
+        "clyde-drexler",
+        "jeff-hornacek",
+        "detlef-schrempf",
+        "vlade-divac",
+        "isaiah-thomas",
+        "arvydas-sabonis",
+        "nene",
+        "mookie-blaylock",
+        "boris-diaw",
+        "david-west",
+        "hedo-turkoglu",
+        "gordon-hayward",
+        "kevin-johnson",
+        "doug-christie",
+        "caron-butler",
+        "luol-deng",
+        "jameer-nelson",
+        "andrew-bogut",
+        "andrew-bynum",
+        "brevin-knight",
+        "christian-laettner",
+        "jason-terry",
+        "mason-plumlee",
+        "nerlens-noel",
+        "michael-finley",
+        "chandler-parsons",
+        "joe-ingles",
+        "christian-braun",
+        "kris-dunn",
+        "jakob-poeltl",
+        "grayson-allen",
+        "goga-bitadze",
+        "peyton-watson",
+        "tari-eason",
+        "jake-laravia",
+        "caris-levert",
+        "kyle-anderson",
+        "derrick-jones-jr",
+        "sam-merrill",
+        "paul-reed",
+        "day-ron-sharpe",
+        "sandro-mamukelashvili",
+        "tristan-da-silva",
+        "jaylin-williams",
+        "derik-queen",
+        "gary-payton-ii",
+        "precious-achiuwa",
+        "kenrich-williams",
+        "jaylon-tyson",
+        "clint-capela",
+        "ronald-holland-ii",
+        "jalen-smith",
+        "cam-spencer",
+        "jordan-goodwin",
+        "collin-murray-boyles",
+        "anfernee-simons",
+        "kyle-kuzma",
+        "ja-kobe-walter",
+        "andre-drummond",
+        "vit-krejci",
+        "zaccharie-risacher",
+        "jay-huff",
+        "jordan-walsh",
+        "jamal-shead",
+        "gui-santos",
+        "dominick-barlow",
+        "ryan-kalkbrenner",
+        "spencer-jones",
+        "bones-hyland",
+        "baylor-scheierman",
+        "marvin-bagley-iii",
+        "jarace-walker",
+        "justin-champagnie",
+        "isaiah-jackson",
+        "mouhamed-gueye",
+        "ben-sheppard",
+        "daniss-jenkins"
+      ]
+    },
+    {
+      "batch": "depth-and-career",
+      "addedAt": "2026-10-17T08:21:58.103Z",
+      "method": "75 on the depth charts by best depth slot, then (BPM + 2) x MP 2023-24..2025-26 weighted 1/2/3 (rookies last in their slot), and 25 historical by career (BPM + 2) x MP (team = best season's), none with an illustrated portrait or already in the pipeline",
+      "slugs": [
+        "cedric-coward",
+        "alex-sarr",
+        "egor-demin",
+        "zach-edey",
+        "mikel-brown-jr",
+        "hannes-steinbach",
+        "caleb-wilson",
+        "keaton-wagler",
+        "cameron-boozer",
+        "darius-acuff-jr",
+        "darryn-peterson",
+        "aj-dybantsa",
+        "craig-porter-jr",
+        "adem-bona",
+        "de-anthony-melton",
+        "landry-shamet",
+        "sidy-cissoko",
+        "kobe-sanders",
+        "jeremiah-fears",
+        "brice-sensabaugh",
+        "maxime-raynaud",
+        "bilal-coulibaly",
+        "isaiah-collier",
+        "taylor-hendricks",
+        "jordan-clarkson",
+        "patrick-williams",
+        "jared-mccain",
+        "ace-bailey",
+        "carter-bryant",
+        "ousmane-dieng",
+        "noah-clowney",
+        "nique-clifford",
+        "bub-carrington",
+        "ben-saraf",
+        "tre-johnson",
+        "drake-powell",
+        "moritz-wagner",
+        "larry-nance-jr",
+        "steven-adams",
+        "scoot-henderson",
+        "marcus-sasser",
+        "kingston-flemings",
+        "dailyn-swain",
+        "morez-johnson-jr",
+        "yaxel-lendeborg",
+        "cameron-carr",
+        "brayden-burries",
+        "nate-ament",
+        "isaiah-evans",
+        "terrence-shannon-jr",
+        "joan-beringer",
+        "jamal-cain",
+        "labaron-philon-jr",
+        "khaman-maluach",
+        "allen-graves",
+        "dylan-cardwell",
+        "justin-edwards",
+        "josh-okogie",
+        "jarred-vanderbilt",
+        "nae-qwan-tomlin",
+        "will-richard",
+        "julian-strawther",
+        "karlo-matkovic",
+        "quinten-post",
+        "hugo-gonzalez",
+        "kasparas-jakucionis",
+        "micah-potter",
+        "danny-wolf",
+        "gradey-dick",
+        "gg-jackson",
+        "corey-kispert",
+        "jericho-sims",
+        "jevon-carter",
+        "will-riley",
+        "walter-clayton-jr",
+        "andre-iguodala",
+        "andre-miller",
+        "joe-johnson",
+        "lamarcus-aldridge",
+        "rashard-lewis",
+        "shane-battier",
+        "mike-bibby",
+        "stephon-marbury",
+        "trevor-ariza",
+        "antawn-jamison",
+        "tayshaun-prince",
+        "antoine-walker",
+        "richard-jefferson",
+        "clifford-robinson",
+        "kyle-korver",
+        "thaddeus-young",
+        "serge-ibaka",
+        "kenyon-martin",
+        "pj-brown",
+        "deandre-jordan",
+        "richard-hamilton",
+        "rudy-gay",
+        "jason-richardson",
+        "derek-fisher",
+        "gerald-wallace"
+      ]
+    }
+  ]
+}

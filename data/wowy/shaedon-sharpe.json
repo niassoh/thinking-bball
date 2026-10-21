@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "POR",
+  "gp": 50,
+  "generatedAt": "2026-10-02T03:29:34.491Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · POR",
+      "minutes": 1471,
+      "poss": 3126,
+      "net": -1.599488163787588
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · POR",
+      "minutes": 2480,
+      "poss": 5184.5,
+      "net": 0.5014948403896229
+    },
+    {
+      "label": "On, w/o Camara",
+      "sub": "2025–26 · POR",
+      "minutes": 400,
+      "poss": 854.5,
+      "net": 2.925687536571094
+    },
+    {
+      "label": "On, w/o Avdija",
+      "sub": "2025–26 · POR",
+      "minutes": 604,
+      "poss": 1277.5,
+      "net": -2.3483365949119372
+    },
+    {
+      "label": "On, w/o Clingan",
+      "sub": "2025–26 · POR",
+      "minutes": 638,
+      "poss": 1380.5,
+      "net": -3.6943136544730173
+    },
+    {
+      "label": "Neither Sharpe nor Camara",
+      "sub": "2025–26 · POR",
+      "minutes": 819,
+      "poss": 1724.5,
+      "net": -4.6970136271383005
+    }
+  ]
+}

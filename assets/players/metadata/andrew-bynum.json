@@ -1,0 +1,75 @@
+{
+  "player": "Andrew Bynum",
+  "playerId": "andrew-bynum",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kobe_Bryant%2C_Andrew_Bynum.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kobe_Bryant%2C_Andrew_Bynum.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Kobe_Bryant,_Andrew_Bynum.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2012-03-07 (at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    1855,
+    1211
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/andrew-bynum.jpg",
+  "selectedAt": "2026-10-17T05:43:22.976Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 1,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1190,
+    "y": 67,
+    "size": 480
+  },
+  "needsReview": "No in-game Lakers photo of Bynum in the 6-8 band with a usable face found. Searched: Wikimedia Commons (category + text; the in-band frames are a 2007 mid-dunk, a 2010 warmup shirt and a 2010 fan photo with a tiny face), nba.com Lakers-site Bynum galleries and releases (500-710 px legacy images, faces under 150 px), the 2010 Finals Game 7 and 2011-12 Lakers galleries, and the 2007-08..2011-12 nba.com season reviews (no Bynum photo). Web search budget ran out mid-search.",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower (slapping hands with Kobe during a break, lips closed in a faint smile, eyes off to the side)",
+  "jersey": "LAL purple road #17, 2011-12",
+  "concerns": "FLAG: energy ~5, below the 6-8 band; face ~235 px; 3/4 view toward Kobe; fan face behind his left shoulder in the crop; 2011-12 rather than his 2007-08 listed best season, still with the Lakers",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Andrew_Bynum_Mar-2012.jpg",
+      "note": "(same game, CC BY-SA 2.0, ~300 px face but looking down at the ball, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/BynumLAL.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, Feb 2007 at WAS, mid-dunk, too intense)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ABynumLAL2010.jpg",
+      "note": "(CC BY 2.0, Jan 2010, gold warmup shirt, rejected)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ]
+}

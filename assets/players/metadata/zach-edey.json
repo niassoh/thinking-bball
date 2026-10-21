@@ -1,0 +1,64 @@
+{
+  "player": "Zach Edey",
+  "playerId": "zach-edey",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/10/edey-iso-102125.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/10/edey-iso-102125.jpg",
+  "sourcePage": "https://www.nba.com/news/grizzlies-rookie-option-zach-edey",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": "c. 2024-25 at FedExForum (Vancouver Classic Edition night; undated renamed nba.com photo)",
+  "originalSize": null,
+  "storedSize": [
+    2397,
+    1347
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/zach-edey.jpg",
+  "selectedAt": "2026-10-17T08:47:49.569Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 814,
+    "y": 0,
+    "size": 700
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (eyes up and off-camera, lips parted mid-breath; slightly calmer than McCain)",
+  "jersey": "MEM white Vancouver Grizzlies Classic Edition #14, c. 2024-25",
+  "concerns": "renamed nba.com image, no Getty caption check, so the exact game is unverified; Classic Edition (Vancouver) jersey rather than the standard MEM set; from his rookie season, not 2026-27 (no in-game 2026 preseason photo of him on nba.com: the Grizzlies site posts no preseason galleries and the only 2026 Getty photo found is media day)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/edey2.jpg",
+      "note": "(2025-26 at SAC, navy Icon road, looking up but mouth closed, energy ~5.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/11/zach-edey-no1-finger-reacts.jpg",
+      "note": "(2024-25 vs MIA, white home, raised finger beside the head and eyes rolled up, odd frame)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

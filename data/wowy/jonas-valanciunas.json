@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "DEN",
+  "gp": 65,
+  "generatedAt": "2026-10-02T05:19:11.278Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · DEN",
+      "minutes": 871,
+      "poss": 1725,
+      "net": -2.550724637681159
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · DEN",
+      "minutes": 3115,
+      "poss": 6476.5,
+      "net": 7.195244344939396
+    },
+    {
+      "label": "On, w/o Murray",
+      "sub": "2025–26 · DEN",
+      "minutes": 351,
+      "poss": 700,
+      "net": 2.4285714285714284
+    },
+    {
+      "label": "On, w/o Jokić",
+      "sub": "2025–26 · DEN",
+      "minutes": 828,
+      "poss": 1630.5,
+      "net": -3.802514566084023
+    },
+    {
+      "label": "On, w/o Hardaway Jr.",
+      "sub": "2025–26 · DEN",
+      "minutes": 279,
+      "poss": 538.5,
+      "net": -3.8997214484679668
+    },
+    {
+      "label": "Neither Valančiūnas nor Murray",
+      "sub": "2025–26 · DEN",
+      "minutes": 983,
+      "poss": 2062,
+      "net": -1.2609117361784674
+    }
+  ]
+}

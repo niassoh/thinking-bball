@@ -1,0 +1,161 @@
+{
+  "player": "Vince Carter",
+  "playerId": "vince-carter",
+  "sourceUrl": "https://cdn.nba.com/manage/2023/09/GettyImages-56474310-scaled-e1695047055940.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2023/09/GettyImages-56474310-scaled-e1695047055940.jpg",
+  "sourcePage": "https://www.nba.com/news/empire-state-building-to-be-lit-in-nets-old-colors-vince-carters-no-15-when-jersey-retired",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "December 20 2005 (vs LAC, Continental Airlines Arena)",
+  "originalSize": null,
+  "storedSize": [
+    2534,
+    1420
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/vince-carter.jpg",
+  "selectedAt": "2026-10-14T03:54:30.411Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 590,
+    "y": 60,
+    "size": 760
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (looking up and off-camera during a stoppage, lips parted mid-breath)",
+  "jersey": "NJN white home #15, 2005-06",
+  "concerns": "not the target team: no usable Raptors photo found (TOR options were a fist-flexing celebration and a tongue-out defensive stance); stoppage beside Jason Kidd, who is outside the crop; headband",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/10/GettyImages-3111857-scaled-e1729891393367.jpg",
+      "note": "(TOR purple Mar 9 2004 at IND, 242px, defensive stance staring with his tongue out, energy 6.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/02/GettyImages-73037636.jpg",
+      "note": "(NJN red Dec 26 2006 at DET, driving with mouth open, energy 7, but softer with a 220px face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:15.573Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/vince-carter-dcd20252-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/vince-carter/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:38.863Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/vince-carter.png",
+  "webp": [
+    "assets/players/webp/vince-carter-1024.webp",
+    "assets/players/webp/vince-carter-400.webp",
+    "assets/players/webp/vince-carter-200.webp",
+    "assets/players/webp/vince-carter-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2023/09/GettyImages-56474310-scaled-e1695047055940.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:39.506Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/vince-carter-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/vince-carter/out.png",
+        "fixes": [],
+        "base": "29badbedefa6c65dd35dc7f993a0f66c79e4c0d0",
+        "importedAt": "2026-10-14T20:26:37.567Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0042,
+          "face": 2.9,
+          "purity": 0.995,
+          "coverage": 0.255,
+          "strays": 2,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 773,
+          "oldEdge": 0.326,
+          "shadeLevels": 7,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/vince-carter-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "missed"
+          ],
+          "note": "old jersey colour left at the edge (0.326)",
+          "at": "2026-10-14T20:28:35.923Z"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "team": "MIA",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:02:17.483Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Davion Mitchell",
+          "slug": "davion-mitchell",
+          "espnId": "4278053",
+          "status": null
+        },
+        {
+          "name": "Dru Smith",
+          "slug": "dru-smith",
+          "espnId": "4066993",
+          "status": "DTD"
+        },
+        {
+          "name": "Ryan Conwell",
+          "slug": "ryan-conwell",
+          "espnId": "5107157",
+          "status": null
+        },
+        {
+          "name": "Tre Donaldson",
+          "slug": "tre-donaldson",
+          "espnId": "4837356",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Klay Thompson",
+          "slug": "klay-thompson",
+          "espnId": "6475",
+          "status": null
+        },
+        {
+          "name": "Tim Hardaway Jr.",
+          "slug": "tim-hardaway-jr",
+          "espnId": "2528210",
+          "status": null
+        },
+        {
+          "name": "Ryan Conwell",
+          "slug": "ryan-conwell",
+          "espnId": "5107157",
+          "status": null
+        },
+        {
+          "name": "Pelle Larsson",
+          "slug": "pelle-larsson",
+          "espnId": "4601025",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Andrew Wiggins",
+          "slug": "andrew-wiggins",
+          "espnId": "3059319",
+          "status": null
+        },
+        {
+          "name": "Pelle Larsson",
+          "slug": "pelle-larsson",
+          "espnId": "4601025",
+          "status": null
+        },
+        {
+          "name": "Klay Thompson",
+          "slug": "klay-thompson",
+          "espnId": "6475",
+          "status": null
+        },
+        {
+          "name": "Tim Hardaway Jr.",
+          "slug": "tim-hardaway-jr",
+          "espnId": "2528210",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "slug": "giannis-antetokounmpo",
+          "espnId": "3032977",
+          "status": null
+        },
+        {
+          "name": "Bobby Portis",
+          "slug": "bobby-portis",
+          "espnId": "3064482",
+          "status": null
+        },
+        {
+          "name": "Klay Thompson",
+          "slug": "klay-thompson",
+          "espnId": "6475",
+          "status": null
+        },
+        {
+          "name": "Andrew Wiggins",
+          "slug": "andrew-wiggins",
+          "espnId": "3059319",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Bam Adebayo",
+          "slug": "bam-adebayo",
+          "espnId": "4066261",
+          "status": null
+        },
+        {
+          "name": "Bobby Portis",
+          "slug": "bobby-portis",
+          "espnId": "3064482",
+          "status": null
+        },
+        {
+          "name": "Nick Richards",
+          "slug": "nick-richards",
+          "espnId": "4278076",
+          "status": null
+        },
+        {
+          "name": "Nikola Jovic",
+          "slug": "nikola-jovic",
+          "espnId": "4997528",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

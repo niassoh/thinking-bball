@@ -1,0 +1,145 @@
+{
+  "player": "David West",
+  "playerId": "david-west",
+  "sourceUrl": "https://cdn.nba.com/manage/2018/08/david-west-iso-ball.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2018/08/david-west-iso-ball.jpg",
+  "sourcePage": "https://www.nba.com/news/report-golden-state-warriors-david-west-retires-nba",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com (likely Getty Images / NBAE)",
+  "credit": null,
+  "photoDate": "2017-18 season (at PHX, Talking Stick Resort Arena; undated renamed nba.com image)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/david-west.jpg",
+  "selectedAt": "2026-10-17T05:19:58.272Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 620,
+    "y": 0,
+    "size": 770
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches, a touch lower (ball in hands, mouth open mid-word, eyes off-camera to his left)",
+  "jersey": "GSW blue road (Nike, Rakuten patch) 2017-18",
+  "concerns": "head touches the image top, so the crop has no room above the head; renamed nba.com image, no Getty caption check, date and opponent inferred from the uniform and orange PHX crowd; slightly soft web copy (1920x1080); ball in the lower-left of the crop; 2017-18 rather than 2016-17",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/warriors/sites/warriors/files/20180830-west-1280.jpg",
+      "note": "(2018 championship parade, street clothes and cap, rejected)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/warriors/sites/warriors/files/20160709-west-1280_0.jpg",
+      "note": "(SAS white, not GSW, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:53.936Z",
+      "promptAdditions": [
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/david-west-4b7d3f95-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/david-west/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.817Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/david-west.png",
+  "webp": [
+    "assets/players/webp/david-west-1024.webp",
+    "assets/players/webp/david-west-400.webp",
+    "assets/players/webp/david-west-200.webp",
+    "assets/players/webp/david-west-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2018/08/david-west-iso-ball.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:41.019Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/david-west-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/david-west/out.png",
+        "fixes": [],
+        "base": "7f6e208a5ebaf72f4092e642d453a4650ce2fc3e",
+        "importedAt": "2026-10-17T11:07:04.723Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0042,
+          "face": 3.1,
+          "purity": 0.993,
+          "coverage": 0.136,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1412,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/david-west-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:53.501Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/david-west.webp",
+    "base": "7f6e208a5ebaf72f4092e642d453a4650ce2fc3e",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:53.902Z"
+  }
+}

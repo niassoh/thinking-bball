@@ -1,0 +1,64 @@
+{
+  "player": "Ousmane Dieng",
+  "playerId": "ousmane-dieng",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-22608597211.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-22608597211.jpg",
+  "sourcePage": "https://www.nba.com/news/the-athletic-ousmane-dieng-was-traded-to-3-teams-within-hours-hes-since-been-a-bucks-jewel",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "Feb 2026 (one of his first Bucks games; renamed Getty file in a Feb 18 2026 article)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ousmane-dieng.jpg",
+  "selectedAt": "2026-10-17T08:55:28.825Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 480,
+    "y": 0,
+    "size": 1080
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (sweaty, looking up and off-camera, mouth open mid-breath)",
+  "jersey": "MIL green Icon 2025-26 #21",
+  "concerns": "hair touches the top of the 1920x1080 frame, so the crop has no room above the hair and its size is capped by the image height (y=0, size 1080); exact game not in the caption (renamed file)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2270617951-scaled-e1782865946915.jpg",
+      "note": "(Apr 12 2026 at PHI, white Association, dribbling with mouth open, smaller 1705px face and arm in the lower frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2260859721.jpg",
+      "note": "(Feb 12 2026 at OKC, green, mid-drive, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,164 @@
+{
+  "player": "Shaquille O'Neal",
+  "playerId": "shaquille-o-neal",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/06/GettyImages-610811so.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/06/GettyImages-610811so.jpg",
+  "sourcePage": "https://www.nba.com/news/nba-birthdays-players-born-on-march-6",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2001-02 season (at PHX, America West Arena; 9/11 ribbon patch)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/shaquille-o-neal.jpg",
+  "selectedAt": "2026-10-14T03:19:44.217Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 381,
+    "y": 0,
+    "size": 792
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower (catching his breath between plays, sweat streaming, lips pushed out, eyes up and ahead)",
+  "jersey": "LAL purple road #34, 2001-02",
+  "concerns": "FLAG: energy 5 (no in-game Lakers photo of Shaq in the 6-8 band found on nba.com or Commons after widening, Archive 75 and season-review pages, and the Lakers legacy gallery, which is watermarked); Getty caption (id 610811) confirms in-game vs PHX; hands on hips at frame edges, outside crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2018/07/Shaq_Miami_ISO.jpg",
+      "note": "(renamed nba.com, MIA black 2007-08, sweaty in-game grin looking off, energy ~6, but Heat and past his prime)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2021/08/kobe-shaq-top-moments-game-7-2000.jpg",
+      "note": "(LAL gold 2000 WCF, lips parted, energy ~5, Kobe under his arm, head touches the top edge)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:13.510Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/shaquille-o-neal-cd0b7797-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/shaquille-o-neal/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:31.019Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/shaquille-o-neal.png",
+  "webp": [
+    "assets/players/webp/shaquille-o-neal-1024.webp",
+    "assets/players/webp/shaquille-o-neal-400.webp",
+    "assets/players/webp/shaquille-o-neal-200.webp",
+    "assets/players/webp/shaquille-o-neal-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/06/GettyImages-610811so.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:31.661Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/shaquille-o-neal-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/shaquille-o-neal/out.png",
+        "fixes": [],
+        "base": "9289c5fb33b2cdc9a6efb4c9869c7cf8d7ff43f7",
+        "importedAt": "2026-10-14T20:26:26.125Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0064,
+          "face": 5.3,
+          "purity": 0.991,
+          "coverage": 0.227,
+          "strays": 5,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2260,
+          "oldEdge": 0,
+          "shadeLevels": 11,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/shaquille-o-neal-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:16.497Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/shaquille-o-neal.webp",
+    "base": "9289c5fb33b2cdc9a6efb4c9869c7cf8d7ff43f7",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:16.740Z"
+  }
+}

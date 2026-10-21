@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "DET",
+  "gp": 14,
+  "generatedAt": "2026-10-09T18:56:19.840Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 422,
+      "poss": 820,
+      "net": -0.7317073170731708
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 255,
+      "poss": 502.5,
+      "net": 5.771144278606965
+    },
+    {
+      "label": "On, w/o Cunningham",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 50,
+      "poss": 90.5,
+      "net": -33.14917127071823
+    },
+    {
+      "label": "On, w/o Harris",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 74,
+      "poss": 144,
+      "net": -7.638888888888889
+    },
+    {
+      "label": "On, w/o Thompson",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 121,
+      "poss": 237.5,
+      "net": 3.3684210526315788
+    },
+    {
+      "label": "Neither Duren nor Cunningham",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 55,
+      "poss": 112.5,
+      "net": 16.88888888888889
+    }
+  ]
+}

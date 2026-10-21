@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "POR",
+  "gp": 5,
+  "generatedAt": "2026-10-09T18:49:45.338Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 165,
+      "poss": 332.5,
+      "net": -13.233082706766917
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 75,
+      "poss": 148,
+      "net": -12.162162162162163
+    },
+    {
+      "label": "On, w/o Holiday",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 32,
+      "poss": 65,
+      "net": -24.615384615384617
+    },
+    {
+      "label": "On, w/o Avdija",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 29,
+      "poss": 56,
+      "net": 10.714285714285714
+    },
+    {
+      "label": "On, w/o Henderson",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 46,
+      "poss": 90,
+      "net": -30
+    },
+    {
+      "label": "Neither Camara nor Holiday",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 17,
+      "poss": 33.5,
+      "net": 8.955223880597014
+    }
+  ]
+}

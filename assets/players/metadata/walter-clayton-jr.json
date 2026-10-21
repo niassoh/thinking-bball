@@ -1,0 +1,64 @@
+{
+  "player": "Walter Clayton Jr.",
+  "playerId": "walter-clayton-jr",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_jazz/01k7hwtrhm4132e3h3c9.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_jazz/01k7hwtrhm4132e3h3c9.jpg",
+  "sourcePage": "https://www.si.com/nba/jazz/news/utah-jazz-will-hardy-really-pleased-walt-clayton-jr",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Peter Creveling / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-10-13 (2025 preseason vs DAL, Delta Center, second half)",
+  "originalSize": null,
+  "storedSize": [
+    2056,
+    1371
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/walter-clayton-jr.jpg",
+  "selectedAt": "2026-10-17T11:15:35.665Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 73,
+    "y": 10,
+    "size": 1055
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes off to his right looking for a teammate, mouth open mid-breath)",
+  "jersey": "UTA white Association #13, 2025 preseason (2025-26)",
+  "concerns": "FLAG: Utah jersey, not his 2026-27 MEM jersey. He joined Memphis on 2026-02-03; nba.com had no Memphis game photo of him (no tagged articles with his Getty photos, no Grizzlies game galleries), SI has no Grizzlies-era Clayton article, and nba.com was blocking this machine for the rest of the search; preseason game (counts as in-game); SI/Imagn editorial photo, license unknown",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/nba_draft/01kbzkyj97ta2fvgj1zx.jpg",
+      "note": "(SI, UTA dark, Dec 2025 vs OKC, dribbling past a defender, face small; other SI Jazz lead images were warmups, draft night and a college celebration)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://thememphian.blob.core.windows.net/sized/182834_1200",
+      "note": "(Daily Memphian/AP, his first MEM game 2026-02-06 at POR, 1200px wide shot, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

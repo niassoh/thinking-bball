@@ -1,0 +1,27 @@
+{
+  "packVersion": "1.0",
+  "promptVersion": "thinking-basketball-v3",
+  "references": [
+    {
+      "file": "references/style-primary-mccain.png",
+      "role": "primary_style",
+      "useFor": ["crop", "simplification", "facial_planes", "silhouette", "background"],
+      "warning": "Do not copy its warm/orange cast; follow GENERATION_PROMPT.md color rules instead."
+    },
+    {
+      "file": "references/style-thumbnail-sheet.png",
+      "role": "secondary_style",
+      "useFor": ["overall_thumbnail_aesthetic", "detail_level", "glossy_simplification"]
+    },
+    {
+      "file": "references/source-example-emotive.png",
+      "role": "source_selection_example",
+      "useFor": ["emotion", "game_energy"]
+    },
+    {
+      "file": "references/source-example-dynamic.png",
+      "role": "source_selection_example",
+      "useFor": ["natural_game_pose", "off_axis_expression"]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "player": "Brevin Knight",
+  "playerId": "brevin-knight",
+  "sourceUrl": "https://www.si.com/.image/MjAyMzk4MzU0OTE3ODI3NTk2/brevinknightcavs.jpg",
+  "downloadUrl": "https://www.si.com/.image/MjAyMzk4MzU0OTE3ODI3NTk2/brevinknightcavs.jpg",
+  "sourcePage": "https://www.si.com/nba/cavaliers/onsi/news/this-day-in-cavs-history-brevin-knight-sets-record-with-20-assists-as-rookie",
+  "license": "unknown (uncredited on SI.com; likely Getty Images / NBAE)",
+  "licenseUrl": null,
+  "author": "unknown",
+  "credit": null,
+  "photoDate": "c. 1997-2001 (undated; Gund Arena, white home #12)",
+  "originalSize": null,
+  "storedSize": [
+    1365,
+    1249
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/brevin-knight.jpg",
+  "selectedAt": "2026-10-17T05:21:50.363Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 322,
+    "y": 42,
+    "size": 505
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes upcourt, lips parted mid-breath)",
+  "jersey": "CLE white home (1994-2003 wave design) #12, c. 1997-2001",
+  "concerns": "face ~190px (1365x1249 image; pre-2005, no larger in-game CLE photo found), will be upscaled; head turned toward profile (both eyes visible); film-scan softness; photo uncredited on SI.com, date unverified; WebSearch budget ran out mid-search, so nba.com coverage of his Cavs years was only partly checked (Cavs leader pages carry no Knight photo; Commons only has a 2006 bench photo in street clothes)",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:52.591Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/brevin-knight-1900bdd2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/brevin-knight/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.478Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/brevin-knight.png",
+  "webp": [
+    "assets/players/webp/brevin-knight-1024.webp",
+    "assets/players/webp/brevin-knight-400.webp",
+    "assets/players/webp/brevin-knight-200.webp",
+    "assets/players/webp/brevin-knight-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://www.si.com/.image/MjAyMzk4MzU0OTE3ODI3NTk2/brevinknightcavs.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:39.045Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/brevin-knight-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/brevin-knight/out.png",
+        "fixes": [],
+        "base": "7a85e02407b37c286f5ec510c699fcb50c393bcb",
+        "importedAt": "2026-10-17T11:07:00.419Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0044,
+          "face": 4.9,
+          "purity": 0.984,
+          "coverage": 0.164,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1547,
+          "oldEdge": 0,
+          "shadeLevels": 7,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/brevin-knight-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:52.664Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/brevin-knight.webp",
+    "base": "7a85e02407b37c286f5ec510c699fcb50c393bcb",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:52.909Z"
+  }
+}

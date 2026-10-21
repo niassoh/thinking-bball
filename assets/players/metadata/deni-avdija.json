@@ -1,0 +1,180 @@
+{
+  "player": "Deni Avdija",
+  "playerId": "deni-avdija",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2251404140.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2251404140.jpg",
+  "sourcePage": "https://www.nba.com/news/the-athletic-deni-avdijas-unexpected-rise-to-nbas-new-breakout-star-and-israels-greatest-player-ever",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/deni-avdija.jpg",
+  "selectedAt": "2026-10-05T01:41:15.610Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 557,
+    "y": 20,
+    "size": 557
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up, mouth open)",
+  "jersey": "POR red statement edition 2025-26",
+  "concerns": "face 210px; headband",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T18:18:04.806Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/deni-avdija-4d5995a8-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/deni-avdija/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T18:18:15.874Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/deni-avdija.png",
+  "webp": [
+    "assets/players/webp/deni-avdija-1024.webp",
+    "assets/players/webp/deni-avdija-400.webp",
+    "assets/players/webp/deni-avdija-200.webp",
+    "assets/players/webp/deni-avdija-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/01/GettyImages-2251404140.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-05T18:18:16.164Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:38.363Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:15:42.356Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/deni-avdija-4d5995a8-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/deni-avdija/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:16:14.162Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/deni-avdija-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/deni-avdija/out.png",
+        "fixes": [],
+        "base": "cf8e600af701e572de2b7fa39e09776c4840a496",
+        "importedAt": "2026-10-11T19:40:31.794Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 1
+          },
+          "silhouette": 0.007,
+          "face": 5.1,
+          "purity": 0.989,
+          "coverage": 0.104,
+          "strays": 2,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1306,
+          "oldEdge": 0,
+          "shadeLevels": 11,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/deni-avdija-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:49:08.156Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/deni-avdija.webp",
+    "base": "cf8e600af701e572de2b7fa39e09776c4840a496",
+    "shift": {
+      "dx": -1,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:08.709Z"
+  }
+}

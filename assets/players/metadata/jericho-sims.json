@@ -1,0 +1,70 @@
+{
+  "player": "Jericho Sims",
+  "playerId": "jericho-sims",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/bucks_zone/01jr4318wv7fxwnf8216.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/bucks_zone/01jr4318wv7fxwnf8216.jpg",
+  "sourcePage": "https://www.si.com/nba/bucks/news/bucks-doc-rivers-provides-disappointing-update-on-jericho-sims-injury",
+  "license": "unknown (Imagn Images via SI)",
+  "licenseUrl": null,
+  "author": "Kevin Jairaj / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-03-01 at DAL, American Airlines Center (SI caption: battles Naji Marshall for the ball)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1879
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jericho-sims.jpg",
+  "selectedAt": "2026-10-17T08:56:42.263Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1185,
+    "y": 8,
+    "size": 1390
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (locked on the loose ball, eyes down, lips parted; engaged but not looking up)",
+  "jersey": "MIL green Icon road 2024-25 (same team 2026-27)",
+  "concerns": "not nba.com or Commons; 2024-25 photo (no clean 2025-26 or 2026 preseason face found: Bucks post no game galleries, 34 opponent galleries vs MIL had one captioned Sims photo, an overhead rebound); eyes look down at the ball; his and Marshall’s arms and the ball fill the lower part of the crop below the chin; license unknown",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2267364753.jpg",
+      "note": "(2026-03-21 at PHX, overhead rebound, arm up beside the face, top-down angle)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.brewhoop.com/wp-content/uploads/sites/44/2026/04/gettyimages-2269847779.jpg",
+      "note": "(2026-04-08 at DET, rebound, face hidden behind his arms)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://www.yardbarker.com/media/d/0/d04233a526881ba6a4b419ff3b58c77f18c7e9f6/apr-12-2026-philadelphia-pennsylvania-usa.jpg",
+      "note": "(2026-04-12 at PHI, dribbling, face ~100px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

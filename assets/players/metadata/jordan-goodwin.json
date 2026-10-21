@@ -1,0 +1,140 @@
+{
+  "player": "Jordan Goodwin",
+  "playerId": "jordan-goodwin",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/10/2298211158.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/10/2298211158.jpg",
+  "sourcePage": "https://www.nba.com/suns/photos/suns-at-pistons-oct-5-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Brian Sevald / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-05 (2026-27 preseason at DET, Little Caesars Arena)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2400
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jordan-goodwin.jpg",
+  "selectedAt": "2026-10-17T05:24:54.019Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 442,
+    "y": 498,
+    "size": 604
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out for a rebound, eyes up at the ball, mouth open mid-breath)",
+  "jersey": "PHX purple road 2026-27 (preseason)",
+  "concerns": "FLAG: 2026-27 preseason game (regular purple uniform); every 2025-26 Suns gallery photo shows him in a black protective face mask, so a regular-season shot fails the occlusion rule; white headband; his own raised fist sits just below the chin in the lower left of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/01/2258005794.jpg",
+      "note": "(Jan 27 2026 vs BKN, purple, dribbling, black face mask covers eyes and nose)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2025/12/2253340139.jpg",
+      "note": "(Dec 23 2025 vs LAL, black City jersey, gesturing after a three with the face mask on, energy ~8.5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:57.945Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jordan-goodwin-6980f6c6-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jordan-goodwin/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.112Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jordan-goodwin.png",
+  "webp": [
+    "assets/players/webp/jordan-goodwin-1024.webp",
+    "assets/players/webp/jordan-goodwin-400.webp",
+    "assets/players/webp/jordan-goodwin-200.webp",
+    "assets/players/webp/jordan-goodwin-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/10/2298211158.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:49.254Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jordan-goodwin-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/jordan-goodwin/out.png",
+        "fixes": [],
+        "base": "e5f4264712c8c82ef4166ff10e1c2c6ef98d73ad",
+        "importedAt": "2026-10-17T11:07:22.187Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0042,
+          "face": 6.3,
+          "purity": 0.985,
+          "coverage": 0.079,
+          "strays": 12,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 987,
+          "oldEdge": 0,
+          "shadeLevels": 15,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/jordan-goodwin-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:56.995Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/jordan-goodwin.webp",
+    "base": "e5f4264712c8c82ef4166ff10e1c2c6ef98d73ad",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:57.213Z"
+  }
+}

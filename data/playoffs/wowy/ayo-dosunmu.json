@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "MIN",
+  "gp": 10,
+  "generatedAt": "2026-10-09T18:12:33.311Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 292,
+      "poss": 607.5,
+      "net": -11.522633744855968
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 284,
+      "poss": 596,
+      "net": null
+    },
+    {
+      "label": "On, w/o McDaniels",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 96,
+      "poss": 207.5,
+      "net": 2.891566265060241
+    },
+    {
+      "label": "On, w/o Randle",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 92,
+      "poss": 193.5,
+      "net": -2.5839793281653747
+    },
+    {
+      "label": "On, w/o Gobert",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 107,
+      "poss": 230.5,
+      "net": -2.1691973969631237
+    },
+    {
+      "label": "Neither Dosunmu nor McDaniels",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 74,
+      "poss": 159.5,
+      "net": -10.658307210031348
+    }
+  ]
+}

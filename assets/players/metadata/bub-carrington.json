@@ -1,0 +1,70 @@
+{
+  "player": "Bub Carrington",
+  "playerId": "bub-carrington",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2248645275-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2248645275-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/the-athletic-bub-carrington-is-the-washington-wizards-iron-man",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2025-26 regular season at IND, Gainbridge Fieldhouse (Getty 2248645275: brings the ball up court, first half)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1706
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/bub-carrington.jpg",
+  "selectedAt": "2026-10-17T08:52:27.866Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 908,
+    "y": 0,
+    "size": 850
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (bright open-mouth smile looking off-camera while bringing the ball up; engaged, not intense)",
+  "jersey": "WAS white association #7 2025-26 (same team 2026-27)",
+  "concerns": "2025-26 photo: no 2026 preseason photo of him found (Wizards site has no preseason content yet); expression is a smile rather than McCain-style concentration; hair bun touches the top edge (box starts at y=0)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_wizards/01kf94cgwdpvcscycx5v.jpg",
+      "note": "(SI/Imagn 2025-26, white #7 dribbling, focused but mouth closed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2266625083-scaled.jpg",
+      "note": "(Mar 17 2026 vs DET, overhead rebound shot, ball and arm across the frame, face small)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bub_Carrington_in_Washington_DC%2C_2024-12-15.jpg",
+      "note": "(Commons CC BY-SA 4.0, Dec 2024 City Edition #8, neutral stare, old long-locs look)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

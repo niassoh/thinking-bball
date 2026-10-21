@@ -1,0 +1,58 @@
+{
+  "player": "Clifford Robinson",
+  "playerId": "clifford-robinson",
+  "sourceUrl": "https://cdn.arizonasports.com/arizonasports/wp-content/uploads/2020/08/GettyImages-72316749.jpg",
+  "downloadUrl": "https://cdn.arizonasports.com/arizonasports/wp-content/uploads/2020/08/GettyImages-72316749.jpg",
+  "sourcePage": "https://arizonasports.com/?p=2371742",
+  "license": "unknown (Getty Images / Allsport, via Arizona Sports 98.7)",
+  "licenseUrl": null,
+  "author": "Ronald Martinez / Allsport",
+  "credit": null,
+  "photoDate": "April 2000 (2000 West first round at SAS, Alamodome; Getty caption: walks on the court, Spurs won 85-70, i.e. Game 2)",
+  "originalSize": null,
+  "storedSize": [
+    2031,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/clifford-robinson.jpg",
+  "selectedAt": "2026-10-17T11:13:35.441Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 440,
+    "y": 144,
+    "size": 1150
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches in intensity, different mood (open-mouthed grin mid-reaction while walking upcourt, eyes off-camera to his right)",
+  "jersey": "PHX black road #30, 1999-2000",
+  "concerns": "not nba.com or Commons: Getty/Allsport original (no watermark) served by an Arizona Sports obituary page, license unknown; Commons has no photo of him and nba.com was unreachable this session; 1999-2000 rather than his 1998-99 best season (same team and look); smiling rather than concentrating; film grain",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2020/08/GettyImages-1185785601.jpg",
+      "note": "(AFP via Fox 10, 2000 playoffs vs SAS, PHX white, shouting after a basket, energy ~9, off-band)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

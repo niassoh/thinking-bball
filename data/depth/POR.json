@@ -1,0 +1,152 @@
+{
+  "team": "POR",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:55.560Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Ja Morant",
+          "slug": "ja-morant",
+          "espnId": "4279888",
+          "status": null
+        },
+        {
+          "name": "Scoot Henderson",
+          "slug": "scoot-henderson",
+          "espnId": "4683678",
+          "status": null
+        },
+        {
+          "name": "Jrue Holiday",
+          "slug": "jrue-holiday",
+          "espnId": "3995",
+          "status": null
+        },
+        {
+          "name": "Deni Avdija",
+          "slug": "deni-avdija",
+          "espnId": "4683021",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Damian Lillard",
+          "slug": "damian-lillard",
+          "espnId": "6606",
+          "status": null
+        },
+        {
+          "name": "Jrue Holiday",
+          "slug": "jrue-holiday",
+          "espnId": "3995",
+          "status": null
+        },
+        {
+          "name": "Vit Krejci",
+          "slug": "vit-krejci",
+          "espnId": "4578893",
+          "status": null
+        },
+        {
+          "name": "Ja Morant",
+          "slug": "ja-morant",
+          "espnId": "4279888",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Toumani Camara",
+          "slug": "toumani-camara",
+          "espnId": "4431736",
+          "status": null
+        },
+        {
+          "name": "Vit Krejci",
+          "slug": "vit-krejci",
+          "espnId": "4578893",
+          "status": null
+        },
+        {
+          "name": "Jeremy Sochan",
+          "slug": "jeremy-sochan",
+          "espnId": "4610139",
+          "status": null
+        },
+        {
+          "name": "Jrue Holiday",
+          "slug": "jrue-holiday",
+          "espnId": "3995",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Deni Avdija",
+          "slug": "deni-avdija",
+          "espnId": "4683021",
+          "status": null
+        },
+        {
+          "name": "Sidy Cissoko",
+          "slug": "sidy-cissoko",
+          "espnId": "5081727",
+          "status": null
+        },
+        {
+          "name": "Jeremy Sochan",
+          "slug": "jeremy-sochan",
+          "espnId": "4610139",
+          "status": null
+        },
+        {
+          "name": "Micah Potter",
+          "slug": "micah-potter",
+          "espnId": "4066399",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Donovan Clingan",
+          "slug": "donovan-clingan",
+          "espnId": "5105565",
+          "status": null
+        },
+        {
+          "name": "Robert Williams III",
+          "slug": "robert-williams-iii",
+          "espnId": "4066211",
+          "status": null
+        },
+        {
+          "name": "Micah Potter",
+          "slug": "micah-potter",
+          "espnId": "4066399",
+          "status": null
+        },
+        {
+          "name": "Sidy Cissoko",
+          "slug": "sidy-cissoko",
+          "espnId": "5081727",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

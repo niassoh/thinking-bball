@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "HOU",
+  "gp": 6,
+  "generatedAt": "2026-10-09T18:45:42.622Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 252,
+      "poss": 473,
+      "net": -1.9027484143763214
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 41,
+      "poss": 85.5,
+      "net": -7.017543859649122
+    },
+    {
+      "label": "On, w/o Thompson",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 22,
+      "poss": 41.5,
+      "net": -55.42168674698795
+    },
+    {
+      "label": "On, w/o Sengun",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 54,
+      "poss": 100,
+      "net": -7.000000000000001
+    },
+    {
+      "label": "On, w/o Eason",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 89,
+      "poss": 164.5,
+      "net": -9.118541033434651
+    },
+    {
+      "label": "Neither Smith Jr. nor Thompson",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 7,
+      "poss": 15,
+      "net": 6.666666666666667
+    }
+  ]
+}

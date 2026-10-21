@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "ORL",
+  "gp": 4,
+  "generatedAt": "2026-10-09T18:32:20.229Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 122,
+      "poss": 241,
+      "net": 9.54356846473029
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 214,
+      "poss": 422,
+      "net": -13.270142180094787
+    },
+    {
+      "label": "On, w/o Banchero",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 38,
+      "poss": 72.5,
+      "net": -5.517241379310345
+    },
+    {
+      "label": "On, w/o Bane",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 8,
+      "poss": 16.5,
+      "net": -36.36363636363637
+    },
+    {
+      "label": "On, w/o Suggs",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 46,
+      "poss": 88,
+      "net": -5.681818181818182
+    },
+    {
+      "label": "Neither Wagner nor Banchero",
+      "sub": "2025–26 playoffs · ORL",
+      "minutes": 25,
+      "poss": 47.5,
+      "net": -25.263157894736842
+    }
+  ]
+}

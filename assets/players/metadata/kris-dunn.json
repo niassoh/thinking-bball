@@ -1,0 +1,140 @@
+{
+  "player": "Kris Dunn",
+  "playerId": "kris-dunn",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/01/Game_260105_GSW_10.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/01/Game_260105_GSW_10.jpg",
+  "sourcePage": "https://www.nba.com/clippers/photos/gallery-clippers-vs-golden-state-warriors-1-5-26",
+  "license": "unknown (NBAE / Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "NBAE / Getty Images (Clippers team-site gallery)",
+  "credit": null,
+  "photoDate": "2026-01-05 (vs GSW, Intuit Dome; Clippers game gallery)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kris-dunn.jpg",
+  "selectedAt": "2026-10-17T05:49:47.945Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 722,
+    "y": 6,
+    "size": 380
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (bringing the ball up, looking off to the side, mouth open mid-breath)",
+  "jersey": "LAC navy Statement #8, 2025-26",
+  "concerns": "face ~185 px (1920 px gallery copy; crop 380 px, will be upscaled); no caption, identity from #8 and face; opponent arm in the far left of the full frame, outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/10/GettyImages-2299058485.jpg",
+      "note": "(Oct 10 2026 preseason vs TOR, navy #8 calling a play, ~300 px face, mouth open, but wide eyes straight at the camera, energy ~7.5, raised arm beside the head, preseason)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2025/11/251125_LAL-28-2.jpg",
+      "note": "(Nov 25 2025 at LAL, white #8 mid-jumper, lips pursed, arms up around the head, energy ~6)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:59.030Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kris-dunn-3a6097b8-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/kris-dunn/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.467Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kris-dunn.png",
+  "webp": [
+    "assets/players/webp/kris-dunn-1024.webp",
+    "assets/players/webp/kris-dunn-400.webp",
+    "assets/players/webp/kris-dunn-200.webp",
+    "assets/players/webp/kris-dunn-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/01/Game_260105_GSW_10.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:51.452Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/kris-dunn-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/kris-dunn/out.png",
+        "fixes": [],
+        "base": "b8ff96f72886cd79866694bef811f11348e7b653",
+        "importedAt": "2026-10-17T11:07:26.676Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0049,
+          "face": 4.7,
+          "purity": 0.992,
+          "coverage": 0.16,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 559,
+          "oldEdge": 0,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/kris-dunn-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:58.135Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/kris-dunn.webp",
+    "base": "b8ff96f72886cd79866694bef811f11348e7b653",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:58.388Z"
+  }
+}

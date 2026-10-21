@@ -1,0 +1,64 @@
+{
+  "player": "Gerald Wallace",
+  "playerId": "gerald-wallace",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Gerald_Wallace.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Gerald_Wallace.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Gerald_Wallace.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Kevin Ward (crop of Rip_Shoots.jpg by Edgars2007)",
+  "credit": null,
+  "photoDate": "2009-01-13 (at DET, The Palace of Auburn Hills)",
+  "originalSize": null,
+  "storedSize": [
+    924,
+    1143
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/gerald-wallace.jpg",
+  "selectedAt": "2026-10-17T11:37:47.932Z",
+  "sourceSelectionScore": 11,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 1,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 295,
+    "y": 155,
+    "size": 370
+  },
+  "needsReview": "face is ~180px, under the 250px rule, and soft. No larger Bobcats-era in-game photo found: nba.com Hornets history articles (blocks/scoring/steals/rebounding leaders, birthdays) carry none of him, hornets30.com has only 750px copies, Commons has only small crowd shots, and SI/AP/SLAM/SB Nation pages had no usable lead image",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (eyes up on the ball, mouth open over a mouthguard, arm raised to contest; gritty but not shouting)",
+  "jersey": "CHA slate-blue road #3, 2008-09",
+  "concerns": "face only ~180px (head wrap to chin ~190px) in a 924px Commons crop, soft when enlarged; his raised arm fills the left of the crop and a teammate’s #20 jersey sits behind his head; head wrap hides the hair",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Wallace_3.jpg",
+      "note": "(Commons public domain, 2010 home white, waiting for a rebound, tiny face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://hornets30.com/wp-content/uploads/2018/10/181023_wallace_08.jpg",
+      "note": "(Hornets 30th-anniversary site, blue road, hands on hips, only 750px wide)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

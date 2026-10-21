@@ -1,0 +1,173 @@
+{
+  "player": "De'Andre Hunter",
+  "playerId": "de-andre-hunter",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2257491808-scaled-e1769919564658.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2257491808-scaled-e1769919564658.jpg",
+  "sourcePage": "https://www.nba.com/news/cavs-trade-deandre-hunter-to-kings",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2325,
+    1306
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/de-andre-hunter.jpg",
+  "selectedAt": "2026-10-05T19:28:25.215Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 696,
+    "y": 16,
+    "size": 901
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "SAC (jersey edit from domantas-sabonis's)",
+  "concerns": "Cavaliers jersey: traded CLE->SAC Feb 2026 and never played for SAC (season-ending eye surgery); head turned ~3/4 toward profile, looking off-camera left",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:23.193Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "SAC (jersey edit from domantas-sabonis's)",
+      "file": "assets/players/attempts/de-andre-hunter-c5123b0e-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/de-andre-hunter/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:45.775Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/de-andre-hunter.png",
+  "webp": [
+    "assets/players/webp/de-andre-hunter-1024.webp",
+    "assets/players/webp/de-andre-hunter-400.webp",
+    "assets/players/webp/de-andre-hunter-200.webp",
+    "assets/players/webp/de-andre-hunter-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/01/GettyImages-2257491808-scaled-e1769919564658.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:46.039Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: CLE -> SAC",
+      "archivedAt": "2026-10-09T08:56:23.112Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T04:01:30.926Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/de-andre-hunter-c5123b0e-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/de-andre-hunter/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T04:02:57.135Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/de-andre-hunter-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/de-andre-hunter/out.png",
+        "fixes": [],
+        "base": "c8bbeb243e5de54e3b27e64daca06594c990861e",
+        "importedAt": "2026-10-11T19:40:11.399Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.004,
+          "face": 2.2,
+          "purity": 0.99,
+          "coverage": 0.151,
+          "strays": 10,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 719,
+          "oldEdge": 0.021,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/de-andre-hunter-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:49:03.993Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/de-andre-hunter.webp",
+    "base": "c8bbeb243e5de54e3b27e64daca06594c990861e",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:04.669Z"
+  }
+}

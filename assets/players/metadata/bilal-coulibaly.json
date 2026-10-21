@@ -1,0 +1,64 @@
+{
+  "player": "Bilal Coulibaly",
+  "playerId": "bilal-coulibaly",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/03/GettyImages-2203155092-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/03/GettyImages-2203155092-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/wizards-bilal-coulibaly-hamstring-injury",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2025-02-26 vs POR, Capital One Arena (first half)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/bilal-coulibaly.jpg",
+  "selectedAt": "2026-10-17T08:49:22.392Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 640,
+    "y": 145,
+    "size": 790
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (looking off-camera, lips parted mid-breath; calmer, hand on hip)",
+  "jersey": "WAS white Association #0, 2024-25",
+  "concerns": "from 2024-25, not 2025-26 or 2026 preseason (the Wizards site posts no game galleries and no 2025-26 or 2026 preseason Getty photo naming him was found on nba.com); white headband covers his hairline",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612764/2026/04/Top-Shots-25-26-Season-Bugged-11.jpg",
+      "note": "(2025-26 Wizards top pics: pregame intro with pyro and a shooting shirt, graphic bug overlay)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Celtics_at_Wizards_2024-12-011.jpg",
+      "note": "(Commons, Dec 2024 vs BOS, same season, not inspected in detail: the Getty frame is sharper and captioned)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

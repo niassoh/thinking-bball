@@ -1,0 +1,152 @@
+{
+  "team": "LAC",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:49.610Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Darius Garland",
+          "slug": "darius-garland",
+          "espnId": "4396907",
+          "status": null
+        },
+        {
+          "name": "Kris Dunn",
+          "slug": "kris-dunn",
+          "espnId": "2991139",
+          "status": null
+        },
+        {
+          "name": "Keaton Wagler",
+          "slug": "keaton-wagler",
+          "espnId": "5254165",
+          "status": null
+        },
+        {
+          "name": "Bradley Beal",
+          "slug": "bradley-beal",
+          "espnId": "6580",
+          "status": "DTD"
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Keaton Wagler",
+          "slug": "keaton-wagler",
+          "espnId": "5254165",
+          "status": null
+        },
+        {
+          "name": "Bradley Beal",
+          "slug": "bradley-beal",
+          "espnId": "6580",
+          "status": "DTD"
+        },
+        {
+          "name": "Gradey Dick",
+          "slug": "gradey-dick",
+          "espnId": "5106258",
+          "status": null
+        },
+        {
+          "name": "Kris Dunn",
+          "slug": "kris-dunn",
+          "espnId": "2991139",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Max Strus",
+          "slug": "max-strus",
+          "espnId": "4065778",
+          "status": null
+        },
+        {
+          "name": "Kobe Sanders",
+          "slug": "kobe-sanders",
+          "espnId": "4702352",
+          "status": null
+        },
+        {
+          "name": "Rui Hachimura",
+          "slug": "rui-hachimura",
+          "espnId": "4066648",
+          "status": null
+        },
+        {
+          "name": "Derrick Jones Jr.",
+          "slug": "derrick-jones-jr",
+          "espnId": "3936099",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Derrick Jones Jr.",
+          "slug": "derrick-jones-jr",
+          "espnId": "3936099",
+          "status": null
+        },
+        {
+          "name": "Rui Hachimura",
+          "slug": "rui-hachimura",
+          "espnId": "4066648",
+          "status": null
+        },
+        {
+          "name": "Max Strus",
+          "slug": "max-strus",
+          "espnId": "4065778",
+          "status": null
+        },
+        {
+          "name": "Baba Miller",
+          "slug": "baba-miller",
+          "espnId": "5075626",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Brook Lopez",
+          "slug": "brook-lopez",
+          "espnId": "3448",
+          "status": null
+        },
+        {
+          "name": "Isaiah Jackson",
+          "slug": "isaiah-jackson",
+          "espnId": "4432170",
+          "status": null
+        },
+        {
+          "name": "Baba Miller",
+          "slug": "baba-miller",
+          "espnId": "5075626",
+          "status": null
+        },
+        {
+          "name": "Yanic Konan Niederhauser",
+          "slug": "yanic-konan-niederhauser",
+          "espnId": "5108024",
+          "status": "OUT"
+        }
+      ]
+    }
+  ]
+}

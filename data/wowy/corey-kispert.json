@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "ATL",
+  "gp": 58,
+  "generatedAt": "2026-10-02T03:09:38.385Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · ATL",
+      "minutes": 710,
+      "poss": 1488.5,
+      "net": -5.979173664763184
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · ATL",
+      "minutes": 3241,
+      "poss": 6888.5,
+      "net": 4.166364230238804
+    },
+    {
+      "label": "On, w/o Alexander-Walker",
+      "sub": "2025–26 · ATL",
+      "minutes": 367,
+      "poss": 760.5,
+      "net": -7.232084155161078
+    },
+    {
+      "label": "On, w/o Johnson",
+      "sub": "2025–26 · ATL",
+      "minutes": 396,
+      "poss": 814,
+      "net": -9.705159705159705
+    },
+    {
+      "label": "On, w/o Daniels",
+      "sub": "2025–26 · ATL",
+      "minutes": 434,
+      "poss": 909.5,
+      "net": -7.916437603078615
+    },
+    {
+      "label": "Neither Kispert nor Alexander-Walker",
+      "sub": "2025–26 · ATL",
+      "minutes": 981,
+      "poss": 2051.5,
+      "net": 0.4387033877650499
+    }
+  ]
+}

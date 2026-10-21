@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "MIL",
+  "gp": 42,
+  "generatedAt": "2026-10-02T03:33:29.084Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · MIL",
+      "minutes": 299,
+      "poss": 591,
+      "net": -13.536379018612521
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · MIL",
+      "minutes": 3652,
+      "poss": 7444,
+      "net": -5.76303062869425
+    },
+    {
+      "label": "On, w/o Rollins",
+      "sub": "2025–26 · MIL",
+      "minutes": 173,
+      "poss": 339.5,
+      "net": -9.425625920471282
+    },
+    {
+      "label": "On, w/o Green",
+      "sub": "2025–26 · MIL",
+      "minutes": 212,
+      "poss": 424.5,
+      "net": -17.6678445229682
+    },
+    {
+      "label": "On, w/o Turner",
+      "sub": "2025–26 · MIL",
+      "minutes": 240,
+      "poss": 476.5,
+      "net": -14.060860440713535
+    },
+    {
+      "label": "Neither Thomas nor Rollins",
+      "sub": "2025–26 · MIL",
+      "minutes": 1403,
+      "poss": 2851,
+      "net": -10.592774465099964
+    }
+  ]
+}

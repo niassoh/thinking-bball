@@ -1,0 +1,155 @@
+{
+  "player": "Marcus Camby",
+  "playerId": "marcus-camby",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/getty-images-1863578.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/getty-images-1863578.jpg",
+  "sourcePage": "https://www.nba.com/nuggets/photogallery/marcus-camby-022118",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2003-03-11 (vs TOR, Pepsi Center)",
+  "originalSize": null,
+  "storedSize": [
+    486,
+    746
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/marcus-camby.jpg",
+  "selectedAt": "2026-10-17T05:53:20.955Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 139,
+    "y": 60,
+    "size": 270
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (at the free-throw line, eyes up at the rim, mouth open mid-breath)",
+  "jersey": "DEN white home (2002-03 design, maroon trim) #23, 2002-03",
+  "concerns": "small source (486x746 legacy gallery copy): head ~135px, crop 270px will be upscaled, slightly soft; his first Denver season rather than the 2007-08 peak (no usable in-game 2006-08 Denver photo found on nba.com: the Nuggets galleries hold dunks, blocks and warmups); ball and arms outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/getty-images-1743730.jpg",
+      "note": "(Jan 17 2003 vs CLE, headband, looking off with mouth open, energy ~6.5, larger face ~270px, but the 486px-wide frame cannot hold a centred head-and-shoulders square)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Marcus_Camby_2008.jpg",
+      "note": "(CC BY 2.0, Feb 2008, DEN light blue road, huge face, but eyes down greeting courtside fans, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/80823062_10.jpg",
+      "note": "(DEN light blue road c. 2007-08, hands on hips facing the camera, energy ~5, 721px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:59.697Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/marcus-camby-69351f4b-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/marcus-camby/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.716Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/marcus-camby.png",
+  "webp": [
+    "assets/players/webp/marcus-camby-1024.webp",
+    "assets/players/webp/marcus-camby-400.webp",
+    "assets/players/webp/marcus-camby-200.webp",
+    "assets/players/webp/marcus-camby-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/getty-images-1863578.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:53.078Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/marcus-camby-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/marcus-camby/out.png",
+        "fixes": [],
+        "base": "8bd1fcc0af54e4686b13a01719d6e442e1308908",
+        "importedAt": "2026-10-17T11:07:32.424Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0039,
+          "face": 2.9,
+          "purity": 0.982,
+          "coverage": 0.127,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1598,
+          "oldEdge": 0,
+          "shadeLevels": 11,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/marcus-camby-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:59.549Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/marcus-camby.webp",
+    "base": "8bd1fcc0af54e4686b13a01719d6e442e1308908",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:59.773Z"
+  }
+}

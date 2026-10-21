@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "LAC",
+  "gp": 74,
+  "generatedAt": "2026-10-02T04:34:48.500Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · LAC",
+      "minutes": 1295,
+      "poss": 2604,
+      "net": -0.5376344086021506
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · LAC",
+      "minutes": 2661,
+      "poss": 5352,
+      "net": 1.999252615844544
+    },
+    {
+      "label": "On, w/o Dunn",
+      "sub": "2025–26 · LAC",
+      "minutes": 738,
+      "poss": 1487,
+      "net": 6.1197041022192336
+    },
+    {
+      "label": "On, w/o Leonard",
+      "sub": "2025–26 · LAC",
+      "minutes": 801,
+      "poss": 1627.5,
+      "net": -6.390168970814132
+    },
+    {
+      "label": "On, w/o Collins",
+      "sub": "2025–26 · LAC",
+      "minutes": 1000,
+      "poss": 2009,
+      "net": 1.7421602787456445
+    },
+    {
+      "label": "Neither Batum nor Dunn",
+      "sub": "2025–26 · LAC",
+      "minutes": 990,
+      "poss": 1995.5,
+      "net": -0.952142320220496
+    }
+  ]
+}

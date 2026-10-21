@@ -1,0 +1,184 @@
+{
+  "player": "Mark Williams",
+  "playerId": "mark-williams",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/09/GettyImages-2264797273.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/09/GettyImages-2264797273.jpg",
+  "sourcePage": "https://www.nba.com/news/phoenix-suns-mark-williams-injury",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/mark-williams.jpg",
+  "selectedAt": "2026-10-05T01:58:50.022Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 1,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 728,
+    "y": 0,
+    "size": 639
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower; in-game look-on, lips slightly parted",
+  "jersey": "PHX white Association 2025-26",
+  "concerns": "energy below band (~5/10); only PHX photo found, CHA alternatives were older team",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:05:39.897Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/mark-williams-564f86cc-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/mark-williams/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:05:53.619Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/mark-williams.png",
+  "webp": [
+    "assets/players/webp/mark-williams-1024.webp",
+    "assets/players/webp/mark-williams-400.webp",
+    "assets/players/webp/mark-williams-200.webp",
+    "assets/players/webp/mark-williams-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/09/GettyImages-2264797273.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T02:05:53.890Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:45.822Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:40:49.605Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/mark-williams-564f86cc-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/mark-williams/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:41:01.251Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/mark-williams-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/mark-williams/out.png",
+        "fixes": [],
+        "base": "22cd5d837fe130e455a917bd32647ed5498e30d1",
+        "importedAt": "2026-10-12T03:33:51.046Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0036,
+          "face": 3.4,
+          "purity": 0.993,
+          "coverage": 0.167,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1065,
+          "oldEdge": 0.049,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/mark-williams-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "old-edge: a small white fleck of the back collar at the neck",
+          "at": "2026-10-12T03:41:53.400Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/mark-williams.webp",
+    "base": "22cd5d837fe130e455a917bd32647ed5498e30d1",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:11.778Z"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "player": "Fred VanVleet",
+  "playerId": "fred-vanvleet",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/09/vanvleet-driving.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/09/vanvleet-driving.jpg",
+  "sourcePage": "https://www.nba.com/news/the-athletic-fred-vanvleet-injury-hits-rockets-in-the-worst-spot-but-is-there-a-faint-silver-lining",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/fred-vanvleet.jpg",
+  "selectedAt": "2026-10-05T19:15:47.311Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 565,
+    "y": 0,
+    "size": 919
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches",
+  "jersey": "HOU black Statement, 2024-25 (pre-injury; missed 2025-26 with torn ACL)",
+  "concerns": "season flag: 2024-25 photo (missed 2025-26 with ACL tear); non-Getty hero file, no caption check, identity verified visually (Houston black jersey, FVV tattoos/beard); right hand on the ball overlaps the left jaw/beard edge; ball fills crop left",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:50:36.790Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/fred-vanvleet-c11414e9-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/fred-vanvleet/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:50:50.723Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/fred-vanvleet.png",
+  "webp": [
+    "assets/players/webp/fred-vanvleet-1024.webp",
+    "assets/players/webp/fred-vanvleet-400.webp",
+    "assets/players/webp/fred-vanvleet-200.webp",
+    "assets/players/webp/fred-vanvleet-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/09/vanvleet-driving.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T02:50:51.036Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/fred-vanvleet-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/fred-vanvleet/out.png",
+        "fixes": [],
+        "base": "92e728c7ca60485619fcb74524f7f952cccb9ffd",
+        "importedAt": "2026-10-11T19:41:04.996Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0035,
+          "face": 2.5,
+          "purity": 0.989,
+          "coverage": 0.149,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 940,
+          "oldEdge": 0,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/fred-vanvleet-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:49:15.477Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/fred-vanvleet.webp",
+    "base": "92e728c7ca60485619fcb74524f7f952cccb9ffd",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:16.118Z"
+  }
+}

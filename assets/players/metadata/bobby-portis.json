@@ -1,0 +1,173 @@
+{
+  "player": "Bobby Portis",
+  "playerId": "bobby-portis",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/02/bobby-portis-iso.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/02/bobby-portis-iso.jpg",
+  "sourcePage": "https://www.nba.com/news/nba-birthdays-players-born-on-feb-10",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/bobby-portis.jpg",
+  "selectedAt": "2026-10-05T19:16:17.653Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 602,
+    "y": 0,
+    "size": 762
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (looking up, mouth open)",
+  "jersey": "MIA (jersey edit from andrew-wiggins's)",
+  "concerns": "photo from 2024-25 or earlier (posted Feb 2025), no 2025-26 game photo found; renamed nba.com image, no Getty caption check, but clearly Portis (#9 Bucks); headband; white undershirt",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:22.129Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "MIA (jersey edit from andrew-wiggins's)",
+      "file": "assets/players/attempts/bobby-portis-90a967db-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/bobby-portis/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:43.340Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/bobby-portis.png",
+  "webp": [
+    "assets/players/webp/bobby-portis-1024.webp",
+    "assets/players/webp/bobby-portis-400.webp",
+    "assets/players/webp/bobby-portis-200.webp",
+    "assets/players/webp/bobby-portis-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/02/bobby-portis-iso.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:43.523Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: MIL -> MIA",
+      "archivedAt": "2026-10-09T08:56:22.047Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T02:57:37.356Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/bobby-portis-90a967db-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/bobby-portis/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T02:57:53.458Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/bobby-portis-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/bobby-portis/out.png",
+        "fixes": [],
+        "base": "6c325e0ec9f2c7bfe80773546ed4350f2bda0da6",
+        "importedAt": "2026-10-11T18:04:58.700Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0056,
+          "face": 3,
+          "purity": 0.995,
+          "coverage": 0.168,
+          "strays": 2,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 887,
+          "oldEdge": 0.023,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/bobby-portis-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: jersey fully keyed, logos/patches gone, accessories (goggles, headbands, T-shirt) untouched",
+          "at": "2026-10-11T18:06:00.253Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/bobby-portis.webp",
+    "base": "6c325e0ec9f2c7bfe80773546ed4350f2bda0da6",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T18:06:00.725Z"
+  }
+}

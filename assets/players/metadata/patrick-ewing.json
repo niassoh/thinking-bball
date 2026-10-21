@@ -1,0 +1,164 @@
+{
+  "player": "Patrick Ewing",
+  "playerId": "patrick-ewing",
+  "sourceUrl": "https://cdn.nba.com/manage/2020/11/ewing-assist.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2020/11/ewing-assist.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/high-tops-patrick-ewings-best-assists",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": "2000-01 season (SEA home vs HOU; dated by uniform, no caption)",
+  "originalSize": null,
+  "storedSize": [
+    2356,
+    1325
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/patrick-ewing.jpg",
+  "selectedAt": "2026-10-14T03:22:25.695Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 654,
+    "y": 186,
+    "size": 761
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (mid-pass, eyes on his target, lips parted; focused rather than reactive)",
+  "jersey": "SEA white home 2000-01",
+  "concerns": "not the NYK target jersey: no in-game Knicks photo from 1996-2000 found (every Knicks archive photo on nba.com is pre-1996 by opponent uniforms and age); renamed nba.com file, identity checked visually; raised passing hand near the top-left crop edge",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2020/11/ewing_best_moves-scaled.jpg",
+      "note": "(NYK white vs ORL with Shaq, mouth open, energy ~8, but pre-1996 and only 175px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2022/01/Pat-Ewing-75-Stories-16x9-1.jpg",
+      "note": "(NYK blue road looking up, McCain-like, but late-1980s/early-1990s)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:10.594Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/patrick-ewing-4cbbcc8d-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/patrick-ewing/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:25.206Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/patrick-ewing.png",
+  "webp": [
+    "assets/players/webp/patrick-ewing-1024.webp",
+    "assets/players/webp/patrick-ewing-400.webp",
+    "assets/players/webp/patrick-ewing-200.webp",
+    "assets/players/webp/patrick-ewing-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2020/11/ewing-assist.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:25.744Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/patrick-ewing-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/patrick-ewing/out.png",
+        "fixes": [],
+        "base": "a0f8d5419fc67b0afe088bdd6dd98a519d281129",
+        "importedAt": "2026-10-14T20:26:18.348Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.004,
+          "face": 2.9,
+          "purity": 0.985,
+          "coverage": 0.202,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1544,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/patrick-ewing-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:14.799Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/patrick-ewing.webp",
+    "base": "a0f8d5419fc67b0afe088bdd6dd98a519d281129",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:15.061Z"
+  }
+}

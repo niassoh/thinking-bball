@@ -1,0 +1,368 @@
+{
+  "player": "Jalen Brunson",
+  "playerId": "jalen-brunson",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/06/brunson2-1568x882.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/06/brunson2-1568x882.jpg",
+  "sourcePage": "https://www.nba.com/news/live-2026-nba-finals-knicks-spurs-tip-off-game-1-in-san-antonio",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1568,
+    882
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jalen-brunson.jpg",
+  "selectedAt": "2026-10-02T03:42:43.394Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 450,
+    "y": 0,
+    "size": 540
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches: free-throw look up at rim, lips parted, focused",
+  "jersey": "NYK white 2025-26 (2026 Finals)",
+  "concerns": "face ~220px; opponent partly in lower-left (crop excludes)",
+  "rejectedCandidates": [
+    {
+      "index": 0,
+      "title": "File:Jalen Brunson.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jalen_Brunson.jpg",
+      "license": "CC BY 2.0",
+      "score": 11
+    },
+    {
+      "index": 2,
+      "title": "File:20170213 Villanova-Depaul Jalen Brunson in the backcourt.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20170213_Villanova-Depaul_Jalen_Brunson_in_the_backcourt.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 3,
+      "title": "File:20170213 Villanova-Depaul Jalen Brunson bringing the ball upcourt.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20170213_Villanova-Depaul_Jalen_Brunson_bringing_the_ball_upcourt.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 4,
+      "title": "File:20170213 Villanova-Depaul Jalen Brunson in the front court.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20170213_Villanova-Depaul_Jalen_Brunson_in_the_front_court.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 5,
+      "title": "File:20170213 Villanova-Depaul Jalen Brunson in the front court (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20170213_Villanova-Depaul_Jalen_Brunson_in_the_front_court_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "score": 10
+    },
+    {
+      "index": 6,
+      "title": "File:20150401 MCDAAG Jalen Brunson drives to the hoop (3).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150401_MCDAAG_Jalen_Brunson_drives_to_the_hoop_(3).JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 7,
+      "title": "File:20150401 MCDAAG Jawun Evans defends Jalen Brunson.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150401_MCDAAG_Jawun_Evans_defends_Jalen_Brunson.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 8,
+      "title": "File:20150401 MCDAAG Jalen Brunson against Jawun Evans (2).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150401_MCDAAG_Jalen_Brunson_against_Jawun_Evans_(2).JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 9,
+      "title": "File:20150401 MCDAAG Jalen Brunson.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150401_MCDAAG_Jalen_Brunson.JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 10,
+      "title": "File:20150401 MCDAAG Jalen Brunson watches a shot.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150401_MCDAAG_Jalen_Brunson_watches_a_shot.JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 11,
+      "title": "File:20150329 MCDAAG closed practice Jalen Brunson (1).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150329_MCDAAG_closed_practice_Jalen_Brunson_(1).JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 12,
+      "title": "File:20150329 MCDAAG closed practice Jalen Brunson (2).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150329_MCDAAG_closed_practice_Jalen_Brunson_(2).JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 13,
+      "title": "File:20150321 IHSA Class 4A championship game Jalen Brunson's first basket.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150321_IHSA_Class_4A_championship_game_Jalen_Brunson%27s_first_basket.JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 14,
+      "title": "File:20150321 IHSA Class 4A championship game Jalen Brunson (15).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150321_IHSA_Class_4A_championship_game_Jalen_Brunson_(15).JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 15,
+      "title": "File:20150321 IHSA Class 4A championship game Jalen Brunson (9).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20150321_IHSA_Class_4A_championship_game_Jalen_Brunson_(9).JPG",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jalen_Brunson_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jalen_Brunson_2023_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "score": 13,
+      "reason": "user feedback 2026-10-01",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2279707379-Cropped-scaled.jpg",
+      "note": "(hands-on-knees stare 6, larger face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/GettyImages_JalenBrunson.jpg",
+      "note": "(calm 5.5, City Edition)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2279707379-Cropped-scaled.jpg",
+      "note": "(hands-on-knees stare 6, larger face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/GettyImages_JalenBrunson.jpg",
+      "note": "(calm 5.5, City Edition)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "masterFile": "assets/players/jalen-brunson.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T19:13:11.757Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jalen-brunson-14e2f634-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/jalen-brunson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T19:13:35.155Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "approved": true,
+  "qaSummary": "Pass on attempt 1. Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain.",
+  "webp": [
+    "assets/players/webp/jalen-brunson-1024.webp",
+    "assets/players/webp/jalen-brunson-400.webp",
+    "assets/players/webp/jalen-brunson-200.webp",
+    "assets/players/webp/jalen-brunson-100.webp"
+  ],
+  "approvedAt": "2026-10-05T19:13:36.184Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:16.647Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:06:21.252Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/jalen-brunson-14e2f634-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-02T04:09:16.024Z",
+            "checklistFile": "QA_CHECKLIST.md",
+            "note": "Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:35.985Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:43:48.493Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/jalen-brunson-14e2f634-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/jalen-brunson/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:43:53.953Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "latestAttempt": 1,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/06/brunson2-1568x882.jpg",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jalen-brunson-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/jalen-brunson/out.png",
+        "fixes": [],
+        "base": "282bad3869d7ba79e4d8b2195045983e417aa9da",
+        "importedAt": "2026-10-12T03:32:42.544Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0063,
+          "face": 6.1,
+          "purity": 0.984,
+          "coverage": 0.145,
+          "strays": 7,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1864,
+          "oldEdge": 0,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/jalen-brunson-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:46.768Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/jalen-brunson.webp",
+    "base": "282bad3869d7ba79e4d8b2195045983e417aa9da",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:41:55.705Z"
+  }
+}

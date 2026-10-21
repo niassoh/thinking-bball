@@ -1,0 +1,211 @@
+{
+  "player": "Mitchell Robinson",
+  "playerId": "mitchell-robinson",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2265303266-scaled-e1782922733888.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2265303266-scaled-e1782922733888.jpg",
+  "sourcePage": "https://www.nba.com/news/2026-27-season-preview-bos",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2380,
+    1340
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/mitchell-robinson.jpg",
+  "selectedAt": "2026-10-05T01:56:43.800Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 794,
+    "y": 48,
+    "size": 815
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "BOS (jersey edit from jayson-tatum's)",
+  "concerns": "source page is the 2026-27 BOS season preview (photo is a 2025-26 Knicks game)",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:28.334Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "BOS (jersey edit from jayson-tatum's)",
+      "file": "assets/players/attempts/mitchell-robinson-d2d95c9b-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/mitchell-robinson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:56.909Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/mitchell-robinson.png",
+  "webp": [
+    "assets/players/webp/mitchell-robinson-1024.webp",
+    "assets/players/webp/mitchell-robinson-400.webp",
+    "assets/players/webp/mitchell-robinson-200.webp",
+    "assets/players/webp/mitchell-robinson-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/07/GettyImages-2265303266-scaled-e1782922733888.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:57.166Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:44.677Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:40:49.719Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/mitchell-robinson-d2d95c9b-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/mitchell-robinson/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:41:01.466Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "jersey: NYK -> BOS",
+      "archivedAt": "2026-10-09T08:56:28.261Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T02:08:33.363Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/mitchell-robinson-d2d95c9b-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/mitchell-robinson/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T02:08:39.438Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/mitchell-robinson-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/mitchell-robinson/out.png",
+        "fixes": [],
+        "base": "ca8e2e3fd3074fba0a688e6a9e0151cdbee8bf6e",
+        "importedAt": "2026-10-12T03:34:02.126Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0048,
+          "face": 2.1,
+          "purity": 0.995,
+          "coverage": 0.171,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1109,
+          "oldEdge": 0,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/mitchell-robinson-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:50.259Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/mitchell-robinson.webp",
+    "base": "ca8e2e3fd3074fba0a688e6a9e0151cdbee8bf6e",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:14.268Z"
+  }
+}

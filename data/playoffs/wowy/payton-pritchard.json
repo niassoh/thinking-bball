@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "BOS",
+  "gp": 7,
+  "generatedAt": "2026-10-09T18:17:25.970Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 231,
+      "poss": 443.5,
+      "net": 9.92108229988726
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 105,
+      "poss": 208,
+      "net": -11.538461538461538
+    },
+    {
+      "label": "On, w/o White",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 76,
+      "poss": 147.5,
+      "net": 23.728813559322035
+    },
+    {
+      "label": "On, w/o Brown",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 77,
+      "poss": 147,
+      "net": 25.850340136054424
+    },
+    {
+      "label": "On, w/o Tatum",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 100,
+      "poss": 192.5,
+      "net": -5.194805194805195
+    },
+    {
+      "label": "Neither Pritchard nor White",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 9,
+      "poss": 16.5,
+      "net": 54.54545454545454
+    }
+  ]
+}

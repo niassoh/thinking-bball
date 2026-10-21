@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "SAC",
+  "gp": 45,
+  "generatedAt": "2026-10-02T04:22:50.440Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · SAC",
+      "minutes": 51,
+      "poss": 105,
+      "net": -0.9523809523809524
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · SAC",
+      "minutes": 3900,
+      "poss": 8078.5,
+      "net": -10.138020672154484
+    },
+    {
+      "label": "On, w/o DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 15,
+      "poss": 32.5,
+      "net": 36.92307692307693
+    },
+    {
+      "label": "On, w/o Raynaud",
+      "sub": "2025–26 · SAC",
+      "minutes": 33,
+      "poss": 66.5,
+      "net": 6.015037593984962
+    },
+    {
+      "label": "On, w/o Clifford",
+      "sub": "2025–26 · SAC",
+      "minutes": 22,
+      "poss": 45.5,
+      "net": -21.978021978021978
+    },
+    {
+      "label": "Neither Hunter nor DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 1530,
+      "poss": 3162,
+      "net": -7.71663504111322
+    }
+  ]
+}

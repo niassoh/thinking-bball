@@ -1,0 +1,69 @@
+{
+  "player": "Luol Deng",
+  "playerId": "luol-deng",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Luol_Deng_Wizards.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Luol_Deng_Wizards.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Luol_Deng_Wizards.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2009-02-27 (at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    2273,
+    2180
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/luol-deng.jpg",
+  "selectedAt": "2026-10-17T05:39:42.478Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 682,
+    "y": 95,
+    "size": 875
+  },
+  "needsReview": "gaze is down at the ball rather than up/off-camera; searched Bulls team-site Deng articles (14), nba.com/news Deng pages, Bulls history lists and Commons Category:Luol Deng",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "similar intensity, different gaze (chasing a loose ball, eyes down on it, lips parted over teeth)",
+  "jersey": "CHI red road 2008-09",
+  "concerns": "FLAG: eyes and head angled down at the ball, not up/off-camera like McCain; teeth show in a slight effort grit; 2008-09, three seasons before his 2011-12 peak; no Bulls in-game photo of Deng on nba.com (Bulls team-site articles carry only small legacy images, a shooting-shirt photo, graphics or dunks; nba.com/news Deng pages carry no Getty photo naming him first)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Luol_Deng_at_the_top_of_the_key.jpg",
+      "note": "(CC BY-SA, 2010-12-02 vs ORL, white home, frontal, mouth open looking ahead, energy ~6, but head ~240px in a 3888px frame, soft and noisy, shot from the stands)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2024/04/240404_LuolDeng_16x9.jpg",
+      "note": "(Bulls site, ideal look-up with mouth open, but wearing the black CHICAGO shooting shirt: warmup, rejected)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "PHI",
+  "gp": 9,
+  "generatedAt": "2026-10-09T18:29:18.141Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 96,
+      "poss": 185,
+      "net": -27.56756756756757
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 432,
+      "poss": 847,
+      "net": -6.8476977567886665
+    },
+    {
+      "label": "On, w/o Maxey",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 38,
+      "poss": 79.5,
+      "net": -40.25157232704403
+    },
+    {
+      "label": "On, w/o Edgecombe",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 40,
+      "poss": 81.5,
+      "net": -39.263803680981596
+    },
+    {
+      "label": "On, w/o George",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 65,
+      "poss": 129.5,
+      "net": -29.343629343629345
+    },
+    {
+      "label": "Neither Barlow nor Maxey",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 53,
+      "poss": 104,
+      "net": 8.653846153846153
+    }
+  ]
+}

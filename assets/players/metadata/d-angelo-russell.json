@@ -1,0 +1,139 @@
+{
+  "player": "D'Angelo Russell",
+  "playerId": "d-angelo-russell",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/09/GettyImages-2245205062.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/09/GettyImages-2245205062.jpg",
+  "sourcePage": "https://www.nba.com/news/dangelo-russell-waived-grizzlies",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/d-angelo-russell.jpg",
+  "selectedAt": "2026-10-05T19:25:36.149Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 585,
+    "y": 0,
+    "size": 580
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "slightly lower (free throw, eyes up on rim, lips parted)",
+  "jersey": "DAL white Association 2025-26 (Nov 8 2025)",
+  "concerns": "Mavericks jersey: his 2025-26 team (group list says BKN); blurred teammate face in background at right edge of crop",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:30.542Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/d-angelo-russell-24dc8303-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/d-angelo-russell/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:02:56.150Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/d-angelo-russell.png",
+  "webp": [
+    "assets/players/webp/d-angelo-russell-1024.webp",
+    "assets/players/webp/d-angelo-russell-400.webp",
+    "assets/players/webp/d-angelo-russell-200.webp",
+    "assets/players/webp/d-angelo-russell-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/09/GettyImages-2245205062.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:02:56.430Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/d-angelo-russell-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/d-angelo-russell/out.png",
+        "fixes": [],
+        "base": "e7894282e6ba468be30b8531be010703f858d797",
+        "importedAt": "2026-10-11T19:39:47.321Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0059,
+          "face": 3,
+          "purity": 0.989,
+          "coverage": 0.137,
+          "strays": 2,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 711,
+          "oldEdge": 0.007,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/d-angelo-russell-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:48:58.678Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/d-angelo-russell.webp",
+    "base": "e7894282e6ba468be30b8531be010703f858d797",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:00.038Z"
+  }
+}

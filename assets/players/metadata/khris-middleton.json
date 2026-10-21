@@ -1,0 +1,173 @@
+{
+  "player": "Khris Middleton",
+  "playerId": "khris-middleton",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/03/Middleton.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/03/Middleton.jpg",
+  "sourcePage": "https://www.nba.com/news/khris-middleton-to-wizards-as-part-of-6-team-trade",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/khris-middleton.jpg",
+  "selectedAt": "2026-10-05T19:34:59.900Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 732,
+    "y": 0,
+    "size": 466
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "different (grinning rather than alert)",
+  "jersey": "WAS (jersey edit from kyshawn-george's)",
+  "concerns": "big in-game grin, not the McCain alert look - only usable 2025-26 game photo found (others: warmup, or tiny); face ~176px and slightly soft; non-Getty hero file, identity verified visually (#20 Dallas, Middleton); traded to WAS in 2026 offseason",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:26.911Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "WAS (jersey edit from kyshawn-george's)",
+      "file": "assets/players/attempts/khris-middleton-6eeaf18d-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/khris-middleton/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:53.710Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/khris-middleton.png",
+  "webp": [
+    "assets/players/webp/khris-middleton-1024.webp",
+    "assets/players/webp/khris-middleton-400.webp",
+    "assets/players/webp/khris-middleton-200.webp",
+    "assets/players/webp/khris-middleton-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/03/Middleton.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:53.899Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: DAL -> WAS",
+      "archivedAt": "2026-10-09T08:56:26.847Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T04:01:32.909Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/khris-middleton-6eeaf18d-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/khris-middleton/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T04:03:02.449Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/khris-middleton-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/khris-middleton/out.png",
+        "fixes": [],
+        "base": "c1b1f1e59e343bcae2458e1959e839280081cee8",
+        "importedAt": "2026-10-12T03:33:30.482Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0052,
+          "face": 4.4,
+          "purity": 0.99,
+          "coverage": 0.2,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1099,
+          "oldEdge": 0,
+          "shadeLevels": 11,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/khris-middleton-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:48.720Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/khris-middleton.webp",
+    "base": "c1b1f1e59e343bcae2458e1959e839280081cee8",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:06.309Z"
+  }
+}

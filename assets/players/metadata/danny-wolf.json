@@ -1,0 +1,64 @@
+{
+  "player": "Danny Wolf",
+  "playerId": "danny-wolf",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kcd4f0nnj6f2224wzj.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kcd4f0nnj6f2224wzj.jpg",
+  "sourcePage": "https://www.si.com/nba/nets/onsi/news/danny-wolf-gets-praise-from-nets-head-coach-jordi-fernandez-plays-like-he-belongs",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Jerome Miron / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-12-12 at DAL, American Airlines Center (caption: looks on during the game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/danny-wolf.jpg",
+  "selectedAt": "2026-10-17T11:14:31.394Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1075,
+    "y": 0,
+    "size": 1360
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (eyes up and off-camera, mouth open mid-breath, alert)",
+  "jersey": "BKN white Association #2, 2025-26",
+  "concerns": "not nba.com: nba.com was returning 403 to this machine during the search, so this is an SI/Imagn lead image; hair top sits close to the frame top, so the crop starts at y=0",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/nba_draft/01kba5b67r4asbs4a22y.jpg",
+      "note": "(2025-11-29 at MIL, City Edition, dribbling with lips parted, smaller face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01k6tdnjkk8ya7809mt7.jpg",
+      "note": "(2025 media day press conference, not in-game)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

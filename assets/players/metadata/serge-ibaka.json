@@ -1,0 +1,70 @@
+{
+  "player": "Serge Ibaka",
+  "playerId": "serge-ibaka",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Serge_Ibaka_Feb_2014.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Serge_Ibaka_Feb_2014.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Serge_Ibaka_Feb_2014.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2014-02-01 at WAS, Verizon Center",
+  "originalSize": null,
+  "storedSize": [
+    1553,
+    1979
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/serge-ibaka.jpg",
+  "selectedAt": "2026-10-17T11:04:12.101Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 460,
+    "y": 54,
+    "size": 1060
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (alert look-off to his left, mouth open mid-breath, sweaty; calmer than McCain’s upward look)",
+  "jersey": "OKC blue road 2013-14",
+  "concerns": "Commons (CC BY-SA 2.0), not nba.com: nba.com Thunder pages only carry legacy 750px images and two 1920px Getty copies with lower energy; head turned a strong 3/4 toward profile (like the dynamic look-off example); the ball he is holding up sits at the left edge of the crop, clear of the face; 2013-14, one season after his 2012-13 best",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/09/GettyImages-21924555561.jpg",
+      "note": "(nba.com OKC all-defensive article, blue road, frontal, mouth open mid-breath but eyes heavy and down, energy ~5, face ~260px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Serge_Ibaka1.jpg",
+      "note": "(Commons 2011-03 at WAS, blue road, full profile, mouth slightly open)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/08/GettyImages-11315015092si.jpg",
+      "note": "(nba.com OKC blocks article, free throw set, mouth closed, energy ~4)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

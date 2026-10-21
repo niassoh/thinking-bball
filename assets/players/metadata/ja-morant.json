@@ -1,0 +1,173 @@
+{
+  "player": "Ja Morant",
+  "playerId": "ja-morant",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2256933384-scaled-e1782765650730.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2256933384-scaled-e1782765650730.jpg",
+  "sourcePage": "https://www.nba.com/news/blazers-grizzlies-ja-morant-trade",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1706,
+    960
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ja-morant.jpg",
+  "selectedAt": "2026-10-05T19:36:22.076Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 531,
+    "y": 7,
+    "size": 766
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches",
+  "jersey": "POR (jersey edit from deni-avdija's)",
+  "concerns": "cropped 1706px hero copy, face ~289px; traded to POR in 2026 offseason",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:24.898Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "POR (jersey edit from deni-avdija's)",
+      "file": "assets/players/attempts/ja-morant-5dfc5d14-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/ja-morant/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:49.395Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/ja-morant.png",
+  "webp": [
+    "assets/players/webp/ja-morant-1024.webp",
+    "assets/players/webp/ja-morant-400.webp",
+    "assets/players/webp/ja-morant-200.webp",
+    "assets/players/webp/ja-morant-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/06/GettyImages-2256933384-scaled-e1782765650730.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:49.649Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: MEM -> POR",
+      "archivedAt": "2026-10-09T08:56:24.824Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T02:53:37.727Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/ja-morant-5dfc5d14-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/ja-morant/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T02:53:49.410Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/ja-morant-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/ja-morant/out.png",
+        "fixes": [],
+        "base": "6599dc416164d1b5586e3bb48376c676113b098d",
+        "importedAt": "2026-10-12T03:32:38.377Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.006,
+          "face": 2.5,
+          "purity": 0.994,
+          "coverage": 0.217,
+          "strays": 8,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1197,
+          "oldEdge": 0.021,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/ja-morant-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:46.635Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/ja-morant.webp",
+    "base": "6599dc416164d1b5586e3bb48376c676113b098d",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:41:54.975Z"
+  }
+}

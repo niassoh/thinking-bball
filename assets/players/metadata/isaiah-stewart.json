@@ -1,0 +1,211 @@
+{
+  "player": "Isaiah Stewart",
+  "playerId": "isaiah-stewart",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2256602684-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2256602684-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/the-athletic-secret-to-isaiah-stewarts-shot-blocking-prowess-you-cant-be-scared-to-get-punched",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/isaiah-stewart.jpg",
+  "selectedAt": "2026-10-05T01:59:06.571Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 916,
+    "y": 120,
+    "size": 722
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "MEM (jersey edit from scotty-pippen-jr's)",
+  "concerns": "looks-on moment, a little calmer than McCain",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:24.618Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "MEM (jersey edit from scotty-pippen-jr's)",
+      "file": "assets/players/attempts/isaiah-stewart-bfadf1a0-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/isaiah-stewart/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:48.789Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/isaiah-stewart.png",
+  "webp": [
+    "assets/players/webp/isaiah-stewart-1024.webp",
+    "assets/players/webp/isaiah-stewart-400.webp",
+    "assets/players/webp/isaiah-stewart-200.webp",
+    "assets/players/webp/isaiah-stewart-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/01/GettyImages-2256602684-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:49.034Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:46.782Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:34:40.373Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/isaiah-stewart-bfadf1a0-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/isaiah-stewart/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:34:52.111Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "jersey: DET -> MEM",
+      "archivedAt": "2026-10-09T08:56:24.535Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T19:08:08.656Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/isaiah-stewart-bfadf1a0-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/isaiah-stewart/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T19:08:24.305Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/isaiah-stewart-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/isaiah-stewart/out.png",
+        "fixes": [],
+        "base": "b7b8d705095fbb77f6e568082a0c92ff4e82c8bd",
+        "importedAt": "2026-10-11T19:41:26.217Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0037,
+          "face": 2.1,
+          "purity": 0.993,
+          "coverage": 0.163,
+          "strays": 6,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 988,
+          "oldEdge": 0,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/isaiah-stewart-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:49:25.216Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/isaiah-stewart.webp",
+    "base": "b7b8d705095fbb77f6e568082a0c92ff4e82c8bd",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:25.918Z"
+  }
+}

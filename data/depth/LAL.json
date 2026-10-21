@@ -1,0 +1,146 @@
+{
+  "team": "LAL",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:50.022Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Luka Doncic",
+          "slug": "luka-doncic",
+          "espnId": "3945274",
+          "status": null
+        },
+        {
+          "name": "Collin Sexton",
+          "slug": "collin-sexton",
+          "espnId": "4277811",
+          "status": null
+        },
+        {
+          "name": "Austin Reaves",
+          "slug": "austin-reaves",
+          "espnId": "4066457",
+          "status": null
+        },
+        {
+          "name": "Quentin Grimes",
+          "slug": "quentin-grimes",
+          "espnId": "4397014",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Austin Reaves",
+          "slug": "austin-reaves",
+          "espnId": "4066457",
+          "status": null
+        },
+        {
+          "name": "Collin Sexton",
+          "slug": "collin-sexton",
+          "espnId": "4277811",
+          "status": null
+        },
+        {
+          "name": "Cameron Carr",
+          "slug": "cameron-carr",
+          "espnId": "5113969",
+          "status": null
+        },
+        {
+          "name": "Matisse Thybulle",
+          "slug": "matisse-thybulle",
+          "espnId": "3907498",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Quentin Grimes",
+          "slug": "quentin-grimes",
+          "espnId": "4397014",
+          "status": null
+        },
+        {
+          "name": "Cameron Carr",
+          "slug": "cameron-carr",
+          "espnId": "5113969",
+          "status": null
+        },
+        {
+          "name": "Matisse Thybulle",
+          "slug": "matisse-thybulle",
+          "espnId": "3907498",
+          "status": null
+        },
+        {
+          "name": "Ziaire Williams",
+          "slug": "ziaire-williams",
+          "espnId": "4433137",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Jake LaRavia",
+          "slug": "jake-laravia",
+          "espnId": "4592691",
+          "status": null
+        },
+        {
+          "name": "Sandro Mamukelashvili",
+          "slug": "sandro-mamukelashvili",
+          "espnId": "4278580",
+          "status": null
+        },
+        {
+          "name": "Jarred Vanderbilt",
+          "slug": "jarred-vanderbilt",
+          "espnId": "4278077",
+          "status": null
+        },
+        {
+          "name": "Matisse Thybulle",
+          "slug": "matisse-thybulle",
+          "espnId": "3907498",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Walker Kessler",
+          "slug": "walker-kessler",
+          "espnId": "4433136",
+          "status": null
+        },
+        {
+          "name": "Kevon Looney",
+          "slug": "kevon-looney",
+          "espnId": "3155535",
+          "status": null
+        },
+        {
+          "name": "Sandro Mamukelashvili",
+          "slug": "sandro-mamukelashvili",
+          "espnId": "4278580",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

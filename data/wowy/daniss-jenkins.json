@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "DET",
+  "gp": 72,
+  "generatedAt": "2026-10-02T05:21:57.468Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · DET",
+      "minutes": 1455,
+      "poss": 3014,
+      "net": 6.934306569343065
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · DET",
+      "minutes": 2506,
+      "poss": 5172.5,
+      "net": 8.89318511358144
+    },
+    {
+      "label": "On, w/o Cunningham",
+      "sub": "2025–26 · DET",
+      "minutes": 1201,
+      "poss": 2476.5,
+      "net": 5.976176054916213
+    },
+    {
+      "label": "On, w/o Robinson",
+      "sub": "2025–26 · DET",
+      "minutes": 885,
+      "poss": 1835.5,
+      "net": 0.8716970852628712
+    },
+    {
+      "label": "On, w/o Duren",
+      "sub": "2025–26 · DET",
+      "minutes": 847,
+      "poss": 1756.5,
+      "net": 0.2277255906632508
+    },
+    {
+      "label": "Neither Jenkins nor Cunningham",
+      "sub": "2025–26 · DET",
+      "minutes": 588,
+      "poss": 1220,
+      "net": 0.24590163934426232
+    }
+  ]
+}

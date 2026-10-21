@@ -1,0 +1,64 @@
+{
+  "player": "Ace Bailey",
+  "playerId": "ace-bailey",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/04/1198_04122026_Jazz_Lakers_Pantozzi_0270.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/04/1198_04122026_Jazz_Lakers_Pantozzi_0270.jpg",
+  "sourcePage": "https://www.nba.com/jazz/photos/photos-best-of-ace-bailey-2025-26-season",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Adam Pantozzi / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2026-04-12 at LAL, Crypto.com Arena (caption: dribbles the ball)",
+  "originalSize": null,
+  "storedSize": [
+    2400,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ace-bailey.jpg",
+  "selectedAt": "2026-10-17T08:41:28.494Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 538,
+    "y": 0,
+    "size": 944
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes off-camera to his right, mouth open mid-breath, alert on the dribble)",
+  "jersey": "UTA purple City Edition road 2025-26 (same team 2026-27)",
+  "concerns": "Jazz team-site gallery original (2670x3337, stored at 3000px); hair top sits about 6% from the box top because the photo is cropped close above his hair; ball is outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/04/022626_UTAvNOP_Game_MMH-1057.jpg",
+      "note": "(2026-02-26 vs NOP, black Statement jersey, eyes cast down and half closed, energy ~4)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/04/895_03042026_Jazz_76ers_Garrabrant_0346.jpg",
+      "note": "(2026-03-04 at PHI, overhead angle on a drive, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

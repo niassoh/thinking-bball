@@ -1,0 +1,64 @@
+{
+  "player": "GG Jackson",
+  "playerId": "gg-jackson",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/12/GettyImages-2248144973-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/12/GettyImages-2248144973-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/5-youngest-players-to-score-40-points-in-nba-history",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2025-11-22 (at DAL, American Airlines Center; Getty 2248144973)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1567
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/gg-jackson.jpg",
+  "selectedAt": "2026-10-17T11:36:51.676Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1170,
+    "y": 0,
+    "size": 840
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes up-court just off-camera, mouth open mid-breath, alert)",
+  "jersey": "MEM white #45 (lowercase memphis wordmark), 2025-26 (same team 2026-27)",
+  "concerns": "locs reach the top edge, so only ~5% headroom above the hair; NBA headband across the forehead; 2025-26 photo, the Grizzlies site posted no 2026 preseason galleries",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612763/2025/10/GettyImages-2240104369.jpg",
+      "note": "(Oct 11 2025 preseason vs ATL, white, driving, 1920px gallery copy, small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612763/2025/10/GettyImages-2240114663.jpg",
+      "note": "(Oct 11 2025 preseason vs ATL, white, layup shot from above the rim, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,99 @@
+{
+  "player": "Dominick Barlow",
+  "playerId": "dominick-barlow",
+  "sourceUrl": "https://media.nbcsportsphiladelphia.com/2025/11/Dominick-Barlow-Getty-Images-1.jpg",
+  "downloadUrl": "https://media.nbcsportsphiladelphia.com/2025/11/Dominick-Barlow-Getty-Images-1.jpg",
+  "sourcePage": "https://www.nbcsportsphiladelphia.com/tag/dominick-barlow/",
+  "license": "unknown (Getty Images / NBAE via NBC Sports Philadelphia)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "c. Oct-Nov 2025 (PHI home game, Xfinity Mobile Arena; uploaded Nov 2025, no caption)",
+  "originalSize": null,
+  "storedSize": [
+    1478,
+    832
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/dominick-barlow.jpg",
+  "selectedAt": "2026-10-17T05:37:24.174Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 415,
+    "y": 2,
+    "size": 600
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (locked-in stare off-camera to his left, lips just parted; focused rather than reactive)",
+  "jersey": "PHI white home #25, 2025-26",
+  "concerns": "source priority 3 (Getty/NBAE web copy on NBC Sports Philadelphia, 1478px): no usable nba.com photo (his 5 tagged nba.com posts and 9 earlier-scanned articles have none; the Sixers team galleries only have dunks and layups); exact NBC article not identified (image found in NBC media library by name), page is the NBC Barlow tag page; face ~205px hairline-to-chin (~300px with hair), below the 250px target; no caption, date from upload month and 2025-26 crypto.com patch",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://media.nbcsportsphiladelphia.com/2026/02/Dominick-Barlow-Getty-Images-2.jpg",
+      "note": "(PHI white 2025-26, jogging with mouth open looking off-camera, energy ~6.5, but face ~150px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.nbcsportsphiladelphia.com/2026/10/Dominick-Barlow-Getty-Images-1.jpg",
+      "note": "(PHI white at SAC, large face ~275px, but looking up at the rim with lips closed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/07/Photo-5-15.jpg",
+      "note": "(Sixers gallery, Apr 12 2026 layup, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:54.516Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/dominick-barlow-ee41e9a9-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/dominick-barlow/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.019Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/dominick-barlow.png",
+  "webp": [
+    "assets/players/webp/dominick-barlow-1024.webp",
+    "assets/players/webp/dominick-barlow-400.webp",
+    "assets/players/webp/dominick-barlow-200.webp",
+    "assets/players/webp/dominick-barlow-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://media.nbcsportsphiladelphia.com/2025/11/Dominick-Barlow-Getty-Images-1.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:42.190Z",
+  "background": "transparent"
+}

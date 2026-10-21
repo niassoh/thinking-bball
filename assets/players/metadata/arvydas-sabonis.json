@@ -1,0 +1,149 @@
+{
+  "player": "Arvydas Sabonis",
+  "playerId": "arvydas-sabonis",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/blazers/sites/blazers/files/00056_52.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/blazers/sites/blazers/files/00056_52.jpg",
+  "sourcePage": "https://www.nba.com/blazers/gallery/photos-arvydas-sabonis-through-years",
+  "license": "unknown (NBAE / Portland Trail Blazers via NBA.com)",
+  "licenseUrl": null,
+  "author": "NBAE (uncredited, Trail Blazers gallery)",
+  "credit": null,
+  "photoDate": "c. 1999-2001 (at LAL vs Shaquille O’Neal, uncaptioned team-gallery photo)",
+  "originalSize": null,
+  "storedSize": [
+    1620,
+    1069
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/arvydas-sabonis.jpg",
+  "selectedAt": "2026-10-17T05:17:31.912Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 300,
+    "y": 0,
+    "size": 580
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (eyes up and off-camera, lips parted mid-breath, alert during a stoppage)",
+  "jersey": "POR black road (pinwheel-stripe design), c. 1999-2001",
+  "concerns": "uncaptioned gallery scan, so date and game unverified (uniforms and Shaq place it 1999-2001 at LAL); film grain, slightly soft; face ~250px; hair top sits near the image top so the box has little headroom; a blurred foreground arm at the far left edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/blazers/sites/blazers/files/00006_106.jpg",
+      "note": "(c. 1996-97 at LAL, black road, mouth open mid-word looking off, energy ~6, but face ~210px, softer, hair touches the top edge)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/blazers/sites/blazers/files/00052_64.jpg",
+      "note": "(white home vs MIN, looking off with lips closed, energy ~5, face ~200px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:51.048Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/arvydas-sabonis-5b9545a2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/arvydas-sabonis/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.133Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/arvydas-sabonis.png",
+  "webp": [
+    "assets/players/webp/arvydas-sabonis-1024.webp",
+    "assets/players/webp/arvydas-sabonis-400.webp",
+    "assets/players/webp/arvydas-sabonis-200.webp",
+    "assets/players/webp/arvydas-sabonis-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/blazers/sites/blazers/files/00056_52.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:36.644Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/arvydas-sabonis-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/arvydas-sabonis/out.png",
+        "fixes": [],
+        "base": "67b35dfb1313f0f9406e79b5eb2b1f824e90156e",
+        "importedAt": "2026-10-17T11:06:53.375Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0075,
+          "face": 3.3,
+          "purity": 0.991,
+          "coverage": 0.166,
+          "strays": 2,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 644,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/arvydas-sabonis-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:50.822Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/arvydas-sabonis.webp",
+    "base": "67b35dfb1313f0f9406e79b5eb2b1f824e90156e",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:51.084Z"
+  }
+}

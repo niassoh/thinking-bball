@@ -1,0 +1,140 @@
+{
+  "player": "Jalen Smith",
+  "playerId": "jalen-smith",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2026/10/261016_SamSmith_JalenSmith_CalebWilson_16x9.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2026/10/261016_SamSmith_JalenSmith_CalebWilson_16x9.jpg",
+  "sourcePage": "https://www.nba.com/bulls/news/ask-sam-mailbag-leonard-miller-showing-promising-signs-other-preseason-thoughts",
+  "license": "unknown (Chicago Bulls team photo via NBA.com)",
+  "licenseUrl": null,
+  "author": "Chicago Bulls",
+  "credit": null,
+  "photoDate": "Oct 2026 preseason (likely at MIL, Oct 14 2026; Bucks arena graphics behind)",
+  "originalSize": null,
+  "storedSize": [
+    2095,
+    1179
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jalen-smith.jpg",
+  "selectedAt": "2026-10-17T05:40:58.094Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 482,
+    "y": 15,
+    "size": 716
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (walking back during a stoppage, eyes off to his right, mouth open mid-word)",
+  "jersey": "CHI red road #25, 2026-27 preseason",
+  "concerns": "FLAG: 2026-27 preseason game, not regular season (regular red road uniform); wears his usual black protective goggles, which sit over the eyes; Caleb Wilson stands to the right, outside the crop; team photo without caption, game inferred from the arena",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2025/10/251020_SamSmith_JalenSmith_16x9.jpg",
+      "note": "(Oct 2025 vs CLE, white home at the free-throw line looking up at the rim, lips parted, 5000 px, energy ~6, but calmer and likely preseason too)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2025/11/251117_JevonCarter_JalenSmith_16x9.jpg",
+      "note": "(Nov 2025, red, 1429 px wide, small face, slapping hands with Carter)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:56.433Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jalen-smith-cdea7ab6-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jalen-smith/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.606Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jalen-smith.png",
+  "webp": [
+    "assets/players/webp/jalen-smith-1024.webp",
+    "assets/players/webp/jalen-smith-400.webp",
+    "assets/players/webp/jalen-smith-200.webp",
+    "assets/players/webp/jalen-smith-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612741/2026/10/261016_SamSmith_JalenSmith_CalebWilson_16x9.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:46.339Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jalen-smith-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/jalen-smith/out.png",
+        "fixes": [],
+        "base": "4770a065b85a68323b7ee48b978210b863fec2fd",
+        "importedAt": "2026-10-17T11:07:16.349Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.003,
+          "face": 3.3,
+          "purity": 0.994,
+          "coverage": 0.164,
+          "strays": 5,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 453,
+          "oldEdge": 0,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/jalen-smith-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:55.653Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/jalen-smith.webp",
+    "base": "4770a065b85a68323b7ee48b978210b863fec2fd",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:55.883Z"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Antoine Walker",
+  "playerId": "antoine-walker",
+  "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/chorus/uploads/chorus_asset/file/15477871/GettyImages-1956326.0.1499824982.jpg",
+  "downloadUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/chorus/uploads/chorus_asset/file/15477871/GettyImages-1956326.0.1499824982.jpg",
+  "sourcePage": "https://www.celticsblog.com/2015/9/2/9216435/a-tribute-to-antoine-walker-employee-number-8",
+  "license": "unknown (Getty Images via CelticsBlog / SB Nation)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2003-04-19 at IND, Conseco Fieldhouse, 2003 playoffs East first round Game 1 (Getty 1956326)",
+  "originalSize": null,
+  "storedSize": [
+    1968,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/antoine-walker.jpg",
+  "selectedAt": "2026-10-17T11:14:05.967Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 540,
+    "y": 215,
+    "size": 1060
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (sweaty, looking up and off-camera like McCain, lips parted; caption says celebrates but the face is a calm look-up)",
+  "jersey": "BOS green road #8 2002-03 (playoffs)",
+  "concerns": "not nba.com or Commons: nba.com was blocking this machine during sourcing and Commons has only post-career and Heat photos; full-size Getty original (2032x3098) served by the SB Nation CMS, no watermark, license unknown; Getty caption reads celebrates, the frame itself is a calm upward look",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/chorus/uploads/chorus_asset/file/14424039/please-keep-your-laughter-to-a-dull-roar.-elsa-getty-images.0.1498061621.jpg",
+      "note": "(Elsa/Getty, BOS green, shush gesture with a finger across the lips, 630px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Antoine_Walker_Miami_Heat.jpg",
+      "note": "(Commons 2008, Heat jersey, not BOS)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

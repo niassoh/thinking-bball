@@ -1,0 +1,140 @@
+{
+  "player": "Kenrich Williams",
+  "playerId": "kenrich-williams",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/01/GettyImages-2193051471-1-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/01/GettyImages-2193051471-1-scaled.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/el-thunder-hace-su-trabajo-ante-wizards",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2025-01-12 (at WAS, Capital One Arena)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kenrich-williams.jpg",
+  "selectedAt": "2026-10-17T05:54:36.451Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 879,
+    "y": 75,
+    "size": 580
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (mouth open mid-breath on a drive, eyes down-ahead, engaged; a touch lower than McCain because the eyes are not up)",
+  "jersey": "OKC orange statement #34, 2024-25",
+  "concerns": "FLAG: 2024-25 season, older than wanted (same team, OKC); no usable 2025-26 or 2026-27 photo: Thunder galleries are uncaptioned wide shots, opponent Getty galleries (Suns full-size, Spurs, Nuggets) show him only stumbling, and SI lead images are shouting celebrations; ball and the defender’s hand sit in the lower corners of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/04/2270633998.jpg",
+      "note": "(Apr 12 2026 vs PHX, white home, full-size, but stumbling with head down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_thunder/01kybpyt1ceshwcpzf2t.jpg",
+      "note": "(SI/Reuters, white home 2025-26 playoffs, shouting celebration, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:58.596Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kenrich-williams-f53daf5b-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/kenrich-williams/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.319Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kenrich-williams.png",
+  "webp": [
+    "assets/players/webp/kenrich-williams-1024.webp",
+    "assets/players/webp/kenrich-williams-400.webp",
+    "assets/players/webp/kenrich-williams-200.webp",
+    "assets/players/webp/kenrich-williams-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/01/GettyImages-2193051471-1-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:50.495Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/kenrich-williams-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/kenrich-williams/out.png",
+        "fixes": [],
+        "base": "452615b3618f8ccd9b220847f3f5cf50b46deeb6",
+        "importedAt": "2026-10-17T11:07:24.327Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0066,
+          "face": 2.3,
+          "purity": 0.984,
+          "coverage": 0.145,
+          "strays": 62,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1864,
+          "oldEdge": 0,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/kenrich-williams-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:57.572Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/kenrich-williams.webp",
+    "base": "452615b3618f8ccd9b220847f3f5cf50b46deeb6",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:57.807Z"
+  }
+}

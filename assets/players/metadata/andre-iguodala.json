@@ -1,0 +1,64 @@
+{
+  "player": "Andre Iguodala",
+  "playerId": "andre-iguodala",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/01/andre-iguodala-dribbles.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/01/andre-iguodala-dribbles.jpg",
+  "sourcePage": "https://www.nba.com/news/warriors-to-retire-andre-iguodala-no-9-jersey",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": "c. 2018-19 at IND, Bankers Life Fieldhouse (Rakuten patch era; undated renamed nba.com photo)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/andre-iguodala.jpg",
+  "selectedAt": "2026-10-17T11:06:10.934Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 625,
+    "y": 0,
+    "size": 730
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes just off-camera, mouth open mid-breath; alert but calmer than McCain)",
+  "jersey": "GSW white Association #9, c. 2018-19",
+  "concerns": "renamed nba.com image, no Getty caption check, so the exact game is unverified; 2018-19 rather than his 2016-17 best season (same team and look); ball and dribbling hand sit below the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2020/02/andre-iguodala-iso.jpg",
+      "note": "(GSW The Town City Edition, crouched and looking up with mouth open, energy ~7, but the head fills the frame top with no headroom for a square crop and heavy spotlighting)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2023/03/GettyImages-1248204324-scaled.jpg",
+      "note": "(2023-03-13 vs PHX, black City Edition, driving, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

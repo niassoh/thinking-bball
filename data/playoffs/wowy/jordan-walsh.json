@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "BOS",
+  "gp": 7,
+  "generatedAt": "2026-10-09T19:15:32.800Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 89,
+      "poss": 174,
+      "net": 22.413793103448278
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 247,
+      "poss": 477.5,
+      "net": -3.9790575916230364
+    },
+    {
+      "label": "On, w/o White",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 64,
+      "poss": 125,
+      "net": 24.8
+    },
+    {
+      "label": "On, w/o Brown",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 46,
+      "poss": 91,
+      "net": 34.065934065934066
+    },
+    {
+      "label": "On, w/o Pritchard",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 7,
+      "poss": 14.5,
+      "net": -6.896551724137931
+    },
+    {
+      "label": "Neither Walsh nor White",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 21,
+      "poss": 39,
+      "net": 33.33333333333333
+    }
+  ]
+}

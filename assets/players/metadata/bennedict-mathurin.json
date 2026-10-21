@@ -1,0 +1,173 @@
+{
+  "player": "Bennedict Mathurin",
+  "playerId": "bennedict-mathurin",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/02/Bennedict.png",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/02/Bennedict.png",
+  "sourcePage": "https://www.nba.com/news/exploring-bennedict-mathurins-new-role-with-the-clippers",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/bennedict-mathurin.jpg",
+  "selectedAt": "2026-10-05T19:25:10.931Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 479,
+    "y": 12,
+    "size": 823
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower",
+  "jersey": "NOP (jersey edit from herbert-jones's)",
+  "concerns": "calm-ish pause in play (hands on hips), lips parted with an off-camera look, about 5-6/10, below McCain; non-Getty PNG hero, identity verified visually (#9 Clippers, Mathurin); only other LAC option was an overhead rim-cam shot",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:21.992Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "NOP (jersey edit from herbert-jones's)",
+      "file": "assets/players/attempts/bennedict-mathurin-2b38bdc4-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/bennedict-mathurin/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:43.110Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/bennedict-mathurin.png",
+  "webp": [
+    "assets/players/webp/bennedict-mathurin-1024.webp",
+    "assets/players/webp/bennedict-mathurin-400.webp",
+    "assets/players/webp/bennedict-mathurin-200.webp",
+    "assets/players/webp/bennedict-mathurin-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/02/Bennedict.png",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:43.293Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: LAC -> NOP",
+      "archivedAt": "2026-10-09T08:56:21.919Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T02:53:37.474Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/bennedict-mathurin-2b38bdc4-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/bennedict-mathurin/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T02:53:48.735Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/bennedict-mathurin-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/bennedict-mathurin/out.png",
+        "fixes": [],
+        "base": "b05c58ad8e8a48f14cb6224a0f046a80b8552ee5",
+        "importedAt": "2026-10-11T18:04:55.206Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0039,
+          "face": 1.9,
+          "purity": 0.992,
+          "coverage": 0.151,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 385,
+          "oldEdge": 0,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/bennedict-mathurin-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: jersey fully keyed, logos/patches gone, accessories (goggles, headbands, T-shirt) untouched",
+          "at": "2026-10-11T18:05:59.607Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/bennedict-mathurin.webp",
+    "base": "b05c58ad8e8a48f14cb6224a0f046a80b8552ee5",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T18:06:00.146Z"
+  }
+}

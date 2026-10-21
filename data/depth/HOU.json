@@ -1,0 +1,152 @@
+{
+  "team": "HOU",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:48.512Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Fred VanVleet",
+          "slug": "fred-vanvleet",
+          "espnId": "2991230",
+          "status": null
+        },
+        {
+          "name": "Marcus Smart",
+          "slug": "marcus-smart",
+          "espnId": "2990992",
+          "status": null
+        },
+        {
+          "name": "Amen Thompson",
+          "slug": "amen-thompson",
+          "espnId": "4684740",
+          "status": null
+        },
+        {
+          "name": "Bruce Thornton",
+          "slug": "bruce-thornton",
+          "espnId": "5105837",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Amen Thompson",
+          "slug": "amen-thompson",
+          "espnId": "4684740",
+          "status": null
+        },
+        {
+          "name": "Reed Sheppard",
+          "slug": "reed-sheppard",
+          "espnId": "4711272",
+          "status": null
+        },
+        {
+          "name": "Marcus Smart",
+          "slug": "marcus-smart",
+          "espnId": "2990992",
+          "status": null
+        },
+        {
+          "name": "Bogdan Bogdanovic",
+          "slug": "bogdan-bogdanovic",
+          "espnId": "3037789",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Kevin Durant",
+          "slug": "kevin-durant",
+          "espnId": "3202",
+          "status": null
+        },
+        {
+          "name": "Tari Eason",
+          "slug": "tari-eason",
+          "espnId": "4433192",
+          "status": null
+        },
+        {
+          "name": "Bogdan Bogdanovic",
+          "slug": "bogdan-bogdanovic",
+          "espnId": "3037789",
+          "status": null
+        },
+        {
+          "name": "Jae'Sean Tate",
+          "slug": "jae-sean-tate",
+          "espnId": "3136777",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Jabari Smith Jr.",
+          "slug": "jabari-smith-jr",
+          "espnId": "4432639",
+          "status": null
+        },
+        {
+          "name": "Tari Eason",
+          "slug": "tari-eason",
+          "espnId": "4433192",
+          "status": null
+        },
+        {
+          "name": "Jae'Sean Tate",
+          "slug": "jae-sean-tate",
+          "espnId": "3136777",
+          "status": null
+        },
+        {
+          "name": "Alperen Sengun",
+          "slug": "alperen-sengun",
+          "espnId": "4871144",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Alperen Sengun",
+          "slug": "alperen-sengun",
+          "espnId": "4871144",
+          "status": null
+        },
+        {
+          "name": "Steven Adams",
+          "slug": "steven-adams",
+          "espnId": "2991235",
+          "status": null
+        },
+        {
+          "name": "Jabari Smith Jr.",
+          "slug": "jabari-smith-jr",
+          "espnId": "4432639",
+          "status": null
+        },
+        {
+          "name": "Clint Capela",
+          "slug": "clint-capela",
+          "espnId": "3102529",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

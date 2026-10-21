@@ -1,0 +1,93 @@
+{
+  "player": "Tari Eason",
+  "playerId": "tari-eason",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612745/2026/10/2300435881.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612745/2026/10/2300435881.jpg",
+  "sourcePage": "https://www.nba.com/rockets/photos/rockets-vs-thunder-preseason-win",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Kenneth Richmond / Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-15 (2026-27 preseason vs OKC, Toyota Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tari-eason.jpg",
+  "selectedAt": "2026-10-17T05:35:14.354Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1080,
+    "y": 75,
+    "size": 552
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (driving, eyes up and off to the right, lips parted, alert)",
+  "jersey": "HOU red home 2026-27 (preseason)",
+  "concerns": "FLAG: 2026-27 preseason game (regular red uniform); no usable 2025-26 regular-season photo found (nba.com articles and Suns galleries only had overhead shots and a post-game high five); face a little right of centre because Jared McCain (OKC) sits just past the right edge of the crop; ball and his left hand are low in the frame, outside the face",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/GettyImages-2273204568.jpg",
+      "note": "(Apr 29 2026 at LAL, R1 G5, high five with Sengun after the game, not in-game, side-on)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/1_tari_eason.jpg",
+      "note": "(Commons 2023, HOU red, neutral stare, energy ~3.5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:02.417Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/tari-eason-5b28eabf-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/tari-eason/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.682Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/tari-eason.png",
+  "webp": [
+    "assets/players/webp/tari-eason-1024.webp",
+    "assets/players/webp/tari-eason-400.webp",
+    "assets/players/webp/tari-eason-200.webp",
+    "assets/players/webp/tari-eason-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612745/2026/10/2300435881.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:58.094Z",
+  "background": "transparent"
+}

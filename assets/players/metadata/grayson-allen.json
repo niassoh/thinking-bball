@@ -1,0 +1,140 @@
+{
+  "player": "Grayson Allen",
+  "playerId": "grayson-allen",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/02/2262920050.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/02/2262920050.jpg",
+  "sourcePage": "https://www.nba.com/suns/photos/sunsvs-celtics-feb-24-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Kate Frese / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2026-02-24 (vs BOS, PHX Arena)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/grayson-allen.jpg",
+  "selectedAt": "2026-10-17T05:24:04.943Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 812,
+    "y": 344,
+    "size": 1234
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (free throw, eyes up at the rim, lips parted mid-breath; same look as McCain, a notch calmer)",
+  "jersey": "PHX black Statement 2025-26",
+  "concerns": "FLAG: Suns, not his 2026-27 team CHA: the only CHA in-game photos (Oct 6 2026 preseason vs BKN, Hornets gallery) are wide drives with ~100px faces; free-throw routine rather than live play; ball enters the lower-right corner of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2298967570GAMEDAY_CHA_BKN__100626_.jpg",
+      "note": "(CHA 2026-27 preseason vs BKN, bringing the ball up, face ~100px, too small)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2265033881.jpg",
+      "note": "(PHX Mar 5 2026 vs CHI, reacting to a three, energy ~8.5 and a small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:55.215Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/grayson-allen-1a0f0f10-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/grayson-allen/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.269Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/grayson-allen.png",
+  "webp": [
+    "assets/players/webp/grayson-allen-1024.webp",
+    "assets/players/webp/grayson-allen-400.webp",
+    "assets/players/webp/grayson-allen-200.webp",
+    "assets/players/webp/grayson-allen-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/02/2262920050.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:44.531Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/grayson-allen-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/grayson-allen/out.png",
+        "fixes": [],
+        "base": "fbf67f9a899a45d9325a688b01b7762bd8c1d6c9",
+        "importedAt": "2026-10-17T11:07:10.715Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0064,
+          "face": 3.1,
+          "purity": 0.988,
+          "coverage": 0.093,
+          "strays": 4,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 604,
+          "oldEdge": 0,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/grayson-allen-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:54.842Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/grayson-allen.webp",
+    "base": "fbf67f9a899a45d9325a688b01b7762bd8c1d6c9",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:55.044Z"
+  }
+}

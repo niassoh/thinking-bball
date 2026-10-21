@@ -1,0 +1,145 @@
+{
+  "player": "Nerlens Noel",
+  "playerId": "nerlens-noel",
+  "sourceUrl": "https://cdn.nba.com/manage/2019/01/nerlens-pregame-iso-0117.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2019/01/nerlens-pregame-iso-0117.jpg",
+  "sourcePage": "https://www.nba.com/news/nerlens-noel-stretchered-vs-timberwolves",
+  "license": "unknown (NBA.com, likely Getty Images / NBAE)",
+  "licenseUrl": null,
+  "author": "NBA.com (photographer not credited)",
+  "credit": null,
+  "photoDate": "2018-19 season (uploaded Jan 2019; exact game unknown)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/nerlens-noel.jpg",
+  "selectedAt": "2026-10-17T05:48:39.772Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 610,
+    "y": 0,
+    "size": 1080
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (hands on knees in a stoppage, sweating, eyes up and off to the right, mouth open mid-breath)",
+  "jersey": "OKC blue Icon 2018-19",
+  "concerns": "renamed nba.com image (nerlens-pregame-iso-0117.jpg), no Getty id or caption; the file name says pregame but he is sweating in the game jersey with no shooting shirt, so it reads as an in-game stoppage; exact date unknown; dread ponytail reaches the top edge (y=0) and the box is the full image height, so chin sits ~59% down with a wide shoulder margin",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/thunder/sites/thunder/files/760-noel-190706.jpg",
+      "note": "(Thunder re-signing graphic, 760px, smiling in a warmup jacket, not in-game)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nerlens_Noel_with_the_Philadelphia_76ers_in_2015.JPG",
+      "note": "(Commons 2015, PHI not OKC)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:00.635Z",
+      "promptAdditions": [
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/nerlens-noel-cc75ac4f-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/nerlens-noel/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.057Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/nerlens-noel.png",
+  "webp": [
+    "assets/players/webp/nerlens-noel-1024.webp",
+    "assets/players/webp/nerlens-noel-400.webp",
+    "assets/players/webp/nerlens-noel-200.webp",
+    "assets/players/webp/nerlens-noel-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2019/01/nerlens-pregame-iso-0117.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:54.756Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/nerlens-noel-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/nerlens-noel/out.png",
+        "fixes": [],
+        "base": "0b2993b07ae5bd8f65c41fcb83009dfef9523070",
+        "importedAt": "2026-10-17T11:07:39.064Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0074,
+          "face": 3.3,
+          "purity": 0.975,
+          "coverage": 0.094,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2479,
+          "oldEdge": 0.01,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/nerlens-noel-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:12:00.698Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/nerlens-noel.webp",
+    "base": "0b2993b07ae5bd8f65c41fcb83009dfef9523070",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:12:01.017Z"
+  }
+}

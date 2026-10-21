@@ -1,0 +1,64 @@
+{
+  "player": "Corey Kispert",
+  "playerId": "corey-kispert",
+  "sourceUrl": "https://images.ajc.com/resizer/v2/2X2JQIVIP5B6ZGNMURURX7T2EY.jpg?auth=2be1e5d7d5a98622e5ff8acf1d36396bcc69cd2142b3f1bb4e720e63377be4b2&width=3000",
+  "downloadUrl": "https://images.ajc.com/resizer/v2/2X2JQIVIP5B6ZGNMURURX7T2EY.jpg?auth=2be1e5d7d5a98622e5ff8acf1d36396bcc69cd2142b3f1bb4e720e63377be4b2&width=3000",
+  "sourcePage": "https://www.ajc.com/sports/2026/02/hawks-corey-kispert-finds-his-footing-with-career-night-against-old-team/",
+  "license": "unknown (The Atlanta Journal-Constitution)",
+  "licenseUrl": null,
+  "author": "Hyosub Shin / AJC",
+  "credit": null,
+  "photoDate": "Feb 2026 vs WAS, State Farm Arena (AJC story on his 33-point game vs his old team; exact game unverified)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2046
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/corey-kispert.jpg",
+  "selectedAt": "2026-10-17T08:55:31.863Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 885,
+    "y": 37,
+    "size": 1090
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (looks back over his shoulder and up off-camera, lips parted, alert)",
+  "jersey": "ATL white Association #24, 2025-26",
+  "concerns": "not nba.com or Commons: no nba.com page carries a Hawks-era Kispert game photo other than a neutral jump-shot stare, and Commons has only Wizards/media-day shots; newspaper photo, license unknown; over-the-shoulder pose, so the crop shows his back and the KISPERT nameplate rather than the jersey front; 2025-26 photo (same team as 2026-27)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2263245212.jpg",
+      "note": "(Getty 2026-02-26 vs WAS, black Peachtree City Edition, mid jump shot, focused stare with mouth closed, energy ~5, arms frame the head)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_hawks/01kf8vb04nyt4wmvpwqb.jpg",
+      "note": "(Imagn via SI, Jan 2026 vs BOS, Peachtree, eyes closed straining for a rebound)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

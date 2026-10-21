@@ -1,0 +1,146 @@
+{
+  "team": "NYK",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:52.488Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Jalen Brunson",
+          "slug": "jalen-brunson",
+          "espnId": "3934672",
+          "status": null
+        },
+        {
+          "name": "Miles McBride",
+          "slug": "miles-mcbride",
+          "espnId": "4431823",
+          "status": null
+        },
+        {
+          "name": "Jose Alvarado",
+          "slug": "jose-alvarado",
+          "espnId": "4277869",
+          "status": null
+        },
+        {
+          "name": "Tyler Kolek",
+          "slug": "tyler-kolek",
+          "espnId": "4433225",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Josh Hart",
+          "slug": "josh-hart",
+          "espnId": "3062679",
+          "status": null
+        },
+        {
+          "name": "Landry Shamet",
+          "slug": "landry-shamet",
+          "espnId": "3914044",
+          "status": null
+        },
+        {
+          "name": "Miles McBride",
+          "slug": "miles-mcbride",
+          "espnId": "4431823",
+          "status": null
+        },
+        {
+          "name": "Jordan Clarkson",
+          "slug": "jordan-clarkson",
+          "espnId": "2528426",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Mikal Bridges",
+          "slug": "mikal-bridges",
+          "espnId": "3147657",
+          "status": null
+        },
+        {
+          "name": "Jordan Clarkson",
+          "slug": "jordan-clarkson",
+          "espnId": "2528426",
+          "status": null
+        },
+        {
+          "name": "Josh Hart",
+          "slug": "josh-hart",
+          "espnId": "3062679",
+          "status": null
+        },
+        {
+          "name": "Tyler Nickel",
+          "slug": "tyler-nickel",
+          "espnId": "4838721",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "OG Anunoby",
+          "slug": "og-anunoby",
+          "espnId": "3934719",
+          "status": null
+        },
+        {
+          "name": "Karl-Anthony Towns",
+          "slug": "karl-anthony-towns",
+          "espnId": "3136195",
+          "status": null
+        },
+        {
+          "name": "Mohamed Diawara",
+          "slug": "mohamed-diawara",
+          "espnId": "5289900",
+          "status": "DTD"
+        },
+        {
+          "name": "Josh Hart",
+          "slug": "josh-hart",
+          "espnId": "3062679",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Karl-Anthony Towns",
+          "slug": "karl-anthony-towns",
+          "espnId": "3136195",
+          "status": null
+        },
+        {
+          "name": "Andre Drummond",
+          "slug": "andre-drummond",
+          "espnId": "6585",
+          "status": null
+        },
+        {
+          "name": "Mohamed Diawara",
+          "slug": "mohamed-diawara",
+          "espnId": "5289900",
+          "status": "DTD"
+        }
+      ]
+    }
+  ]
+}

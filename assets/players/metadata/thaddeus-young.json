@@ -1,0 +1,64 @@
+{
+  "player": "Thaddeus Young",
+  "playerId": "thaddeus-young",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/210131_samsmith_thadyoung_16x9.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/210131_samsmith_thadyoung_16x9.jpg",
+  "sourcePage": "https://www.nba.com/bulls/features/thad-young-playing-his-best-basketball-chicago-bull",
+  "license": "unknown (Chicago Bulls team photo via NBA.com)",
+  "licenseUrl": null,
+  "author": "Chicago Bulls",
+  "credit": null,
+  "photoDate": "c. Jan 2021 vs POR (Bulls-site feature of 2021-01-31; exact game unverified)",
+  "originalSize": null,
+  "storedSize": [
+    1600,
+    901
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/thaddeus-young.jpg",
+  "selectedAt": "2026-10-17T08:46:18.973Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 540,
+    "y": 0,
+    "size": 580
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (sweaty, eyes just off-camera, mouth open mid-breath while bringing the ball up; engaged, not blank)",
+  "jersey": "CHI red Icon #21, 2020-21",
+  "concerns": "team-site 1600x900 web copy, not a 2048+ Getty original; head ~325px hair-to-chin, face ~220px hairline-to-chin; hair sits ~20px from the image top, so the crop has little headroom (y=0); slightly over-sharpened/saturated team edit; Commons has no Bulls-era Young photo",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/210120_samsmith_thadyoung_driving_la_16x9.jpg",
+      "note": "(Jan 2021 at LA, white, intense drive but head tilted down and arm/ball at the edge)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/210623_samsmith_thadyoung_facingup_clintcapela_16x9.jpg",
+      "note": "(2021 at ATL, white, facing up Capela, face too small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Darius Acuff Jr.",
+  "playerId": "darius-acuff-jr",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2284433897-1.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2284433897-1.jpg",
+  "sourcePage": "https://www.nba.com/news/15-players-watch-2026-nba-summer-league",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-06 vs MIL, California Classic (Summer League), Golden 1 Center",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/darius-acuff-jr.jpg",
+  "selectedAt": "2026-10-17T08:38:18.543Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 600,
+    "y": 0,
+    "size": 780
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (looking up and off-camera, lips parted mid-breath; a touch calmer than McCain)",
+  "jersey": "SAC white Summer League #5, July 2026",
+  "concerns": "Summer League (California Classic), not a regular-season or preseason game; Summer League white jersey rather than the 2026-27 regular uniform; the only 2026 preseason photo found (Oct 5 vs LAL) is a neutral hands-on-hips stare",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2298224527-scaled-e1791318811864.jpg",
+      "note": "(2026 preseason vs LAL, regular Kings white, but neutral blank stare, energy ~4, smaller face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2284428786-Cropped-scaled.jpg",
+      "note": "(same Summer League game, neutral look, energy ~4)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

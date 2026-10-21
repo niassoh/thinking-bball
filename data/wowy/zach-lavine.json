@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "SAC",
+  "gp": 39,
+  "generatedAt": "2026-10-02T03:58:40.812Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · SAC",
+      "minutes": 1224,
+      "poss": 2528,
+      "net": -12.262658227848101
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · SAC",
+      "minutes": 2727,
+      "poss": 5655.5,
+      "net": -9.017770312085581
+    },
+    {
+      "label": "On, w/o DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 371,
+      "poss": 761.5,
+      "net": -4.727511490479317
+    },
+    {
+      "label": "On, w/o Raynaud",
+      "sub": "2025–26 · SAC",
+      "minutes": 770,
+      "poss": 1589.5,
+      "net": -12.834224598930483
+    },
+    {
+      "label": "On, w/o Clifford",
+      "sub": "2025–26 · SAC",
+      "minutes": 998,
+      "poss": 2058,
+      "net": -14.285714285714285
+    },
+    {
+      "label": "Neither LaVine nor DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 1175,
+      "poss": 2433,
+      "net": -8.055898068228524
+    }
+  ]
+}

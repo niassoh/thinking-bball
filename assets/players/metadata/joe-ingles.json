@@ -1,0 +1,151 @@
+{
+  "player": "Joe Ingles",
+  "playerId": "joe-ingles",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/getty-images-1131910857.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/getty-images-1131910857.jpg",
+  "sourcePage": "https://www.nba.com/jazz/news/nowhere-else-id-want-be-utah-jazz-wing-joe-ingles-agrees-contract-extension",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2019-03-21 (at ATL, State Farm Arena)",
+  "originalSize": null,
+  "storedSize": [
+    1252,
+    834
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/joe-ingles.jpg",
+  "selectedAt": "2026-10-17T05:19:17.018Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 405,
+    "y": 25,
+    "size": 550
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (looking up at the rim during a stoppage, mouth open mid-breath, near-identical pose to McCain)",
+  "jersey": "UTA green road (Icon) #2, 2018-19",
+  "concerns": "face ~240px in a 1252px team-site copy (Getty id 1131910857, caption checked: in-game vs ATL); 2018-19, two seasons before his best 2020-21 season",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/getty-images-1180491473.jpg",
+      "note": "(Nov 6 2019 vs PHI, but he is in a navy warmup hoodie on the sideline talking to Conley)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Joe_Ingles_Utah.jpg",
+      "note": "(CC BY-SA 4.0, Oct 7 2018 at POR preseason, navy road, face tiny and neutral)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/joe_0.jpg",
+      "note": "(media day studio pose, gold jersey)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:57.800Z",
+      "promptAdditions": [
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/joe-ingles-32240b31-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/joe-ingles/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.985Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/joe-ingles.png",
+  "webp": [
+    "assets/players/webp/joe-ingles-1024.webp",
+    "assets/players/webp/joe-ingles-400.webp",
+    "assets/players/webp/joe-ingles-200.webp",
+    "assets/players/webp/joe-ingles-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/getty-images-1131910857.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:48.877Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/joe-ingles-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/joe-ingles/out.png",
+        "fixes": [],
+        "base": "9a202ec41a053a684e673ba93d6e01266edbd1f3",
+        "importedAt": "2026-10-17T11:07:21.130Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0088,
+          "face": 3.4,
+          "purity": 0.991,
+          "coverage": 0.089,
+          "strays": 22,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 576,
+          "oldEdge": 0,
+          "shadeLevels": 6,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/joe-ingles-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:56.755Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/joe-ingles.webp",
+    "base": "9a202ec41a053a684e673ba93d6e01266edbd1f3",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:56.950Z"
+  }
+}

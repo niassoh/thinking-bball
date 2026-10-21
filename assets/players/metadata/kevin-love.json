@@ -1,0 +1,149 @@
+{
+  "player": "Kevin Love",
+  "playerId": "kevin-love",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Kevin_Love.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Kevin_Love.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Kevin_Love.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2011-03-05 (at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    2151,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kevin-love.jpg",
+  "selectedAt": "2026-10-17T05:16:00.143Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 385,
+    "y": 0,
+    "size": 1600
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (sweaty, looking up and off-camera, mouth open mid-breath)",
+  "jersey": "MIN black alternate road 2010-11",
+  "concerns": "Commons (CC BY-SA 2.0), not nba.com: old nba.com Wolves pages only carry 750px legacy images; 2010-11 rather than his 2013-14 best season (same look and team); ball held at chest sits below the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Kevin_Love_2.jpg",
+      "note": "(same game, black alternate, looking off but mouth closed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/20140101_Kevin_Love.JPG",
+      "note": "(Jan 1 2014 vs NOP, white home, mid free throw with ball and arms up, smaller face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:58.911Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kevin-love-9ed96409-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/kevin-love/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.415Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kevin-love.png",
+  "webp": [
+    "assets/players/webp/kevin-love-1024.webp",
+    "assets/players/webp/kevin-love-400.webp",
+    "assets/players/webp/kevin-love-200.webp",
+    "assets/players/webp/kevin-love-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/3/31/Kevin_Love.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:51.174Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/kevin-love-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/kevin-love/out.png",
+        "fixes": [],
+        "base": "bd2468c08cd5c0331e5ac20f4f5742c7984b117b",
+        "importedAt": "2026-10-17T11:07:25.516Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0058,
+          "face": 3,
+          "purity": 0.993,
+          "coverage": 0.178,
+          "strays": 4,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1253,
+          "oldEdge": 0.008,
+          "shadeLevels": 11,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/kevin-love-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:57.853Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/kevin-love.webp",
+    "base": "bd2468c08cd5c0331e5ac20f4f5742c7984b117b",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:58.089Z"
+  }
+}

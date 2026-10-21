@@ -1,0 +1,64 @@
+{
+  "player": "Egor Demin",
+  "playerId": "egor-demin",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kd8q6m9h3ej68djbye.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kd8q6m9h3ej68djbye.jpg",
+  "sourcePage": "https://www.si.com/nba/nets/onsi/news/jordi-fernandez-issues-new-challenge-for-egor-demin-after-nets-win-over-76ers",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Bill Streicher / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-12-23 (at PHI, Xfinity Mobile Arena, first quarter)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2001
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/egor-demin.jpg",
+  "selectedAt": "2026-10-17T08:55:45.799Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 767,
+    "y": 53,
+    "size": 886
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes off to his left, mouth open mid-breath; a touch calmer than McCain)",
+  "jersey": "BKN white road #8, 2025-26",
+  "concerns": "SI/Imagn editorial photo, not nba.com: nba.com only had a mouth-closed stare (Dec 14 2025 vs MIL), near-profile Nets gallery shots and Summer League frames; license unknown",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/12/GettyImages-2251368424-scaled-e1765761331894.jpg",
+      "note": "(nba.com, 2025-12-14 vs MIL, black, frontal focused stare but mouth closed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612751/2026/02/atl1.jpg",
+      "note": "(Nets gallery, Feb 2026 vs ATL, white, lips parted but head in near profile)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

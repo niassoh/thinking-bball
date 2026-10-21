@@ -1,0 +1,157 @@
+# The nightly data run (docs/daily-pipeline-requirements.md): each pull is its own step, and
+# one failing keeps yesterday's files for that source without stopping the rest. Then the
+# checks; if they pass, data/ is committed and the site's deploy (niassoh/tbball) builds
+# from it. A failed pull fails the run at the end, which emails the repo's owner.
+name: nightly
+
+on:
+  workflow_dispatch:
+
+# Never two at once (both would drive the production sheet), and never cancelled mid-run:
+# a killed sheet step can't restore Instructions!A13 / E13:F13.
+concurrency:
+  group: nightly
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  nightly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    env:
+      SEASON: ${{ vars.SEASON }}
+      PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: '1'
+    steps:
+      # The repo variable SEASON (2026-27) is the season the sheet steps load into the
+      # production sheet; anything else stops the run before it touches the sheet.
+      - run: '[[ "$SEASON" =~ ^[0-9]{4}-[0-9]{2}$ ]]'
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: analysis/footprint/requirements.txt
+      - run: pip install -r analysis/footprint/requirements.txt
+      - run: printf '%s' "$GOOGLE_SA_JSON" > privatekey.json
+        env:
+          GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
+      # ESPN's finished games (gitignored), so the shot pull only fetches new ones.
+      - uses: actions/cache/restore@v4
+        with:
+          path: data/cache/espn
+          key: espn-${{ github.run_id }}
+          restore-keys: espn-
+
+      - run: node scripts/reachability.js
+
+      - id: depth
+        run: npm run pull:depth
+        timeout-minutes: 10
+        continue-on-error: true
+      # The three steps that drive the production sheet go first, so the job's own timeout
+      # can't cut one off. Each step's timeout is above the script's own worst case (it
+      # gives up and restores the sheet first).
+      - id: season
+        run: node scripts/backfill-seasons.js "$SEASON"
+        timeout-minutes: 50
+        continue-on-error: true
+      - id: team
+        run: node sheets-teamcat.js --season="$SEASON"
+        timeout-minutes: 10
+        continue-on-error: true
+      - id: recent
+        if: steps.season.outcome == 'success'
+        run: npm run pull:recent
+        timeout-minutes: 45
+        continue-on-error: true
+      - id: lineups
+        run: npm run pull:lineups
+        timeout-minutes: 40
+        continue-on-error: true
+      # After lineups: rookies take their NBA id from its player list.
+      - id: bio
+        run: npm run pull:bio
+        timeout-minutes: 15
+        continue-on-error: true
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+      - id: player-totals
+        run: npm run pull:player-totals
+        timeout-minutes: 5
+        continue-on-error: true
+      - id: games
+        run: npm run pull:games
+        timeout-minutes: 40
+        continue-on-error: true
+      - id: shots
+        run: npm run pull:shots
+        timeout-minutes: 30
+        continue-on-error: true
+      - if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/cache/espn
+          key: espn-${{ github.run_id }}
+      - id: tracking-seasons
+        run: node scripts/tracking-seasons.js
+        timeout-minutes: 10
+        continue-on-error: true
+
+      # Our own play-by-play -> the season's possessions (rebuilt whole, names from the
+      # lineup and bio pulls) -> its Footprint and Lonestar. The game dates are listed after
+      # the fetch, so they cover every game it saved.
+      - id: pbp
+        run: node scripts/pbp-fetch.js
+        timeout-minutes: 20
+        continue-on-error: true
+      - id: footprint-games
+        run: node scripts/footprint-games.js "$SEASON"
+        timeout-minutes: 5
+        continue-on-error: true
+      - id: possessions
+        run: python analysis/footprint/build.py "$SEASON"
+        timeout-minutes: 20
+        continue-on-error: true
+      - id: footprint
+        if: steps.footprint-games.outcome == 'success' && steps.possessions.outcome == 'success'
+        run: python analysis/footprint/footprint_pbp.py "$SEASON"
+        timeout-minutes: 10
+        continue-on-error: true
+      # Stars need 500 minutes; until then the files name none and profiles show no view.
+      - id: lonestar
+        if: steps.season.outcome == 'success' && steps.possessions.outcome == 'success'
+        run: node scripts/lonestar.js --source=pbp --season="$SEASON" --refresh
+        timeout-minutes: 15
+        continue-on-error: true
+        env:
+          PBP_PYTHON: python
+
+      # Fatal: a short pull or a broken document keeps yesterday's data and site. The export
+      # test is left to the deploy, whose export is the real one.
+      - run: node scripts/nightly-check.js && node --test $(ls test/*.test.js | grep -v export) && python -m unittest discover -s analysis/footprint
+      - id: commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data
+          git diff --cached --quiet && exit 0
+          git diff --cached --stat | tail -1 >> "$GITHUB_STEP_SUMMARY"
+          git commit -q -m "Data: nightly $(date -u +%F)"
+          git pull -q --rebase
+          git push -q
+          echo changed=true >> "$GITHUB_OUTPUT"
+      - if: steps.commit.outputs.changed
+        run: gh workflow run pages.yml -R niassoh/tbball
+        env:
+          GH_TOKEN: ${{ secrets.TBBALL_DISPATCH }}
+
+      - if: contains(steps.*.outcome, 'failure')
+        run: exit 1

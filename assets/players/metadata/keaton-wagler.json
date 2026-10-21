@@ -1,0 +1,64 @@
+{
+  "player": "Keaton Wagler",
+  "playerId": "keaton-wagler",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/10/GettyImages-2298063497.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/10/GettyImages-2298063497.jpg",
+  "sourcePage": "https://www.nba.com/clippers/photos/gallery-preseason-clippers-vs-golden-state-warriors-10-4-26",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-04 (preseason vs GSW, Bankoh Arena, Honolulu; his NBA debut)",
+  "originalSize": null,
+  "storedSize": [
+    1500,
+    2251
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/keaton-wagler.jpg",
+  "selectedAt": "2026-10-17T11:34:11.588Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 353,
+    "y": 261,
+    "size": 650
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (driving up-court, eyes locked ahead, mouth open mid-breath; focused, not straining)",
+  "jersey": "LAC white Association 2026-27 #1 (preseason)",
+  "concerns": "eyes look toward the lens rather than up/off-camera; 1500px team-site copy (face ~320px hair-to-chin); rookie with only preseason photos so far",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/10/GettyImages-2298063684.jpg",
+      "note": "(same game, dribbling, 3/4 look to his right, lips parted, energy ~6)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/10/GettyImages-2298063641.jpg",
+      "note": "(same game, looking to pass, defender in front, smaller face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

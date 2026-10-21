@@ -1,0 +1,64 @@
+{
+  "player": "Ja'Kobe Walter",
+  "playerId": "ja-kobe-walter",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612761/2025/10/TR25_WebBanner_16x9_GradeyJakobe.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612761/2025/10/TR25_WebBanner_16x9_GradeyJakobe.jpg",
+  "sourcePage": "https://www.nba.com/raptors/news/raptors-exercise-team-options-on-dick-and-walter",
+  "license": "unknown (Toronto Raptors via NBA.com)",
+  "licenseUrl": null,
+  "author": "Toronto Raptors",
+  "credit": null,
+  "photoDate": "October 2025 (team-option graphic; posed portrait cutout)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ja-kobe-walter.jpg",
+  "selectedAt": "2026-10-17T05:51:22.359Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 0,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 925,
+    "y": 11,
+    "size": 651
+  },
+  "needsReview": "no in-game TOR photo found: scanned all 2024-25 and 2025-26 TOR nba.com game pages (hero photos never feature him), 2026 preseason game pages, Raptors-Cavs 2026 playoff takeaway pages, the Sept 18 birthday page and the Raptors team-site news (graphics only); Commons has only a Baylor photo; WebSearch budget ran out before editorial sites could be searched",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 3,
+  "energyVsMcCain": "much lower (posed media-day stare into the camera)",
+  "jersey": "TOR red Icon 2025-26 (posed)",
+  "concerns": "FLAG: NOT an in-game photo (posed portrait cutout on a designed team graphic, likely media day) and a neutral ID-photo stare, both against the hard rules; recorded only as a placeholder",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ja%27Kobe_Walter.jpg",
+      "note": "(CC BY-SA 2.0 TigerNet, in-game 2024 NCAA vs Clemson, but Baylor jersey and face ~120px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/06/GettyImages-2158838061.jpg",
+      "note": "(2024 draft night with Adam Silver, Raptors cap, not in-game)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

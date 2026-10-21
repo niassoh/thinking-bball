@@ -1,0 +1,134 @@
+{
+  "player": "Jakob Poeltl",
+  "playerId": "jakob-poeltl",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_raptors/01kdp2bw76zesp7fvsc8.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_raptors/01kdp2bw76zesp7fvsc8.jpg",
+  "sourcePage": "https://www.si.com/nba/raptors/onsi/news/toronto-raptors-share-concerning-jakob-poeltl-injury-update",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Imagn Images (photographer uncredited on page)",
+  "credit": null,
+  "photoDate": "2025-26 season, before Dec 29 2025 (home game, Scotiabank Arena; article dated 2025-12-29)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2001
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jakob-poeltl.jpg",
+  "selectedAt": "2026-10-17T05:41:37.370Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 924,
+    "y": 49,
+    "size": 875
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (gathering a rebound, mouth open mid-breath, eyes off-camera to his right)",
+  "jersey": "TOR black City Edition (2025-26, retro raptor #19)",
+  "concerns": "editorial wire photo via SI.com, not nba.com (nba.com game pages and articles gave no usable Poeltl photo); the ball fills the upper-left of the crop beside his face (not over it); face ~285px, slightly soft; exact game unverified",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jakob_Poeltl_%2839692527595%29.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, TOR 2018 at WAS, screaming, energy ~9, and 2017-18)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:56.274Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jakob-poeltl-55e1d99e-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jakob-poeltl/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.561Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jakob-poeltl.png",
+  "webp": [
+    "assets/players/webp/jakob-poeltl-1024.webp",
+    "assets/players/webp/jakob-poeltl-400.webp",
+    "assets/players/webp/jakob-poeltl-200.webp",
+    "assets/players/webp/jakob-poeltl-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_raptors/01kdp2bw76zesp7fvsc8.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:46.065Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jakob-poeltl-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/jakob-poeltl/out.png",
+        "fixes": [],
+        "base": "d05d17490ae8321b067d3a6d84949cd198fb7d6c",
+        "importedAt": "2026-10-17T11:07:14.958Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0092,
+          "face": 4.4,
+          "purity": 0.994,
+          "coverage": 0.179,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 655,
+          "oldEdge": 0.001,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/jakob-poeltl-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:55.357Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/jakob-poeltl.webp",
+    "base": "d05d17490ae8321b067d3a6d84949cd198fb7d6c",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:55.607Z"
+  }
+}

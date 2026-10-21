@@ -1,0 +1,140 @@
+{
+  "player": "Jake LaRavia",
+  "playerId": "jake-laravia",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_lakers/01k9pd4w091fxa4t5w4h.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_lakers/01k9pd4w091fxa4t5w4h.jpg",
+  "sourcePage": "https://www.si.com/nba/lakers/onsi/news/lakers-jake-laravia-sends-clear-message-after-worst-loss-of-season",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Imagn Images",
+  "credit": null,
+  "photoDate": "2025-11-08 (at ATL, State Farm Arena)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jake-laravia.jpg",
+  "selectedAt": "2026-10-17T05:38:03.503Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 357,
+    "y": 125,
+    "size": 937
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (dribbling up the floor, lips parted mid-breath, eyes ahead and alert, not looking up)",
+  "jersey": "LAL white association 2025-26",
+  "concerns": "editorial Imagn photo from SI.com, not nba.com (52 nba.com articles and Commons searched earlier with no in-game LAL photo naming him); white T-shirt worn under the jersey (his in-game look); gaze near the camera",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_lakers/01k9883wdy9rvhyqk4b9.jpg",
+      "note": "(Oct 26 2025 at SAC, white, high-five with Reaves, eyes down, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ReutersImages/mmsport/all_lakers/01m4kx6gzenvactsbd1f.jpg",
+      "note": "(Oct 5 2026 preseason, smiling on the bench, not in-game)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:56.097Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jake-laravia-c8396afd-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jake-laravia/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.504Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jake-laravia.png",
+  "webp": [
+    "assets/players/webp/jake-laravia-1024.webp",
+    "assets/players/webp/jake-laravia-400.webp",
+    "assets/players/webp/jake-laravia-200.webp",
+    "assets/players/webp/jake-laravia-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_lakers/01k9pd4w091fxa4t5w4h.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:45.764Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jake-laravia-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/jake-laravia/out.png",
+        "fixes": [],
+        "base": "a298f5184de060aaead780a389b0bb6f0868f771",
+        "importedAt": "2026-10-17T11:07:13.847Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 1
+          },
+          "silhouette": 0.0175,
+          "face": 7.3,
+          "purity": 0.99,
+          "coverage": 0.123,
+          "strays": 12,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1153,
+          "oldEdge": 0.465,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [
+            "silhouette",
+            "old-edge"
+          ],
+          "fixes": [
+            "reframe",
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/jake-laravia-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "silhouette",
+            "old-edge"
+          ],
+          "note": null,
+          "at": "2026-10-17T11:16:59.997Z"
+        }
+      }
+    ]
+  }
+}

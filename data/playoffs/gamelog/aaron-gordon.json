@@ -1,0 +1,43 @@
+{
+  "season": "2025-26",
+  "generatedAt": "2026-10-09T18:51:58.598Z",
+  "playoffGames": 3,
+  "games": [
+    {
+      "date": "2026-04-25",
+      "gameId": "0042500164",
+      "opp": "MIN",
+      "home": false,
+      "result": "L",
+      "pts": 9,
+      "reb": 1,
+      "ast": 0,
+      "ts": 40.9,
+      "oppRank": 10
+    },
+    {
+      "date": "2026-04-20",
+      "gameId": "0042500162",
+      "opp": "MIN",
+      "home": true,
+      "result": "L",
+      "pts": 8,
+      "reb": 7,
+      "ast": 4,
+      "ts": 40,
+      "oppRank": 10
+    },
+    {
+      "date": "2026-04-18",
+      "gameId": "0042500161",
+      "opp": "MIN",
+      "home": true,
+      "result": "W",
+      "pts": 17,
+      "reb": 8,
+      "ast": 3,
+      "ts": 60.7,
+      "oppRank": 10
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "GSW",
+  "gp": 38,
+  "generatedAt": "2026-10-02T04:27:14.941Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · GSW",
+      "minutes": 1182,
+      "poss": 2449,
+      "net": 7.554103715802368
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · GSW",
+      "minutes": 2779,
+      "poss": 5741,
+      "net": -4.0236892527434245
+    },
+    {
+      "label": "On, w/o Podziemski",
+      "sub": "2025–26 · GSW",
+      "minutes": 539,
+      "poss": 1124.5,
+      "net": 4.624277456647398
+    },
+    {
+      "label": "On, w/o Green",
+      "sub": "2025–26 · GSW",
+      "minutes": 530,
+      "poss": 1081,
+      "net": 13.691026827012026
+    },
+    {
+      "label": "On, w/o Moody",
+      "sub": "2025–26 · GSW",
+      "minutes": 600,
+      "poss": 1241,
+      "net": 7.977437550362611
+    },
+    {
+      "label": "Neither Butler III nor Podziemski",
+      "sub": "2025–26 · GSW",
+      "minutes": 1089,
+      "poss": 2261,
+      "net": -4.997788589119859
+    }
+  ]
+}

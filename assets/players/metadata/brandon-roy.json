@@ -1,0 +1,108 @@
+{
+  "player": "Brandon Roy",
+  "playerId": "brandon-roy",
+  "sourceUrl": "https://legacymedia.sportsplatform.io/images_root/slides/photos/000/730/842/86361053_original.jpg",
+  "downloadUrl": "https://legacymedia.sportsplatform.io/images_root/slides/photos/000/730/842/86361053_original.jpg",
+  "sourcePage": "https://bleacherreport.com/articles/607350-the-brandon-roy-story-a-career-that-never-got-started",
+  "license": "unknown (Getty Images via Bleacher Report)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2009-04-30 (2009 West first round Game 6 at HOU, Toyota Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/brandon-roy.jpg",
+  "selectedAt": "2026-10-17T05:41:02.357Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 923,
+    "y": 24,
+    "size": 1530
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches in intensity, different mood (open-mouthed smile mid-reaction, eyes off-camera to his right)",
+  "jersey": "POR black road #7, 2008-09 playoffs",
+  "concerns": "not nba.com or Commons: a Getty photo (id 86361053, caption checked: in-game, Game 6 at HOU) hosted unwatermarked on Bleacher Report, used because no in-game Roy photo turned up on nba.com (team-site Roy images are legacy 760px copies or warmup/back views) and Commons only has tiny-face or pregame warmup shots; web search budget ran out mid-search; smiling rather than mid-breath",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://legacymedia.sportsplatform.io/images_root/slides/photos/000/728/210/107599666_original.jpg",
+      "note": "(Getty 107599666, Dec 10 2010 at PHX, POR red, huge sharp face, but closed-mouth pensive stare, energy ~4)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.blazersedge.com/wp-content/uploads/sites/34/chorus/uploads/chorus_asset/file/15625202/GettyImages-113169548.0.1450474860.jpg",
+      "note": "(2011 playoffs at DAL, black road jumper, face small between raised arms)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Brandon_Roy_vs_wizards.jpg",
+      "note": "(CC BY-SA 2.0, Dec 3 2008 at WAS, face ~100px contesting a shot)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:52.280Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/brandon-roy-82a5999d-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/brandon-roy/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.380Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/brandon-roy.png",
+  "webp": [
+    "assets/players/webp/brandon-roy-1024.webp",
+    "assets/players/webp/brandon-roy-400.webp",
+    "assets/players/webp/brandon-roy-200.webp",
+    "assets/players/webp/brandon-roy-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://legacymedia.sportsplatform.io/images_root/slides/photos/000/730/842/86361053_original.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:38.437Z",
+  "background": "transparent"
+}

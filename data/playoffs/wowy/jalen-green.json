@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "PHX",
+  "gp": 4,
+  "generatedAt": "2026-10-09T18:02:17.017Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · PHX",
+      "minutes": 151,
+      "poss": 298.5,
+      "net": -14.07035175879397
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · PHX",
+      "minutes": 41,
+      "poss": 85,
+      "net": -31.76470588235294
+    },
+    {
+      "label": "On, w/o Booker",
+      "sub": "2025–26 playoffs · PHX",
+      "minutes": 29,
+      "poss": 58,
+      "net": -8.620689655172415
+    },
+    {
+      "label": "On, w/o Brooks",
+      "sub": "2025–26 playoffs · PHX",
+      "minutes": 18,
+      "poss": 37,
+      "net": -54.054054054054056
+    },
+    {
+      "label": "On, w/o Ighodaro",
+      "sub": "2025–26 playoffs · PHX",
+      "minutes": 39,
+      "poss": 74,
+      "net": -20.27027027027027
+    },
+    {
+      "label": "Neither Green nor Booker",
+      "sub": "2025–26 playoffs · PHX",
+      "minutes": 10,
+      "poss": 17,
+      "net": 17.647058823529413
+    }
+  ]
+}

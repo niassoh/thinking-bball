@@ -1,0 +1,149 @@
+{
+  "player": "Hedo Turkoglu",
+  "playerId": "hedo-turkoglu",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hedo_Turkoglu.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hedo_Turkoglu.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Hedo_Turkoglu.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2008-11-27 (at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/hedo-turkoglu.jpg",
+  "selectedAt": "2026-10-17T05:18:57.380Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 470,
+    "y": 275,
+    "size": 940
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (at the free-throw line, eyes up at the rim, mouth open mid-breath; same look as McCain, a notch calmer)",
+  "jersey": "ORL blue road pinstripe 2008-09 (20th-anniversary patch)",
+  "concerns": "free-throw routine rather than live play; mild Commons softness; no unwatermarked nba.com Magic photo found (Magic legacy pages only carry 300px thumbs)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Hedo_Turkoglu_11-27-08.jpg",
+      "note": "(same game, ball in hands looking off, energy ~6, smaller face ~220px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hedo_Turkoglu_point_guard_11-27-08.jpg",
+      "note": "(same game, pointing and calling a play, energy ~7, but full-body with a ~100px face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:55.492Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/hedo-turkoglu-db868262-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/hedo-turkoglu/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.386Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/hedo-turkoglu.png",
+  "webp": [
+    "assets/players/webp/hedo-turkoglu-1024.webp",
+    "assets/players/webp/hedo-turkoglu-400.webp",
+    "assets/players/webp/hedo-turkoglu-200.webp",
+    "assets/players/webp/hedo-turkoglu-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hedo_Turkoglu.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:45.144Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/hedo-turkoglu-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/hedo-turkoglu/out.png",
+        "fixes": [],
+        "base": "dd2d29d38ed34f6659a46ac4fe97e71651b28972",
+        "importedAt": "2026-10-17T11:07:11.774Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0057,
+          "face": 3,
+          "purity": 0.988,
+          "coverage": 0.156,
+          "strays": 9,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1582,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/hedo-turkoglu-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:55.087Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/hedo-turkoglu.webp",
+    "base": "dd2d29d38ed34f6659a46ac4fe97e71651b28972",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:55.311Z"
+  }
+}

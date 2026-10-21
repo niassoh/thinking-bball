@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "about": "Colour (Icon) jersey per team era for the portraits' jersey layer (scripts/portraits/jersey-build.js). body = the jersey's colour; trim = the collar and armhole binding as stripes from the skin edge (0) to the body edge (1), each up to `to`. An era covers seasons from `from` to `to` (inclusive; no `to` = still worn). `check` marks colours to confirm on the pilot sheet.",
+  "teams": {
+    "ATL": [
+      { "id": "ATL.1995", "from": "1995-96", "to": "2006-07", "label": "red, black and gold trim", "body": "#C8102E", "trim": [{ "color": "#111111", "to": 0.6 }, { "color": "#FDB927" }], "check": true },
+      { "id": "ATL.2013", "from": "2007-08", "to": "2014-15", "label": "red, navy trim", "body": "#E03A3E", "trim": [{ "color": "#FFFFFF", "to": 0.35 }, { "color": "#002B5C" }], "check": true },
+      { "id": "ATL", "from": "2015-16", "label": "red, black and volt trim", "body": "#E03A3E", "trim": [{ "color": "#26282A", "to": 0.6 }, { "color": "#C1D32F" }], "check": true }
+    ],
+    "BKN": [{ "id": "BKN", "from": "2012-13", "label": "black, white trim", "body": "#111111", "trim": [{ "color": "#FFFFFF" }] }],
+    "BOS": [{ "id": "BOS", "from": "1996-97", "label": "green, white trim", "body": "#007A33", "trim": [{ "color": "#FFFFFF" }] }],
+    "CHA": [
+      { "id": "CHA.2013", "from": "2013-14", "to": "2013-14", "label": "Bobcats navy, orange trim", "body": "#1D3C7A", "trim": [{ "color": "#F26532" }], "check": true },
+      { "id": "CHA", "from": "2014-15", "label": "Hornets teal, purple trim", "body": "#00788C", "trim": [{ "color": "#1D1160", "to": 0.65 }, { "color": "#FFFFFF" }] }
+    ],
+    "CHH": [{ "id": "CHH", "from": "1988-89", "to": "2001-02", "label": "teal, purple and white trim", "body": "#00788C", "trim": [{ "color": "#4B2E83", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true }],
+    "CHI": [{ "id": "CHI", "from": "1996-97", "label": "red, black and white trim", "body": "#CE1141", "trim": [{ "color": "#111111", "to": 0.6 }, { "color": "#FFFFFF" }] }],
+    "CLE": [
+      { "id": "CLE.1994", "from": "1994-95", "to": "2002-03", "label": "blue, black and orange trim", "body": "#0055A5", "trim": [{ "color": "#111111", "to": 0.6 }, { "color": "#F26522" }], "check": true },
+      { "id": "CLE.2003", "from": "2003-04", "to": "2009-10", "label": "wine, navy and gold trim", "body": "#860038", "trim": [{ "color": "#041E42", "to": 0.6 }, { "color": "#FDBB30" }], "check": true },
+      { "id": "CLE", "from": "2010-11", "label": "wine, gold trim", "body": "#860038", "trim": [{ "color": "#FDBB30" }] }
+    ],
+    "DAL": [
+      { "id": "DAL.1993", "from": "1993-94", "to": "2000-01", "label": "blue, green and white trim", "body": "#0053BC", "trim": [{ "color": "#00A94F", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true },
+      { "id": "DAL", "from": "2001-02", "label": "royal blue, navy and silver trim", "body": "#00538C", "trim": [{ "color": "#002B5E", "to": 0.6 }, { "color": "#B8C4CA" }] }
+    ],
+    "DEN": [
+      { "id": "DEN.1993", "from": "1993-94", "to": "2002-03", "label": "navy, gold and red trim", "body": "#0E2240", "trim": [{ "color": "#FEC524", "to": 0.6 }, { "color": "#8B2131" }], "check": true },
+      { "id": "DEN.2003", "from": "2003-04", "to": "2007-08", "label": "navy, light blue and gold trim", "body": "#0E2240", "trim": [{ "color": "#418FDE", "to": 0.6 }, { "color": "#FEC524" }], "check": true },
+      { "id": "DEN.2013", "from": "2008-09", "to": "2017-18", "label": "light blue, gold trim", "body": "#418FDE", "trim": [{ "color": "#FFC72C", "to": 0.65 }, { "color": "#0E2240" }] },
+      { "id": "DEN", "from": "2018-19", "label": "navy, red-edged white trim", "body": "#0E2240", "trim": [{ "color": "#8B2131", "to": 0.3 }, { "color": "#FFFFFF" }] }
+    ],
+    "DET": [
+      { "id": "DET.1996", "from": "1996-97", "to": "2000-01", "label": "teal, burgundy and black trim", "body": "#006D75", "trim": [{ "color": "#7A1F3D", "to": 0.6 }, { "color": "#111111" }], "check": true },
+      { "id": "DET", "from": "2001-02", "label": "royal blue, red and white trim", "body": "#1D42BA", "trim": [{ "color": "#C8102E", "to": 0.6 }, { "color": "#FFFFFF" }] }
+    ],
+    "GSW": [
+      { "id": "GSW.1997", "from": "1997-98", "to": "2009-10", "label": "navy, orange and gold trim", "body": "#002D62", "trim": [{ "color": "#F4791F", "to": 0.6 }, { "color": "#FDB927" }], "check": true },
+      { "id": "GSW", "from": "2010-11", "label": "royal blue, gold trim", "body": "#1D428A", "trim": [{ "color": "#FFC72C" }] }
+    ],
+    "HOU": [
+      { "id": "HOU.1995", "from": "1995-96", "to": "2002-03", "label": "navy pinstripes, red and white trim", "body": "#13294B", "trim": [{ "color": "#CE1141", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true },
+      { "id": "HOU", "from": "2003-04", "label": "red, silver and black trim", "body": "#CE1141", "trim": [{ "color": "#C4CED4", "to": 0.6 }, { "color": "#111111" }] }
+    ],
+    "IND": [{ "id": "IND", "from": "1996-97", "label": "navy, gold trim", "body": "#002D62", "trim": [{ "color": "#FDBB30" }] }],
+    "LAC": [
+      { "id": "LAC.2013", "from": "1996-97", "to": "2014-15", "label": "red, blue trim", "body": "#C8102E", "trim": [{ "color": "#1D428A" }], "check": true },
+      { "id": "LAC.2015", "from": "2015-16", "to": "2023-24", "label": "blue, red and white trim", "body": "#1D428A", "trim": [{ "color": "#C8102E", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true },
+      { "id": "LAC", "from": "2024-25", "label": "navy, red and blue trim", "body": "#1B2A4A", "trim": [{ "color": "#C8102E", "to": 0.6 }, { "color": "#1D428A" }], "check": true }
+    ],
+    "LAL": [{ "id": "LAL", "from": "1996-97", "label": "gold, purple trim", "body": "#FDB927", "trim": [{ "color": "#552583" }] }],
+    "MEM": [{ "id": "MEM", "from": "2001-02", "label": "navy, Beale Street blue trim", "body": "#12173F", "trim": [{ "color": "#5D76A9", "to": 0.65 }, { "color": "#F5B112" }], "check": true }],
+    "MIA": [{ "id": "MIA", "from": "1996-97", "label": "black, red and gold trim", "body": "#111111", "trim": [{ "color": "#98002E", "to": 0.65 }, { "color": "#F9A01B" }] }],
+    "MIL": [
+      { "id": "MIL.1993", "from": "1993-94", "to": "2005-06", "label": "purple, green and silver trim", "body": "#4B2C82", "trim": [{ "color": "#00471B", "to": 0.6 }, { "color": "#C4CED4" }], "check": true },
+      { "id": "MIL.2013", "from": "2006-07", "to": "2014-15", "label": "green, red trim", "body": "#00471B", "trim": [{ "color": "#AC1A2F", "to": 0.6 }, { "color": "#C4CED4" }], "check": true },
+      { "id": "MIL", "from": "2015-16", "label": "green, cream and blue trim", "body": "#00471B", "trim": [{ "color": "#EEE1C6", "to": 0.65 }, { "color": "#0077C0" }] }
+    ],
+    "MIN": [
+      { "id": "MIN.1996", "from": "1996-97", "to": "2007-08", "label": "black, green and blue trim", "body": "#111111", "trim": [{ "color": "#00843D", "to": 0.6 }, { "color": "#236192" }], "check": true },
+      { "id": "MIN.2013", "from": "2008-09", "to": "2016-17", "label": "blue, green trim", "body": "#00539F", "trim": [{ "color": "#78BE20", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true },
+      { "id": "MIN", "from": "2017-18", "label": "navy, blue and green trim", "body": "#0C2340", "trim": [{ "color": "#236192", "to": 0.6 }, { "color": "#78BE20" }] }
+    ],
+    "NJN": [{ "id": "NJN.1997", "from": "1997-98", "to": "2011-12", "label": "navy, red and white trim", "body": "#002A60", "trim": [{ "color": "#CE1141", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true }],
+    "NOH": [
+      { "id": "NOH.2002", "from": "2002-03", "to": "2007-08", "label": "teal, purple and gold trim", "body": "#00788C", "trim": [{ "color": "#4B2E83", "to": 0.6 }, { "color": "#F1B82D" }], "check": true },
+      { "id": "NOH.2008", "from": "2008-09", "to": "2012-13", "label": "navy, teal and gold trim", "body": "#002B5C", "trim": [{ "color": "#00788C", "to": 0.6 }, { "color": "#F1B82D" }], "check": true }
+    ],
+    "NOP": [{ "id": "NOP", "from": "2013-14", "label": "navy, red and gold trim", "body": "#0C2340", "trim": [{ "color": "#C8102E", "to": 0.6 }, { "color": "#85714D" }] }],
+    "NYK": [{ "id": "NYK", "from": "1996-97", "label": "blue, orange trim", "body": "#006BB6", "trim": [{ "color": "#F58426", "to": 0.7 }, { "color": "#FFFFFF" }] }],
+    "OKC": [{ "id": "OKC", "from": "2013-14", "label": "blue, orange and navy trim", "body": "#007AC1", "trim": [{ "color": "#EF3B24", "to": 0.6 }, { "color": "#002D62" }] }],
+    "ORL": [
+      { "id": "ORL.1991", "from": "1991-92", "to": "1997-98", "label": "black pinstripes, blue and white trim", "body": "#111111", "trim": [{ "color": "#0077C0", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true },
+      { "id": "ORL", "from": "1998-99", "label": "blue, black and white trim", "body": "#0077C0", "trim": [{ "color": "#111111", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true }
+    ],
+    "PHI": [
+      { "id": "PHI.1994", "from": "1994-95", "to": "1996-97", "label": "blue, red and white trim", "body": "#006BB6", "trim": [{ "color": "#ED174C", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true },
+      { "id": "PHI.1997", "from": "1997-98", "to": "2008-09", "label": "black, red and gold trim", "body": "#111111", "trim": [{ "color": "#ED174C", "to": 0.6 }, { "color": "#C5A15A" }], "check": true },
+      { "id": "PHI.2013", "from": "2009-10", "to": "2014-15", "label": "red, blue trim", "body": "#ED174C", "trim": [{ "color": "#006BB6", "to": 0.65 }, { "color": "#FFFFFF" }], "check": true },
+      { "id": "PHI", "from": "2015-16", "label": "blue, red and white trim", "body": "#006BB6", "trim": [{ "color": "#ED174C", "to": 0.6 }, { "color": "#FFFFFF" }] }
+    ],
+    "PHX": [{ "id": "PHX", "from": "1996-97", "label": "purple, orange trim", "body": "#1D1160", "trim": [{ "color": "#E56020", "to": 0.65 }, { "color": "#111111" }] }],
+    "POR": [
+      { "id": "POR.1991", "from": "1991-92", "to": "2001-02", "label": "red, black and white trim", "body": "#E03A3E", "trim": [{ "color": "#111111", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true },
+      { "id": "POR", "from": "2002-03", "label": "black, red and white trim", "body": "#111111", "trim": [{ "color": "#E03A3E", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true }
+    ],
+    "SAC": [{ "id": "SAC", "from": "1996-97", "label": "purple, black and silver trim", "body": "#5A2D81", "trim": [{ "color": "#111111", "to": 0.6 }, { "color": "#8E9090" }], "check": true }],
+    "SAS": [{ "id": "SAS", "from": "1996-97", "label": "black, silver and white trim", "body": "#111111", "trim": [{ "color": "#C4CED4", "to": 0.6 }, { "color": "#FFFFFF" }] }],
+    "SEA": [
+      { "id": "SEA.1995", "from": "1995-96", "to": "2000-01", "label": "green, red and gold trim", "body": "#00653A", "trim": [{ "color": "#C8102E", "to": 0.6 }, { "color": "#FFC200" }], "check": true },
+      { "id": "SEA.2001", "from": "2001-02", "to": "2007-08", "label": "green, gold trim", "body": "#00653A", "trim": [{ "color": "#FFC200" }], "check": true }
+    ],
+    "TOR": [
+      { "id": "TOR.1995", "from": "1995-96", "to": "2002-03", "label": "purple, red and silver trim", "body": "#753BBD", "trim": [{ "color": "#CE1141", "to": 0.6 }, { "color": "#C4CED4" }], "check": true },
+      { "id": "TOR", "from": "2003-04", "label": "red, black and white trim", "body": "#CE1141", "trim": [{ "color": "#111111", "to": 0.6 }, { "color": "#FFFFFF" }] }
+    ],
+    "UTA": [
+      { "id": "UTA.1996", "from": "1996-97", "to": "2003-04", "label": "purple, copper and teal trim", "body": "#4B2E83", "trim": [{ "color": "#AE7543", "to": 0.6 }, { "color": "#00A3AD" }], "check": true },
+      { "id": "UTA.2004", "from": "2004-05", "to": "2009-10", "label": "navy, light blue and silver trim", "body": "#00275D", "trim": [{ "color": "#8EA9C1", "to": 0.6 }, { "color": "#C4CED4" }], "check": true },
+      { "id": "UTA.2013", "from": "2010-11", "to": "2021-22", "label": "navy, gold and green trim", "body": "#002B5C", "trim": [{ "color": "#F9A01B", "to": 0.6 }, { "color": "#00471B" }] },
+      { "id": "UTA.2022", "from": "2022-23", "to": "2024-25", "label": "black, yellow trim", "body": "#111111", "trim": [{ "color": "#FBD032" }], "check": true },
+      { "id": "UTA", "from": "2025-26", "label": "purple, black trim", "body": "#3E2680", "trim": [{ "color": "#111111", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true }
+    ],
+    "WAS": [
+      { "id": "WAS.1987", "from": "1987-88", "to": "1996-97", "label": "Bullets red, blue and white trim", "body": "#C8102E", "trim": [{ "color": "#002B5C", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true },
+      { "id": "WAS.1997", "from": "1997-98", "to": "2010-11", "label": "blue, black and bronze trim", "body": "#1D428A", "trim": [{ "color": "#111111", "to": 0.6 }, { "color": "#B5985A" }], "check": true },
+      { "id": "WAS", "from": "2011-12", "label": "red, navy and white trim", "body": "#E31837", "trim": [{ "color": "#002B5C", "to": 0.6 }, { "color": "#FFFFFF" }], "check": true }
+    ]
+  }
+}

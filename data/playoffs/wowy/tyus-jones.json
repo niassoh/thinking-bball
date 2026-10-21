@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "DEN",
+  "gp": 3,
+  "generatedAt": "2026-10-09T17:57:42.746Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 30,
+      "poss": 60.5,
+      "net": -3.3057851239669422
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 258,
+      "poss": 532.5,
+      "net": -4.694835680751173
+    },
+    {
+      "label": "On, w/o Murray",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 12,
+      "poss": 22,
+      "net": 59.09090909090909
+    },
+    {
+      "label": "On, w/o Jokić",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 19,
+      "poss": 38.5,
+      "net": -18.181818181818183
+    },
+    {
+      "label": "On, w/o Braun",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 29,
+      "poss": 57,
+      "net": 7.017543859649122
+    },
+    {
+      "label": "Neither Jones nor Murray",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 38,
+      "poss": 83,
+      "net": -14.457831325301203
+    }
+  ]
+}

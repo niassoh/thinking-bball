@@ -1,0 +1,117 @@
+{
+  "player": "Kobe Bryant",
+  "playerId": "kobe-bryant",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kobe_Bryant_7144_adjusted.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kobe_Bryant_7144_adjusted.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Kobe_Bryant_7144_adjusted.jpg",
+  "license": "Public domain",
+  "licenseUrl": null,
+  "author": "Sgt. Joseph A. Lee",
+  "credit": null,
+  "photoDate": "October 2005 (preseason game vs GSW, Honolulu)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kobe-bryant.jpg",
+  "selectedAt": "2026-10-14T03:37:55.571Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 497,
+    "y": 168,
+    "size": 1200
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (at the free-throw line looking up at the rim, mouth open mid-breath)",
+  "jersey": "LAL gold home #8, 2005-06 preseason",
+  "concerns": "FLAG: preseason game (Oct 2005 vs GSW, Honolulu), not regular season, though a real game in the regular gold home uniform; head tilted up. Regular-season fallback is the Lipofsky alt",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lipofsky_Kobe_%28high_quality%29.jpg",
+      "note": "(CC BY-SA 3.0 Lipofsky, Dec 20 1999 regular season, purple #8, mouth open, energy 7, but arms raised mid-free-throw frame the head in the crop)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/04/GettyImages-139369178-scaled-e1744829768258.jpg",
+      "note": "(Feb 19 2012 at PHX, purple, lips pursed looking off, energy 6, hands tugging jersey in crop)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:07.910Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kobe-bryant-ccc85a3d-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/kobe-bryant/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:20.233Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kobe-bryant.png",
+  "webp": [
+    "assets/players/webp/kobe-bryant-1024.webp",
+    "assets/players/webp/kobe-bryant-400.webp",
+    "assets/players/webp/kobe-bryant-200.webp",
+    "assets/players/webp/kobe-bryant-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kobe_Bryant_7144_adjusted.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:21.121Z",
+  "background": "transparent"
+}

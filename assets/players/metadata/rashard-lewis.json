@@ -1,0 +1,70 @@
+{
+  "player": "Rashard Lewis",
+  "playerId": "rashard-lewis",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2023/12/rashard-lewis-spotlight-20231207.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2023/12/rashard-lewis-spotlight-20231207.jpg",
+  "sourcePage": "https://www.nba.com/magic/news/rashard-lewis-orlando-magic-35th-anniversary-spotlight-eastern-conference-finals-20231207",
+  "license": "unknown (Orlando Magic / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Orlando Magic / NBAE",
+  "credit": null,
+  "photoDate": "2008-09 season, road game (Magic 20th-season patch; renamed team-site photo, game not captioned)",
+  "originalSize": null,
+  "storedSize": [
+    1948,
+    852
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/rashard-lewis.jpg",
+  "selectedAt": "2026-10-17T11:08:09.142Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 680,
+    "y": 0,
+    "size": 650
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (chest-tap reaction, mouth open over a blue mouthguard, eyes off-camera to his right; not shouting)",
+  "jersey": "ORL blue road #9, 2008-09",
+  "concerns": "renamed Magic-site image (1948x852), no Getty caption, so the game is unverified; head sits at the top edge so the crop has only ~4% headroom; blue mouthguard visible; mild JPEG softness; his fist on his chest is below the chin, inside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Rashard_Lewis.jpg",
+      "note": "(Commons CC BY-SA 2.0, Keith Allison, Nov 27 2008 at WAS, ORL blue, large sharp face but looking down with a faint grin, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2023/12/rashard-lewis-2009-game-4.jpg",
+      "note": "(2009 playoffs, white home, shouting celebration with Turkoglu, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Rashard_Lewis_layup.jpg",
+      "note": "(Commons, Apr 1 2009 vs TOR, layup from the stands, tiny face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

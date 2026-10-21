@@ -1,0 +1,64 @@
+{
+  "player": "Kasparas Jakucionis",
+  "playerId": "kasparas-jakucionis",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612748/2026/02/720_02032026_Hawks_Heat_Baldizon_0127_1080x1350.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612748/2026/02/720_02032026_Hawks_Heat_Baldizon_0127_1080x1350.jpg",
+  "sourcePage": "https://www.nba.com/heat/photos/2025-26-week-16-games-photo-gallery",
+  "license": "unknown (Miami Heat team photographer via Heat.com / NBA.com)",
+  "licenseUrl": null,
+  "author": "Baldizon (Miami Heat)",
+  "credit": null,
+  "photoDate": "2026-02-03 vs ATL, Kaseya Center (from filename)",
+  "originalSize": null,
+  "storedSize": [
+    1080,
+    1350
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kasparas-jakucionis.jpg",
+  "selectedAt": "2026-10-17T11:04:58.907Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 318,
+    "y": 96,
+    "size": 540
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (defending, eyes off-camera to his left, mouth open mid-breath; tongue tip just visible)",
+  "jersey": "MIA white Association #25, 2025-26 (FLAG: wanted MIL 2026-27)",
+  "concerns": "JERSEY FLAG: Miami Heat, not Milwaukee; traded to MIL in the June 2026 Giannis deal and no in-game Bucks photo of him was found (Bucks site posts only practice/shootaround galleries, no nba.com Getty photo names him in 2026 Summer League or preseason, AP preseason gallery has none); team-site 1080px web copy, face ~265 px hair-to-chin; tongue tip visible between parted lips",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612748/2026/01/619_01202026_Heat_Kings_Widner_0077_1080x1350-01.jpg",
+      "note": "(2026-01-20 at SAC, MIA white, bigger face but near-frontal calm look, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612748/2026/01/674_01282026_Magic_Heat_Baldizon_0074_1080x1350.jpg",
+      "note": "(2026-01-28 vs ORL, MIA red Statement, dribbling, mouth open, smaller face ~220 px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

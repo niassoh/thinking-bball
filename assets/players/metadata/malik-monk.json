@@ -1,0 +1,139 @@
+{
+  "player": "Malik Monk",
+  "playerId": "malik-monk",
+  "sourceUrl": "https://cdn.nba.com/manage/2024/06/malik-monk-iso.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2024/06/malik-monk-iso.jpg",
+  "sourcePage": "https://www.nba.com/news/kings-malik-monk-contract",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/malik-monk.jpg",
+  "selectedAt": "2026-10-05T19:21:26.092Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 0,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 470,
+    "y": 0,
+    "size": 783
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches",
+  "jersey": "SAC black Icon 2023-24 (dialpad patch; posted June 2024)",
+  "concerns": "SEASON: 2023-24 photo (same team); no usable 2024-25/2025-26 Monk portrait found (Jan 2025 hero is a straining layup with ball under the face; Dec 2024 hero is profile from behind); hero not Getty-named, identity verified visually (#0 Kings, Monk)",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:46:38.852Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/malik-monk-5b4af94f-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/malik-monk/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:46:48.699Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/malik-monk.png",
+  "webp": [
+    "assets/players/webp/malik-monk-1024.webp",
+    "assets/players/webp/malik-monk-400.webp",
+    "assets/players/webp/malik-monk-200.webp",
+    "assets/players/webp/malik-monk-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2024/06/malik-monk-iso.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T02:46:48.988Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/malik-monk-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/malik-monk/out.png",
+        "fixes": [],
+        "base": "6e52e8092c488b9542bef66f0140a871db486d1e",
+        "importedAt": "2026-10-12T03:33:48.007Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0052,
+          "face": 2.3,
+          "purity": 0.989,
+          "coverage": 0.163,
+          "strays": 19,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 849,
+          "oldEdge": 0,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/malik-monk-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:49.653Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/malik-monk.webp",
+    "base": "6e52e8092c488b9542bef66f0140a871db486d1e",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:10.839Z"
+  }
+}

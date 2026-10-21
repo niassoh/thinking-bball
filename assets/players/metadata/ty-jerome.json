@@ -1,0 +1,139 @@
+{
+  "player": "Ty Jerome",
+  "playerId": "ty-jerome",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/10/GettyImages-2241054112.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/10/GettyImages-2241054112.jpg",
+  "sourcePage": "https://www.nba.com/news/grizzlies-guard-ty-jerome-out-for-at-least-4-weeks-with-calf-strain",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1688
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ty-jerome.jpg",
+  "selectedAt": "2026-10-05T19:26:58.155Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1577,
+    "y": 125,
+    "size": 1156
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (crouched, looking off-camera, lips parted)",
+  "jersey": "MEM white Association 2025-26 preseason (Oct 6 2025)",
+  "concerns": "Grizzlies jersey: his 2025-26 team (group list says CLE); PRESEASON game in regular uniform; leaning forward hands-on-knees so shoulders are skewed; 3/4 head angle; source 3368px wide, crop scaled by 3000/3368",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:34.848Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/ty-jerome-a382499d-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/ty-jerome/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:03:06.942Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/ty-jerome.png",
+  "webp": [
+    "assets/players/webp/ty-jerome-1024.webp",
+    "assets/players/webp/ty-jerome-400.webp",
+    "assets/players/webp/ty-jerome-200.webp",
+    "assets/players/webp/ty-jerome-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/10/GettyImages-2241054112.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:03:07.224Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/ty-jerome-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/ty-jerome/out.png",
+        "fixes": [],
+        "base": "e906f1bdabe9205ee64abe4ff265e3f946847079",
+        "importedAt": "2026-10-12T03:34:50.644Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 0
+          },
+          "silhouette": 0.0055,
+          "face": 4,
+          "purity": 0.986,
+          "coverage": 0.111,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1441,
+          "oldEdge": 0,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/ty-jerome-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:52.523Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/ty-jerome.webp",
+    "base": "e906f1bdabe9205ee64abe4ff265e3f946847079",
+    "shift": {
+      "dx": -1,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:24.806Z"
+  }
+}

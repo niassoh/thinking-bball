@@ -1,0 +1,173 @@
+{
+  "player": "Kevon Looney",
+  "playerId": "kevon-looney",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/10/kevon-looney-1.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/10/kevon-looney-1.jpg",
+  "sourcePage": "https://www.nba.com/news/pelicans-kevon-looney-expected-to-be-sidelined-2-3-weeks-with-a-left-knee-injury",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kevon-looney.jpg",
+  "selectedAt": "2026-10-05T19:30:56.403Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 642,
+    "y": 7,
+    "size": 757
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches",
+  "jersey": "LAL (jersey edit from austin-reaves's)",
+  "concerns": "PRESEASON: Oct 2025 exhibition vs NBL Melbourne United (regular game uniform); group file lists GSW but he played 2025-26 for NOP; no regular-season Looney game photo in the nba.com index; hero not Getty-named, identity verified visually (#55 New Orleans, Looney)",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:26.787Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "LAL (jersey edit from austin-reaves's)",
+      "file": "assets/players/attempts/kevon-looney-ef70c948-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/kevon-looney/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:53.395Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kevon-looney.png",
+  "webp": [
+    "assets/players/webp/kevon-looney-1024.webp",
+    "assets/players/webp/kevon-looney-400.webp",
+    "assets/players/webp/kevon-looney-200.webp",
+    "assets/players/webp/kevon-looney-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/10/kevon-looney-1.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:53.657Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: NOP -> LAL",
+      "archivedAt": "2026-10-09T08:56:26.715Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T04:01:32.792Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/kevon-looney-ef70c948-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/kevon-looney/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T04:03:02.133Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/kevon-looney-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/kevon-looney/out.png",
+        "fixes": [],
+        "base": "0ca9b6c7e1ffec3b2fe9d77d32de98698f2b4e81",
+        "importedAt": "2026-10-12T03:33:26.959Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0038,
+          "face": 2.7,
+          "purity": 0.993,
+          "coverage": 0.184,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 920,
+          "oldEdge": 0.003,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/kevon-looney-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:48.582Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/kevon-looney.webp",
+    "base": "0ca9b6c7e1ffec3b2fe9d77d32de98698f2b4e81",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:05.477Z"
+  }
+}

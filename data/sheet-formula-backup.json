@@ -1,0 +1,4 @@
+{
+  "'RS PBP'!A2": "=ImportJSON(CONCATENATE(\"https://api.pbpstats.com/get-totals/nba?Season=\", Instructions!A13, \"&SeasonType=Regular+Season&Type=Player&StatType=Totals&Table=Assists\"), \"/multi_row_table_data\", \"noInherit, noTruncate\")",
+  "'League data'!E1": "=IF(F1/163*D1>F1, F1, F1/163*D1)"
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Antawn Jamison",
+  "playerId": "antawn-jamison",
+  "sourceUrl": "https://bc.gmg.io/image/upload/q_auto,c_limit,w_3000,f_jpg/media/gmg/JO72HYUJ3JHYXDXOWZYGVJI2Q4.jpg?api_key=clickondetroit_06f87fefb2123598",
+  "downloadUrl": "https://bc.gmg.io/image/upload/q_auto,c_limit,w_3000,f_jpg/media/gmg/JO72HYUJ3JHYXDXOWZYGVJI2Q4.jpg?api_key=clickondetroit_06f87fefb2123598",
+  "sourcePage": "https://www.clickondetroit.com/sports/2022/03/23/nba-at-75-from-mj-to-lbj-jamison-saw-greatness-in-2000s/",
+  "license": "unknown (AP Photo via ClickOnDetroit / Graham Media)",
+  "licenseUrl": null,
+  "author": "Matt Slocum / AP",
+  "credit": null,
+  "photoDate": "2010-12-07 (at PHI, Wells Fargo Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/antawn-jamison.jpg",
+  "selectedAt": "2026-10-17T11:31:09.452Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 760,
+    "y": 0,
+    "size": 2000
+  },
+  "needsReview": "no source fully passes: best face and energy, but the bent-over pose breaks the head-and-shoulders crop (head rolled ~30 degrees, chin at ~78% of the box, jersey hidden by the shoulder); alternatives are a frontal but low-energy hands-on-head playoff shot and a near-profile 780px close-up",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (sweaty, eyes up and to his left, lips parted mid-breath; same upward look as McCain, a touch calmer)",
+  "jersey": "CLE wine road #4, 2010-11 (only the shoulder trim shows)",
+  "concerns": "He is bent over (hands on knees, outside the frame): head rolled ~30 degrees and his left shoulder fills the right third, so the jersey shows only as a sliver of trim and the head sits low in the square (top of head ~17%, chin ~78%; the photo has no room for a standard head-and-shoulders box); AP photo on a TV-station site, license unknown; 2010-11 rather than his 2009-10 best season. Searched: Commons (2 CLE photos, tiny or blurred faces), Flickr (Erik Drost CC BY 2012 shots too small; Cavs History NBAE close-up only 780px and near profile; fan shots), SI/fan sites, and nba.com (Cavs legacy pages carry only 175px images; nothing tagged in the content API)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://bc.gmg.io/image/upload/q_auto,c_limit,w_3000,f_jpg/media/gmg/VWJFI6K7U5BIPGNCLB436EASJQ.jpg?api_key=clickondetroit_06f87fefb2123598",
+      "note": "(AP, 2010-04-22 playoffs at CHI, navy Cleveland alternate, frontal and large, but hands clasped on top of his head and a pensive lips-pressed look, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://live.staticflickr.com/5171/5395788163_935773ab8f_b.jpg",
+      "note": "(Flickr Cavs History repost of an NBAE photo, 2011-01-21 vs MIL, black, looking up with lips parted, but 780px and near profile)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

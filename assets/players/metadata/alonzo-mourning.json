@@ -1,0 +1,117 @@
+{
+  "player": "Alonzo Mourning",
+  "playerId": "alonzo-mourning",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Alonzo_Mourning.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Alonzo_Mourning.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Alonzo_Mourning.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2007-02-28",
+  "originalSize": null,
+  "storedSize": [
+    1492,
+    2011
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/alonzo-mourning.jpg",
+  "selectedAt": "2026-10-14T03:20:41.377Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 340,
+    "y": 107,
+    "size": 883
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (looking up past the camera, lips parted mid-breath, engaged but calm)",
+  "jersey": "MIA red road alternate 2006-07",
+  "concerns": "late-career (age 36, last season of the window) rather than his 1996-2000 MIA prime; no usable in-game prime-era photo found after scanning 20+ nba.com Heat/history pages",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/10/GettyImages-72571106-scaled-e1728933492235.jpg",
+      "note": "(2001-02 MIA black at LAL, driving with mouth in an O, energy ~7.5, but 3/4 angle, ~200px face, soft film)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/08/GettyImages-71215285.jpg",
+      "note": "(2006 Finals G4 fist pump with a grin, celebration energy ~8.5, 206px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:36:55.953Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/alonzo-mourning-c305e236-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/alonzo-mourning/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:41:57.216Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/alonzo-mourning.png",
+  "webp": [
+    "assets/players/webp/alonzo-mourning-1024.webp",
+    "assets/players/webp/alonzo-mourning-400.webp",
+    "assets/players/webp/alonzo-mourning-200.webp",
+    "assets/players/webp/alonzo-mourning-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Alonzo_Mourning.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:41:58.351Z",
+  "background": "transparent"
+}

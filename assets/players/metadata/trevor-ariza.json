@@ -1,0 +1,64 @@
+{
+  "player": "Trevor Ariza",
+  "playerId": "trevor-ariza",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/lakers/sites/lakers/files/gettyimages-1363934906-bod.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/lakers/sites/lakers/files/gettyimages-1363934906-bod.jpg",
+  "sourcePage": "https://www.nba.com/lakers/news/the-journeyman-arrives-home-2022",
+  "license": "unknown (Getty Images via NBA.com/Lakers)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "c. Jan 2022 (home game, Crypto.com Arena; in a Feb 7 2022 Lakers feature)",
+  "originalSize": null,
+  "storedSize": [
+    1200,
+    900
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/trevor-ariza.jpg",
+  "selectedAt": "2026-10-17T11:36:18.487Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 293,
+    "y": 9,
+    "size": 735
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (looking off to his right during play, lips parted; alert but quieter than McCain)",
+  "jersey": "LAL white Association 2021-22 #1",
+  "concerns": "FLAG era: from his 2021-22 Lakers return at 36 (dreadlocks, beard, headband), not his 2008-09 prime look (short hair); no usable 2008-09 in-game photo found (Commons has only a small-face 2008 layup and a back view; Lakers history page images are 600-1200px montages); head turned toward profile; 1200px team-site copy (face ~360px)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Trevor_Ariza.jpg",
+      "note": "(Commons CC BY-SA 2.0, Dec 5 2008 at WAS, purple road, prime era but mid-layup with arms up and a small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/lakers/sites/lakers/files/gettyimages-1362478981-bod.jpg",
+      "note": "(2021-22 purple City Edition, running back, energy ~6.5, smaller face ~230px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

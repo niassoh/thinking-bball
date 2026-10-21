@@ -1,0 +1,151 @@
+{
+  "player": "Mason Plumlee",
+  "playerId": "mason-plumlee",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/getty-images-1135674899.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/getty-images-1135674899.jpg",
+  "sourcePage": "https://www.nba.com/nuggets/photogallery/nuggets-at-blazers-april7-040719",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2019-04-07 (at POR, Moda Center)",
+  "originalSize": null,
+  "storedSize": [
+    1230,
+    820
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/mason-plumlee.jpg",
+  "selectedAt": "2026-10-17T05:51:41.977Z",
+  "sourceSelectionScore": 11,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 522,
+    "y": 212,
+    "size": 300
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out, eyes up at the ball, mouth open mid-breath)",
+  "jersey": "DEN navy Icon #24, 2018-19",
+  "concerns": "small source (1230px legacy gallery copy): head ~150px, face ~110px, crop 300px will be upscaled; head tilted back looking up; Enes Kanter ear and cheek in the crop top-left corner (not over the face); best of 36 captioned Plumlee photos in 79 Nuggets 2018-19 galleries, which are mostly shots, layups and dunks",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/getty-images-942485196.jpg",
+      "note": "(Apr 5 2018 vs MIN, navy, same boxing-out look, energy 7, face ~110px, head tilted further back)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2020/01/mason-plumlee-iso.jpg",
+      "note": "(DEN navy 2019-20, 1920px, large face, but a neutral closed-mouth look, energy ~4)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/getty-images-856856482.jpg",
+      "note": "(Oct 2 2017 preseason at LAL, navy, lips parted looking off, energy ~5.5, face ~180px, preseason)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:59.963Z",
+      "promptAdditions": [
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/mason-plumlee-3509c66e-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/mason-plumlee/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.836Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/mason-plumlee.png",
+  "webp": [
+    "assets/players/webp/mason-plumlee-1024.webp",
+    "assets/players/webp/mason-plumlee-400.webp",
+    "assets/players/webp/mason-plumlee-200.webp",
+    "assets/players/webp/mason-plumlee-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/nuggets/sites/nuggets/files/getty-images-1135674899.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:53.683Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/mason-plumlee-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/mason-plumlee/out.png",
+        "fixes": [],
+        "base": "965af76f048e05e82218823c86eb5c267afb60f6",
+        "importedAt": "2026-10-17T11:07:34.629Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0038,
+          "face": 2.8,
+          "purity": 0.992,
+          "coverage": 0.16,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1183,
+          "oldEdge": 0,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/mason-plumlee-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:59.824Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/mason-plumlee.webp",
+    "base": "965af76f048e05e82218823c86eb5c267afb60f6",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:12:00.074Z"
+  }
+}

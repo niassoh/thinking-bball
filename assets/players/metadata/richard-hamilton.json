@@ -1,0 +1,70 @@
+{
+  "player": "Richard Hamilton",
+  "playerId": "richard-hamilton",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rip_Hamilton_free_throw.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rip_Hamilton_free_throw.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Rip_Hamilton_free_throw.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2008-12-09 at WAS, Verizon Center (at the free-throw line)",
+  "originalSize": null,
+  "storedSize": [
+    1068,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/richard-hamilton.jpg",
+  "selectedAt": "2026-10-17T11:12:00.658Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 69,
+    "y": 0,
+    "size": 940
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (frontal, eyes on the rim just off-camera, mouth open mid-breath before a free throw)",
+  "jersey": "DET red road #32, 2008-09",
+  "concerns": "Commons (CC BY-SA 2.0), not nba.com (nba.com was blocking this machine, and its Rip-tagged posts carry only a 2004 postgame-media Getty photo); 2008-09 rather than his 2007-08 best season (same team and look); his clear protective face mask and headband are part of his look but sit over the face; slight softness from the 2008 camera; ball held at waist is below the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Richie_Hamilton.jpg",
+      "note": "(Commons, same game, mouth open mid-speech, energy ~6.5, but near-profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rip_Hamilton_checks_in.jpg",
+      "note": "(Commons, same game, frontal and large, but calm near-camera stare, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Hamilton_free_throw.jpg",
+      "note": "(Commons, same game, looking up with mouth agape, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,398 @@
+{
+  "player": "Donovan Mitchell",
+  "playerId": "donovan-mitchell",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/05/mitchell1-2.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/05/mitchell1-2.jpg",
+  "sourcePage": "https://www.nba.com/news/donovan-mitchell-cavs-game-2",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/donovan-mitchell.jpg",
+  "selectedAt": "2026-10-02T03:42:43.231Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 590,
+    "y": 0,
+    "size": 780
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches closely: looking up/off, mouth slightly open",
+  "jersey": "CLE white 2025-26 (2026 playoffs)",
+  "concerns": "face ~260px",
+  "rejectedCandidates": [
+    {
+      "index": 0,
+      "title": "File:Donovan Mitchell (53368718915).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_(53368718915).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 1,
+      "title": "File:Donovan Mitchell Pregame.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_Pregame.jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 2,
+      "title": "File:Donovan Mitchell Newsome Celebrity Softball Game.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_Newsome_Celebrity_Softball_Game.jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 3,
+      "title": "File:Donovan Mitchell (53018265439).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_(53018265439).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 4,
+      "title": "File:Donovan Mitchell Cavs Playoffs.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_Cavs_Playoffs.jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 5,
+      "title": "File:Donovan Mitchell Cavs Playoffs (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_Cavs_Playoffs_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "score": 12
+    },
+    {
+      "index": 6,
+      "title": "File:Donovan Mitchell cavs 2023 (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_cavs_2023_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "score": 13
+    },
+    {
+      "index": 8,
+      "title": "File:Donovan Mitchell '22.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_%2722.jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 9,
+      "title": "File:Donovan Mitchell shooting.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_shooting.jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 10,
+      "title": "File:Donovan Mitchell shooting (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_shooting_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 11,
+      "title": "File:Donovan Mitchell Utah.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_Utah.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 12,
+      "title": "File:Donovan Mitchell Utah (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_Utah_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 13,
+      "title": "File:Donovan Mitchell Utah 2018.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_Utah_2018.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 14,
+      "title": "File:Donovan Mitchell Utah 2018 (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_Utah_2018_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 15,
+      "title": "File:Donovan mitchell.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_mitchell.jpg",
+      "license": "CC BY-SA 3.0",
+      "score": null
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Donovan_Mitchell_cavs_2023_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_cavs_2023_(cropped2).jpg",
+      "license": "CC BY 2.0",
+      "score": 14,
+      "reason": "user feedback 2026-10-01",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "n/a",
+      "note": "cavaliers team-site MEDIA_WEB.jpeg + DON-WEB-9.jpeg (corner \"C\" watermark, reject)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/mitchell-iso-meta-032426-scaled.jpg",
+      "note": "(shrug 7.5, City Edition)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "n/a",
+      "note": "cavaliers team-site MEDIA_WEB.jpeg + DON-WEB-9.jpeg (corner \"C\" watermark, reject)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/mitchell-iso-meta-032426-scaled.jpg",
+      "note": "(shrug 7.5, City Edition)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "masterFile": "assets/players/donovan-mitchell.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T18:18:05.768Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/donovan-mitchell-6268c4c9-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/donovan-mitchell/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T18:18:18.596Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "approved": true,
+  "qaSummary": "Pass on attempt 1. Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain.",
+  "webp": [
+    "assets/players/webp/donovan-mitchell-1024.webp",
+    "assets/players/webp/donovan-mitchell-400.webp",
+    "assets/players/webp/donovan-mitchell-200.webp",
+    "assets/players/webp/donovan-mitchell-100.webp"
+  ],
+  "approvedAt": "2026-10-05T18:18:18.941Z",
+  "cancelledRounds": [
+    {
+      "reason": "user cancelled source-brightening step 2026-10-01 (\"Nvm, we dont have to do that\"); results not used",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:17:04.253Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/superseded/donovan-mitchell-6268c4c9-cancelled-brighten-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": null
+        }
+      ]
+    }
+  ],
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:16.531Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:06:21.165Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/donovan-mitchell-6268c4c9-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-02T04:09:15.668Z",
+            "checklistFile": "QA_CHECKLIST.md",
+            "note": "Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:35.883Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:36:51.619Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/donovan-mitchell-6268c4c9-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/donovan-mitchell/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:37:00.976Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "latestAttempt": 1,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/05/mitchell1-2.jpg",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/donovan-mitchell-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/donovan-mitchell/out.png",
+        "fixes": [],
+        "base": "7ca5e733b3b0f40ee0d4ef97525956eee0bdd2e4",
+        "importedAt": "2026-10-11T19:40:47.590Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0043,
+          "face": 2.9,
+          "purity": 0.99,
+          "coverage": 0.12,
+          "strays": 11,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 399,
+          "oldEdge": 0,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/donovan-mitchell-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:49:12.059Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/donovan-mitchell.webp",
+    "base": "7ca5e733b3b0f40ee0d4ef97525956eee0bdd2e4",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:12.615Z"
+  }
+}

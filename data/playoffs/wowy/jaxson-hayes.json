@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "LAL",
+  "gp": 10,
+  "generatedAt": "2026-10-09T18:58:03.586Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 163,
+      "poss": 324,
+      "net": 0.30864197530864196
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 322,
+      "poss": 610.5,
+      "net": -8.19000819000819
+    },
+    {
+      "label": "On, w/o Hachimura",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 48,
+      "poss": 89.5,
+      "net": 12.290502793296088
+    },
+    {
+      "label": "On, w/o James",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 58,
+      "poss": 116,
+      "net": -6.896551724137931
+    },
+    {
+      "label": "On, w/o Smart",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 42,
+      "poss": 83,
+      "net": -18.072289156626507
+    },
+    {
+      "label": "Neither Hayes nor Hachimura",
+      "sub": "2025–26 playoffs · LAL",
+      "minutes": 51,
+      "poss": 97,
+      "net": -8.24742268041237
+    }
+  ]
+}

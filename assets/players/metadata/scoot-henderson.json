@@ -1,0 +1,70 @@
+{
+  "player": "Scoot Henderson",
+  "playerId": "scoot-henderson",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612757/2026/04/20260424_IC_8055.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612757/2026/04/20260424_IC_8055.jpg",
+  "sourcePage": "https://www.nba.com/blazers/photos/photos-trail-blazers-fall-to-the-spurs-in-game-3-on-april-24-2026",
+  "license": "unknown (Portland Trail Blazers team photo via NBA.com)",
+  "licenseUrl": null,
+  "author": "Ian Cox / Trail Blazers",
+  "credit": null,
+  "photoDate": "2026-04-24 (playoffs Game 3 vs SAS, Moda Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1999
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/scoot-henderson.jpg",
+  "selectedAt": "2026-10-17T08:54:24.095Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1014,
+    "y": 0,
+    "size": 1100
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (hands on knees during a stoppage, eyes turned up to the scoreboard, lips just parted; McCain-like upward look but quieter mouth)",
+  "jersey": "POR white Association 2025-26 #00",
+  "concerns": "hair touches the top of the frame, so the crop has no room above the hair (y=0); head is bowed with the eyes rolled up, so whites show under the irises; no 2026 preseason photo of him found (not in the Oct 12 London Lions gallery); team gallery captions are generic, identified by eye",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612757/2026/03/20260329_IC_8460.jpg",
+      "note": "(Mar 29 2026 vs WAS, red Statement, sharp and large but mouth closed, stern side-glance, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2260322517-scaled.jpg",
+      "note": "(Feb 6 2026 vs MEM, dribbling with eyes down, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612757/2026/04/scoot_756_042126.jpg",
+      "note": "(Game 2 at SAS, fists clenched grinning celebration, head down, too high)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

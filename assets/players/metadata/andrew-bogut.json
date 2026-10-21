@@ -1,0 +1,145 @@
+{
+  "player": "Andrew Bogut",
+  "playerId": "andrew-bogut",
+  "sourceUrl": "https://cdn.nba.com/manage/2019/03/andrew-bogut-ball-iso-0306.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2019/03/andrew-bogut-ball-iso-0306.jpg",
+  "sourcePage": "https://www.nba.com/warriors/news/bogut-signing-20190306",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": "c. 2014-16 (home game, Oracle Arena; undated renamed nba.com photo)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/andrew-bogut.jpg",
+  "selectedAt": "2026-10-17T05:23:49.076Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 955,
+    "y": 0,
+    "size": 625
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (eyes down and to the side toward his defender, mouth open mid-breath while dribbling)",
+  "jersey": "GSW white home #12, 2014-15 or 2015-16 (pre-Nike design)",
+  "concerns": "renamed nba.com image, no Getty caption check, exact game unverified; his hair touches the top edge of the photo, so the crop has no headroom above it; head tipped slightly down (eyes down, not up like McCain); ball outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2020/10/160602224727-andrew-bogut-2016-nba-finals-game-one.video-player.jpeg",
+      "note": "(2016 Finals G1, white home, looking off with mouth open, energy ~6.5, but only 768x432 and face ~170px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Andrew_Bogut_Warriors.jpg",
+      "note": "(Commons CC BY 2.0, Mar 4 2013 vs TOR, white home, arm raised, mouth closed, energy ~5, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:50.623Z",
+      "promptAdditions": [
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/andrew-bogut-14baccd7-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/andrew-bogut/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:22.986Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/andrew-bogut.png",
+  "webp": [
+    "assets/players/webp/andrew-bogut-1024.webp",
+    "assets/players/webp/andrew-bogut-400.webp",
+    "assets/players/webp/andrew-bogut-200.webp",
+    "assets/players/webp/andrew-bogut-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2019/03/andrew-bogut-ball-iso-0306.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:35.737Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/andrew-bogut-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/andrew-bogut/out.png",
+        "fixes": [],
+        "base": "778b048b695823901e4b4d825d96375242e23f46",
+        "importedAt": "2026-10-17T11:06:49.906Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0053,
+          "face": 2.6,
+          "purity": 0.992,
+          "coverage": 0.19,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 754,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/andrew-bogut-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:50.256Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/andrew-bogut.webp",
+    "base": "778b048b695823901e4b4d825d96375242e23f46",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:50.501Z"
+  }
+}

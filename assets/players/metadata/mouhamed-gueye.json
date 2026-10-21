@@ -1,0 +1,64 @@
+{
+  "player": "Mouhamed Gueye",
+  "playerId": "mouhamed-gueye",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2026/01/Pelicans-Hawks-010726-14.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2026/01/Pelicans-Hawks-010726-14.jpg",
+  "sourcePage": "https://www.nba.com/pelicans/photos/new-orleans-pelicans-vs-atlanta-hawks-photos-game-action-1-7-2026",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Todd Kirkland / Getty Images",
+  "credit": null,
+  "photoDate": "2026-01-07 (vs NOP, State Farm Arena)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/mouhamed-gueye.jpg",
+  "selectedAt": "2026-10-17T05:58:14.733Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 610,
+    "y": 25,
+    "size": 560
+  },
+  "needsReview": "Best available, not a clean pass: energy ~5.5 (eyes down while defending), face ~200px, and a second face (Zion) in the lower-right of the crop. Searched nba.com Hawks news sitemap (2025-26 articles), Hawks team galleries (only 2022-23 on the site), all opponent team photo sitemaps for 2025-26 ATL games (Celtics, Hornets, Knicks playoff, Nuggets, Thunder, Spurs, Pelicans, Suns, Wolves, Rockets, Cavaliers), 2025-26 game pages and Commons (no files). Gueye missed the 2026 preseason (fractured foot, July 2026).",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "slightly lower (guarding Zion Williamson, eyes down on the ball handler, lips parted; focused but not lifted like McCain)",
+  "jersey": "ATL white home 2025-26",
+  "concerns": "Zion Williamson head and shoulder fill the lower-right of the crop (below Gueye chin, face clear); 1920px web copy, head ~275px and face ~200px; eyes lowered, energy just under the band",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/01/2257872572.jpg",
+      "note": "(ATL white, Jan 23 2026 vs PHX, grimacing through contact on a rebound, energy ~9.5, ball and hands over the face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/11/GettyImages-2249248488.jpg",
+      "note": "(ATL white, Nov 30 2025 at PHI, hand over his face behind Embiid)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

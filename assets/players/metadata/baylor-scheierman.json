@@ -1,0 +1,66 @@
+{
+  "player": "Baylor Scheierman",
+  "playerId": "baylor-scheierman",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/03/2263796801.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/03/2263796801.jpg",
+  "sourcePage": "https://www.nba.com/celtics/photos/photos-76ers-vs-celtics-mar-1-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/baylor-scheierman.jpg",
+  "selectedAt": "2026-10-05T19:44:23.611Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1204,
+    "y": 384,
+    "size": 478
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "slightly higher",
+  "jersey": "BOS white/gold City Edition 2025-26 (Mar 1 2026 vs PHI)",
+  "concerns": "driving, intense look-off with upper lip curled over teeth (mild grimace); head turned 3/4 to his right; face ~180px in the 3000px saved file",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 0,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:57:37.056Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/baylor-scheierman-6129332d-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/baylor-scheierman/out.png",
+      "usage": null,
+      "qa": null
+    }
+  ],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "latestAttempt": 1
+}

@@ -1,0 +1,140 @@
+{
+  "player": "Bones Hyland",
+  "playerId": "bones-hyland",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/05/GettyImages-2267124947.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/05/GettyImages-2267124947.jpg",
+  "sourcePage": "https://www.nba.com/timberwolves/photos/wolves-pics-bones-hyland-25-26-season-photos",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-03-17 (vs PHX, Target Center, first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/bones-hyland.jpg",
+  "selectedAt": "2026-10-17T05:24:22.276Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1050,
+    "y": 74,
+    "size": 883
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (brows knit, lips parted, eyes off to his right while jogging back upcourt)",
+  "jersey": "MIN black Statement 2025-26",
+  "concerns": "Getty caption says he is celebrating a three, but the frame is the jog back: no shout or gesture, just a knit-brow look-off; a slight scowl edges past McCain",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612750/2025/09/GettyImages-2206906516.jpg",
+      "note": "(2025-03-16 vs UTA, white home, lips parted looking off, energy ~5, 2024-25 season)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/05/GettyImages-2269973085.jpg",
+      "note": "(2026-04-05 vs CHA, blue Icon, tongue out mid-celebration, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:51.410Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/bones-hyland-fd28a8f6-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/bones-hyland/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.230Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/bones-hyland.png",
+  "webp": [
+    "assets/players/webp/bones-hyland-1024.webp",
+    "assets/players/webp/bones-hyland-400.webp",
+    "assets/players/webp/bones-hyland-200.webp",
+    "assets/players/webp/bones-hyland-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/05/GettyImages-2267124947.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:37.349Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/bones-hyland-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/bones-hyland/out.png",
+        "fixes": [],
+        "base": "c3258ce98445fab9e7ce6ac755fff8842d55316c",
+        "importedAt": "2026-10-17T11:06:55.739Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0077,
+          "face": 4.8,
+          "purity": 0.986,
+          "coverage": 0.189,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1648,
+          "oldEdge": 0.001,
+          "shadeLevels": 15,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/bones-hyland-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:51.524Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/bones-hyland.webp",
+    "base": "c3258ce98445fab9e7ce6ac755fff8842d55316c",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:51.764Z"
+  }
+}

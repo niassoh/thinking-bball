@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "ATL",
+  "gp": 77,
+  "generatedAt": "2026-10-02T05:27:13.222Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · ATL",
+      "minutes": 1179,
+      "poss": 2450,
+      "net": 1.7551020408163265
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · ATL",
+      "minutes": 2772,
+      "poss": 5927,
+      "net": 2.6151510038805466
+    },
+    {
+      "label": "On, w/o Alexander-Walker",
+      "sub": "2025–26 · ATL",
+      "minutes": 546,
+      "poss": 1118,
+      "net": -1.8783542039355994
+    },
+    {
+      "label": "On, w/o Johnson",
+      "sub": "2025–26 · ATL",
+      "minutes": 775,
+      "poss": 1605,
+      "net": -0.6230529595015576
+    },
+    {
+      "label": "On, w/o Daniels",
+      "sub": "2025–26 · ATL",
+      "minutes": 651,
+      "poss": 1364,
+      "net": -3.5923753665689153
+    },
+    {
+      "label": "Neither Gueye nor Alexander-Walker",
+      "sub": "2025–26 · ATL",
+      "minutes": 802,
+      "poss": 1694,
+      "net": -1.475796930342385
+    }
+  ]
+}

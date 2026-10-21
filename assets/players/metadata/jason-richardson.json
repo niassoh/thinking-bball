@@ -1,0 +1,64 @@
+{
+  "player": "Jason Richardson",
+  "playerId": "jason-richardson",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jason_Richardson.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jason_Richardson.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Jason_Richardson.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2009-01-26 (at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    2380,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jason-richardson.jpg",
+  "selectedAt": "2026-10-17T11:09:56.664Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 918,
+    "y": 191,
+    "size": 1118
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (bringing the ball up and calling out, mouth open mid-word, looking off-camera, heavy-lidded eyes)",
+  "jersey": "PHX purple road #23, 2008-09",
+  "concerns": "Commons (CC BY-SA 2.0), not nba.com: nba.com Suns-era pages only carry small legacy images; 2008-09 is his best season so jersey and era match; eyelids heavy so energy sits at the low edge of the band",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/J-RichPHX.jpg",
+      "note": "(2009-11-08 at WAS, orange alternate, mid-layup under the rim, small upturned face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Opening_tip_at_Suns_at_Warriors_3-15-09.JPG",
+      "note": "(2009-03-15 at GSW, opening-tip wide shot, faces tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

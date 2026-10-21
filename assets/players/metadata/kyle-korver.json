@@ -1,0 +1,64 @@
+{
+  "player": "Kyle Korver",
+  "playerId": "kyle-korver",
+  "sourceUrl": "https://www.si.com/.image/MTkxMDI5ODYzNzExMjU0MTcx/usatsi_8475567.jpg",
+  "downloadUrl": "https://www.si.com/.image/MTkxMDI5ODYzNzExMjU0MTcx/usatsi_8475567.jpg",
+  "sourcePage": "https://www.si.com/nba/hawks/news/atlanta-hawks-announce-hiring-of-kyle-korver",
+  "license": "unknown (USA TODAY Sports / Imagn via SI.com)",
+  "licenseUrl": null,
+  "author": "Brett Davis / USA TODAY Sports",
+  "credit": null,
+  "photoDate": "c. 2014-15 (at ORL, Amway Center; USA TODAY Sports 8475567, no caption on the page)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2131
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kyle-korver.jpg",
+  "selectedAt": "2026-10-17T11:17:09.578Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1072,
+    "y": 0,
+    "size": 1260
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (clapping, eyes up and off-camera, mouth open on a white mouthguard; engaged, not shouting)",
+  "jersey": "ATL navy road #26 (2007-15 design), likely 2014-15",
+  "concerns": "not nba.com: nba.com was blocking this machine (403); Hawks-site legacy photos are only 750px; exact game/season unverified (pre-2015-16 navy road set, Brett Davis shoots Magic home games); white mouthguard prominent; clapping hands sit at the bottom corners of the crop; head near the top edge so only ~5% headroom",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://www.si.com/.image/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/MTY4MTg2MzI4MjYxMjcyODQ5/kyle-korver-leadjpg.jpg",
+      "note": "(SI 2015, white home vs HOU, mid jump shot, small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/hawks/sites/hawks/files/korver_40.jpg",
+      "note": "(Hawks site legacy photo, 750px, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

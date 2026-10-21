@@ -1,0 +1,117 @@
+{
+  "player": "Dennis Rodman",
+  "playerId": "dennis-rodman",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-909339402-scaled-e1746898808882.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-909339402-scaled-e1746898808882.jpg",
+  "sourcePage": "https://www.nba.com/news/jogadores-do-chicago-bulls-com-mais-rebotes-por-jogo-em-uma-temporada",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "March 18, 1997 (United Center)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1079
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/dennis-rodman.jpg",
+  "selectedAt": "2026-10-14T03:27:44.971Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 723,
+    "y": 0,
+    "size": 960
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (mid-word reaction, mouth open showing teeth, eyes off-camera; animated but not shouting)",
+  "jersey": "CHI white home 1996-97",
+  "concerns": "upper edge of the band (talking/arguing mid-play); dyed pink-purple hair; extended arm is outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2022/03/Rodman-Archive-16x9-1.png",
+      "note": "(CHI red 1995-98 grinning with hand behind head, 265px, on a 75th title graphic)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/200426_rodman_cp.jpg",
+      "note": "(CHI white pointing both fingers up, celebration energy ~8.5, 236px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:03.239Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/dennis-rodman-344df214-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/dennis-rodman/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:06.270Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/dennis-rodman.png",
+  "webp": [
+    "assets/players/webp/dennis-rodman-1024.webp",
+    "assets/players/webp/dennis-rodman-400.webp",
+    "assets/players/webp/dennis-rodman-200.webp",
+    "assets/players/webp/dennis-rodman-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/05/GettyImages-909339402-scaled-e1746898808882.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:07.077Z",
+  "background": "transparent"
+}

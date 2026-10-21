@@ -1,0 +1,184 @@
+{
+  "player": "Immanuel Quickley",
+  "playerId": "immanuel-quickley",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2257694218-scaled-e1769394753302.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2257694218-scaled-e1769394753302.jpg",
+  "sourcePage": "https://www.nba.com/game/tor-vs-okc-0022500653",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1950,
+    1097
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/immanuel-quickley.jpg",
+  "selectedAt": "2026-10-05T01:53:39.432Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 707,
+    "y": 150,
+    "size": 491
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "TOR statement black 2025-26",
+  "concerns": "face 185px (below 250px target); slight motion softness",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T18:32:08.112Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/immanuel-quickley-b4f07940-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/immanuel-quickley/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T18:32:17.464Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/immanuel-quickley.png",
+  "webp": [
+    "assets/players/webp/immanuel-quickley-1024.webp",
+    "assets/players/webp/immanuel-quickley-400.webp",
+    "assets/players/webp/immanuel-quickley-200.webp",
+    "assets/players/webp/immanuel-quickley-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/01/GettyImages-2257694218-scaled-e1769394753302.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-05T18:32:17.746Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:38.674Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:15:43.542Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/immanuel-quickley-b4f07940-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/immanuel-quickley/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:16:16.390Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/immanuel-quickley-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/immanuel-quickley/out.png",
+        "fixes": [],
+        "base": "955b9291fa03d91b287bb491ee2d5ce9ca642da6",
+        "importedAt": "2026-10-11T19:41:14.800Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0065,
+          "face": 2.1,
+          "purity": 0.988,
+          "coverage": 0.137,
+          "strays": 4,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1187,
+          "oldEdge": 0.147,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/immanuel-quickley-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "old edge 14.7% is the black jersey beside dark skin",
+          "at": "2026-10-11T19:49:19.686Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/immanuel-quickley.webp",
+    "base": "955b9291fa03d91b287bb491ee2d5ce9ca642da6",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:20.520Z"
+  }
+}

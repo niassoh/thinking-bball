@@ -1,0 +1,64 @@
+{
+  "player": "Darryn Peterson",
+  "playerId": "darryn-peterson",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/10/2299424842.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/10/2299424842.jpg",
+  "sourcePage": "https://www.nba.com/jazz/news/utah-jazz-close-preseason-with-win-over-suns-three-takeaways",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-12 preseason vs SAS, Delta Center (Getty 2299424842: looks on during the game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/darryn-peterson.jpg",
+  "selectedAt": "2026-10-17T08:41:03.880Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 421,
+    "y": 69,
+    "size": 1764
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (looking off-camera with lips parted, alert, but eyes level rather than up)",
+  "jersey": "UTA white home 2026-27 (preseason)",
+  "concerns": "2026 rookie: preseason game photo, no regular season yet; energy at the low edge of the band (attentive look-off, mouth slightly open)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/10/2298716344.jpg",
+      "note": "(Oct 4 2026 at DEN, purple, talking and pointing at Jokic, energy ~7 but face soft/out of focus)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/10/DSC04467.jpg",
+      "note": "(Oct 6 2026 vs DEN, white, holding ball facing DeRozan, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

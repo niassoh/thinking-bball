@@ -1,0 +1,164 @@
+{
+  "player": "Baron Davis",
+  "playerId": "baron-davis",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/08/GettyImages-99304765.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/08/GettyImages-99304765.jpg",
+  "sourcePage": "https://www.nba.com/news/nba-birthdays-players-born-on-april-13",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "April 8, 2010 (at SAC, Arco Arena)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/baron-davis.jpg",
+  "selectedAt": "2026-10-14T03:33:56.991Z",
+  "sourceSelectionScore": 11,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 1,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 670,
+    "y": 3,
+    "size": 485
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (near-frontal look with furrowed brow and lips parted mid-breath; engaged but not looking up/off)",
+  "jersey": "LAC red road 2009-10",
+  "concerns": "FLAG: LAC not target GSW, face 183px, energy 5.5. No usable GSW in-game photo exists on nba.com (Warriors We Believe archive pages carry only graphics/celebrations) or Commons (GSW frames are 120-135px faces or soft 300-800px files)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Baron_throwback.jpg",
+      "note": "(GSW blue throwback 2008, mouth slightly open, but 132px face from an 847px soft file)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/USMC-14464.jpg",
+      "note": "(GSW 2005 vs LAL, 221px but head down under Devean George)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:36:56.959Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/baron-davis-646714b5-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/baron-davis/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:41:59.935Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/baron-davis.png",
+  "webp": [
+    "assets/players/webp/baron-davis-1024.webp",
+    "assets/players/webp/baron-davis-400.webp",
+    "assets/players/webp/baron-davis-200.webp",
+    "assets/players/webp/baron-davis-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/08/GettyImages-99304765.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:00.753Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/baron-davis-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/baron-davis/out.png",
+        "fixes": [],
+        "base": "6f9239b55c1740080d41181ba60d523fa51efd88",
+        "importedAt": "2026-10-14T20:25:52.839Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0067,
+          "face": 3.3,
+          "purity": 0.993,
+          "coverage": 0.193,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 866,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/baron-davis-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:09.592Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/baron-davis.webp",
+    "base": "6f9239b55c1740080d41181ba60d523fa51efd88",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:09.818Z"
+  }
+}

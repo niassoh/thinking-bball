@@ -1,0 +1,149 @@
+{
+  "player": "Josh Smith",
+  "playerId": "josh-smith",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/JoshSmith.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/JoshSmith.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:JoshSmith.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2012-03-24 (Hawks at Wizards, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    1258,
+    1634
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/josh-smith.jpg",
+  "selectedAt": "2026-10-17T05:32:49.786Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 30,
+    "y": 0,
+    "size": 816
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "slightly lower (on the floor between plays, eyes off to his right, lips parted; alert but calmer than McCain)",
+  "jersey": "ATL red road #5, 2011-12",
+  "concerns": "FLAG: energy ~5.5, a touch below the band (no in-game Hawks photo in the 6-8 band found: nba.com tagged posts, Hawks team-site articles and galleries, teammate-tagged posts, and Commons searched); slightly soft fan photo; red headband",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/08/GettyImages-113514409-1.jpg",
+      "note": "(2011 playoffs at CHI, red road, both arms raised celebrating with a mouthguard hanging out, off-target)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Josh_Smith_2010_cropped.jpg",
+      "note": "(CC BY 2.0, 2010 navy road, looking up mid-rebound with mouth open, energy ~7, but 635 px wide, small blurred face and red mouthguard)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:58.301Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/josh-smith-afc24fa9-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/josh-smith/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.226Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/josh-smith.png",
+  "webp": [
+    "assets/players/webp/josh-smith-1024.webp",
+    "assets/players/webp/josh-smith-400.webp",
+    "assets/players/webp/josh-smith-200.webp",
+    "assets/players/webp/josh-smith-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/9/9a/JoshSmith.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:49.839Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/josh-smith-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/josh-smith/out.png",
+        "fixes": [],
+        "base": "b3b73c000f16a668daed46b896523c63b2d8202a",
+        "importedAt": "2026-10-17T11:07:23.224Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0067,
+          "face": 5.1,
+          "purity": 0.992,
+          "coverage": 0.181,
+          "strays": 25,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1311,
+          "oldEdge": 0,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/josh-smith-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:57.265Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/josh-smith.webp",
+    "base": "b3b73c000f16a668daed46b896523c63b2d8202a",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:57.520Z"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "player": "Boris Diaw",
+  "playerId": "boris-diaw",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Boris_Diaw_Phoenix_Suns_2007.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Boris_Diaw_Phoenix_Suns_2007.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Boris_Diaw_Phoenix_Suns_2007.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2007-12-08 (at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    1867,
+    2153
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/boris-diaw.jpg",
+  "selectedAt": "2026-10-17T05:38:54.480Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 465,
+    "y": 274,
+    "size": 916
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (mid-word reacting to a call, mouth open, eyes off-camera)",
+  "jersey": "PHX purple road #3, 2007-08",
+  "concerns": "2007-08 rather than his 2005-06 peak, still with Phoenix; both hands raised in an innocent-gesture at the frame edges, outside the crop; a blurred opposing player behind his right shoulder in the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Boris_diaw_bobcats.jpg",
+      "note": "(Charlotte 2009, wrong team)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Boris_Diaw_Spurs.jpg",
+      "note": "(Spurs 2014, wrong team)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:51.622Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/boris-diaw-a86c12bb-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/boris-diaw/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.281Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/boris-diaw.png",
+  "webp": [
+    "assets/players/webp/boris-diaw-1024.webp",
+    "assets/players/webp/boris-diaw-400.webp",
+    "assets/players/webp/boris-diaw-200.webp",
+    "assets/players/webp/boris-diaw-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Boris_Diaw_Phoenix_Suns_2007.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:37.799Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/boris-diaw-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/boris-diaw/out.png",
+        "fixes": [],
+        "base": "097147f0fbf5ab7ed524a4c8fe1bfe8c0857b150",
+        "importedAt": "2026-10-17T11:06:56.894Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0053,
+          "face": 5.2,
+          "purity": 0.991,
+          "coverage": 0.198,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1019,
+          "oldEdge": 0,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/boris-diaw-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:51.819Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/boris-diaw.webp",
+    "base": "097147f0fbf5ab7ed524a4c8fe1bfe8c0857b150",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:52.053Z"
+  }
+}

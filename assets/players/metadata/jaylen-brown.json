@@ -1,0 +1,248 @@
+{
+  "player": "Jaylen Brown",
+  "playerId": "jaylen-brown",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2253202551.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2253202551.jpg",
+  "sourcePage": "https://www.nba.com/news/the-athletic-i-believe-im-the-best-two-way-player-in-the-world-jaylen-brown-goes-off",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jaylen-brown.jpg",
+  "selectedAt": "2026-10-05T01:37:23.926Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 627,
+    "y": 0,
+    "size": 642
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "PHI (jersey edit from tyrese-maxey's)",
+  "concerns": "face 243px, just under 250 target",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 4,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:25.279Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "PHI (jersey edit from tyrese-maxey's)",
+      "file": "assets/players/attempts/jaylen-brown-19322b4f-r4-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/jaylen-brown/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:50.280Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jaylen-brown.png",
+  "webp": [
+    "assets/players/webp/jaylen-brown-1024.webp",
+    "assets/players/webp/jaylen-brown-400.webp",
+    "assets/players/webp/jaylen-brown-200.webp",
+    "assets/players/webp/jaylen-brown-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/01/GettyImages-2253202551.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:50.541Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:17.177Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-05T01:37:28.572Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/jaylen-brown-19322b4f-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": null,
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T01:39:30.661Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:36.719Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:43:49.118Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/jaylen-brown-19322b4f-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/jaylen-brown/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:43:55.304Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "reason": "jersey: BOS -> PHI",
+      "archivedAt": "2026-10-09T08:56:25.209Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 3,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T19:25:28.100Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/jaylen-brown-19322b4f-r3-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/jaylen-brown/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T19:25:31.930Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 4,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jaylen-brown-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/jaylen-brown/out.png",
+        "fixes": [],
+        "base": "cf2916a55a02392cf65e4aa1ad797c0f6a5cfde7",
+        "importedAt": "2026-10-12T03:32:53.325Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0037,
+          "face": 2.6,
+          "purity": 0.991,
+          "coverage": 0.166,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1048,
+          "oldEdge": 0,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/jaylen-brown-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:47.192Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/jaylen-brown.webp",
+    "base": "cf2916a55a02392cf65e4aa1ad797c0f6a5cfde7",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:41:58.370Z"
+  }
+}

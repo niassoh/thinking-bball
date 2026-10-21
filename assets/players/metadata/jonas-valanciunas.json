@@ -1,0 +1,143 @@
+{
+  "player": "Jonas Valančiūnas",
+  "playerId": "jonas-valanciunas",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/07/jonas-valanciunas.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/07/jonas-valanciunas.jpg",
+  "sourcePage": "https://www.nba.com/news/nuggets-no-concerns-about-valanciunas-status",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jonas-valanciunas.jpg",
+  "selectedAt": "2026-10-05T19:16:54.056Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 453,
+    "y": 0,
+    "size": 1080
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "different (broad in-game grin rather than alert look)",
+  "jersey": "SAC black Icon 2024-25 (older team)",
+  "concerns": "OLDER TEAM: Kings 2024-25; 2025-26 Nuggets gallery images are only 683x1024 (faces <140px) and the only DEN article photo has a tiny profile face; expression is a big smile, not McCain-style alertness; hero image not Getty-named, identity verified visually (Valanciunas, Kings)",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:31.926Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jonas-valanciunas-5a4b49e7-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/jonas-valanciunas/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:02:59.883Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jonas-valanciunas.png",
+  "webp": [
+    "assets/players/webp/jonas-valanciunas-1024.webp",
+    "assets/players/webp/jonas-valanciunas-400.webp",
+    "assets/players/webp/jonas-valanciunas-200.webp",
+    "assets/players/webp/jonas-valanciunas-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/07/jonas-valanciunas.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:03:00.171Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jonas-valanciunas-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/jonas-valanciunas/out.png",
+        "fixes": [],
+        "base": "9cbae4d71d95e3e7e83ad4a99345dd26f035c8b7",
+        "importedAt": "2026-10-12T03:33:02.629Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0066,
+          "face": 3,
+          "purity": 0.99,
+          "coverage": 0.139,
+          "strays": 24,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 821,
+          "oldEdge": 0.053,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/jonas-valanciunas-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "old-edge false positive: black jersey beside his beard",
+          "at": "2026-10-12T03:41:53.090Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/jonas-valanciunas.webp",
+    "base": "9cbae4d71d95e3e7e83ad4a99345dd26f035c8b7",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:01.133Z"
+  }
+}

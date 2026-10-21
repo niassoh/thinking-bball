@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "LAL",
+  "gp": 62,
+  "generatedAt": "2026-10-02T03:23:09.369Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · LAL",
+      "minutes": 1769,
+      "poss": 3616,
+      "net": 7.079646017699115
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · LAL",
+      "minutes": 2172,
+      "poss": 4477,
+      "net": -2.5016752289479562
+    },
+    {
+      "label": "On, w/o Dončić",
+      "sub": "2025–26 · LAL",
+      "minutes": 599,
+      "poss": 1212,
+      "net": 5.693069306930694
+    },
+    {
+      "label": "On, w/o LaRavia",
+      "sub": "2025–26 · LAL",
+      "minutes": 902,
+      "poss": 1840.5,
+      "net": 11.7359413202934
+    },
+    {
+      "label": "On, w/o James",
+      "sub": "2025–26 · LAL",
+      "minutes": 716,
+      "poss": 1469.5,
+      "net": 11.568560734943858
+    },
+    {
+      "label": "Neither Smart nor Dončić",
+      "sub": "2025–26 · LAL",
+      "minutes": 1053,
+      "poss": 2123.5,
+      "net": -5.274311278549564
+    }
+  ]
+}

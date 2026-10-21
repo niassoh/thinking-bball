@@ -1,0 +1,149 @@
+{
+  "player": "Toni Kukoc",
+  "playerId": "toni-kukoc",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/toni.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/toni.jpg",
+  "sourcePage": "https://www.nba.com/bulls/news/sam-smith-history-second-round-draft",
+  "license": "unknown (Chicago Bulls / NBA.com; likely Getty Images / NBAE)",
+  "licenseUrl": null,
+  "author": "NBA.com (likely Getty Images / NBAE)",
+  "credit": null,
+  "photoDate": "c. 1995-99 (at SAS, Alamodome; exact game unverified)",
+  "originalSize": null,
+  "storedSize": [
+    1600,
+    900
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/toni-kukoc.jpg",
+  "selectedAt": "2026-10-17T05:50:41.226Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 664,
+    "y": 25,
+    "size": 400
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (driving with the ball, mouth open on the effort, eyes ahead; game intensity but not a scream)",
+  "jersey": "CHI red road #7, c. 1995-99",
+  "concerns": "FLAG: pre-2005 film scan with a small face, ~135 px tall (crop 400 px, will be upscaled); renamed team-site image, no Getty caption, game and season unverified; lower teeth show on the effort. Searched: nba.com tagged posts, Bulls team-site articles and galleries (incl. Toni Kukoc over the years), 1990s Bulls league posts, Commons (Bucks only)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/i.cdn.turner.com/drp/nba/bulls/sites/default/files/150911_samhof_kukoc.jpg",
+      "note": "(c. 1996-98 vs MIL, white home posting up Ray Allen, mouth open, energy ~6, but eyes cast down, 3/4 profile and an even smaller, softer face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/hp_kukoc_160213.jpg",
+      "note": "(1996 Finals Game 6, white home, arms raised in a broad title celebration, off-target)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:02.706Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/toni-kukoc-bd475ce7-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/toni-kukoc/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.841Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/toni-kukoc.png",
+  "webp": [
+    "assets/players/webp/toni-kukoc-1024.webp",
+    "assets/players/webp/toni-kukoc-400.webp",
+    "assets/players/webp/toni-kukoc-200.webp",
+    "assets/players/webp/toni-kukoc-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/toni.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:58.784Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/toni-kukoc-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/toni-kukoc/out.png",
+        "fixes": [],
+        "base": "50df20907fbb5409d95a3154feb4f1829ad66d0e",
+        "importedAt": "2026-10-17T11:07:50.319Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 0
+          },
+          "silhouette": 0.0075,
+          "face": 3.5,
+          "purity": 0.985,
+          "coverage": 0.124,
+          "strays": 2,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1617,
+          "oldEdge": 0.019,
+          "shadeLevels": 15,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/toni-kukoc-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:12:03.391Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/toni-kukoc.webp",
+    "base": "50df20907fbb5409d95a3154feb4f1829ad66d0e",
+    "shift": {
+      "dx": -1,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:12:03.653Z"
+  }
+}

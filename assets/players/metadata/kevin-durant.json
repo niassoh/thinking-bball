@@ -1,0 +1,217 @@
+{
+  "player": "Kevin Durant",
+  "playerId": "kevin-durant",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/04/GettyImages-2271051192-scaled-e1776556738557.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/04/GettyImages-2271051192-scaled-e1776556738557.jpg",
+  "sourcePage": "https://www.nba.com/news/kevin-durant-out-game-1",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1442
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kevin-durant.jpg",
+  "selectedAt": "2026-10-05T01:37:42.027Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 650,
+    "y": 0,
+    "size": 999
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "HOU H-Town city edition white 2025-26",
+  "concerns": null,
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:20:34.099Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kevin-durant-af7c3938-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/kevin-durant/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:20:44.153Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kevin-durant.png",
+  "webp": [
+    "assets/players/webp/kevin-durant-1024.webp",
+    "assets/players/webp/kevin-durant-400.webp",
+    "assets/players/webp/kevin-durant-200.webp",
+    "assets/players/webp/kevin-durant-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/04/GettyImages-2271051192-scaled-e1776556738557.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T02:20:44.463Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:16.754Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-05T01:37:46.550Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/kevin-durant-af7c3938-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": null,
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T01:39:49.493Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:36.089Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:46:50.570Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/kevin-durant-af7c3938-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/kevin-durant/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:46:56.701Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/kevin-durant-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key-pilot/kevin-durant/out.png",
+        "fixes": [],
+        "base": "bf1e14635191333cc74d7f1e152b6fe6d06d7f10",
+        "importedAt": "2026-10-11T16:54:57.962Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0048,
+          "face": 4.8,
+          "purity": 0.986,
+          "coverage": 0.169,
+          "strays": 80,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1807,
+          "oldEdge": 0,
+          "shadeLevels": 15,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/kevin-durant-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA on the pilot sheet: jersey fully keyed, lettering/logos/patches gone, accessories untouched, face unchanged",
+          "at": "2026-10-11T16:57:47.900Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/kevin-durant.webp",
+    "base": "bf1e14635191333cc74d7f1e152b6fe6d06d7f10",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T16:57:50.108Z"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "player": "Caleb Wilson",
+  "playerId": "caleb-wilson",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2298871777.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2298871777.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/3-pointer-by-caleb-wilson-3",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-09 preseason (vs MEM, United Center; Getty caption: looks on during the game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/caleb-wilson.jpg",
+  "selectedAt": "2026-10-17T08:55:27.106Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1229,
+    "y": 73,
+    "size": 658
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (near-frontal, eyes up and off-camera, lips parted, calmer than McCain’s open mouth)",
+  "jersey": "CHI white home #8 2026-27 preseason",
+  "concerns": "2026 No. 4 pick (UNC), no NBA regular season yet: 2026 preseason photo in his NBA uniform; crop scaled from the 3600px original to the saved 3000px copy; a calm look-on moment at the low end of the band",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2298506111.jpg",
+      "note": "(Oct 7 2026 preseason vs PHX, white, looks on with mouth open, energy ~6, 5000px, but head turned to a strong 3/4)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2298520529.jpg",
+      "note": "(Oct 7 2026 preseason vs PHX, white, hands on knees looking near camera, energy ~5.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612741/2026/07/260716_SamSmith_CalebWilson_SummerLeague_16x9.jpg",
+      "note": "(Summer League vs LAL, white, dribbling with mouth open, energy ~6.5, 1541px, face ~230px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

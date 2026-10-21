@@ -1,0 +1,64 @@
+{
+  "player": "Caris LeVert",
+  "playerId": "caris-levert",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/07/GettyImages-2203484497cl.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/07/GettyImages-2203484497cl.jpg",
+  "sourcePage": "https://www.nba.com/news/the-athletic-caris-leverts-michigan-homecoming-could-unlock-potential-for-pistons",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2025-03-08 (vs IND, State Farm Arena)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/caris-levert.jpg",
+  "selectedAt": "2026-10-17T05:51:53.275Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 719,
+    "y": 31,
+    "size": 430
+  },
+  "needsReview": "no MIL or DET in-game photo with a usable face: scanned 174 Pistons team-site articles from 2025-26, all 96 DET 2025-26 nba.com game pages, MIL 2026 preseason game pages, the Pistons-Cavs 2026 playoff pages and the Pistons galleries (media day only); Commons has only Michigan/Nets/Cavs photos",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (broad grin after a made three, eyes off to his right)",
+  "jersey": "ATL white City Edition 2024-25",
+  "concerns": "FLAG: Hawks jersey (2024-25), not MIL (2026-27) or DET (2025-26); a grin rather than McCain’s open-mouth look; three-finger gesture sits below the crop; face ~220px",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612765/2026/06/GettyImages-2276275255.jpg",
+      "note": "(DET blue, 2026 ECSF Game 7 vs CLE, the only Pistons photo found, but full-body dribble with a ~70px face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/11/GettyImages-2178443781-scaled-e1731361179235.jpg",
+      "note": "(CLE wine, 2024-10-18 preseason at CHI, lip-bite look at the camera, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

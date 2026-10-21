@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "MIA",
+  "gp": 68,
+  "generatedAt": "2026-10-02T04:25:57.765Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · MIA",
+      "minutes": 2063,
+      "poss": 4435.5,
+      "net": 0.2029083530605343
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · MIA",
+      "minutes": 1878,
+      "poss": 4059.5,
+      "net": 4.483310752555734
+    },
+    {
+      "label": "On, w/o Adebayo",
+      "sub": "2025–26 · MIA",
+      "minutes": 704,
+      "poss": 1547.5,
+      "net": -2.8432956381260097
+    },
+    {
+      "label": "On, w/o Jaquez Jr.",
+      "sub": "2025–26 · MIA",
+      "minutes": 1219,
+      "poss": 2614,
+      "net": -2.1423106350420813
+    },
+    {
+      "label": "On, w/o Mitchell",
+      "sub": "2025–26 · MIA",
+      "minutes": 760,
+      "poss": 1661.5,
+      "net": -4.995486006620524
+    },
+    {
+      "label": "Neither Wiggins nor Adebayo",
+      "sub": "2025–26 · MIA",
+      "minutes": 872,
+      "poss": 1913.5,
+      "net": -5.016984583224458
+    }
+  ]
+}

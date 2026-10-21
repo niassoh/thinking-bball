@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "BOS",
+  "gp": 7,
+  "generatedAt": "2026-10-09T19:16:58.267Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 152,
+      "poss": 290,
+      "net": 1.0344827586206897
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 184,
+      "poss": 361.5,
+      "net": 4.702627939142462
+    },
+    {
+      "label": "On, w/o White",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 23,
+      "poss": 44,
+      "net": 15.909090909090908
+    },
+    {
+      "label": "On, w/o Brown",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 28,
+      "poss": 50,
+      "net": 36
+    },
+    {
+      "label": "On, w/o Pritchard",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 62,
+      "poss": 122.5,
+      "net": -13.877551020408163
+    },
+    {
+      "label": "Neither Queta nor White",
+      "sub": "2025–26 playoffs · BOS",
+      "minutes": 62,
+      "poss": 120,
+      "net": 30.833333333333336
+    }
+  ]
+}

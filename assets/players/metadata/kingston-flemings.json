@@ -1,0 +1,58 @@
+{
+  "player": "Kingston Flemings",
+  "playerId": "kingston-flemings",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2298668755_cropped.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2298668755_cropped.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/kingston-flemings-rises-up-for-the-dunk",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-08 (2026-27 preseason at SAS, Frost Bank Center; Getty caption: handles the ball)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kingston-flemings.jpg",
+  "selectedAt": "2026-10-17T11:05:22.676Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 220,
+    "y": 0,
+    "size": 920
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (alert, eyes off-camera to his right, lips parted with the lower lip caught in his teeth mid-dribble; more composed than McCain)",
+  "jersey": "ATL red icon, 2026-27 preseason",
+  "concerns": "2026 draftee (Houston), no NBA regular season yet: 2026-27 preseason game; nba.com 1920x1080 crop of the Getty original, so the top of his braids sits at the image edge (hair top ~2% down the crop, less headroom than wanted); the only other nba.com Flemings photo is the posed July 2026 rookie photo shoot",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/09/GettyImages-2286263008.jpg",
+      "note": "(nba.com, 2026 Rookie Photo Shoot portrait, posed, off-rule)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

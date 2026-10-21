@@ -1,0 +1,64 @@
+{
+  "player": "Kobe Sanders",
+  "playerId": "kobe-sanders",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2266505958-scaled-e1782882393300.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2266505958-scaled-e1782882393300.jpg",
+  "sourcePage": "https://www.nba.com/news/clippers-kobe-sanders-free-agency",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-03-16 vs SAS, Intuit Dome (Getty caption: plays defense)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1442
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kobe-sanders.jpg",
+  "selectedAt": "2026-10-17T08:33:08.129Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 881,
+    "y": 28,
+    "size": 825
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (locked-in defensive stance, eyes on the ball handler, mouth slightly open mid-breath; looking ahead rather than up)",
+  "jersey": "LAC navy Icon home 2025-26 (re-signed with LAC for 2026-27)",
+  "concerns": "face ~250px hairline-to-chin (~420px with hair), at the size threshold; looking ahead toward the camera side rather than up/off; the Spurs ball handler’s ball sits at the left edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/kobe-sanders-260105-2254254617.jpg",
+      "note": "(2026-01-05 vs GSW driving past Curry, face only ~150px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285673608-scaled-e1784175922750.jpg",
+      "note": "(Summer League 2026 vs WAS, shooting a three, arms up toward the face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

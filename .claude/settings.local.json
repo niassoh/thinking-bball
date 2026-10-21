@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python update_player_data.py:*)",
+      "Bash(python check_structure.py:*)",
+      "Bash(python check_structure2.py:*)",
+      "Bash(python decompress_and_merge.py:*)",
+      "Bash(python debug_decompression.py:*)",
+      "Bash(python:*)",
+      "Bash(node *)",
+      "Bash(git push *)",
+      "Bash(chmod +x /Users/pzh/thinking-bball/automation.sh)",
+      "Bash(bash /Users/pzh/thinking-bball/automation.sh)",
+      "Bash(command -v node)",
+      "Read(//usr/local/bin/**)"
+    ]
+  }
+}

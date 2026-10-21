@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "MIN",
+  "gp": 12,
+  "generatedAt": "2026-10-09T18:49:10.120Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 406,
+      "poss": 836.5,
+      "net": -7.053197848176927
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 170,
+      "poss": 367,
+      "net": -2.997275204359673
+    },
+    {
+      "label": "On, w/o Randle",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 92,
+      "poss": 192,
+      "net": -4.6875
+    },
+    {
+      "label": "On, w/o Gobert",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 127,
+      "poss": 268.5,
+      "net": -5.21415270018622
+    },
+    {
+      "label": "On, w/o Edwards",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 171,
+      "poss": 346.5,
+      "net": -3.463203463203463
+    },
+    {
+      "label": "Neither McDaniels nor Randle",
+      "sub": "2025–26 playoffs · MIN",
+      "minutes": 84,
+      "poss": 182,
+      "net": 3.296703296703297
+    }
+  ]
+}

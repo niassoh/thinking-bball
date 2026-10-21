@@ -1,0 +1,164 @@
+{
+  "player": "Rajon Rondo",
+  "playerId": "rajon-rondo",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/07/GettyImages-459877212-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/07/GettyImages-459877212-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/boston-celtics-single-season-assists-per-game-leaders",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "November 14, 2014 (vs CLE, TD Garden)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1686
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/rajon-rondo.jpg",
+  "selectedAt": "2026-10-14T03:37:05.696Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 599,
+    "y": 0,
+    "size": 1300
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower (eyes up just past the camera, lips barely parted; a calm look-on after a missed buzzer shot)",
+  "jersey": "BOS white home 2014-15 (headband)",
+  "concerns": "FLAG: energy 5 and past his 2008-13 prime. No sharp prime-era BOS frame with a face over 150px exists on nba.com (Celtics legacy pages carry 400-970px web copies) or Commons (2008-12 frames are profiles, soft, or 70-145px faces)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/celtics/sites/celtics/files/rondo-stare-970x442_0.jpg",
+      "note": "(BOS white 2011, side-eye with lips parted, energy 6, but a 129px face on a 970px web copy)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Taken_at_the_Knicks-Celtics_Game_on_122511.jpg",
+      "note": "(BOS green Dec 25 2011, 233px, but a soft profile with fans’ faces behind him)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:11.722Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/rajon-rondo-2be8a7b7-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/rajon-rondo/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:27.268Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/rajon-rondo.png",
+  "webp": [
+    "assets/players/webp/rajon-rondo-1024.webp",
+    "assets/players/webp/rajon-rondo-400.webp",
+    "assets/players/webp/rajon-rondo-200.webp",
+    "assets/players/webp/rajon-rondo-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/07/GettyImages-459877212-scaled.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:27.717Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/rajon-rondo-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/rajon-rondo/out.png",
+        "fixes": [],
+        "base": "ef39d6acb796a55bd5f047a5b38cbdeb680844e2",
+        "importedAt": "2026-10-14T20:26:21.725Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0037,
+          "face": 2.7,
+          "purity": 0.991,
+          "coverage": 0.125,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 943,
+          "oldEdge": 0.003,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/rajon-rondo-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:15.402Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/rajon-rondo.webp",
+    "base": "ef39d6acb796a55bd5f047a5b38cbdeb680844e2",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:15.621Z"
+  }
+}

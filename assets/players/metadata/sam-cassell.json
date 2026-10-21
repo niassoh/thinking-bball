@@ -1,0 +1,69 @@
+{
+  "player": "Sam Cassell",
+  "playerId": "sam-cassell",
+  "sourceUrl": "https://platform.canishoopus.com/wp-content/uploads/sites/58/chorus/uploads/chorus_asset/file/24248319/52482544.jpg",
+  "downloadUrl": "https://platform.canishoopus.com/wp-content/uploads/sites/58/chorus/uploads/chorus_asset/file/24248319/52482544.jpg",
+  "sourcePage": "https://www.canishoopus.com/2022/12/1/23488585/revisiting-minnesota-timberwolves-trade-history-rudy-gobert-dangelo-russell-sam-cassell",
+  "license": "unknown (Getty Images, on SB Nation Canis Hoopus)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2005-03-26 (at NJ, Continental Airlines Arena)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2372
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/sam-cassell.jpg",
+  "selectedAt": "2026-10-17T05:42:37.030Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 680,
+    "y": 70,
+    "size": 940
+  },
+  "needsReview": "no in-game MIN photo in the 6-8 energy band with a frontal-to-3/4 face found: searched nba.com (season reviews, Wolves single-season and playoff leader pages, birthday pages, Wolves team-site history/photos, 61 Garnett-scanned articles), Commons (category and full-text, only Bucks/Clippers/Celtics/coach photos), the shared Getty caption cache (no Cassell captions) and every Canis Hoopus article naming him; WebSearch budget ran out mid-search, so more nba.com/editorial pages may exist",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (posting up, eyes down toward the defender, lips parted, focused rather than looking up)",
+  "jersey": "MIN black road 2004-05",
+  "concerns": "FLAG: energy ~5.5 and head near profile (strong 3/4, eyes down); Getty id 52482544 (caption: Cassell controls the ball from Travis Best); editorial copy on SB Nation, not nba.com; ball and his hand at the lower-left crop edge; crop kept left of Travis Best face, so Cassell sits right of centre",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.canishoopus.com/wp-content/uploads/sites/58/chorus/uploads/chorus_asset/file/19899199/SAM_KG.jpg",
+      "note": "(MIN white home 2003-05, high-five with Garnett, Cassell faces away)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cassell_Guards_Bibby.jpg",
+      "note": "(Commons, BOS 2008, wrong team)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ]
+}

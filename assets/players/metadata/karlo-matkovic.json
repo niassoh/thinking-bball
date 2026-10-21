@@ -1,0 +1,64 @@
+{
+  "player": "Karlo Matkovic",
+  "playerId": "karlo-matkovic",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2025/11/2244724641.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2025/11/2244724641.jpg",
+  "sourcePage": "https://www.nba.com/pelicans/photos/karlo-matkovic-photos-new-orleans-pelicans-forward-2025-26-nba-season-recap",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Tim Heitman / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2025-11-05 (at DAL, American Airlines Center; caption: boxes out during the game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/karlo-matkovic.jpg",
+  "selectedAt": "2026-10-17T08:49:53.538Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1415,
+    "y": 91,
+    "size": 555
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out, eyes up at the shot, brows raised, mouth open mid-breath)",
+  "jersey": "NOP white #17 2025-26",
+  "concerns": "a Mavericks defender’s shoulder touches the left edge of the crop (his face is outside it); crop scaled from the 5000px original to the saved 3000px copy; 2025-26 rather than 2026 preseason (2026 preseason gallery copies are 1280-1920px full-body shots with tiny faces)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2025/12/gallery-pelicans-nets-game-actions-12-6-2025-28.jpg",
+      "note": "(Dec 6 2025 at BKN, white, looking to pass with mouth parted, energy ~6.5, 1920px, face ~230px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2026/10/Pelicans-Wizards-10-16-2026-game-action-gallery-09.jpg",
+      "note": "(Oct 16 2026 preseason vs WAS, driving full-body, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

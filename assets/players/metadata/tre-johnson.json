@@ -1,0 +1,58 @@
+{
+  "player": "Tre Johnson",
+  "playerId": "tre-johnson",
+  "sourceUrl": "https://platform.bulletsforever.com/wp-content/uploads/sites/52/2026/03/gettyimages-2265499748.jpg?quality=90&strip=all&crop=25%2C15%2C50%2C75",
+  "downloadUrl": "https://platform.bulletsforever.com/wp-content/uploads/sites/52/2026/03/gettyimages-2265499748.jpg?quality=90&strip=all&crop=25%2C15%2C50%2C75",
+  "sourcePage": "https://www.bulletsforever.com/washington-wizards-gamethreads/73413/wizards-at-pelicans-discussion",
+  "license": "unknown (Getty Images, via Bullets Forever / Vox Media)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-03-08 (at NOP, Smoothie King Center; Getty caption: takes a shot over Jeremiah Fears, first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tre-johnson.jpg",
+  "selectedAt": "2026-10-17T11:14:24.870Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 580,
+    "y": 543,
+    "size": 900
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up toward the rim, mouth open mid-breath, engaged; not straining)",
+  "jersey": "WAS red icon #12, 2025-26",
+  "concerns": "not nba.com: Getty photo from an SB Nation page (no watermark), license unknown; URL asks the Vox image server for the centre 3000x3000 of the 6000x4000 original at full resolution, so the face keeps ~440 px instead of being halved by the 3000 px cap; mid-jumper, so his raised arm and the defender’s arm frame the head at both crop edges (face itself clear); white headband over the hairline; 2025-26 rather than 2026-27 (same team); nba.com has no captioned in-game photo of him (Wizards post no game galleries) and Commons has only media-day and college shots",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tre_Johnson_Media_Day.jpg",
+      "note": "(Commons, 2025 media day, posed, off-rule)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

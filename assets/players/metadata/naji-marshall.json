@@ -1,0 +1,184 @@
+{
+  "player": "Naji Marshall",
+  "playerId": "naji-marshall",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/08/GettyImages-2269419457-scaled-e1785712527250.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/08/GettyImages-2269419457-scaled-e1785712527250.jpg",
+  "sourcePage": "https://www.nba.com/news/mavericks-sign-forward-naji-marshall-to-contract-extension",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2163,
+    1216
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/naji-marshall.jpg",
+  "selectedAt": "2026-10-05T02:26:51.087Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 700,
+    "y": 23,
+    "size": 717
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (broad smile rather than focused)",
+  "jersey": "DAL navy 2025-26",
+  "concerns": "broad in-game smile, not the focused McCain look; white T-shirt under jersey (his usual in-game look); only usable 2025-26 nba.com photo found",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:12:37.726Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/naji-marshall-43e52c1e-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/naji-marshall/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:13:05.635Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/naji-marshall.png",
+  "webp": [
+    "assets/players/webp/naji-marshall-1024.webp",
+    "assets/players/webp/naji-marshall-400.webp",
+    "assets/players/webp/naji-marshall-200.webp",
+    "assets/players/webp/naji-marshall-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/08/GettyImages-2269419457-scaled-e1785712527250.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T02:13:05.907Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:45.627Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:04:42.483Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/naji-marshall-43e52c1e-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/naji-marshall/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:04:48.020Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/naji-marshall-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/naji-marshall/out.png",
+        "fixes": [],
+        "base": "a1fc4ead6acdd383b3eed3f4dff0934d593ba5cf",
+        "importedAt": "2026-10-12T03:34:05.205Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0044,
+          "face": 3.4,
+          "purity": 0.994,
+          "coverage": 0.191,
+          "strays": 10,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 847,
+          "oldEdge": 0.152,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/naji-marshall-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "old-edge false positive: white T-shirt (crew neck and sleeves), rightly left",
+          "at": "2026-10-12T03:41:53.524Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/naji-marshall.webp",
+    "base": "a1fc4ead6acdd383b3eed3f4dff0934d593ba5cf",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:15.133Z"
+  }
+}

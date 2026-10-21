@@ -1,0 +1,93 @@
+{
+  "player": "Day'Ron Sharpe",
+  "playerId": "day-ron-sharpe",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2255472051.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2255472051.jpg",
+  "sourcePage": "https://www.nba.com/game/lac-vs-bkn-0022500535",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-01-09 (vs LAC, Barclays Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/day-ron-sharpe.jpg",
+  "selectedAt": "2026-10-17T05:58:50.589Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1911,
+    "y": 332,
+    "size": 961
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (sprinting back on defense beside Kawhi Leonard, mouth open mid-breath, eyes locked ahead)",
+  "jersey": "BKN black City Edition 2025-26",
+  "concerns": "head tipped forward while running (forehead toward camera); his own swinging arm and a blurred background player sit at the crop edges, face clear; the game page embeds a cropped -scaled-e copy of this same Getty photo (id 2255472051, caption names Kawhi first), the full file is used here",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2264947553-scaled-e1773358606336.jpg",
+      "note": "(BKN white, Mar 5 2026 at MIA, walking off with the thumb injury, eyes down, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Dayron_Sharpe_%2851833854120%29_%28cropped%29.jpg",
+      "note": "(Commons CC BY-SA 2.0, BKN white Jan 2022 at WAS, mouth open looking off, energy ~6.5, but four seasons old and a ~210px face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:54.087Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/day-ron-sharpe-9efbafe5-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/day-ron-sharpe/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.876Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/day-ron-sharpe.png",
+  "webp": [
+    "assets/players/webp/day-ron-sharpe-1024.webp",
+    "assets/players/webp/day-ron-sharpe-400.webp",
+    "assets/players/webp/day-ron-sharpe-200.webp",
+    "assets/players/webp/day-ron-sharpe-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/01/GettyImages-2255472051.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:41.338Z",
+  "background": "transparent"
+}

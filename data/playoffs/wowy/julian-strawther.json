@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "DEN",
+  "gp": 2,
+  "generatedAt": "2026-10-09T18:31:13.743Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 18,
+      "poss": 41.5,
+      "net": -12.048192771084338
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 270,
+      "poss": 551.5,
+      "net": -3.9891205802357206
+    },
+    {
+      "label": "On, w/o Murray",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 14,
+      "poss": 33.5,
+      "net": -14.925373134328357
+    },
+    {
+      "label": "On, w/o Jokić",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 9,
+      "poss": 17.5,
+      "net": null
+    },
+    {
+      "label": "On, w/o Braun",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 18,
+      "poss": 40,
+      "net": -12.5
+    },
+    {
+      "label": "Neither Strawther nor Murray",
+      "sub": "2025–26 playoffs · DEN",
+      "minutes": 36,
+      "poss": 71.5,
+      "net": 8.391608391608392
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "player": "Dikembe Mutombo",
+  "playerId": "dikembe-mutombo",
+  "sourceUrl": "https://cdn.nba.com/manage/2022/09/mutomboclassicgames.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2022/09/mutomboclassicgames.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/12-14-1999-hawks-vs-timberwolves-mutombo-dominates",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": "c. 1997-99 (ATL vs IND at the Georgia Dome; dated by uniform and arena, no caption)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/dikembe-mutombo.jpg",
+  "selectedAt": "2026-10-14T03:37:18.449Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 706,
+    "y": 306,
+    "size": 592
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (signature finger wag after a block, looking up off-camera, lips pressed; focused rather than open-mouthed)",
+  "jersey": "ATL white home 1997-99",
+  "concerns": "face ~224px (crop 592px, will be upscaled); film grain; his raised wristband touches the top-left crop corner; renamed nba.com file inside a gold frame graphic (crop stays inside the frame), identity checked visually",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2015/09/dikembe-mutombo-iso-archives.jpg",
+      "note": "(huge 607px face, broad laugh, dark red-trim road jersey of uncertain team/year)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dikembe_Mutombo_%282006-12-10%29.jpg",
+      "note": "(HOU red 2006, 373px, sharp but neutral stare, energy ~4)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:03.977Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/dikembe-mutombo-fc5f27ed-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/dikembe-mutombo/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:09.899Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/dikembe-mutombo.png",
+  "webp": [
+    "assets/players/webp/dikembe-mutombo-1024.webp",
+    "assets/players/webp/dikembe-mutombo-400.webp",
+    "assets/players/webp/dikembe-mutombo-200.webp",
+    "assets/players/webp/dikembe-mutombo-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2022/09/mutomboclassicgames.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:10.734Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/dikembe-mutombo-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/dikembe-mutombo/out.png",
+        "fixes": [],
+        "base": "a519fef33ab38dc6bf3ee7f8166e29fe7ad2e896",
+        "importedAt": "2026-10-14T20:26:02.314Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0066,
+          "face": 6.7,
+          "purity": 0.984,
+          "coverage": 0.101,
+          "strays": 5,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1327,
+          "oldEdge": 0,
+          "shadeLevels": 10,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/dikembe-mutombo-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:11.204Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/dikembe-mutombo.webp",
+    "base": "a519fef33ab38dc6bf3ee7f8166e29fe7ad2e896",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:11.422Z"
+  }
+}

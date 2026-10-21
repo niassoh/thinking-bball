@@ -1,0 +1,173 @@
+{
+  "player": "Dennis Schröder",
+  "playerId": "dennis-schroder",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2263023095-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2263023095-scaled.jpg",
+  "sourcePage": "https://www.nba.com/game/0022500846",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/dennis-schroder.jpg",
+  "selectedAt": "2026-10-05T19:22:30.650Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1045,
+    "y": 106,
+    "size": 668
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (free throw, looking up at rim, mouth open)",
+  "jersey": "CHA (jersey edit from brandon-miller's)",
+  "concerns": "headband; traded to CHA Aug 2026 (2025-26 CLE jersey)",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:23.736Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "CHA (jersey edit from brandon-miller's)",
+      "file": "assets/players/attempts/dennis-schroder-4951de07-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/dennis-schroder/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:46.968Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/dennis-schroder.png",
+  "webp": [
+    "assets/players/webp/dennis-schroder-1024.webp",
+    "assets/players/webp/dennis-schroder-400.webp",
+    "assets/players/webp/dennis-schroder-200.webp",
+    "assets/players/webp/dennis-schroder-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/02/GettyImages-2263023095-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:47.239Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: CLE -> CHA",
+      "archivedAt": "2026-10-09T08:56:23.660Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T04:01:31.187Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/dennis-schroder-4951de07-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/dennis-schroder/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T04:02:57.809Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/dennis-schroder-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key-pilot/dennis-schroder/out.png",
+        "fixes": [],
+        "base": "129fef31f28b61e187c50abb6c52577d92fa6be5",
+        "importedAt": "2026-10-11T16:43:40.675Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0036,
+          "face": 2.1,
+          "purity": 0.993,
+          "coverage": 0.165,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 578,
+          "oldEdge": 0,
+          "shadeLevels": 7,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/dennis-schroder-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: all jersey keyed (body + 3-stripe binding as one cyan band), Jordan mark, patch and pinstripes removed, headband untouched, face unchanged",
+          "at": "2026-10-11T16:43:59.797Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/dennis-schroder.webp",
+    "base": "129fef31f28b61e187c50abb6c52577d92fa6be5",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T16:44:00.729Z"
+  }
+}

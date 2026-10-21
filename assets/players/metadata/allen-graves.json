@@ -1,0 +1,64 @@
+{
+  "player": "Allen Graves",
+  "playerId": "allen-graves",
+  "sourceUrl": "https://www.tsn.ca/resizer/v2/L5CY7WJVIZEZHHAWFBI6QSU2PE.jpg?auth=1499030d55918011ea58ce06376fce05ad8f6ccf2cb38f5c66b1b2ab915fcd5b",
+  "downloadUrl": "https://www.tsn.ca/resizer/v2/L5CY7WJVIZEZHHAWFBI6QSU2PE.jpg?auth=1499030d55918011ea58ce06376fce05ad8f6ccf2cb38f5c66b1b2ab915fcd5b",
+  "sourcePage": "https://www.tsn.ca/nba/article/raptors-graves-has-double-double-in-summer-league-debut/",
+  "license": "unknown (Getty Images / NBAE via TSN)",
+  "licenseUrl": null,
+  "author": "Stephen Greathouse / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2026-07-10 Summer League vs BOS, Thomas & Mack Center (TSN caption: drives to the basket)",
+  "originalSize": null,
+  "storedSize": [
+    2596,
+    1460
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/allen-graves.jpg",
+  "selectedAt": "2026-10-17T11:20:20.765Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 795,
+    "y": 0,
+    "size": 850
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes off-camera to his right on the drive, mouth open mid-breath, alert)",
+  "jersey": "TOR white Summer League 2026 #22",
+  "concerns": "Summer League (no preseason photo reachable: nba.com, incl. the Raptors site, was returning 403 during this round); TSN copy of an NBAE/Getty photo, license unknown, 2596px, slightly soft and sharpened; photo is framed close above his hair, so the hair top sits ~3% from the box top; a Celtics defender is at the left edge of the crop; white NBA-logo headband",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_raptors/01kxgnta71zk4qppc6bd.jpg",
+      "note": "(SI, courtside in a Raptors T-shirt, not in-game)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_raptors/01kz3jj9kb8n680fbce3.jpg",
+      "note": "(SI, draft night with the commissioner)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

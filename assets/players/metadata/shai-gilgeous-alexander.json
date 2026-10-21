@@ -1,0 +1,635 @@
+{
+  "player": "Shai Gilgeous-Alexander",
+  "playerId": "shai-gilgeous-alexander",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2268636726-Cropped-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2268636726-Cropped-scaled.jpg",
+  "sourcePage": "https://www.nba.com/game/det-vs-okc-0022501097",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1440
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/shai-gilgeous-alexander.jpg",
+  "selectedAt": "2026-10-02T03:42:39.394Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 820,
+    "y": 0,
+    "size": 820
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches/slightly calmer: looking up, mouth slightly open mid-breath",
+  "jersey": "OKC home white 2025-26",
+  "concerns": null,
+  "rejectedCandidates": [
+    {
+      "index": 1,
+      "title": "File:Shai Gilgeous-Alexander 2.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shai_Gilgeous-Alexander_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 2,
+      "title": "File:Shai Gilgeous-Alexander 2 (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shai_Gilgeous-Alexander_2_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "score": 12
+    },
+    {
+      "index": 3,
+      "title": "File:Grizzlies vs. Thunder, March 2025.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Grizzlies_vs._Thunder,_March_2025.png",
+      "license": "CC BY 3.0",
+      "score": null
+    },
+    {
+      "index": 4,
+      "title": "File:Greece vs. Canada, 2024 Summer Olympic men's basketball, 2024-07-27 (196).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Greece_vs._Canada,_2024_Summer_Olympic_men%27s_basketball,_2024-07-27_(196).jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 5,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–051.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93051.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 6,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–052.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93052.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 7,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–108.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93108.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": 13
+    },
+    {
+      "index": 8,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–109.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93109.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": 13
+    },
+    {
+      "index": 9,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–113.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93113.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 10,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–121.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93121.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 11,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–122.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93122.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 12,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–123.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93123.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 13,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–124.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93124.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 14,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–125.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93125.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 15,
+      "title": "File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–155.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93155.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Shai_Gilgeous-Alexander_%2851815871018%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shai_Gilgeous-Alexander_(51815871018)_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": 15,
+      "reason": "user feedback 2026-10-01",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/SGA-Thumb-ASG.jpg",
+      "note": "(looking off, 7, smaller)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/sga2.jpg",
+      "note": "(free throw, 6)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/SGA-Thumb-ASG.jpg",
+      "note": "(looking off, 7, smaller)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/sga2.jpg",
+      "note": "(free throw, 6)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "masterFile": "assets/players/shai-gilgeous-alexander.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:00:44.674Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/shai-gilgeous-alexander-7ba0cc88-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/shai-gilgeous-alexander/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:01:12.966Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "approved": true,
+  "supersededHistory": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Shai_Gilgeous-Alexander_%2851815871018%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shai_Gilgeous-Alexander_(51815871018)_(cropped).jpg",
+      "promptVersion": "thinking-basketball-v2",
+      "model": "gpt-image-2",
+      "reconstructed": "rebuilt 2026-10-01 20:52 from the session record after select-source.js dropped it (bug fixed); timestamps/usage not recovered",
+      "attempts": [
+        {
+          "attempt": 1,
+          "model": "gpt-image-2",
+          "extras": [],
+          "file": null,
+          "fileLost": "overwritten 2026-10-01 20:48 by a round-2 attempt (generate.js path collision, since fixed); a 512px copy of the Jokic one survives in assets/players/style-comparison.png",
+          "qa": {
+            "verdict": "fail",
+            "failed": [
+              "face and arms contain lots of tiny polygonal facets"
+            ]
+          }
+        },
+        {
+          "attempt": 2,
+          "model": "gpt-image-2",
+          "extras": [
+            "Simplify facial rendering substantially; remove micro-detail.",
+            "Use smooth, broad, softly blended light/shadow regions on the face and skin; no faceted, polygonal or low-poly geometry anywhere."
+          ],
+          "file": "assets/players/attempts/superseded/round1-shai-gilgeous-alexander-2.png",
+          "qa": {
+            "verdict": "fail",
+            "failed": [
+              "skin amber/bronze cast, more saturated than source",
+              "residual faceted texture on forehead/cheeks"
+            ]
+          }
+        },
+        {
+          "attempt": 3,
+          "model": "gpt-image-2",
+          "extras": [
+            "Neutralize the orange skin cast; keep the subject's natural deep brown skin with neutral-to-cool brown shadows and restrained saturation.",
+            "Use smooth, broad, softly blended light/shadow regions on the face and skin; no faceted, polygonal or low-poly geometry anywhere."
+          ],
+          "file": "assets/players/attempts/superseded/round1-shai-gilgeous-alexander-3.png",
+          "qa": {
+            "verdict": "pass",
+            "failed": []
+          }
+        }
+      ],
+      "supersededReason": "source rejected by user",
+      "supersededFiles": [
+        "assets/players/attempts/superseded/shai-gilgeous-alexander.png",
+        "assets/players/attempts/superseded/shai-gilgeous-alexander-400.webp",
+        "assets/players/attempts/superseded/shai-gilgeous-alexander-200.webp",
+        "assets/players/attempts/superseded/shai-gilgeous-alexander-100.webp"
+      ]
+    }
+  ],
+  "qaSummary": "Approved by user override (v3 prompt, attempt 3); spotlight round rejected by user as too realistic.",
+  "previousRounds": [
+    {
+      "round": 2,
+      "reason": "user: too realistic (spotlight / TOP-LIGHT HIGHLIGHTS profile rejected 2026-10-01)",
+      "archivedAt": "2026-10-02T04:00:00.790Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T03:55:38.173Z",
+          "promptAdditions": [
+            "Top-down spotlight key light: crisp, brighter triangular highlight facets across the crown/top of the head, forehead, brow ridge, nose bridge and upper cheekbones, so the faceted planes read clearly. Highlights stay cool-neutral, not orange or golden. Do not lighten or change the overall skin tone; keep the shadow side deep and rich."
+          ],
+          "extras": [],
+          "file": null,
+          "usage": {
+            "input_tokens": 4325,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1132
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11349
+          },
+          "qa": {
+            "verdict": "fail",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": {
+              "highlight facets clearly visible on top of head and forehead": "fail",
+              "skin tone not lightened or warmed": "pass"
+            },
+            "failed": [
+              "top-light highlights only modestly brighter than round 1 (p95 luminance +10)",
+              "not the spotlight look requested",
+              "facet scale matches the user-approved Jokic/Sabonis"
+            ],
+            "checkedAt": "2026-10-02T03:58:01.113Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          },
+          "fileLost": "overwritten 2026-10-01 21:2x when the cancelled brightening attempt (same file name) was moved into superseded/; generate.js collision check fixed to include superseded/"
+        },
+        {
+          "attempt": 2,
+          "round": 2,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T03:58:01.214Z",
+          "promptAdditions": [
+            "Top-down spotlight key light: crisp, brighter triangular highlight facets across the crown/top of the head, forehead, brow ridge, nose bridge and upper cheekbones, so the faceted planes read clearly. Highlights stay cool-neutral, not orange or golden. Do not lighten or change the overall skin tone; keep the shadow side deep and rich."
+          ],
+          "extras": [
+            "Make the top-down key light much stronger, like a spotlight directly overhead: the forehead, brow ridge, nose bridge, tops of the cheekbones and the top edge of the ears each carry several distinctly brighter flat highlight triangles, clearly lighter than the neighbouring planes, while the lower face and neck fall into deeper shadow. Highlights cool-neutral; overall skin tone unchanged; headband stays white."
+          ],
+          "file": "assets/players/attempts/superseded/shai-gilgeous-alexander-7ba0cc88-r2-2.png",
+          "usage": {
+            "input_tokens": 4410,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1217
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11434
+          },
+          "qa": null
+        }
+      ],
+      "supersededFiles": [
+        "assets/players/attempts/superseded/shai-gilgeous-alexander-7ba0cc88-r2-2.png"
+      ]
+    },
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:14.770Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T03:47:04.344Z",
+          "extras": [],
+          "file": "assets/players/attempts/shai-gilgeous-alexander-7ba0cc88-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "fail",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "fail",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "failed": [
+              "facets far finer than McCain (dense small-triangle mosaic on face and jersey)"
+            ],
+            "checkedAt": "2026-10-02T03:50:15.749Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        },
+        {
+          "attempt": 2,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T03:50:15.896Z",
+          "extras": [
+            "Use fewer, larger facets that follow the facial structure; no mosaic, shard noise or stained-glass fragmentation."
+          ],
+          "file": "assets/players/attempts/shai-gilgeous-alexander-7ba0cc88-2.png",
+          "usage": {
+            "input_tokens": 4278,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1085
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11302
+          },
+          "qa": {
+            "verdict": "fail",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "fail",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "failed": [
+              "still a dense small-triangle mesh, much finer than McCain"
+            ],
+            "checkedAt": "2026-10-02T03:52:38.611Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        },
+        {
+          "attempt": 3,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T03:52:38.790Z",
+          "extras": [
+            "Use fewer, larger facets that follow the facial structure; no mosaic, shard noise or stained-glass fragmentation.",
+            "Match the PRIMARY style reference's facet scale exactly: the whole face is built from roughly 20-30 large flat color planes (cel-shaded vector look) with crisp angular edges, NOT a low-poly triangle mesh of hundreds of small triangles. Skin areas like cheeks and forehead should be single large flat planes."
+          ],
+          "file": "assets/players/attempts/shai-gilgeous-alexander-7ba0cc88-3.png",
+          "usage": {
+            "input_tokens": 4341,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1148
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11365
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "fail",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "failed": [
+              "still a fine triangle mesh across face and jersey",
+              "constraint not followed"
+            ],
+            "checkedAt": "2026-10-02T03:54:50.445Z",
+            "checklistFile": "QA_CHECKLIST.md",
+            "claudeVerdict": "fail",
+            "override": "User approved 2026-10-01 (\"Version 3 was fine\") after Claude QA-failed it on facet scale."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:34.136Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:58:18.246Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/shai-gilgeous-alexander-7ba0cc88-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/shai-gilgeous-alexander/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:58:24.511Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "webp": [
+    "assets/players/webp/shai-gilgeous-alexander-1024.webp",
+    "assets/players/webp/shai-gilgeous-alexander-400.webp",
+    "assets/players/webp/shai-gilgeous-alexander-200.webp",
+    "assets/players/webp/shai-gilgeous-alexander-100.webp"
+  ],
+  "approvedAt": "2026-10-06T02:01:13.303Z",
+  "cancelledRounds": [
+    {
+      "reason": "user cancelled source-brightening step 2026-10-01 (\"Nvm, we dont have to do that\"); results not used",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:15:09.380Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/superseded/shai-gilgeous-alexander-7ba0cc88-cancelled-brighten-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": null
+        }
+      ]
+    }
+  ],
+  "latestAttempt": 1,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/03/GettyImages-2268636726-Cropped-scaled.jpg",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/shai-gilgeous-alexander-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/shai-gilgeous-alexander/out.png",
+        "fixes": [],
+        "base": "6f0170e842fb48f5222dfe85723011f8ea19fac2",
+        "importedAt": "2026-10-12T03:34:37.474Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0031,
+          "face": 3,
+          "purity": 0.994,
+          "coverage": 0.153,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 249,
+          "oldEdge": 0,
+          "shadeLevels": 8,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/shai-gilgeous-alexander-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:51.944Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/shai-gilgeous-alexander.webp",
+    "base": "6f0170e842fb48f5222dfe85723011f8ea19fac2",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:22.320Z"
+  }
+}

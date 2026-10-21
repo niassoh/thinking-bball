@@ -1,0 +1,152 @@
+{
+  "team": "WAS",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:58.069Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Trae Young",
+          "slug": "trae-young",
+          "espnId": "4277905",
+          "status": null
+        },
+        {
+          "name": "Bub Carrington",
+          "slug": "bub-carrington",
+          "espnId": "4845374",
+          "status": null
+        },
+        {
+          "name": "Tre Mann",
+          "slug": "tre-mann",
+          "espnId": "4432819",
+          "status": null
+        },
+        {
+          "name": "Tre Johnson",
+          "slug": "tre-johnson",
+          "espnId": "5238230",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Kyshawn George",
+          "slug": "kyshawn-george",
+          "espnId": "5174563",
+          "status": null
+        },
+        {
+          "name": "Tre Johnson",
+          "slug": "tre-johnson",
+          "espnId": "5238230",
+          "status": null
+        },
+        {
+          "name": "Bub Carrington",
+          "slug": "bub-carrington",
+          "espnId": "4845374",
+          "status": null
+        },
+        {
+          "name": "Will Riley",
+          "slug": "will-riley",
+          "espnId": "5144126",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "AJ Dybantsa",
+          "slug": "aj-dybantsa",
+          "espnId": "5142718",
+          "status": null
+        },
+        {
+          "name": "Bilal Coulibaly",
+          "slug": "bilal-coulibaly",
+          "espnId": "5104155",
+          "status": null
+        },
+        {
+          "name": "Will Riley",
+          "slug": "will-riley",
+          "espnId": "5144126",
+          "status": null
+        },
+        {
+          "name": "Khris Middleton",
+          "slug": "khris-middleton",
+          "espnId": "6609",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Anthony Davis",
+          "slug": "anthony-davis",
+          "espnId": "6583",
+          "status": null
+        },
+        {
+          "name": "Khris Middleton",
+          "slug": "khris-middleton",
+          "espnId": "6609",
+          "status": null
+        },
+        {
+          "name": "Justin Champagnie",
+          "slug": "justin-champagnie",
+          "espnId": "4432907",
+          "status": null
+        },
+        {
+          "name": "Will Riley",
+          "slug": "will-riley",
+          "espnId": "5144126",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Alex Sarr",
+          "slug": "alex-sarr",
+          "espnId": "5160992",
+          "status": "DTD"
+        },
+        {
+          "name": "Deandre Ayton",
+          "slug": "deandre-ayton",
+          "espnId": "4278129",
+          "status": null
+        },
+        {
+          "name": "Tristan Vukcevic",
+          "slug": "tristan-vukcevic",
+          "espnId": "4997537",
+          "status": "OUT"
+        },
+        {
+          "name": "Anthony Gill",
+          "slug": "anthony-gill",
+          "espnId": "2581184",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

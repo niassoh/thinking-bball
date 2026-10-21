@@ -1,0 +1,70 @@
+{
+  "player": "Clint Capela",
+  "playerId": "clint-capela",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/inside_the_rockets/01kt2wzy79hc9s1k9ney.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/inside_the_rockets/01kt2wzy79hc9s1k9ney.jpg",
+  "sourcePage": "https://www.si.com/nba/rockets/onsi/rockets-center-clint-capela-is-excited-about-the-world-cup-coming-to-houston",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Imagn Images (photographer uncredited on page)",
+  "credit": null,
+  "photoDate": "2025-26 season (home game at Toyota Center vs MIN; undated hero photo, also used Apr 2026)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2001
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/clint-capela.jpg",
+  "selectedAt": "2026-10-17T05:54:27.270Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1073,
+    "y": 55,
+    "size": 1092
+  },
+  "needsReview": "energy ~5.5 (eyes down mid-breath), just below the 6-8 band. Searched: 82 nba.com HOU 2025-26 game pages (Getty + named images), 7 Rockets team-site 2025-26 galleries, nba.com and SI sitemaps, 19 SI Inside the Rockets article heroes (warmups, eyes closed, grimace, tongue out, arm across chin), Commons (2016 HOU only)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "slightly lower (catching his breath between plays, lips pushed out mid-breath, eyes down and to his left rather than up)",
+  "jersey": "HOU red Icon 2025-26",
+  "concerns": "FLAG: energy ~5.5, just under the band (eyes down, not looking up); editorial wire photo via SI.com, not nba.com; Rockets team-site 2025-26 galleries (7) and all 82 HOU game pages had no Capela-captioned Getty photo; game unverified",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/si/01kjg0kmqf9npafhvb9w.jpg",
+      "note": "(Imagn via SI, 2025-26 HOU red vs LAC, mouth open energy ~6.5, but his own arm hides chin and jaw, defender hand in crop)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Clint_N%27Dumba-Capela_%2830550753740%29.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, HOU white Nov 2016, looking up mouth open energy ~7, but face ~200px and ten years old)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/capela-grizz-meta-041226-scaled.jpg",
+      "note": "(nba.com, Apr 12 2026 vs MEM, arms-wide laughing celebration, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

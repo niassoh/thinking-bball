@@ -1,0 +1,145 @@
+{
+  "player": "Gordon Hayward",
+  "playerId": "gordon-hayward",
+  "sourceUrl": "https://cdn.nba.com/manage/2017/07/gordon-hayward-road-iso-lookson-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2017/07/gordon-hayward-road-iso-lookson-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/morning-tip-mailbag-july-10",
+  "license": "unknown (NBA.com; renamed, likely Getty Images / NBAE)",
+  "licenseUrl": null,
+  "author": "NBA.com (likely Getty Images / NBAE)",
+  "credit": null,
+  "photoDate": "c. 2015-17 (Jazz road game, crowd behind; exact game unverified)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1440
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/gordon-hayward.jpg",
+  "selectedAt": "2026-10-17T05:18:36.794Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 718,
+    "y": 0,
+    "size": 1150
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (sweaty mid-game look up and off-camera, lips parted, brows raised; engaged but calmer than McCain)",
+  "jersey": "UTA navy road #20, c. 2015-17",
+  "concerns": "renamed nba.com image, no Getty caption check, exact date unverified; hair touches the top edge of the frame so the crop has no room above the hair (y=0)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2017/04/Gordon20Hayward20iso20road20uni-scaled.jpg",
+      "note": "(UTA navy road at HOU, 2016-17, sharp frontal face, but tongue out bringing the ball up)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2017/07/Rudy20Gobert20Gordon20Hayward20talk20home20uni-scaled.jpg",
+      "note": "(UTA white home, talking to Gobert, near-profile, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:55.092Z",
+      "promptAdditions": [
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/gordon-hayward-6564d6db-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/gordon-hayward/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.210Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/gordon-hayward.png",
+  "webp": [
+    "assets/players/webp/gordon-hayward-1024.webp",
+    "assets/players/webp/gordon-hayward-400.webp",
+    "assets/players/webp/gordon-hayward-200.webp",
+    "assets/players/webp/gordon-hayward-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2017/07/gordon-hayward-road-iso-lookson-scaled.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:44.170Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/gordon-hayward-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/gordon-hayward/out.png",
+        "fixes": [],
+        "base": "0504fa6aa2d2b4fc891e7520416dcdc716ffc9b0",
+        "importedAt": "2026-10-17T11:07:09.537Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0057,
+          "face": 3.3,
+          "purity": 0.993,
+          "coverage": 0.152,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 902,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/gordon-hayward-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:54.557Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/gordon-hayward.webp",
+    "base": "0504fa6aa2d2b4fc891e7520416dcdc716ffc9b0",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:54.790Z"
+  }
+}

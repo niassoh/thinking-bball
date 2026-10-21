@@ -1,0 +1,152 @@
+{
+  "team": "ORL",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:53.746Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Jalen Suggs",
+          "slug": "jalen-suggs",
+          "espnId": "4432165",
+          "status": null
+        },
+        {
+          "name": "Anthony Black",
+          "slug": "anthony-black",
+          "espnId": "4712849",
+          "status": "DTD"
+        },
+        {
+          "name": "Jevon Carter",
+          "slug": "jevon-carter",
+          "espnId": "3133635",
+          "status": null
+        },
+        {
+          "name": "Jase Richardson",
+          "slug": "jase-richardson",
+          "espnId": "5239561",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Desmond Bane",
+          "slug": "desmond-bane",
+          "espnId": "4066320",
+          "status": null
+        },
+        {
+          "name": "Anthony Black",
+          "slug": "anthony-black",
+          "espnId": "4712849",
+          "status": "DTD"
+        },
+        {
+          "name": "Jamal Cain",
+          "slug": "jamal-cain",
+          "espnId": "4278572",
+          "status": null
+        },
+        {
+          "name": "Noah Penda",
+          "slug": "noah-penda",
+          "espnId": "5214637",
+          "status": "DTD"
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Franz Wagner",
+          "slug": "franz-wagner",
+          "espnId": "4566434",
+          "status": null
+        },
+        {
+          "name": "Jamal Cain",
+          "slug": "jamal-cain",
+          "espnId": "4278572",
+          "status": null
+        },
+        {
+          "name": "Tristan da Silva",
+          "slug": "tristan-da-silva",
+          "espnId": "4702382",
+          "status": null
+        },
+        {
+          "name": "Noah Penda",
+          "slug": "noah-penda",
+          "espnId": "5214637",
+          "status": "DTD"
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Paolo Banchero",
+          "slug": "paolo-banchero",
+          "espnId": "4432573",
+          "status": null
+        },
+        {
+          "name": "Tristan da Silva",
+          "slug": "tristan-da-silva",
+          "espnId": "4702382",
+          "status": null
+        },
+        {
+          "name": "Noah Penda",
+          "slug": "noah-penda",
+          "espnId": "5214637",
+          "status": "DTD"
+        },
+        {
+          "name": "Jamal Cain",
+          "slug": "jamal-cain",
+          "espnId": "4278572",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Wendell Carter Jr.",
+          "slug": "wendell-carter-jr",
+          "espnId": "4277847",
+          "status": null
+        },
+        {
+          "name": "Nikola Vucevic",
+          "slug": "nikola-vucevic",
+          "espnId": "6478",
+          "status": null
+        },
+        {
+          "name": "Goga Bitadze",
+          "slug": "goga-bitadze",
+          "espnId": "4348700",
+          "status": null
+        },
+        {
+          "name": "Izaiyah Nelson",
+          "slug": "izaiyah-nelson",
+          "espnId": "5107251",
+          "status": "OUT"
+        }
+      ]
+    }
+  ]
+}

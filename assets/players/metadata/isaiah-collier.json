@@ -1,0 +1,70 @@
+{
+  "player": "Isaiah Collier",
+  "playerId": "isaiah-collier",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2259802375_cropped_processed_by_imagy-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2259802375_cropped_processed_by_imagy-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/nba-fantasy-week-16-waiver-wire-adds-feb-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-02-03 at IND, Gainbridge Fieldhouse (Getty 2259802375: drives by Kam Jones)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1440
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/isaiah-collier.jpg",
+  "selectedAt": "2026-10-17T08:49:12.240Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 885,
+    "y": 0,
+    "size": 700
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes locked ahead on a drive, lips pursed open mid-breath, focused not straining)",
+  "jersey": "UTA purple statement 2025-26 (same team and design as 2026-27)",
+  "concerns": "2025-26 regular-season photo, no 2026 preseason photo of him found on nba.com pages; face ~280px hairline-to-chin in a 2560px nba.com-processed crop (no room above hair, box starts at y=0); 3/4 head turn to his left; ball and defender sit below/right of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2266339196_cropped_processed_by_imagy-scaled.jpg",
+      "note": "(Mar 15 2026 at SAC, mid-layup from above, ball near face, intense)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/04/U5A3365.jpg",
+      "note": "(Jazz best-of gallery, white, pointing a finger at his eye, hand covers face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/04/U5A0691.jpg",
+      "note": "(Jazz best-of gallery, white at TOR, hand gesture with tongue out, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

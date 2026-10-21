@@ -1,0 +1,164 @@
+{
+  "player": "Derrick Rose",
+  "playerId": "derrick-rose",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Derrick_Rose_02.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Derrick_Rose_02.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Derrick_Rose_02.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison from Owings Mills, USA",
+  "credit": null,
+  "photoDate": "2009 (CHI at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    2158,
+    1674
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/derrick-rose.jpg",
+  "selectedAt": "2026-10-14T03:18:05.458Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 819,
+    "y": 13,
+    "size": 974
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (defensive stance, eyes locked off-camera to his left, mouth open mid-breath)",
+  "jersey": "CHI red road 2008-09/2009-10",
+  "concerns": "3/4 angle; black arm sleeve band on right shoulder at the crop edge",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Derrick_Rose_2.jpg",
+      "note": "(Feb 28 2011 MVP season at WAS, frontal 462px face, but calmer near-neutral look, energy ~5.5-6)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Derrick_Rose_2011.jpg",
+      "note": "(Feb 2011 free throw looking up at the rim, McCain-like look, but near-profile angle)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:03.752Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/derrick-rose-31c759ee-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/derrick-rose/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:08.705Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/derrick-rose.png",
+  "webp": [
+    "assets/players/webp/derrick-rose-1024.webp",
+    "assets/players/webp/derrick-rose-400.webp",
+    "assets/players/webp/derrick-rose-200.webp",
+    "assets/players/webp/derrick-rose-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/1/10/Derrick_Rose_02.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:09.779Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/derrick-rose-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/derrick-rose/out.png",
+        "fixes": [],
+        "base": "94ce2db3a6c14499e8843a39e9943326d28e15f0",
+        "importedAt": "2026-10-14T20:26:01.015Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0054,
+          "face": 5.3,
+          "purity": 0.992,
+          "coverage": 0.157,
+          "strays": 15853,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1178,
+          "oldEdge": 0.05,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [
+            "strays",
+            "old-edge"
+          ],
+          "fixes": [
+            "spill",
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/derrick-rose-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "spill",
+            "missed"
+          ],
+          "note": "15853 stray key pixels; old jersey at the edge (0.05)",
+          "at": "2026-10-14T20:28:35.757Z"
+        }
+      }
+    ]
+  }
+}

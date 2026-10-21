@@ -1,0 +1,64 @@
+{
+  "player": "Carter Bryant",
+  "playerId": "carter-bryant",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261014_SAS_RT_PHX_79.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261014_SAS_RT_PHX_79.jpg",
+  "sourcePage": "https://www.nba.com/spurs/photos/photos-spurs-vs-phoenix-suns-10-14-26",
+  "license": "unknown (San Antonio Spurs via NBA.com)",
+  "licenseUrl": null,
+  "author": "Reginald Thomas II / San Antonio Spurs",
+  "credit": null,
+  "photoDate": "2026-10-14 preseason (vs PHX, Frost Bank Center; caption: dribbles up the floor during the fourth quarter)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/carter-bryant.jpg",
+  "selectedAt": "2026-10-17T08:47:21.442Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1436,
+    "y": 5,
+    "size": 528
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (pushing the ball upcourt, eyes off-camera to his right, mouth open mid-breath)",
+  "jersey": "SAS white home #11 2026-27 preseason",
+  "concerns": "head turned to a fairly strong 3/4 toward his right; crop scaled from the 5000px original to the saved 3000px copy; scan-galleries matched no caption (team-site captions start with a date line), picked by eye and caption read by hand",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261008_SAS_RT_ATL_75.jpg",
+      "note": "(Oct 8 2026 vs ATL, free throw, eyes up mouth parted, energy ~6, but both raised arms frame the head)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261008_SAS_RT_ATL_88.jpg",
+      "note": "(Oct 8 2026 vs ATL, jump shot, mouth closed, energy ~5, smaller face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

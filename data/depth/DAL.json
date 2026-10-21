@@ -1,0 +1,152 @@
+{
+  "team": "DAL",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:45.822Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Kyrie Irving",
+          "slug": "kyrie-irving",
+          "espnId": "6442",
+          "status": "DTD"
+        },
+        {
+          "name": "Marcus Sasser",
+          "slug": "marcus-sasser",
+          "espnId": "4432107",
+          "status": null
+        },
+        {
+          "name": "Cooper Flagg",
+          "slug": "cooper-flagg",
+          "espnId": "5041939",
+          "status": null
+        },
+        {
+          "name": "Sergio de Larrea",
+          "slug": "sergio-de-larrea",
+          "espnId": "5279129",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Max Christie",
+          "slug": "max-christie",
+          "espnId": "4432582",
+          "status": null
+        },
+        {
+          "name": "Zaccharie Risacher",
+          "slug": "zaccharie-risacher",
+          "espnId": "5211175",
+          "status": null
+        },
+        {
+          "name": "Caleb Martin",
+          "slug": "caleb-martin",
+          "espnId": "3138160",
+          "status": null
+        },
+        {
+          "name": "Marcus Sasser",
+          "slug": "marcus-sasser",
+          "espnId": "4432107",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Cooper Flagg",
+          "slug": "cooper-flagg",
+          "espnId": "5041939",
+          "status": null
+        },
+        {
+          "name": "Naji Marshall",
+          "slug": "naji-marshall",
+          "espnId": "4278594",
+          "status": null
+        },
+        {
+          "name": "Zaccharie Risacher",
+          "slug": "zaccharie-risacher",
+          "espnId": "5211175",
+          "status": null
+        },
+        {
+          "name": "Santi Aldama",
+          "slug": "santi-aldama",
+          "espnId": "4593125",
+          "status": "DTD"
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "P.J. Washington",
+          "slug": "pj-washington",
+          "espnId": "4278078",
+          "status": null
+        },
+        {
+          "name": "Morez Johnson Jr.",
+          "slug": "morez-johnson-jr",
+          "espnId": "4873153",
+          "status": "DTD"
+        },
+        {
+          "name": "Santi Aldama",
+          "slug": "santi-aldama",
+          "espnId": "4593125",
+          "status": "DTD"
+        },
+        {
+          "name": "Caleb Martin",
+          "slug": "caleb-martin",
+          "espnId": "3138160",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Dereck Lively II",
+          "slug": "dereck-lively-ii",
+          "espnId": "4683688",
+          "status": "DTD"
+        },
+        {
+          "name": "Daniel Gafford",
+          "slug": "daniel-gafford",
+          "espnId": "4278049",
+          "status": null
+        },
+        {
+          "name": "Moussa Cisse",
+          "slug": "moussa-cisse",
+          "espnId": "4701208",
+          "status": null
+        },
+        {
+          "name": "Santi Aldama",
+          "slug": "santi-aldama",
+          "espnId": "4593125",
+          "status": "DTD"
+        }
+      ]
+    }
+  ]
+}

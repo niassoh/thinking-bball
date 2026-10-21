@@ -1,0 +1,69 @@
+{
+  "player": "Clyde Drexler",
+  "playerId": "clyde-drexler",
+  "sourceUrl": "https://cdn.nba.com/manage/2022/01/Clyde-Drexler-Archive-75-16x9-1.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2022/01/Clyde-Drexler-Archive-75-16x9-1.jpg",
+  "sourcePage": "https://www.nba.com/news/archive-75-clyde-drexler",
+  "license": "unknown (NBAE / Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "NBAE / Getty Images",
+  "credit": null,
+  "photoDate": "c. 1988-92 (Trail Blazers home game, Memorial Coliseum; undated archive photo)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/clyde-drexler.jpg",
+  "selectedAt": "2026-10-17T05:42:49.589Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 1000,
+    "y": 0,
+    "size": 920
+  },
+  "needsReview": "No in-game Rockets photo of Drexler found. Searched nba.com (Archive 75, history legend page, 1994-95..1997-98 season reviews, 1995 Finals moments, Rockets all-time All-NBA pages, Olajuwon archive) and Commons (Category:Clyde Drexler: college, posed headshots and post-career only); web-search budget ran out mid-search. Only Rockets image found is a 1995 Finals postgame interview in a champions T-shirt and cap. Needs a HOU in-game source or a decision to accept the Blazers photo.",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (mouth open mid-breath, eyes just off camera, sweaty, alert)",
+  "jersey": "POR white home, late 1980s / early 1990s (NOT the wanted HOU)",
+  "concerns": "FLAG: Trail Blazers jersey, not the wanted Rockets; Archive 75 banner image (title panel on the left, outside the crop); undated, no Getty caption",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn-qa.nba.com/manage/2022/01/95NTR12741DrexlerC-1-scaled.jpg",
+      "note": "(only Rockets-era image found: June 1995 Finals postgame TV interview, champions T-shirt and cap, broad smile; not in-game)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2021/08/drexler-legend-prof.jpg",
+      "note": "(POR black road, in-game but mid-dunk with a small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ]
+}

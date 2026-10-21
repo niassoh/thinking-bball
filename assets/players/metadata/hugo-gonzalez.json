@@ -1,0 +1,64 @@
+{
+  "player": "Hugo Gonzalez",
+  "playerId": "hugo-gonzalez",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/02/2260310833.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/02/2260310833.jpg",
+  "sourcePage": "https://www.nba.com/celtics/news/gamerecap-keys-260206-miabos",
+  "license": "unknown (Getty Images via NBA.com Celtics site)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-02-06 (vs MIA, TD Garden, second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/hugo-gonzalez.jpg",
+  "selectedAt": "2026-10-17T11:08:03.117Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1338,
+    "y": 0,
+    "size": 828
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (lips parted, eyes lowered at Norman Powell while they exchange words; engaged but not looking up like McCain)",
+  "jersey": "BOS black #28, 2025-26",
+  "concerns": "Getty caption: Gonzalez and Norman Powell exchange words; Powell’s head and shoulder fill the left ~20% of the crop (not across the face); eyes lowered, low edge of the band; crop scaled from the 5000px original to the 3000px saved copy; hair top ~5% from the box top. Every other 2025-26 and 2026 preseason photo found (Celtics galleries, nba.com, SI) was a straining layup/dunk, a shout, a celebration or a jumper with arms around the head",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/01/2256918524.jpg",
+      "note": "(2026-01-21 vs IND, white, jump shot, eyes up and mouth open, energy ~7, but the shooting arms frame the head and cover the right side of the hair)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/01/2257843749.jpg",
+      "note": "(2026-01-26 vs POR, white, layup, straining, energy ~9, defender’s arm above the head)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

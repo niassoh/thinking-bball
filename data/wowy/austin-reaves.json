@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "LAL",
+  "gp": 51,
+  "generatedAt": "2026-10-02T03:51:35.670Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · LAL",
+      "minutes": 1762,
+      "poss": 3620,
+      "net": 5.027624309392265
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · LAL",
+      "minutes": 2179,
+      "poss": 4473,
+      "net": -0.8495416946121171
+    },
+    {
+      "label": "On, w/o Dončić",
+      "sub": "2025–26 · LAL",
+      "minutes": 669,
+      "poss": 1356,
+      "net": -1.9174041297935103
+    },
+    {
+      "label": "On, w/o LaRavia",
+      "sub": "2025–26 · LAL",
+      "minutes": 1123,
+      "poss": 2307,
+      "net": 5.851755526657997
+    },
+    {
+      "label": "On, w/o James",
+      "sub": "2025–26 · LAL",
+      "minutes": 871,
+      "poss": 1798.5,
+      "net": 6.33861551292744
+    },
+    {
+      "label": "Neither Reaves nor Dončić",
+      "sub": "2025–26 · LAL",
+      "minutes": 983,
+      "poss": 1979.5,
+      "net": -0.8588027279616064
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "player": "Zaccharie Risacher",
+  "playerId": "zaccharie-risacher",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612742/2026/07/2273325195.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612742/2026/07/2273325195.jpg",
+  "sourcePage": "https://www.nba.com/mavs/news/risachers-upside-could-help-lift-the-profile-of-2024-draft-class",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-04-30 (2026 Playoffs R1 Game 6 vs NYK, State Farm Arena; Getty 2273325195)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/zaccharie-risacher.jpg",
+  "selectedAt": "2026-10-17T05:37:29.782Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1208,
+    "y": 118,
+    "size": 612
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (mid-dribble, eyes up just off-camera, lips parted in a half-smile)",
+  "jersey": "ATL white home #10, 2025-26 (2026 playoffs)",
+  "concerns": "FLAG: Hawks, not his 2026-27 Mavericks: no in-game DAL photo yet (traded July 2026; the 8 DAL 2026 preseason nba.com game pages and Mavs-site posts carry no Risacher game photo, only training camp); slight smile reads a touch calm",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/risacher-pels-meta-010726-scaled.jpg",
+      "note": "(Jan 7 2026 vs NOP recap image, back to camera hugging a teammate, face hidden)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612737/2025/04/Zacchwp.jpg",
+      "note": "(ATL City Edition, high-fiving fans after the game, not an in-game moment)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:03.142Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/zaccharie-risacher-6bbc1010-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/zaccharie-risacher/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:27.022Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/zaccharie-risacher.png",
+  "webp": [
+    "assets/players/webp/zaccharie-risacher-1024.webp",
+    "assets/players/webp/zaccharie-risacher-400.webp",
+    "assets/players/webp/zaccharie-risacher-200.webp",
+    "assets/players/webp/zaccharie-risacher-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612742/2026/07/2273325195.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:59.790Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/zaccharie-risacher-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/zaccharie-risacher/out.png",
+        "fixes": [],
+        "base": "6f406b1fea5e0977b05b6754f9bee046dd68914b",
+        "importedAt": "2026-10-17T11:07:53.059Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0048,
+          "face": 3.2,
+          "purity": 0.987,
+          "coverage": 0.109,
+          "strays": 9,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1527,
+          "oldEdge": 0.041,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/zaccharie-risacher-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "old-edge"
+          ],
+          "note": null,
+          "at": "2026-10-17T11:17:00.363Z"
+        }
+      }
+    ]
+  }
+}

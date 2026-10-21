@@ -1,0 +1,152 @@
+{
+  "team": "ATL",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:42.124Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "CJ McCollum",
+          "slug": "cj-mccollum",
+          "espnId": "2490149",
+          "status": null
+        },
+        {
+          "name": "Kingston Flemings",
+          "slug": "kingston-flemings",
+          "espnId": "5149077",
+          "status": null
+        },
+        {
+          "name": "Nickeil Alexander-Walker",
+          "slug": "nickeil-alexander-walker",
+          "espnId": "4278039",
+          "status": null
+        },
+        {
+          "name": "Dyson Daniels",
+          "slug": "dyson-daniels",
+          "espnId": "4869342",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Nickeil Alexander-Walker",
+          "slug": "nickeil-alexander-walker",
+          "espnId": "4278039",
+          "status": null
+        },
+        {
+          "name": "Luguentz Dort",
+          "slug": "luguentz-dort",
+          "espnId": "4397020",
+          "status": null
+        },
+        {
+          "name": "Corey Kispert",
+          "slug": "corey-kispert",
+          "espnId": "4280151",
+          "status": null
+        },
+        {
+          "name": "Aaron Wiggins",
+          "slug": "aaron-wiggins",
+          "espnId": "4397183",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Dyson Daniels",
+          "slug": "dyson-daniels",
+          "espnId": "4869342",
+          "status": null
+        },
+        {
+          "name": "Aaron Wiggins",
+          "slug": "aaron-wiggins",
+          "espnId": "4397183",
+          "status": null
+        },
+        {
+          "name": "Luguentz Dort",
+          "slug": "luguentz-dort",
+          "espnId": "4397020",
+          "status": null
+        },
+        {
+          "name": "Corey Kispert",
+          "slug": "corey-kispert",
+          "espnId": "4280151",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Jalen Johnson",
+          "slug": "jalen-johnson",
+          "espnId": "4701230",
+          "status": null
+        },
+        {
+          "name": "Aaron Wiggins",
+          "slug": "aaron-wiggins",
+          "espnId": "4397183",
+          "status": null
+        },
+        {
+          "name": "Mouhamed Gueye",
+          "slug": "mouhamed-gueye",
+          "espnId": "4712863",
+          "status": "DTD"
+        },
+        {
+          "name": "Asa Newell",
+          "slug": "asa-newell",
+          "espnId": "4873201",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Onyeka Okongwu",
+          "slug": "onyeka-okongwu",
+          "espnId": "4431680",
+          "status": null
+        },
+        {
+          "name": "Jock Landale",
+          "slug": "jock-landale",
+          "espnId": "3146557",
+          "status": null
+        },
+        {
+          "name": "Mouhamed Gueye",
+          "slug": "mouhamed-gueye",
+          "espnId": "4712863",
+          "status": "DTD"
+        },
+        {
+          "name": "Zuby Ejiofor",
+          "slug": "zuby-ejiofor",
+          "espnId": "5106262",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

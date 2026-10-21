@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "MIN",
+  "gp": 68,
+  "generatedAt": "2026-10-02T05:29:39.701Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · MIN",
+      "minutes": 888,
+      "poss": 1862,
+      "net": 3.920515574650913
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · MIN",
+      "minutes": 3068,
+      "poss": 6445,
+      "net": 3.134212567882079
+    },
+    {
+      "label": "On, w/o Randle",
+      "sub": "2025–26 · MIN",
+      "minutes": 457,
+      "poss": 974.5,
+      "net": 1.6418676244227808
+    },
+    {
+      "label": "On, w/o DiVincenzo",
+      "sub": "2025–26 · MIN",
+      "minutes": 609,
+      "poss": 1272.5,
+      "net": 2.907662082514735
+    },
+    {
+      "label": "On, w/o Gobert",
+      "sub": "2025–26 · MIN",
+      "minutes": 556,
+      "poss": 1170,
+      "net": 3.9316239316239314
+    },
+    {
+      "label": "Neither Clark nor Randle",
+      "sub": "2025–26 · MIN",
+      "minutes": 889,
+      "poss": 1866.5,
+      "net": 1.4465577283686044
+    }
+  ]
+}

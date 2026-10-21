@@ -1,0 +1,70 @@
+{
+  "player": "Jevon Carter",
+  "playerId": "jevon-carter",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/04/carter-2400-20260423-jevon.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/04/carter-2400-20260423-jevon.jpg",
+  "sourcePage": "https://www.nba.com/magic/news/orlando-magics-jevon-carter-and-wife-taylor-host-diaper-drive-during-the-playoffs-to-support-local-families-20260423",
+  "license": "unknown (Orlando Magic via NBA.com)",
+  "licenseUrl": null,
+  "author": "Orlando Magic / NBAE",
+  "credit": null,
+  "photoDate": "spring 2026 road game (renamed Magic team-site image in an Apr 23 2026 article; exact game unverified)",
+  "originalSize": null,
+  "storedSize": [
+    2400,
+    1350
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jevon-carter.jpg",
+  "selectedAt": "2026-10-17T08:53:01.604Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 765,
+    "y": 0,
+    "size": 780
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes off-camera to his right, mouth parted mid-breath)",
+  "jersey": "ORL blue pinstripe Statement (ORLANDO) #2 2025-26",
+  "concerns": "renamed 2400x1350 team-site image without a caption, so game/date unverified; head turned to a 3/4 toward his right; signed with ORL Feb 2026 and re-signed July 2026, so this is his current team; no Magic photo galleries on the team site and no 2026 preseason stills of him found",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/07/jevon-carter-release-20260701.jpg",
+      "note": "(Magic site, blue pinstripe, shouting, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/03/jevon-carter-preview-20260323.jpg",
+      "note": "(Magic site, white pinstripe, 5000px, near-full profile, too side-on)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/02/jevon-carter-preview-20260221.jpg",
+      "note": "(Magic site, white home dribbling, only 1200px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

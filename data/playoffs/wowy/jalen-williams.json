@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "OKC",
+  "gp": 5,
+  "generatedAt": "2026-10-09T18:10:16.223Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · OKC",
+      "minutes": 107,
+      "poss": 219,
+      "net": 9.1324200913242
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · OKC",
+      "minutes": 623,
+      "poss": 1240,
+      "net": 7.016129032258064
+    },
+    {
+      "label": "On, w/o Gilgeous-Alexander",
+      "sub": "2025–26 playoffs · OKC",
+      "minutes": 25,
+      "poss": 53,
+      "net": 43.39622641509434
+    },
+    {
+      "label": "On, w/o Holmgren",
+      "sub": "2025–26 playoffs · OKC",
+      "minutes": 37,
+      "poss": 75,
+      "net": -4
+    },
+    {
+      "label": "On, w/o Wallace",
+      "sub": "2025–26 playoffs · OKC",
+      "minutes": 62,
+      "poss": 130,
+      "net": 15.384615384615385
+    },
+    {
+      "label": "Neither Williams nor Gilgeous-Alexander",
+      "sub": "2025–26 playoffs · OKC",
+      "minutes": 161,
+      "poss": 314.5,
+      "net": 14.308426073131955
+    }
+  ]
+}

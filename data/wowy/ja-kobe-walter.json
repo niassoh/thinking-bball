@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "TOR",
+  "gp": 72,
+  "generatedAt": "2026-10-02T05:28:06.469Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · TOR",
+      "minutes": 1474,
+      "poss": 3025,
+      "net": 0.03305785123966942
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · TOR",
+      "minutes": 2482,
+      "poss": 5093,
+      "net": 4.535637149028078
+    },
+    {
+      "label": "On, w/o Barnes",
+      "sub": "2025–26 · TOR",
+      "minutes": 578,
+      "poss": 1186,
+      "net": -7.588532883642496
+    },
+    {
+      "label": "On, w/o Ingram",
+      "sub": "2025–26 · TOR",
+      "minutes": 658,
+      "poss": 1379.5,
+      "net": 4.856832185574484
+    },
+    {
+      "label": "On, w/o Quickley",
+      "sub": "2025–26 · TOR",
+      "minutes": 831,
+      "poss": 1719.5,
+      "net": 0.8723466123873218
+    },
+    {
+      "label": "Neither Walter nor Barnes",
+      "sub": "2025–26 · TOR",
+      "minutes": 697,
+      "poss": 1423,
+      "net": 3.9353478566408993
+    }
+  ]
+}

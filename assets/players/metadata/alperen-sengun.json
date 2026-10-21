@@ -1,0 +1,321 @@
+{
+  "player": "Alperen Sengun",
+  "playerId": "alperen-sengun",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/Alperen_Sengun_1920x1080.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/Alperen_Sengun_1920x1080.jpg",
+  "sourcePage": "https://www.nba.com/news/alperen-sengun-replaces-gilgeous-alexander-all-star-game",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/alperen-sengun.jpg",
+  "selectedAt": "2026-10-02T03:42:42.447Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 860,
+    "y": 0,
+    "size": 700
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches: looking off mid-play, mouth open mid-breath",
+  "jersey": "HOU City Edition white 2025-26",
+  "concerns": "face ~230px (page is All-Star news but photo is a regular-season game in City Edition uniform)",
+  "rejectedCandidates": [
+    {
+      "index": 0,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (1).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(1).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 1,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (10).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(10).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 3,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (12).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(12).jpg",
+      "license": "CC BY 4.0",
+      "score": 12
+    },
+    {
+      "index": 4,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (13).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(13).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 5,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (14).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(14).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 6,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (15).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(15).jpg",
+      "license": "CC BY 4.0",
+      "score": 12
+    },
+    {
+      "index": 7,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (16).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(16).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 8,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (17).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(17).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 9,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (18).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(18).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 10,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (19).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(19).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 11,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (2).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(2).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 12,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (20).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(20).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 13,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (21).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(21).jpg",
+      "license": "CC BY 4.0",
+      "score": 13
+    },
+    {
+      "index": 14,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (22).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(22).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 15,
+      "title": "File:Alperen Şengün 23 Türkiye 20250823 (23).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(23).jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250823_(11).jpg",
+      "license": "CC BY 4.0",
+      "score": 14,
+      "reason": "user feedback 2026-10-01",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/Sengun-Thumb.jpg",
+      "note": "(look-off mouth closed 6)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "n/a",
+      "note": "team-site player page still (broadcast scorebug overlay, reject)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/Sengun-Thumb.jpg",
+      "note": "(look-off mouth closed 6)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "n/a",
+      "note": "team-site player page still (broadcast scorebug overlay, reject)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "masterFile": "assets/players/alperen-sengun.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T17:36:41.402Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/alperen-sengun-15bf66c0-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/alperen-sengun/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T17:36:55.935Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "approved": true,
+  "qaSummary": "Pass on attempt 1. Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain.",
+  "webp": [
+    "assets/players/webp/alperen-sengun-1024.webp",
+    "assets/players/webp/alperen-sengun-400.webp",
+    "assets/players/webp/alperen-sengun-200.webp",
+    "assets/players/webp/alperen-sengun-100.webp"
+  ],
+  "approvedAt": "2026-10-05T17:36:56.485Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:16.107Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:04:17.701Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/alperen-sengun-15bf66c0-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-02T04:09:14.743Z",
+            "checklistFile": "QA_CHECKLIST.md",
+            "note": "Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:35.533Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:36:50.867Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/alperen-sengun-15bf66c0-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/alperen-sengun/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:36:59.558Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "latestAttempt": 1,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/01/Alperen_Sengun_1920x1080.jpg",
+  "background": "transparent"
+}

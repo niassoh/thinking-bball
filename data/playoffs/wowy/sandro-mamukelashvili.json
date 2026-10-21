@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "TOR",
+  "gp": 7,
+  "generatedAt": "2026-10-09T18:59:22.848Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 104,
+      "poss": 211.5,
+      "net": 1.4184397163120568
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 237,
+      "poss": 474.5,
+      "net": -3.1612223393045316
+    },
+    {
+      "label": "On, w/o Barnes",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 28,
+      "poss": 59,
+      "net": 1.694915254237288
+    },
+    {
+      "label": "On, w/o Barrett",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 44,
+      "poss": 93,
+      "net": -9.67741935483871
+    },
+    {
+      "label": "On, w/o Walter",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 47,
+      "poss": 94,
+      "net": 14.893617021276595
+    },
+    {
+      "label": "Neither Mamukelashvili nor Barnes",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 40,
+      "poss": 81.5,
+      "net": -12.269938650306749
+    }
+  ]
+}

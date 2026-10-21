@@ -1,0 +1,72 @@
+{
+  "season": "2025-26",
+  "generatedAt": "2026-10-02T03:46:28.332Z",
+  "recent": {
+    "start": "2026-03-14",
+    "end": "2026-04-12",
+    "games": 5,
+    "seasonGames": 69
+  },
+  "games": [
+    {
+      "date": "2026-03-23",
+      "gameId": "0022501037",
+      "opp": "ATL",
+      "home": false,
+      "result": "L",
+      "pts": 4,
+      "reb": 2,
+      "ast": 2,
+      "ts": 50,
+      "oppRank": 12
+    },
+    {
+      "date": "2026-03-21",
+      "gameId": "0022501023",
+      "opp": "CHA",
+      "home": false,
+      "result": "L",
+      "pts": 9,
+      "reb": 0,
+      "ast": 1,
+      "ts": 37.5,
+      "oppRank": 8
+    },
+    {
+      "date": "2026-03-20",
+      "gameId": "0022501019",
+      "opp": "BOS",
+      "home": true,
+      "result": "L",
+      "pts": 6,
+      "reb": 0,
+      "ast": 0,
+      "ts": 50,
+      "oppRank": 4
+    },
+    {
+      "date": "2026-03-18",
+      "gameId": "0022500651",
+      "opp": "DEN",
+      "home": true,
+      "result": "W",
+      "pts": 11,
+      "reb": 5,
+      "ast": 0,
+      "ts": 68.8,
+      "oppRank": 7
+    },
+    {
+      "date": "2026-03-16",
+      "gameId": "0022500987",
+      "opp": "CHI",
+      "home": false,
+      "result": "L",
+      "pts": 16,
+      "reb": 3,
+      "ast": 1,
+      "ts": 72.7,
+      "oppRank": 22
+    }
+  ]
+}

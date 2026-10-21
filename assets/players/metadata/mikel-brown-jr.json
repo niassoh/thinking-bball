@@ -1,0 +1,70 @@
+{
+  "player": "Mikel Brown Jr.",
+  "playerId": "mikel-brown-jr",
+  "sourceUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/07/gettyimages-2284971797.jpg",
+  "downloadUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/07/gettyimages-2284971797.jpg",
+  "sourcePage": "https://www.netsdaily.com/nets-scores-results/111639/mikel-brown-jr-flashes-nets-fly-past-warriors-in-cali-classic-finale",
+  "license": "unknown (Getty Images via NetsDaily)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-07-06 vs GSW, Golden 1 Center (California Classic Summer League; Getty caption: dribbles by Nick Boyd, first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/mikel-brown-jr.jpg",
+  "selectedAt": "2026-10-17T11:36:06.014Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1411,
+    "y": 21,
+    "size": 615
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (alert, eyes down-court to his right, lips parted mid-breath while bringing the ball up)",
+  "jersey": "BKN white #0, 2026 California Classic Summer League",
+  "concerns": "Summer League (California Classic) in Nets white, not a regular-season or preseason game: he debuted in the preseason only on 2026-10-14 at MIA, and none of those Getty photos is hosted unwatermarked on nba.com (no Nets or Heat gallery) or the Nets blogs; gaze is slightly downward; 2026 rookie (No. 6 pick), no NBA season yet",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2284941026.jpg",
+      "note": "(2026-07-10 Las Vegas SL vs NYK, black, driving, face ~180px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/07/gettyimages-2285535607.jpg",
+      "note": "(2026-07-14 Las Vegas SL vs SAC, white, mouth open but near side profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/09/GettyImages-2286452814.jpg",
+      "note": "(rookie photo shoot portrait, posed)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

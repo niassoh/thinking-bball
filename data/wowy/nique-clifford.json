@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "SAC",
+  "gp": 75,
+  "generatedAt": "2026-10-02T04:14:55.939Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · SAC",
+      "minutes": 1882,
+      "poss": 3884.5,
+      "net": -5.637791221521431
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · SAC",
+      "minutes": 2069,
+      "poss": 4299,
+      "net": -13.979995347755292
+    },
+    {
+      "label": "On, w/o DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 1051,
+      "poss": 2166.5,
+      "net": -6.000461573967228
+    },
+    {
+      "label": "On, w/o Raynaud",
+      "sub": "2025–26 · SAC",
+      "minutes": 933,
+      "poss": 1902.5,
+      "net": -1.5243101182654402
+    },
+    {
+      "label": "On, w/o Westbrook",
+      "sub": "2025–26 · SAC",
+      "minutes": 1352,
+      "poss": 2776,
+      "net": -4.610951008645533
+    },
+    {
+      "label": "Neither Clifford nor DeRozan",
+      "sub": "2025–26 · SAC",
+      "minutes": 495,
+      "poss": 1028,
+      "net": -9.922178988326849
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Steven Adams",
+  "playerId": "steven-adams",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/steven-adams2.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/steven-adams2.jpg",
+  "sourcePage": "https://www.nba.com/news/rockets-steven-adams-ankle-out-for-season",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": "2025-26 (renamed nba.com photo in the Jan 28 2026 article; exact game unverified)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/steven-adams.jpg",
+  "selectedAt": "2026-10-17T08:51:40.810Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 590,
+    "y": 0,
+    "size": 620
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (at the free-throw line, eyes up at the rim, mouth open mid-breath)",
+  "jersey": "HOU black Statement (HOUSTON) 2025-26",
+  "concerns": "renamed 1920x1080 nba.com image, no Getty caption, so game/date unverified; hair top only ~4% below the box top (photo cut close above his hair); ball held at chest below the crop; black Statement jersey rather than red/white; 2026 preseason has one usable photo (Macao, Oct 9) but coach Ime Udoka stands cheek to cheek with him",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612745/2026/10/2298742133.jpg",
+      "note": "(Oct 9 2026 preseason vs DAL in Macao, red, listening to Udoka with mouth parted, energy ~6, 3600px, but Udoka’s face sits inside any head-and-shoulders crop)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/steven-adams1.jpg",
+      "note": "(nba.com 2025-26, white home, hands on hips looking off, mouth parted, energy ~5.5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,70 @@
+{
+  "player": "Yaxel Lendeborg",
+  "playerId": "yaxel-lendeborg",
+  "sourceUrl": "https://media.nbcsportsbayarea.com/2026/10/yaxel-lendeborg-GettyImages-2298989203.jpg",
+  "downloadUrl": "https://media.nbcsportsbayarea.com/2026/10/yaxel-lendeborg-GettyImages-2298989203.jpg",
+  "sourcePage": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-steph-curry-lakers-preseason/1969461/",
+  "license": "unknown (Getty Images via NBC Sports Bay Area)",
+  "licenseUrl": null,
+  "author": "Ezra Shaw / Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-06 preseason vs LAL, Chase Center (Getty caption: reacts after the Warriors made a basket)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/yaxel-lendeborg.jpg",
+  "selectedAt": "2026-10-17T11:35:01.402Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 637,
+    "y": 434,
+    "size": 600
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (broad grin reacting to a teammate’s three, eyes just off-camera; a smile rather than McCain’s open-mouthed look-up)",
+  "jersey": "GSW white Association home #1, 2026-27 preseason",
+  "concerns": "not nba.com or Commons: Warriors team-site recaps carry only graphics and no 2026 preseason galleries were listed; NBC Sports Bay Area copy of a Getty photo (3161x4742, stored at 3000px), license unknown; expression is a celebratory grin, not the McCain look; his raised three-finger hand sits just inside the right edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://media.nbcsportsbayarea.com/2026/10/GettyImages-2299073103.jpg",
+      "note": "(2026-10 preseason vs SAC, mid-air floater, small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.nbcsportsbayarea.com/2026/07/Yaxel-Lendeborg-Aday-Mara-GETTY.jpg",
+      "note": "(2026 Summer League, running upcourt, face ~60px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.nbcsportsbayarea.com/2026/09/GettyImages-2297624143.jpg",
+      "note": "(2026 media day with Draymond Green, posed)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

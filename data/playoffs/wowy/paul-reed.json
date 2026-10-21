@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "DET",
+  "gp": 9,
+  "generatedAt": "2026-10-09T18:50:23.340Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 86,
+      "poss": 161.5,
+      "net": 7.430340557275541
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 591,
+      "poss": 1161,
+      "net": 0.9474590869939706
+    },
+    {
+      "label": "On, w/o Cunningham",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 16,
+      "poss": 33,
+      "net": 63.63636363636363
+    },
+    {
+      "label": "On, w/o Harris",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 37,
+      "poss": 73,
+      "net": 13.698630136986301
+    },
+    {
+      "label": "On, w/o Thompson",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 40,
+      "poss": 77.5,
+      "net": -3.870967741935484
+    },
+    {
+      "label": "Neither Reed nor Cunningham",
+      "sub": "2025–26 playoffs · DET",
+      "minutes": 89,
+      "poss": 170,
+      "net": -18.823529411764707
+    }
+  ]
+}

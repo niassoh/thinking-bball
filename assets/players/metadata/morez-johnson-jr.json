@@ -1,0 +1,64 @@
+{
+  "player": "Morez Johnson Jr.",
+  "playerId": "morez-johnson-jr",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285426913.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285426913.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/morez-johnson-puts-up-27-points-in-summer-league-debut",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-10 vs GSW, Thomas & Mack Center (Las Vegas Summer League debut; Getty caption: grabs a rebound against Lajae Jones)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2341
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/morez-johnson-jr.jpg",
+  "selectedAt": "2026-10-17T11:37:31.709Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1739,
+    "y": 50,
+    "size": 994
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes off-camera to his left, lips parted after the rebound)",
+  "jersey": "DAL white #14, 2026 Las Vegas Summer League",
+  "concerns": "Summer League in Mavericks white, not a preseason game: his 2026 preseason Getty photos found unwatermarked are a pre-game introduction and a head-back layup with an arm across the chin (no Mavs preseason gallery on nba.com; Rockets Macao and Pelicans galleries have none of him); a Warriors defender’s arm crosses his chest in the lower left of the crop, below the chin; 2026 rookie (No. 9 pick), no NBA season yet",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2284907871.jpg",
+      "note": "(2026-07-09 SL vs GSW, white, driving with head down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.mavsmoneyball.com/wp-content/uploads/sites/104/2026/10/gettyimages-2300033100.jpg",
+      "note": "(2026-10-16 preseason vs ATL, white, layup with head tilted back and arm across the chin)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

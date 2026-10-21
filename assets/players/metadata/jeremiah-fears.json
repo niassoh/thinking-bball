@@ -1,0 +1,70 @@
+{
+  "player": "Jeremiah Fears",
+  "playerId": "jeremiah-fears",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2300027806_cropped.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2300027806_cropped.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/jeremiah-fears-with-the-feed",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-16 preseason (vs WAS, Smoothie King Center; Getty caption: handles the ball during the game)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jeremiah-fears.jpg",
+  "selectedAt": "2026-10-17T08:44:40.015Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 492,
+    "y": 0,
+    "size": 760
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes just past the camera, mouth open mid-breath, engaged)",
+  "jersey": "NOP white home 2026-27 preseason",
+  "concerns": "nba.com cropped 1920x1080 copy (no larger original reachable); hair top sits only ~2% below the box top because the photo is cut just above his braids; eyes close to camera rather than clearly off-camera; NBA headband",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/fears-iso-ft.jpg",
+      "note": "(nba.com Jan 2026 feature, white home at the free-throw line, looking up mouth open, energy ~7, but older afro hairstyle and smaller face ~300px hair-to-chin)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2266727004-scaled.jpg",
+      "note": "(nba.com, navy road mid-air double-clutch, face tiny)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/GettyImages-2269725970-scaled.jpg",
+      "note": "(nba.com, red Crescent City alternate driving, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

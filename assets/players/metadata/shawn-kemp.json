@@ -1,0 +1,164 @@
+{
+  "player": "Shawn Kemp",
+  "playerId": "shawn-kemp",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-1397818sk.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-1397818sk.jpg",
+  "sourcePage": "https://www.nba.com/news/most-rebounds-in-a-playoff-game-oklahoma-city-thunder",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "1996-97 (at Denver, McNichols Arena, Sonics won 108-104; gold NBA 50th-anniversary logo on the jersey)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/shawn-kemp.jpg",
+  "selectedAt": "2026-10-14T03:23:55.187Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 471,
+    "y": 0,
+    "size": 957
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower (looking up off-camera and alert, but lips pressed shut, no open-mouth reaction)",
+  "jersey": "SEA green road 1996-97",
+  "concerns": "FLAG: energy 5 (lips pressed, sweaty look-off; no in-band open-mouth frame of him exists on nba.com in the window); film grain. Getty caption starts \"Forward Shawn Kemp\", so scan-articles.js missed it; added to the sheet by hand",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2020/12/payton-kemp.jpg",
+      "note": "(SEA green, mouth open listening to Payton, energy 6, but 198px face, Payton’s head inside the crop and likely 1996 Finals, before the window)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-849651308-scaled.jpg",
+      "note": "(SEA green c. 1996, hands on hips neutral look-off, energy 4.5, 259px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:13.819Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/shawn-kemp-88811936-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/shawn-kemp/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:31.761Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/shawn-kemp.png",
+  "webp": [
+    "assets/players/webp/shawn-kemp-1024.webp",
+    "assets/players/webp/shawn-kemp-400.webp",
+    "assets/players/webp/shawn-kemp-200.webp",
+    "assets/players/webp/shawn-kemp-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/05/GettyImages-1397818sk.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:32.727Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/shawn-kemp-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/shawn-kemp/out.png",
+        "fixes": [],
+        "base": "1e8cd6f4cb206900316222c273d440f272531c4f",
+        "importedAt": "2026-10-14T20:26:27.654Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0061,
+          "face": 6.3,
+          "purity": 0.992,
+          "coverage": 0.251,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1685,
+          "oldEdge": 0,
+          "shadeLevels": 10,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/shawn-kemp-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:16.783Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/shawn-kemp.webp",
+    "base": "1e8cd6f4cb206900316222c273d440f272531c4f",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:17.044Z"
+  }
+}

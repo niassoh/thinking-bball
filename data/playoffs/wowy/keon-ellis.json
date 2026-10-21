@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "CLE",
+  "gp": 12,
+  "generatedAt": "2026-10-09T18:12:59.588Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · CLE",
+      "minutes": 89,
+      "poss": 177,
+      "net": -17.51412429378531
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · CLE",
+      "minutes": 790,
+      "poss": 1561.5,
+      "net": -1.536983669548511
+    },
+    {
+      "label": "On, w/o Harden",
+      "sub": "2025–26 playoffs · CLE",
+      "minutes": 28,
+      "poss": 57.5,
+      "net": -20.869565217391305
+    },
+    {
+      "label": "On, w/o Mitchell",
+      "sub": "2025–26 playoffs · CLE",
+      "minutes": 51,
+      "poss": 103,
+      "net": -13.592233009708737
+    },
+    {
+      "label": "On, w/o Mobley",
+      "sub": "2025–26 playoffs · CLE",
+      "minutes": 51,
+      "poss": 100.5,
+      "net": -1.9900497512437811
+    },
+    {
+      "label": "Neither Ellis nor Harden",
+      "sub": "2025–26 playoffs · CLE",
+      "minutes": 179,
+      "poss": 353,
+      "net": -14.164305949008499
+    }
+  ]
+}

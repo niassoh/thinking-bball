@@ -1,0 +1,149 @@
+{
+  "player": "Brent Barry",
+  "playerId": "brent-barry",
+  "sourceUrl": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/7/00/70053b05-db53-5e68-b257-733b6fa5ab7c/67f2536464274.image.jpg",
+  "downloadUrl": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/7/00/70053b05-db53-5e68-b257-733b6fa5ab7c/67f2536464274.image.jpg",
+  "sourcePage": "https://www.dailygazette.com/tribune/how-former-sonic-brent-barry-found-new-chapter-for-his-nba-career/article_a9c2dbb9-716b-5ed3-9ded-a692c181fc1d.html",
+  "license": "unknown (The Seattle Times / Tribune News Service)",
+  "licenseUrl": null,
+  "author": "Dean Rutz / The Seattle Times",
+  "credit": null,
+  "photoDate": "2003 (vs LAC, KeyArena; caption: drives the lane in a 2003 game against the Clippers)",
+  "originalSize": null,
+  "storedSize": [
+    1685,
+    1229
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/brent-barry.jpg",
+  "selectedAt": "2026-10-17T05:18:04.370Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 450,
+    "y": 0,
+    "size": 680
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (locked-in drive, eyes narrowed ahead, lips parted over teeth; not straining or wide-eyed)",
+  "jersey": "SEA white home #31, 2002-03 or 2003-04",
+  "concerns": "not nba.com or Commons: no nba.com page with a Sonics-era Barry photo found and Commons has only Spurs-era shots; newspaper wire photo, license unknown; face ~260px brow-to-chin (~330px hair-to-chin), slightly soft 1685px image; the Clippers defender’s hand touches his hair and the defender’s face sits at the left edge of the crop; mid-drive, upper edge of the energy band",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/f/a7/fa750d71-f382-5ce3-be5c-ef6b74eafa14/67f2536347a26.image.jpg",
+      "note": "(2003 vs LAL, mid-layup, face tiny and arms up)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/4/e4/4e48fe62-76bf-5be9-9988-6837641f8d82/67f2536258637.image.jpg",
+      "note": "(2001 uniform unveiling, posed studio group shot, not in-game)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:52.438Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/brent-barry-f3210c46-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/brent-barry/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.428Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/brent-barry.png",
+  "webp": [
+    "assets/players/webp/brent-barry-1024.webp",
+    "assets/players/webp/brent-barry-400.webp",
+    "assets/players/webp/brent-barry-200.webp",
+    "assets/players/webp/brent-barry-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/7/00/70053b05-db53-5e68-b257-733b6fa5ab7c/67f2536464274.image.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:38.764Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/brent-barry-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/brent-barry/out.png",
+        "fixes": [],
+        "base": "6496f1519312a853ff58fbaeba50d6c04b7996c5",
+        "importedAt": "2026-10-17T11:06:59.002Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0127,
+          "face": 3.4,
+          "purity": 0.994,
+          "coverage": 0.201,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1612,
+          "oldEdge": 0,
+          "shadeLevels": 10,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/brent-barry-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:52.361Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/brent-barry.webp",
+    "base": "6496f1519312a853ff58fbaeba50d6c04b7996c5",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:52.614Z"
+  }
+}

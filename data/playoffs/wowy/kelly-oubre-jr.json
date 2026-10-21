@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "PHI",
+  "gp": 11,
+  "generatedAt": "2026-10-09T18:37:31.765Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 364,
+      "poss": 718,
+      "net": -11.28133704735376
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 164,
+      "poss": 314,
+      "net": -8.9171974522293
+    },
+    {
+      "label": "On, w/o Maxey",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 23,
+      "poss": 45.5,
+      "net": 4.395604395604396
+    },
+    {
+      "label": "On, w/o Edgecombe",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 68,
+      "poss": 136,
+      "net": -42.64705882352941
+    },
+    {
+      "label": "On, w/o George",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 72,
+      "poss": 138.5,
+      "net": -17.328519855595665
+    },
+    {
+      "label": "Neither Oubre Jr. nor Maxey",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 68,
+      "poss": 138,
+      "net": -18.115942028985508
+    }
+  ]
+}

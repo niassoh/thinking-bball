@@ -1,0 +1,149 @@
+{
+  "player": "Peja Stojakovic",
+  "playerId": "peja-stojakovic",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/kings/sites/kings/files/11_21.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/kings/sites/kings/files/11_21.jpg",
+  "sourcePage": "https://www.nba.com/kings/gallery/numbers-peja-stojakovic",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE (uncredited on the Kings gallery)",
+  "credit": null,
+  "photoDate": "c. 2002-05 (SAC home game at ARCO Arena; dated by uniform, caption is a stat blurb)",
+  "originalSize": null,
+  "storedSize": [
+    800,
+    1176
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/peja-stojakovic.jpg",
+  "selectedAt": "2026-10-17T05:55:12.080Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 160,
+    "y": 38,
+    "size": 520
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (at the free-throw line, eyes up at the rim, mouth open mid-breath)",
+  "jersey": "SAC white home #16 (crown Kings script), c. 2002-05",
+  "concerns": "legacy gallery copy 800x1176: head ~260px, face ~225px hairline-to-chin, crop 520px; exact game unverified (caption is a stat note, no Getty id in the file name); elbow sleeve and ball outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/kings/sites/kings/files/gettyimages-2021939.jpg",
+      "note": "(SAC purple road with Divac, eyes down, energy ~4, 750px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/kings/sites/kings/files/24_12.jpg",
+      "note": "(SAC white with Bibby and Webber, looking off, energy ~5, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:01.143Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/peja-stojakovic-3726809e-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/peja-stojakovic/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.206Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/peja-stojakovic.png",
+  "webp": [
+    "assets/players/webp/peja-stojakovic-1024.webp",
+    "assets/players/webp/peja-stojakovic-400.webp",
+    "assets/players/webp/peja-stojakovic-200.webp",
+    "assets/players/webp/peja-stojakovic-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/kings/sites/kings/files/11_21.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:55.576Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/peja-stojakovic-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/peja-stojakovic/out.png",
+        "fixes": [],
+        "base": "fc87e428404d95fbd99ff45eeb8495ed66bed2fc",
+        "importedAt": "2026-10-17T11:07:42.686Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0044,
+          "face": 3.4,
+          "purity": 0.986,
+          "coverage": 0.129,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1137,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/peja-stojakovic-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:12:01.687Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/peja-stojakovic.webp",
+    "base": "fc87e428404d95fbd99ff45eeb8495ed66bed2fc",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:12:01.914Z"
+  }
+}

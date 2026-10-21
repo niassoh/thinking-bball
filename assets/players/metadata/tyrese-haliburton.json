@@ -1,0 +1,307 @@
+{
+  "player": "Tyrese Haliburton",
+  "playerId": "tyrese-haliburton",
+  "sourceUrl": "https://cdn.nba.com/manage/2024/05/tyrese-haliburton-iso-looks.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2024/05/tyrese-haliburton-iso-looks.jpg",
+  "sourcePage": "https://www.nba.com/news/pacers-haliburton-exits-game-2",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tyrese-haliburton.jpg",
+  "selectedAt": "2026-10-02T03:42:40.474Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 570,
+    "y": 0,
+    "size": 880
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches: in-game look-off, mouth slightly open",
+  "jersey": "IND gold 2023-24 playoffs (current team, older season)",
+  "concerns": "FLAG: no 2025-26 game photo found (NBA.com shows him in street clothes in 2025-26); face ~220px",
+  "rejectedCandidates": [
+    {
+      "index": 0,
+      "title": "File:1 tyrese haliburton 2025.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1_tyrese_haliburton_2025.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 1,
+      "title": "File:1 tyrese haliburton 2025 (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1_tyrese_haliburton_2025_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "score": 13
+    },
+    {
+      "index": 3,
+      "title": "File:Tyrese Haliburton (51923778880).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tyrese_Haliburton_(51923778880).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 4,
+      "title": "File:Tyrese Haliburton (51923136051) (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tyrese_Haliburton_(51923136051)_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": 10
+    },
+    {
+      "index": 5,
+      "title": "File:Tyrese Haliburton Isaac Likekele.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tyrese_Haliburton_Isaac_Likekele.jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 6,
+      "title": "File:Tyrese Haliburton.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tyrese_Haliburton.jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 7,
+      "title": "File:Wizards vs. Pacers (51923136051).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wizards_vs._Pacers_(51923136051).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 8,
+      "title": "File:Isaac Likekele.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Isaac_Likekele.jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/1_tyrese_haliburton_2025_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1_tyrese_haliburton_2025_(cropped_2).jpg",
+      "license": "CC BY-SA 4.0",
+      "score": 13,
+      "reason": "user feedback 2026-10-01",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/08/haliburton-pass.jpg",
+      "note": "(passing 7.5, 2024)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/08/haliburton-pass.jpg",
+      "note": "(passing 7.5, 2024)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "masterFile": "assets/players/tyrese-haliburton.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:12:37.862Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/tyrese-haliburton-6be2f9ff-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/tyrese-haliburton/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:13:03.990Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "approved": true,
+  "qaSummary": "Pass on attempt 1. Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain.",
+  "webp": [
+    "assets/players/webp/tyrese-haliburton-1024.webp",
+    "assets/players/webp/tyrese-haliburton-400.webp",
+    "assets/players/webp/tyrese-haliburton-200.webp",
+    "assets/players/webp/tyrese-haliburton-100.webp"
+  ],
+  "approvedAt": "2026-10-06T02:13:04.305Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:15.301Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:02:15.383Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/tyrese-haliburton-6be2f9ff-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-02T04:09:13.574Z",
+            "checklistFile": "QA_CHECKLIST.md",
+            "note": "Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:34.812Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:58:18.342Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/tyrese-haliburton-6be2f9ff-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/tyrese-haliburton/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:58:24.710Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "latestAttempt": 1,
+  "approvedFromSource": "https://cdn.nba.com/manage/2024/05/tyrese-haliburton-iso-looks.jpg",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/tyrese-haliburton-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/tyrese-haliburton/out.png",
+        "fixes": [],
+        "base": "626821aa01c4f694d64889630148b1cf699f172b",
+        "importedAt": "2026-10-12T03:34:53.575Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0044,
+          "face": 2.5,
+          "purity": 0.989,
+          "coverage": 0.127,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 597,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/tyrese-haliburton-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:52.655Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/tyrese-haliburton.webp",
+    "base": "626821aa01c4f694d64889630148b1cf699f172b",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:25.520Z"
+  }
+}

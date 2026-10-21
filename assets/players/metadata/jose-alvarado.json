@@ -1,0 +1,139 @@
+{
+  "player": "Jose Alvarado",
+  "playerId": "jose-alvarado",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/06/alvarado4.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/06/alvarado4.jpg",
+  "sourcePage": "https://www.nba.com/news/jose-alvarado-game-4-feature",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jose-alvarado.jpg",
+  "selectedAt": "2026-10-05T19:24:35.213Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 541,
+    "y": 220,
+    "size": 522
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches",
+  "jersey": "NYK white 2025-26 (2026 Finals vs SAS)",
+  "concerns": "hero image not Getty-named, so no caption check; identity verified visually (#5 New York, Alvarado, 2026 Finals); face ~197px in source, slightly under the 200px preference",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:32.297Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jose-alvarado-e31b9174-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/jose-alvarado/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:03:00.864Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jose-alvarado.png",
+  "webp": [
+    "assets/players/webp/jose-alvarado-1024.webp",
+    "assets/players/webp/jose-alvarado-400.webp",
+    "assets/players/webp/jose-alvarado-200.webp",
+    "assets/players/webp/jose-alvarado-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/06/alvarado4.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:03:01.119Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jose-alvarado-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/jose-alvarado/out.png",
+        "fixes": [],
+        "base": "ef29aa8e03a9647b013bc4501a54ec94ca2f7557",
+        "importedAt": "2026-10-12T03:33:07.703Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.004,
+          "face": 2.6,
+          "purity": 0.989,
+          "coverage": 0.133,
+          "strays": 41,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 789,
+          "oldEdge": 0,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/jose-alvarado-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:47.548Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/jose-alvarado.webp",
+    "base": "ef29aa8e03a9647b013bc4501a54ec94ca2f7557",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:01.786Z"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "season": "2025-26",
+  "generatedAt": "2026-10-09T19:00:56.225Z",
+  "playoffGames": 10,
+  "games": [
+    {
+      "date": "2026-05-11",
+      "gameId": "0042500224",
+      "opp": "OKC",
+      "home": true,
+      "result": "L",
+      "pts": 6,
+      "reb": 3,
+      "ast": 1,
+      "ts": 100,
+      "oppRank": 1
+    },
+    {
+      "date": "2026-05-09",
+      "gameId": "0042500223",
+      "opp": "OKC",
+      "home": true,
+      "result": "L",
+      "pts": 10,
+      "reb": 6,
+      "ast": 0,
+      "ts": 55.6,
+      "oppRank": 1
+    },
+    {
+      "date": "2026-05-07",
+      "gameId": "0042500222",
+      "opp": "OKC",
+      "home": false,
+      "result": "L",
+      "pts": 3,
+      "reb": 10,
+      "ast": 0,
+      "ts": 18.8,
+      "oppRank": 1
+    },
+    {
+      "date": "2026-05-05",
+      "gameId": "0042500221",
+      "opp": "OKC",
+      "home": false,
+      "result": "L",
+      "pts": 10,
+      "reb": 12,
+      "ast": 2,
+      "ts": 41.7,
+      "oppRank": 1
+    },
+    {
+      "date": "2026-05-01",
+      "gameId": "0042500176",
+      "opp": "HOU",
+      "home": false,
+      "result": "W",
+      "pts": 7,
+      "reb": 16,
+      "ast": 1,
+      "ts": 38.9,
+      "oppRank": 6
+    }
+  ]
+}

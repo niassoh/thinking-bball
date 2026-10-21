@@ -1,0 +1,70 @@
+{
+  "player": "Brice Sensabaugh",
+  "playerId": "brice-sensabaugh",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages_Sensabaugh.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/GettyImages_Sensabaugh.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/highlights-from-brice-sensabaugh-43-point-game",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "Jan 2026 at CHI, United Center (his 43-point game; nba.com post 2026-01-15)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/brice-sensabaugh.jpg",
+  "selectedAt": "2026-10-17T08:45:38.605Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 740,
+    "y": 0,
+    "size": 780
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (looking up and off to his right after a play, lips parted in a half-smile; alert, not a shout)",
+  "jersey": "UTA white City Edition 2025-26 #28",
+  "concerns": "small fist pump after a basket (mild, not an extreme celebration); his fist sits at the left edge of the crop; hair top only ~4% below the crop top because the head is near the image top (y=0); 2025-26 photo, no 2026 preseason photo of him on nba.com or the Jazz site",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/05/U5A5773.jpg",
+      "note": "(Jazz best-of 2025-26 gallery, postgame on court with the game ball, calm half-smile, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2026/05/U5A4800.jpg",
+      "note": "(Jazz best-of 2025-26 gallery, great mid-breath look but a blurred teammate covers the top of his head)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612762/2025/04/28846650_0U5A1314_jpg_Jeremy_Rincon_20250128_034913-1.jpg",
+      "note": "(2024-25 black alternate, in-game but near-profile, energy ~6)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

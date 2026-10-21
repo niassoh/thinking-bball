@@ -1,0 +1,139 @@
+{
+  "player": "Kyrie Irving",
+  "playerId": "kyrie-irving",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/03/kyrie-irving-iso-looks-on.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/03/kyrie-irving-iso-looks-on.jpg",
+  "sourcePage": "https://www.nba.com/news/kyrie-irving-acl-surgery",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kyrie-irving.jpg",
+  "selectedAt": "2026-10-05T19:13:58.144Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 396,
+    "y": 0,
+    "size": 967
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches",
+  "jersey": "DAL blue Icon 2024-25",
+  "concerns": "SEASON: 2024-25 photo (missed all of 2025-26 after March 2025 ACL tear); hero image not Getty-named, so no caption check; identity verified visually (#11 Dallas, Kyrie); head sits close to the top edge of the source",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:33.279Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kyrie-irving-1b546601-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/kyrie-irving/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:03:03.063Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kyrie-irving.png",
+  "webp": [
+    "assets/players/webp/kyrie-irving-1024.webp",
+    "assets/players/webp/kyrie-irving-400.webp",
+    "assets/players/webp/kyrie-irving-200.webp",
+    "assets/players/webp/kyrie-irving-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/03/kyrie-irving-iso-looks-on.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:03:03.331Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/kyrie-irving-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/kyrie-irving/out.png",
+        "fixes": [],
+        "base": "17cf249b28211d72112e049c4bd2b15f700ad683",
+        "importedAt": "2026-10-12T03:33:37.189Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 1
+          },
+          "silhouette": 0.0057,
+          "face": 6.4,
+          "purity": 0.991,
+          "coverage": 0.202,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1486,
+          "oldEdge": 0,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/kyrie-irving-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:49.068Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/kyrie-irving.webp",
+    "base": "17cf249b28211d72112e049c4bd2b15f700ad683",
+    "shift": {
+      "dx": -1,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:08.613Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "player": "Moses Moody",
+  "playerId": "moses-moody",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/11/curry-moody.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/11/curry-moody.jpg",
+  "sourcePage": "https://www.nba.com/news/stephen-curry-moses-moody-special-bond",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/moses-moody.jpg",
+  "selectedAt": "2026-10-05T19:21:23.025Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 959,
+    "y": 90,
+    "size": 589
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (talking to Curry mid-game, mouth open, alert)",
+  "jersey": "GSW white Association 2025-26 (posted Nov 2025)",
+  "concerns": "renamed nba.com image, no Getty caption check, but clearly Moody (#4 Warriors); headband; exact game date unverified",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:53:38.122Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/moses-moody-7325cbe8-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/moses-moody/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:53:48.386Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/moses-moody.png",
+  "webp": [
+    "assets/players/webp/moses-moody-1024.webp",
+    "assets/players/webp/moses-moody-400.webp",
+    "assets/players/webp/moses-moody-200.webp",
+    "assets/players/webp/moses-moody-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/11/curry-moody.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T02:53:48.683Z",
+  "background": "transparent"
+}

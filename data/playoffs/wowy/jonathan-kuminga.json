@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "ATL",
+  "gp": 6,
+  "generatedAt": "2026-10-09T18:30:51.034Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 156,
+      "poss": 315.5,
+      "net": -17.74960380348653
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 132,
+      "poss": 261.5,
+      "net": -18.738049713193117
+    },
+    {
+      "label": "On, w/o Johnson",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 59,
+      "poss": 115,
+      "net": -15.65217391304348
+    },
+    {
+      "label": "On, w/o Alexander-Walker",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 56,
+      "poss": 118.5,
+      "net": -21.09704641350211
+    },
+    {
+      "label": "On, w/o Okongwu",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 67,
+      "poss": 132,
+      "net": -18.939393939393938
+    },
+    {
+      "label": "Neither Kuminga nor Johnson",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 15,
+      "poss": 29,
+      "net": 13.793103448275861
+    }
+  ]
+}

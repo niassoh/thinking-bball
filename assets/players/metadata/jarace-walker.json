@@ -1,0 +1,64 @@
+{
+  "player": "Jarace Walker",
+  "playerId": "jarace-walker",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612754/2026/04/GettyImages-2267407744.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612754/2026/04/GettyImages-2267407744.jpg",
+  "sourcePage": "https://www.nba.com/pacers/news/player-review-2026-jarace-walker",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-03-17 (at NYK, Madison Square Garden; Getty caption: in action)",
+  "originalSize": null,
+  "storedSize": [
+    1130,
+    640
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jarace-walker.jpg",
+  "selectedAt": "2026-10-17T06:00:36.146Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 315,
+    "y": 0,
+    "size": 480
+  },
+  "needsReview": "face ~150px, below the 250px rule: no full-size in-game 2025-26 photo of him found; searched nba.com posts tagged with him since 2024 (Getty video thumbnails caption-checked), Pacers team-site articles tagged with him (1130px copies; the Pacers post no galleries), opponent Getty galleries vs IND (Suns full-size, Spurs, Nuggets, Celtics, Wolves, Hornets, Knicks: one wide drive only), and Commons (one 2024-25 hands-on-hips shot, energy ~4.5)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (jogging upcourt, eyes off to his right, lips parted mid-breath, focused rather than reactive)",
+  "jersey": "IND yellow Indiana statement #5 with white headband, 2025-26",
+  "concerns": "FLAG: 1130x640 team-site copy, face ~150px brow to chin (~250px bun to chin), below the 250px rule; crop 480px will be upscaled; looks off to the side rather than up",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2025/11/2246039583.jpg",
+      "note": "(Nov 13 2025 at PHX, full-size, but a wide drive with a tiny face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1_jarace_walker_2025.jpg",
+      "note": "(Commons CC BY-SA 4.0, Mar 2025, navy 2024-25, large face but hands on hips with a calm stare, energy ~4.5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

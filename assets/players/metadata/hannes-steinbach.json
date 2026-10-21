@@ -1,0 +1,70 @@
+{
+  "player": "Hannes Steinbach",
+  "playerId": "hannes-steinbach",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285918743CHA_VS_SAC___071726_.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285918743CHA_VS_SAC___071726_.jpg",
+  "sourcePage": "https://www.nba.com/hornets/photos/2026-summer-league-gallery-hornets-vs-kings-07-17-26",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-17 Summer League vs SAC, Las Vegas (caption: shoots a free throw)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1280
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/hannes-steinbach.jpg",
+  "selectedAt": "2026-10-17T11:34:07.447Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 790,
+    "y": 0,
+    "size": 620
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (eyes up at the rim, lips parted mid-breath, focused at the line; close to McCain’s upward look but calmer)",
+  "jersey": "CHA white Summer League 2026 #22",
+  "concerns": "Summer League: the four Hornets preseason galleries (Oct 6-16) hold only one captioned Steinbach photo, a rebound with his face behind his arms; Hornets team-site copy 1920x1280, face ~220px hairline-to-chin (~325px with hair), under the 250px target; photo framed close above his hair (hair top ~4% from the box top)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2300034730.jpg",
+      "note": "(2026-10-16 preseason at MEM, rebound, face behind his raised arms)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285915376CHA_VS_SAC___071726_.jpg",
+      "note": "(2026-07-17 Summer League, running upcourt in full profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://www.si.com/nba/hornets/onsi/hannes-steinbach-stars-in-first-summer-league-action-as-a-hornet",
+      "note": "(SI/Imagn lead images are all draft night)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

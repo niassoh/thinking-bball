@@ -1,0 +1,93 @@
+{
+  "player": "Collin Murray-Boyles",
+  "playerId": "collin-murray-boyles",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ReutersImages/mmsport/all_raptors/01m4933y0dwxp84pkkvr.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/images/ReutersImages/mmsport/all_raptors/01m4933y0dwxp84pkkvr.jpg",
+  "sourcePage": "https://www.si.com/nba/raptors/onsi/4-reasons-why-collin-murray-boyles-toronto-raptors-x-factor",
+  "license": "unknown (Imagn Images via Reuters Connect, on SI.com)",
+  "licenseUrl": null,
+  "author": "Imagn Images",
+  "credit": null,
+  "photoDate": "early Oct 2026 (2026-27 preseason vs MIA; image uploaded 2026-10-06)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/collin-murray-boyles.jpg",
+  "selectedAt": "2026-10-17T05:32:07.480Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 260,
+    "y": 0,
+    "size": 1400
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (alert, lips parted mid-breath, but eyes toward the camera rather than up and off)",
+  "jersey": "TOR red icon #30, 2026-27 preseason",
+  "concerns": "FLAG: 2026-27 preseason game (vs MIA), not regular season; wears #30 (was #12 in 2025-26); editorial image from SI, not nba.com, exact date and caption match unverified (article figcaption names him vs Miami); gaze near the camera",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/nba_draft/01k8ttvr54zs1qpbz58a.jpg",
+      "note": "(Oct 2025 home #12, rebound with ball overhead, mouth open looking off, energy ~7, but raised arm and white sleeve press against the face in the crop)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/GettyImages-2274090873-scaled-e1777698778656.jpg",
+      "note": "(2026 playoffs G6 vs CLE, eyes shut yelling after a foul, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:53.514Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/collin-murray-boyles-c0dea164-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/collin-murray-boyles/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.719Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/collin-murray-boyles.png",
+  "webp": [
+    "assets/players/webp/collin-murray-boyles-1024.webp",
+    "assets/players/webp/collin-murray-boyles-400.webp",
+    "assets/players/webp/collin-murray-boyles-200.webp",
+    "assets/players/webp/collin-murray-boyles-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/images/ReutersImages/mmsport/all_raptors/01m4933y0dwxp84pkkvr.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:40.471Z",
+  "background": "transparent"
+}

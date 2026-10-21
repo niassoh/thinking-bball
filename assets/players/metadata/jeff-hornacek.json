@@ -1,0 +1,102 @@
+{
+  "player": "Jeff Hornacek",
+  "playerId": "jeff-hornacek",
+  "sourceUrl": "https://cdn.nba.com/manage/2021/03/jeff-hornacek-passes-1994.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2021/03/jeff-hornacek-passes-1994.jpg",
+  "sourcePage": "https://www.nba.com/news/nba-birthdays-players-born-on-may-3",
+  "license": "unknown (NBA.com; renamed, likely Getty Images / NBAE)",
+  "licenseUrl": null,
+  "author": "NBA.com (likely Getty Images / NBAE)",
+  "credit": null,
+  "photoDate": "c. 1994 (vs SAS at the Delta Center, guarded by Willie Anderson; per file name)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jeff-hornacek.jpg",
+  "selectedAt": "2026-10-17T05:32:29.700Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 985,
+    "y": 10,
+    "size": 578
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (triple-threat with the ball, eyes off to his left reading the floor, lips pressed; real game concentration but mouth closed)",
+  "jersey": "UTA white home #14 (pre-1996 note design), c. 1994",
+  "concerns": "pre-2005 film photo: face ~195 px tall (head ~280 px), crop will be upscaled; renamed nba.com image, no Getty caption check, date from file name only; older uniform than his 1996-97 peak; the ball and Andersons arm sit just below the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2023/09/stockton-malone-hornacek-iso-finals.jpg",
+      "note": "(1997/98 Finals, white mountain uniform of his best season, larger face, but a relaxed closed-mouth smirk at teammates, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/jazz/sites/jazz/files/getty-images-907351926.jpg",
+      "note": "(as Knicks head coach in a suit, not a player photo)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:57.430Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jeff-hornacek-9198e45f-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jeff-hornacek/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.887Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jeff-hornacek.png",
+  "webp": [
+    "assets/players/webp/jeff-hornacek-1024.webp",
+    "assets/players/webp/jeff-hornacek-400.webp",
+    "assets/players/webp/jeff-hornacek-200.webp",
+    "assets/players/webp/jeff-hornacek-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2021/03/jeff-hornacek-passes-1994.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:48.232Z",
+  "background": "transparent"
+}

@@ -1,0 +1,178 @@
+{
+  "player": "Daniel Gafford",
+  "playerId": "daniel-gafford",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/10/Daniel_Gafford_1920x1080.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/10/Daniel_Gafford_1920x1080.jpg",
+  "sourcePage": "https://www.nba.com/news/reports-gafford-to-miss-time",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/daniel-gafford.jpg",
+  "selectedAt": "2026-10-05T19:09:29.180Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 529,
+    "y": 0,
+    "size": 723
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "DAL white, likely 2024-25 (at Sacramento, probably April 2025 play-in)",
+  "concerns": "hero image not Getty-named, so no caption check; identity verified visually (#21 Dallas, Gafford); exact game date unknown, likely 2024-25; no 2025-26 Gafford photo found in nba.com articles",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:30.795Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/daniel-gafford-820be1fd-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/daniel-gafford/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:02:56.798Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/daniel-gafford.png",
+  "webp": [
+    "assets/players/webp/daniel-gafford-1024.webp",
+    "assets/players/webp/daniel-gafford-400.webp",
+    "assets/players/webp/daniel-gafford-200.webp",
+    "assets/players/webp/daniel-gafford-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/10/Daniel_Gafford_1920x1080.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:02:57.087Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/daniel-gafford-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/daniel-gafford/out.png",
+        "fixes": [],
+        "base": "ee19b61985a6067f40c56d5597687798371b5f5f",
+        "importedAt": "2026-10-11T19:39:56.512Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0052,
+          "face": 2.6,
+          "purity": 0.994,
+          "coverage": 0.2,
+          "strays": 24,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 598,
+          "oldEdge": 0.338,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/daniel-gafford-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "overreach"
+          ],
+          "note": "the white crew-neck T-shirt under the jersey was keyed: its collar and visible chest became trim",
+          "at": "2026-10-11T19:49:37.062Z"
+        }
+      },
+      {
+        "attempt": 2,
+        "file": "assets/players/attempts/jersey-key/daniel-gafford-2.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/daniel-gafford/out.png",
+        "fixes": [
+          "overreach"
+        ],
+        "base": "ee19b61985a6067f40c56d5597687798371b5f5f",
+        "importedAt": "2026-10-12T03:32:36.085Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": -1
+          },
+          "silhouette": 0.0052,
+          "face": 5.1,
+          "purity": 0.988,
+          "coverage": 0.2,
+          "strays": 18,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 880,
+          "oldEdge": 0.335,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/daniel-gafford-2-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "overreach"
+          ],
+          "note": "attempt 2: the white crew-neck T-shirt inside the V is keyed as jersey again",
+          "at": "2026-10-12T03:41:54.125Z"
+        }
+      }
+    ]
+  }
+}

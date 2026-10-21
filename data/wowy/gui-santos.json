@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "GSW",
+  "gp": 68,
+  "generatedAt": "2026-10-02T05:37:40.064Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · GSW",
+      "minutes": 1395,
+      "poss": 2844.5,
+      "net": 1.230444717876604
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · GSW",
+      "minutes": 2566,
+      "poss": 5345.5,
+      "net": -1.515293237302404
+    },
+    {
+      "label": "On, w/o Podziemski",
+      "sub": "2025–26 · GSW",
+      "minutes": 508,
+      "poss": 1037,
+      "net": 7.03953712632594
+    },
+    {
+      "label": "On, w/o Green",
+      "sub": "2025–26 · GSW",
+      "minutes": 816,
+      "poss": 1662,
+      "net": 2.286401925391095
+    },
+    {
+      "label": "On, w/o Moody",
+      "sub": "2025–26 · GSW",
+      "minutes": 1018,
+      "poss": 2068.5,
+      "net": 2.3688663282571913
+    },
+    {
+      "label": "Neither Santos nor Podziemski",
+      "sub": "2025–26 · GSW",
+      "minutes": 1120,
+      "poss": 2348.5,
+      "net": -5.70576964019587
+    }
+  ]
+}

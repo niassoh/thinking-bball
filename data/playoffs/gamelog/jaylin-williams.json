@@ -1,0 +1,67 @@
+{
+  "season": "2025-26",
+  "generatedAt": "2026-10-09T18:47:09.874Z",
+  "playoffGames": 15,
+  "games": [
+    {
+      "date": "2026-05-30",
+      "gameId": "0042500317",
+      "opp": "SAS",
+      "home": true,
+      "result": "L",
+      "pts": 11,
+      "reb": 10,
+      "ast": 4,
+      "ts": 61.1,
+      "oppRank": 2
+    },
+    {
+      "date": "2026-05-28",
+      "gameId": "0042500316",
+      "opp": "SAS",
+      "home": false,
+      "result": "L",
+      "pts": 4,
+      "reb": 9,
+      "ast": 2,
+      "ts": 33.3,
+      "oppRank": 2
+    },
+    {
+      "date": "2026-05-26",
+      "gameId": "0042500315",
+      "opp": "SAS",
+      "home": true,
+      "result": "W",
+      "pts": 3,
+      "reb": 4,
+      "ast": 1,
+      "ts": 37.5,
+      "oppRank": 2
+    },
+    {
+      "date": "2026-05-24",
+      "gameId": "0042500314",
+      "opp": "SAS",
+      "home": false,
+      "result": "L",
+      "pts": 3,
+      "reb": 3,
+      "ast": 1,
+      "ts": 21.4,
+      "oppRank": 2
+    },
+    {
+      "date": "2026-05-22",
+      "gameId": "0042500313",
+      "opp": "SAS",
+      "home": false,
+      "result": "W",
+      "pts": 18,
+      "reb": 5,
+      "ast": 1,
+      "ts": 112.5,
+      "oppRank": 2
+    }
+  ]
+}

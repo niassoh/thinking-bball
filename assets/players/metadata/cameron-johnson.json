@@ -1,0 +1,184 @@
+{
+  "player": "Cameron Johnson",
+  "playerId": "cameron-johnson",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/10/GettyImages-2241134280.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/10/GettyImages-2241134280.jpg",
+  "sourcePage": "https://www.nba.com/news/the-athletic-cam-johnson-is-finding-his-fit-in-denver-guided-by-wisdom",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2001
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/cameron-johnson.jpg",
+  "selectedAt": "2026-10-05T01:59:06.367Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 636,
+    "y": 112,
+    "size": 1757
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "DEN association white 2025-26",
+  "concerns": "preseason game (Oct 14, 2025 vs CHI) in regular uniform",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T17:50:59.891Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/cameron-johnson-1d3cf350-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/cameron-johnson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T17:51:09.512Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/cameron-johnson.png",
+  "webp": [
+    "assets/players/webp/cameron-johnson-1024.webp",
+    "assets/players/webp/cameron-johnson-400.webp",
+    "assets/players/webp/cameron-johnson-200.webp",
+    "assets/players/webp/cameron-johnson-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/10/GettyImages-2241134280.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-05T17:51:09.795Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:42.481Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:34:40.148Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/cameron-johnson-1d3cf350-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/cameron-johnson/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:34:51.668Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/cameron-johnson-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/cameron-johnson/out.png",
+        "fixes": [],
+        "base": "8dc5a900b6a990610858240b62c42e41ecb5d7cb",
+        "importedAt": "2026-10-11T19:39:30.315Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.005,
+          "face": 2.1,
+          "purity": 0.994,
+          "coverage": 0.15,
+          "strays": 6,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1639,
+          "oldEdge": 0.239,
+          "shadeLevels": 16,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/cameron-johnson-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "old edge 23.9% is his white T-shirt (shoulders and the V), correctly left white",
+          "at": "2026-10-11T19:48:55.021Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/cameron-johnson.webp",
+    "base": "8dc5a900b6a990610858240b62c42e41ecb5d7cb",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:48:55.563Z"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "player": "Ben Wallace",
+  "playerId": "ben-wallace",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/BenWallaceCavs.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/BenWallaceCavs.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:BenWallaceCavs.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "April 27 2008 (2008 East First Round Game 4, CLE at WAS)",
+  "originalSize": null,
+  "storedSize": [
+    1689,
+    2523
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ben-wallace.jpg",
+  "selectedAt": "2026-10-14T03:49:45.702Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 310,
+    "y": 300,
+    "size": 985
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "close (pushing the ball up the floor, eyes locked ahead, lips parted mid-breath; looks toward the camera rather than off it)",
+  "jersey": "CLE wine road, 2007-08 playoffs (off-target: no usable in-game DET photo found)",
+  "concerns": "off-target team (CLE, not DET) and post-prime (age 33); gaze toward the camera; mild softness",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ben_Wallace_4104260441.jpg",
+      "note": "(Keith Allison CC BY-SA 2.0, DET blue Nov 14 2009 jump ball, looking up mouth open, energy ~7, but his face is ~145px in a crowded frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2021/09/HOF-Career-Retrospective-ThumbnailsBen-Wallace.jpg",
+      "note": "(DET white prime with the afro, 262px, but a Hall of Fame graphic cut-out with a gold ring, laughing, energy ~8)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:36:57.328Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/ben-wallace-c3ca8906-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/ben-wallace/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:00.865Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/ben-wallace.png",
+  "webp": [
+    "assets/players/webp/ben-wallace-1024.webp",
+    "assets/players/webp/ben-wallace-400.webp",
+    "assets/players/webp/ben-wallace-200.webp",
+    "assets/players/webp/ben-wallace-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/3/3c/BenWallaceCavs.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:01.413Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/ben-wallace-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/ben-wallace/out.png",
+        "fixes": [],
+        "base": "f92a9e45d828aa1b11fa18dfa028587365778650",
+        "importedAt": "2026-10-14T20:25:53.832Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0051,
+          "face": 5.6,
+          "purity": 0.989,
+          "coverage": 0.279,
+          "strays": 28,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1932,
+          "oldEdge": 0.001,
+          "shadeLevels": 16,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/ben-wallace-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:09.859Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/ben-wallace.webp",
+    "base": "f92a9e45d828aa1b11fa18dfa028587365778650",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:10.132Z"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Noah Clowney",
+  "playerId": "noah-clowney",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612751/2026/03/sas1.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612751/2026/03/sas1.jpg",
+  "sourcePage": "https://www.nba.com/nets/photos/nets-vs-spurs-2",
+  "license": "unknown (Brooklyn Nets team photo via NBA.com)",
+  "licenseUrl": null,
+  "author": "Brooklyn Nets",
+  "credit": null,
+  "photoDate": "late Feb 2026 (vs SAS, Barclays Center; Nets gallery posted 2026-02-27)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/noah-clowney.jpg",
+  "selectedAt": "2026-10-17T08:56:36.826Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 700,
+    "y": 0,
+    "size": 580
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up and off to his right, mouth open mid-breath, engaged)",
+  "jersey": "BKN black #21, 2025-26",
+  "concerns": "team-site gallery copy (1920px, uncaptioned), so face is ~236px brow-to-chin (~285px to the top of the hair), a little under 250; photographer’s film-grain edit; ball and the Spurs are outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612751/2026/03/dal1.jpg",
+      "note": "(Nets gallery, Feb 2026 vs DAL, black, defensive stance, head tilted down, lips parted, energy ~6)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kbfxj8h62q5dm9mmtf.jpg",
+      "note": "(SI/Imagn, larger face and wide-eyed look, but a black practice tank, not the game uniform)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

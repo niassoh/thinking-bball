@@ -1,0 +1,152 @@
+{
+  "team": "PHX",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:55.148Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Devin Booker",
+          "slug": "devin-booker",
+          "espnId": "3136193",
+          "status": null
+        },
+        {
+          "name": "Collin Gillespie",
+          "slug": "collin-gillespie",
+          "espnId": "4278585",
+          "status": null
+        },
+        {
+          "name": "Luke Kennard",
+          "slug": "luke-kennard",
+          "espnId": "3913174",
+          "status": null
+        },
+        {
+          "name": "Jamaree Bouyea",
+          "slug": "jamaree-bouyea",
+          "espnId": "4280245",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Jalen Green",
+          "slug": "jalen-green",
+          "espnId": "4437244",
+          "status": null
+        },
+        {
+          "name": "Luke Kennard",
+          "slug": "luke-kennard",
+          "espnId": "3913174",
+          "status": null
+        },
+        {
+          "name": "Devin Booker",
+          "slug": "devin-booker",
+          "espnId": "3136193",
+          "status": null
+        },
+        {
+          "name": "Jordan Goodwin",
+          "slug": "jordan-goodwin",
+          "espnId": "4278402",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Dillon Brooks",
+          "slug": "dillon-brooks",
+          "espnId": "3155526",
+          "status": null
+        },
+        {
+          "name": "Jordan Goodwin",
+          "slug": "jordan-goodwin",
+          "espnId": "4278402",
+          "status": null
+        },
+        {
+          "name": "Koa Peat",
+          "slug": "koa-peat",
+          "espnId": "5041953",
+          "status": null
+        },
+        {
+          "name": "Rasheer Fleming",
+          "slug": "rasheer-fleming",
+          "espnId": "5105977",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Miles Bridges",
+          "slug": "miles-bridges",
+          "espnId": "4066383",
+          "status": null
+        },
+        {
+          "name": "Ryan Dunn",
+          "slug": "ryan-dunn",
+          "espnId": "4888725",
+          "status": null
+        },
+        {
+          "name": "Koa Peat",
+          "slug": "koa-peat",
+          "espnId": "5041953",
+          "status": null
+        },
+        {
+          "name": "Rasheer Fleming",
+          "slug": "rasheer-fleming",
+          "espnId": "5105977",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Oso Ighodaro",
+          "slug": "oso-ighodaro",
+          "espnId": "4601023",
+          "status": null
+        },
+        {
+          "name": "Khaman Maluach",
+          "slug": "khaman-maluach",
+          "espnId": "5203685",
+          "status": null
+        },
+        {
+          "name": "Duop Reath",
+          "slug": "duop-reath",
+          "espnId": "4066268",
+          "status": "DTD"
+        },
+        {
+          "name": "Koa Peat",
+          "slug": "koa-peat",
+          "espnId": "5041953",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

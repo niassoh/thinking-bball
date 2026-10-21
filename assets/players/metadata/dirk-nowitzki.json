@@ -1,0 +1,117 @@
+{
+  "player": "Dirk Nowitzki",
+  "playerId": "dirk-nowitzki",
+  "sourceUrl": "https://cdn.nba.com/manage/2021/11/GettyImages-114489419-scaled-e1637272247843.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2021/11/GettyImages-114489419-scaled-e1637272247843.jpg",
+  "sourcePage": "https://www.nba.com/news/mavericks-playoff-spot-clinch-dirk",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2011-05-21 (2011 WCF Game 3 at OKC)",
+  "originalSize": null,
+  "storedSize": [
+    2534,
+    1529
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/dirk-nowitzki.jpg",
+  "selectedAt": "2026-10-14T03:26:23.588Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 719,
+    "y": 0,
+    "size": 1021
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (reacting after a play, mouth open, looking off-camera)",
+  "jersey": "DAL blue alternate 2010-11 (2011 WCF)",
+  "concerns": "mouth open showing upper teeth, a touch more reactive than McCain; wet hair",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2023/02/GettyImages-115272156.jpg",
+      "note": "(2011 Finals G3 vs MIA, white home, mouth open looking off, energy 7, but 297px, softer, nearer profile, Wade in frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Dirk_Nowitzki_2_%28cropped%29.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, navy road 2008, 754px, but looking down, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:04.264Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/dirk-nowitzki-1570a33c-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/dirk-nowitzki/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:10.936Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/dirk-nowitzki.png",
+  "webp": [
+    "assets/players/webp/dirk-nowitzki-1024.webp",
+    "assets/players/webp/dirk-nowitzki-400.webp",
+    "assets/players/webp/dirk-nowitzki-200.webp",
+    "assets/players/webp/dirk-nowitzki-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2021/11/GettyImages-114489419-scaled-e1637272247843.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:11.467Z",
+  "background": "transparent"
+}

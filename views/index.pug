@@ -1,0 +1,14 @@
+html
+  head
+    title Scraped Headless Browser Resources
+  body
+    h1 Latest Headless Browser Resources
+
+    h3 Medium Articles
+ 
+
+    h3 Latest YouTube Videos
+    ul
+      for video in data.videos
+        li
+          a(href=`https://www.youtube.com/${video.link}` target='_blank')= `${video.title}`

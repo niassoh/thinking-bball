@@ -1,0 +1,66 @@
+{
+  "player": "Jamal Shead",
+  "playerId": "jamal-shead",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2273446088.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2273446088.jpg",
+  "sourcePage": "https://www.nba.com/news/toronto-raptors-jamal-shead-extension",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jamal-shead.jpg",
+  "selectedAt": "2026-10-05T19:33:52.054Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 687,
+    "y": 10,
+    "size": 566
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 8,
+  "energyVsMcCain": "slightly higher",
+  "jersey": "TOR red Statement 2025-26 (Apr 2026 playoffs R1 G4 vs CLE)",
+  "concerns": "mouth wide open mid-reaction, a notch above McCain; Mobley (Cavs) blurred in the left third of the crop; face ~214px",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 0,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:57:37.489Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jamal-shead-a9218fb7-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/jamal-shead/out.png",
+      "usage": null,
+      "qa": null
+    }
+  ],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "latestAttempt": 1
+}

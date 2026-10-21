@@ -1,0 +1,140 @@
+{
+  "team": "CHI",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:44.680Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Josh Giddey",
+          "slug": "josh-giddey",
+          "espnId": "4871145",
+          "status": null
+        },
+        {
+          "name": "Tre Jones",
+          "slug": "tre-jones",
+          "espnId": "4395626",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Norman Powell",
+          "slug": "norman-powell",
+          "espnId": "2595516",
+          "status": null
+        },
+        {
+          "name": "Isaac Okoro",
+          "slug": "isaac-okoro",
+          "espnId": "4432822",
+          "status": null
+        },
+        {
+          "name": "Tre Jones",
+          "slug": "tre-jones",
+          "espnId": "4395626",
+          "status": null
+        },
+        {
+          "name": "Buddy Hield",
+          "slug": "buddy-hield",
+          "espnId": "2990984",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Matas Buzelis",
+          "slug": "matas-buzelis",
+          "espnId": "4711294",
+          "status": null
+        },
+        {
+          "name": "Dailyn Swain",
+          "slug": "dailyn-swain",
+          "espnId": "4848625",
+          "status": null
+        },
+        {
+          "name": "Isaac Okoro",
+          "slug": "isaac-okoro",
+          "espnId": "4432822",
+          "status": null
+        },
+        {
+          "name": "Norman Powell",
+          "slug": "norman-powell",
+          "espnId": "2595516",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Caleb Wilson",
+          "slug": "caleb-wilson",
+          "espnId": "5095151",
+          "status": null
+        },
+        {
+          "name": "Patrick Williams",
+          "slug": "patrick-williams",
+          "espnId": "4431687",
+          "status": null
+        },
+        {
+          "name": "Dailyn Swain",
+          "slug": "dailyn-swain",
+          "espnId": "4848625",
+          "status": null
+        },
+        {
+          "name": "Matas Buzelis",
+          "slug": "matas-buzelis",
+          "espnId": "4711294",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Nic Claxton",
+          "slug": "nic-claxton",
+          "espnId": "4278067",
+          "status": null
+        },
+        {
+          "name": "Jalen Smith",
+          "slug": "jalen-smith",
+          "espnId": "4397189",
+          "status": null
+        },
+        {
+          "name": "Zach Collins",
+          "slug": "zach-collins",
+          "espnId": "4066650",
+          "status": "DTD"
+        },
+        {
+          "name": "Tobe Awaka",
+          "slug": "tobe-awaka",
+          "espnId": "5105555",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

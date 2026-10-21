@@ -1,0 +1,93 @@
+{
+  "player": "Goga Bitadze",
+  "playerId": "goga-bitadze",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/04/goga-bitadze-preview-20260410.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/04/goga-bitadze-preview-20260410.jpg",
+  "sourcePage": "https://www.nba.com/magic/news/orlando-magic-chicago-bulls-game-preview-injury-report-20260410",
+  "license": "unknown (Orlando Magic team photo via NBA.com)",
+  "licenseUrl": null,
+  "author": "Orlando Magic",
+  "credit": null,
+  "photoDate": "2025-26 season home game at Kia Center (exact game unverified; used on the 2026-04-10 preview)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1625
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/goga-bitadze.jpg",
+  "selectedAt": "2026-10-17T05:38:55.016Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 591,
+    "y": 103,
+    "size": 855
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (mid-game huddle-up with teammates, eyes up and off-camera, lips parted mid-word)",
+  "jersey": "ORL blue pinstripe ORLANDO #35, 2025-26",
+  "concerns": "white short-sleeve undershirt under the game jersey; Suggs hand just enters the lower-left edge of the crop; team photo with no caption, so the exact game is unverified",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/04/goga-2400-2424-234234-234324-23423.jpg",
+      "note": "(2026-04-08 vs MIN, white pinstripe home, arms out to high-five, smiling, energy ~6, face ~150 px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/12/GettyImages-2183501338-scaled-e1734112037650.jpg",
+      "note": "(Nov 2024 at IND, dunking, off-target and older season)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:54.953Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/goga-bitadze-8481a75c-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/goga-bitadze/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.162Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/goga-bitadze.png",
+  "webp": [
+    "assets/players/webp/goga-bitadze-1024.webp",
+    "assets/players/webp/goga-bitadze-400.webp",
+    "assets/players/webp/goga-bitadze-200.webp",
+    "assets/players/webp/goga-bitadze-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/04/goga-bitadze-preview-20260410.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:43.875Z",
+  "background": "transparent"
+}

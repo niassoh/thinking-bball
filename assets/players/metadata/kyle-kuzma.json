@@ -1,0 +1,150 @@
+{
+  "player": "Kyle Kuzma",
+  "playerId": "kyle-kuzma",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2267769137.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2267769137.jpg",
+  "sourcePage": "https://www.nba.com/suns/photos/sunsvs-bucks-mar-21-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kyle-kuzma.jpg",
+  "selectedAt": "2026-10-05T19:43:11.558Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 327,
+    "y": 0,
+    "size": 946
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 8,
+  "energyVsMcCain": "slightly higher",
+  "jersey": "MIL white Association 2025-26 (Mar 21 2026 at PHX)",
+  "concerns": "driving to the basket, eyes up at the rim with mouth in a wide O (tongue visible), upper edge of the band; head tilted up and turned 3/4; ball at the lower-left crop corner; only other 2025-26 option was a profile",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 2,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:33.154Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kyle-kuzma-d492577f-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/kyle-kuzma/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "fail",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [
+          "source expression too intense (mid-yell, mouth wide open)",
+          "re-sourcing"
+        ],
+        "checkedAt": "2026-10-06T04:02:53.705Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    },
+    {
+      "attempt": 2,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:59.297Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kyle-kuzma-d492577f-2.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/kyle-kuzma/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.562Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kyle-kuzma.png",
+  "webp": [
+    "assets/players/webp/kyle-kuzma-1024.webp",
+    "assets/players/webp/kyle-kuzma-400.webp",
+    "assets/players/webp/kyle-kuzma-200.webp",
+    "assets/players/webp/kyle-kuzma-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2267769137.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 2,
+  "approvedAt": "2026-10-17T07:42:52.070Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/kyle-kuzma-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/kyle-kuzma/out.png",
+        "fixes": [],
+        "base": "74ddaf3df1fb17ef199e395a35791e9d5e680c91",
+        "importedAt": "2026-10-17T11:07:29.228Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0067,
+          "face": 5.2,
+          "purity": 0.988,
+          "coverage": 0.18,
+          "strays": 2,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 955,
+          "oldEdge": 0.038,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/kyle-kuzma-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:58.815Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/kyle-kuzma.webp",
+    "base": "74ddaf3df1fb17ef199e395a35791e9d5e680c91",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:59.204Z"
+  }
+}

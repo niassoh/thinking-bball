@@ -1,0 +1,93 @@
+{
+  "player": "Jordan Walsh",
+  "playerId": "jordan-walsh",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/04/2270626494.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/04/2270626494.jpg",
+  "sourcePage": "https://www.nba.com/celtics/photos/photos-magic-vs-celtics-apr-12-2026",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Winslow Townson / Getty Images",
+  "credit": null,
+  "photoDate": "2026-04-12 (vs ORL, TD Garden)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jordan-walsh.jpg",
+  "selectedAt": "2026-10-17T05:25:59.143Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 703,
+    "y": 183,
+    "size": 465
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (mid-pass, mouth open, eyes locked off to his left, alert)",
+  "jersey": "BOS white/gold City Edition 2025-26",
+  "concerns": "head ~380px tall in the 5000px original but ~230px in the stored 3000px copy (crop 465px, will be upscaled); 3/4 view; his passing arm crosses the bottom of the crop below the chin",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/10/2300252676.jpg",
+      "note": "(BOS white, Oct 14 2026 preseason vs CHA, large face but near-profile with mouth agape, energy ~8.5, soft)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/01/2258172967.jpg",
+      "note": "(BOS green, Jan 28 2026 vs ATL, eyes up mouth open on a layup, energy ~7, but raised arm and defender hand beside a smaller face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:58.120Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jordan-walsh-7d8ab508-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jordan-walsh/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.170Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jordan-walsh.png",
+  "webp": [
+    "assets/players/webp/jordan-walsh-1024.webp",
+    "assets/players/webp/jordan-walsh-400.webp",
+    "assets/players/webp/jordan-walsh-200.webp",
+    "assets/players/webp/jordan-walsh-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612738/2026/04/2270626494.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:49.558Z",
+  "background": "transparent"
+}

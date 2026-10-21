@@ -1,0 +1,164 @@
+{
+  "player": "Pau Gasol",
+  "playerId": "pau-gasol",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gasolwizards.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gasolwizards.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Gasolwizards.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "December 5 2008 (LAL at WAS)",
+  "originalSize": null,
+  "storedSize": [
+    2093,
+    2592
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/pau-gasol.jpg",
+  "selectedAt": "2026-10-14T03:35:34.870Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 594,
+    "y": 690,
+    "size": 576
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out, looking up at the rim, mouth open mid-breath)",
+  "jersey": "LAL purple road, 2008-09",
+  "concerns": "face 217px, a little soft (will be upscaled); a Wizards player’s arm at the left edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/lakers/sites/lakers/files/479994845_10.jpg",
+      "note": "(Getty, LAL black alternate Mar 21 2014 vs WAS, sharp 220px, mid-drive strain, late Lakers years)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lakers_vs_Nuggets_2013-01-06_%2822%29.JPG",
+      "note": "(Holly Cheng CC BY-SA 3.0, LAL white 2013, 428px, but eyes nearly closed looking down, energy ~3)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:10.919Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/pau-gasol-168cc352-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/pau-gasol/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:25.850Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/pau-gasol.png",
+  "webp": [
+    "assets/players/webp/pau-gasol-1024.webp",
+    "assets/players/webp/pau-gasol-400.webp",
+    "assets/players/webp/pau-gasol-200.webp",
+    "assets/players/webp/pau-gasol-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gasolwizards.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:26.630Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/pau-gasol-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/pau-gasol/out.png",
+        "fixes": [],
+        "base": "b230b415da74fd39d778a087da6eb8071e020564",
+        "importedAt": "2026-10-14T20:26:19.435Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0046,
+          "face": 2.7,
+          "purity": 0.99,
+          "coverage": 0.146,
+          "strays": 14,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1887,
+          "oldEdge": 0,
+          "shadeLevels": 15,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/pau-gasol-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:15.107Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/pau-gasol.webp",
+    "base": "b230b415da74fd39d778a087da6eb8071e020564",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:15.350Z"
+  }
+}

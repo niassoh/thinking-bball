@@ -1,0 +1,70 @@
+{
+  "player": "Precious Achiuwa",
+  "playerId": "precious-achiuwa",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612758/2026/07/2271028478.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612758/2026/07/2271028478.jpg",
+  "sourcePage": "https://www.nba.com/kings/news/sacramento-kings-re-sign-precious-achiuwa",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-04-10 (vs GSW, Golden 1 Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/precious-achiuwa.jpg",
+  "selectedAt": "2026-10-17T05:54:45.397Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1443,
+    "y": 189,
+    "size": 834
+  },
+  "needsReview": "energy ~5 (calm look-off), below the 6-8 band. Searched: all 82 Kings 2025-26 nba.com game pages and Oct 2026 preseason game pages (hero and Getty images), all 1837 Kings team-site news pages (only graphics), Kings photo sitemap (no galleries after 2023), 12 other-team galleries vs SAC in 2025-26 and Oct 2026 (caption-scanned), the 340 nba.com articles scanned earlier, and Commons (only a 2021 Raptors photo). This is the only large frontal in-game SAC photo found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower (looks on during a stoppage, lips closed, eyes alert and off-camera to his right)",
+  "jersey": "SAC purple (Icon) #9, 2025-26",
+  "concerns": "FLAG: energy ~5, just under the 6-8 band; Getty caption (id 2271028478): looks on during the game; crop in 3000px-scaled pixels (original 5000x3333); a Kings staffer cap in the lower-left of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/Achiuwa-raptors-meta-040126-scaled.jpg",
+      "note": "(Apr 1 2026 vs TOR, SAC white, mouth slightly open, but near-profile with the ball and his hand beside the face, Poeltl in frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/achiuwa-iso-meta-022626.jpg",
+      "note": "(Feb 2026, SAC white, hanging on the rim after a dunk)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2254436274-scaled.jpg",
+      "note": "(Jan 6 2026 vs DAL, overhead layup shot, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

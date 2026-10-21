@@ -1,0 +1,58 @@
+{
+  "player": "Will Riley",
+  "playerId": "will-riley",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2258908079-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2258908079-scaled.jpg",
+  "sourcePage": "https://cdn.nba.com/manage/2026/02/GettyImages-2258908079-scaled.jpg",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-02-01 (vs SAC, Capital One Arena; his season-high 18-point game)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/will-riley.jpg",
+  "selectedAt": "2026-10-17T11:32:16.593Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 954,
+    "y": 202,
+    "size": 535
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (driving past a defender, eyes up and alert, mouth open in an O mid-breath; not straining)",
+  "jersey": "WAS gold City Edition 2025-26 #27",
+  "concerns": "host nba.com page not located (the photo sits in cdn.nba.com/manage; Getty caption: Will Riley dribbles the ball during the game against the Sacramento Kings on February 1, 2026), so --page repeats the image URL; face ~262px hair-to-chin in a 2560px image, at the low edge of the size rule; defender hand at the right edge of the crop, clear of the face; 2025-26 photo, no 2026 preseason photo of him found (SI Wizards preseason lead images show other players)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612764/2026/04/TopShotsThumb.png",
+      "note": "(Wizards top pics of 2025-26 gallery: no usable frame of him)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Tayshaun Prince",
+  "playerId": "tayshaun-prince",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tayshaun_Prince.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tayshaun_Prince.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Tayshaun_Prince.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2008-12-09 at WAS, Verizon Center",
+  "originalSize": null,
+  "storedSize": [
+    1888,
+    2272
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tayshaun-prince.jpg",
+  "selectedAt": "2026-10-17T11:07:05.742Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 653,
+    "y": 273,
+    "size": 1100
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (eyes off-camera to his right, mouth open mid-breath while setting up with the ball)",
+  "jersey": "DET red road #22, 2008-09",
+  "concerns": "Commons (CC BY-SA 2.0), not nba.com: nba.com has no Prince-tagged posts with Pistons-era photos; 2008-09 rather than his 2007-08 best season (same team, same look); slight softness/noise from the 2008 camera; ball held at waist sits below the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/PrinceTayshaun.jpg",
+      "note": "(Commons 2008, DET white, mid-layup with arm raised, small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/King_Versus_Prince.jpg",
+      "note": "(Commons 2007 ECF Game 1, DET white, defensive crouch, small soft face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

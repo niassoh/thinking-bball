@@ -1,0 +1,140 @@
+{
+  "team": "DEN",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:02:13.008Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Jamal Murray",
+          "slug": "jamal-murray",
+          "espnId": "3936299",
+          "status": null
+        },
+        {
+          "name": "Tyus Jones",
+          "slug": "tyus-jones",
+          "espnId": "3135046",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Christian Braun",
+          "slug": "christian-braun",
+          "espnId": "4431767",
+          "status": null
+        },
+        {
+          "name": "DeMar DeRozan",
+          "slug": "demar-derozan",
+          "espnId": "3978",
+          "status": null
+        },
+        {
+          "name": "Julian Strawther",
+          "slug": "julian-strawther",
+          "espnId": "4432181",
+          "status": null
+        },
+        {
+          "name": "Spencer Jones",
+          "slug": "spencer-jones",
+          "espnId": "4592427",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Cameron Johnson",
+          "slug": "cameron-johnson",
+          "espnId": "3138196",
+          "status": null
+        },
+        {
+          "name": "DeMar DeRozan",
+          "slug": "demar-derozan",
+          "espnId": "3978",
+          "status": null
+        },
+        {
+          "name": "Julian Strawther",
+          "slug": "julian-strawther",
+          "espnId": "4432181",
+          "status": null
+        },
+        {
+          "name": "Lonnie Walker IV",
+          "slug": "lonnie-walker-iv",
+          "espnId": "4277890",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Aaron Gordon",
+          "slug": "aaron-gordon",
+          "espnId": "3064290",
+          "status": null
+        },
+        {
+          "name": "DeMar DeRozan",
+          "slug": "demar-derozan",
+          "espnId": "3978",
+          "status": null
+        },
+        {
+          "name": "Spencer Jones",
+          "slug": "spencer-jones",
+          "espnId": "4592427",
+          "status": null
+        },
+        {
+          "name": "Alpha Diallo",
+          "slug": "alpha-diallo",
+          "espnId": "4065813",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Nikola Jokic",
+          "slug": "nikola-jokic",
+          "espnId": "3112335",
+          "status": null
+        },
+        {
+          "name": "Marvin Bagley III",
+          "slug": "marvin-bagley-iii",
+          "espnId": "4277848",
+          "status": null
+        },
+        {
+          "name": "Aaron Gordon",
+          "slug": "aaron-gordon",
+          "espnId": "3064290",
+          "status": null
+        },
+        {
+          "name": "Zeke Nnaji",
+          "slug": "zeke-nnaji",
+          "espnId": "4431690",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

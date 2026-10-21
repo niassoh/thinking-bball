@@ -1,0 +1,88 @@
+{
+  "player": "Labaron Philon Jr.",
+  "playerId": "labaron-philon-jr",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/10/Philon-preseason_1920x1080.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/10/Philon-preseason_1920x1080.jpg",
+  "sourcePage": "https://www.nba.com/sixers/news/labaron-philons-confidence-and-basketball-iq-shine-in-preseason",
+  "license": "unknown (Philadelphia 76ers / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "76ers / NBAE",
+  "credit": null,
+  "photoDate": "Oct 2026 preseason game (renamed team-site photo, exact game not captioned)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1688
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/labaron-philon-jr.jpg",
+  "selectedAt": "2026-10-17T08:52:26.923Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 858,
+    "y": 149,
+    "size": 843
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (smiling mid-conversation with coach Nick Nurse at the sideline, eyes off-camera to his left, engaged)",
+  "jersey": "PHI white #00, 2026-27 preseason",
+  "concerns": "2026 draftee (no regular season yet); sideline moment during a preseason stoppage rather than live action; smile rather than McCain’s open-mouthed look; NBA headband covers the hairline; renamed team-site image, no Getty caption to confirm the game",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/07/Summer-League-1920x1080-1.jpg",
+      "note": "(Summer League July 2026, white, mouth open looking off, but near-full profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/07/Philon-recap-1920x1080-1.jpg",
+      "note": "(Summer League, blue, finger-to-lips shush gesture covers the mouth)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285515110-scaled-e1784743165296.jpg",
+      "note": "(Summer League July 14 2026 vs HOU, blue, small face in a 1920px frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/07/Summer-League-1920x1080-1.jpg",
+      "note": "(Summer League July 2026, white, mouth open looking off, but near-full profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/07/Philon-recap-1920x1080-1.jpg",
+      "note": "(Summer League, blue, finger-to-lips shush gesture covers the mouth)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285515110-scaled-e1784743165296.jpg",
+      "note": "(Summer League July 14 2026 vs HOU, blue, small face in a 1920px frame)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/10/Philon-preseason_1920x1080.jpg",
+  "supersededHistory": []
+}

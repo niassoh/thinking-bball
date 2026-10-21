@@ -1,0 +1,64 @@
+{
+  "player": "Shane Battier",
+  "playerId": "shane-battier",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Shane_Battier_Houston.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Shane_Battier_Houston.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Shane_Battier_Houston.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "Dec 2006 (Commons date 2006-12-10; Flickr 120906, likely at WAS), his first Rockets season",
+  "originalSize": null,
+  "storedSize": [
+    2336,
+    2879
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/shane-battier.jpg",
+  "selectedAt": "2026-10-17T11:40:26.547Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 267,
+    "y": 61,
+    "size": 1737
+  },
+  "needsReview": "no in-game Memphis photo passes: Commons has only a far wide 2011 playoff shot (face tiny); nba.com Grizzlies leader lists, posts tagged Battier and Grizzlies galleries carry none; SI, Daily Memphian (photo collage only), Memphis Flyer (2011 bench shot in a warmup jacket, 550px) and the SB Nation Grizzlies blog (domain gone) gave nothing usable; picked the best in-game face, in a Rockets jersey, for the site to repaint",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (sweaty, eyes up and off-camera, mouth open mid-breath)",
+  "jersey": "HOU white #31, 2006-07 — NOT the wanted MEM",
+  "concerns": "FLAG jersey: Houston, not Memphis; taken about six months after he left the Grizzlies, so his look matches his Memphis prime; no unwatermarked in-game Grizzlies photo of him found anywhere",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://www.memphisflyer.com/wp-content/uploads/mr-big-shot/u/original/2741441/sports.jpg",
+      "note": "(Memphis Flyer, 2011 Grizzlies bench in a warmup jacket, 550px; fails in-game and size)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Grizzlies_at_Thunder_2011_playoffs.jpg",
+      "note": "(Commons, 2011 playoffs at OKC, MEM road, whole-court shot with a tiny face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

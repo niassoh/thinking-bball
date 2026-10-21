@@ -1,0 +1,93 @@
+{
+  "player": "Gui Santos",
+  "playerId": "gui-santos",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/02/2260158333.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/02/2260158333.jpg",
+  "sourcePage": "https://www.nba.com/suns/photos/sunsvs-warriors-feb-5-2026",
+  "license": "unknown (Getty Images via NBA.com team gallery)",
+  "licenseUrl": null,
+  "author": "Chris Coduto / Getty Images",
+  "credit": null,
+  "photoDate": "2026-02-05 (at PHX, Mortgage Matchup Center, first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/gui-santos.jpg",
+  "selectedAt": "2026-10-17T05:54:43.053Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1205,
+    "y": 32,
+    "size": 812
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (jogging back after a made three, eyes ahead and alert, lips parted)",
+  "jersey": "GSW black statement #15, 2025-26",
+  "concerns": "mild in-game reaction: his raised arm (three-finger sign) enters the left edge of the crop, the hand itself is outside; black headband",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/santos-kristaps-meta-032726-scaled.jpg",
+      "note": "(2026-03-27 vs WAS, The Town city jersey, high-fiving Porzingis, smiling in near-profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612744/2026/02/feat-image-santos-20260218.png",
+      "note": "(2025-26, The Town jersey, roaring with mouth wide open, energy ~9, 1280 px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:55.338Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/gui-santos-b6373fb2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/gui-santos/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.321Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/gui-santos.png",
+  "webp": [
+    "assets/players/webp/gui-santos-1024.webp",
+    "assets/players/webp/gui-santos-400.webp",
+    "assets/players/webp/gui-santos-200.webp",
+    "assets/players/webp/gui-santos-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/02/2260158333.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:44.864Z",
+  "background": "transparent"
+}

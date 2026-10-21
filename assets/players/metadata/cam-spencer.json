@@ -1,0 +1,93 @@
+{
+  "player": "Cam Spencer",
+  "playerId": "cam-spencer",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_grizzlies/01kckxc66b1kgw7nsy63.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_grizzlies/01kckxc66b1kgw7nsy63.jpg",
+  "sourcePage": "https://www.si.com/nba/grizzlies/onsi/news/the-grizzlies-have-the-league-s-hottest-shooter-01kckx8bdcm4",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Matthew Smith / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-12-12 (home game, FedExForum, 2nd half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/cam-spencer.jpg",
+  "selectedAt": "2026-10-17T05:33:39.371Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1113,
+    "y": 74,
+    "size": 820
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (jogging back after a made three, lips parted, eyes just left of the camera; alert but calmer than McCain)",
+  "jersey": "MEM black Classic Edition #24, 2025-26",
+  "concerns": "source priority 3 (editorial Imagn photo via SI.com): none of the 19 nba.com posts tagged with him carries his photo and the Grizzlies team site has no static galleries; gaze close to the camera; pointing hand enters the lower-left corner of the crop, below the chin",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_grizzlies/01kdqzyrds904whx0e67.jpg",
+      "note": "(Imagn via SI, MEM white, Dec 26 2025 vs MIL, lips parted looking ahead, energy ~5.5, heavy sharpening)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_grizzlies/01kdr0earb5h2zc32xks.jpg",
+      "note": "(Imagn via SI, MEM white, Dec 5 2025 vs LAC, profile with lips pressed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:52.749Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/cam-spencer-5094c358-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/cam-spencer/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.524Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/cam-spencer.png",
+  "webp": [
+    "assets/players/webp/cam-spencer-1024.webp",
+    "assets/players/webp/cam-spencer-400.webp",
+    "assets/players/webp/cam-spencer-200.webp",
+    "assets/players/webp/cam-spencer-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_grizzlies/01kckxc66b1kgw7nsy63.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:39.342Z",
+  "background": "transparent"
+}

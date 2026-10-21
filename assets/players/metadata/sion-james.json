@@ -1,0 +1,92 @@
+{
+  "player": "Sion James",
+  "playerId": "sion-james",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/03/GettyImages-2267458277CHA_VS_ORL_GALLERY__031926_.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/03/GettyImages-2267458277CHA_VS_ORL_GALLERY__031926_.jpg",
+  "sourcePage": "https://www.nba.com/hornets/photos/hornets-vs-magic-gallery-03-19-26",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1280
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/sion-james.jpg",
+  "selectedAt": "2026-10-05T19:46:02.937Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 1,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 927,
+    "y": 112,
+    "size": 408
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "CHA teal Icon 2025-26 (Mar 19 2026 vs ORL)",
+  "concerns": "focused frontal look while dribbling, lips pressed together (no open mouth); face ~154px; locs swing out to the upper left",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:34.350Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/sion-james-a74cfdbd-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/sion-james/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:03:05.680Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/sion-james.png",
+  "webp": [
+    "assets/players/webp/sion-james-1024.webp",
+    "assets/players/webp/sion-james-400.webp",
+    "assets/players/webp/sion-james-200.webp",
+    "assets/players/webp/sion-james-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/03/GettyImages-2267458277CHA_VS_ORL_GALLERY__031926_.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:03:05.947Z",
+  "background": "transparent"
+}

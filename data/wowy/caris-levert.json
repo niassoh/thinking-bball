@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "DET",
+  "gp": 60,
+  "generatedAt": "2026-10-02T04:07:17.745Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · DET",
+      "minutes": 1154,
+      "poss": 2377.5,
+      "net": -0.29442691903259727
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · DET",
+      "minutes": 2807,
+      "poss": 5809,
+      "net": 11.637114821828197
+    },
+    {
+      "label": "On, w/o Cunningham",
+      "sub": "2025–26 · DET",
+      "minutes": 703,
+      "poss": 1448.5,
+      "net": -4.625474628926476
+    },
+    {
+      "label": "On, w/o Robinson",
+      "sub": "2025–26 · DET",
+      "minutes": 908,
+      "poss": 1861,
+      "net": -1.0209564750134337
+    },
+    {
+      "label": "On, w/o Duren",
+      "sub": "2025–26 · DET",
+      "minutes": 757,
+      "poss": 1568,
+      "net": -2.423469387755102
+    },
+    {
+      "label": "Neither LeVert nor Cunningham",
+      "sub": "2025–26 · DET",
+      "minutes": 1086,
+      "poss": 2248,
+      "net": 9.697508896797153
+    }
+  ]
+}

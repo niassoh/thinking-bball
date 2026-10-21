@@ -1,0 +1,232 @@
+{
+  "player": "Aaron Gordon",
+  "playerId": "aaron-gordon",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/01/gordon-return-1920-2254091325.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/01/gordon-return-1920-2254091325.jpg",
+  "sourcePage": "https://www.nba.com/news/aaron-gordon-christian-braun-return-for-nuggets",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/aaron-gordon.jpg",
+  "selectedAt": "2026-10-05T02:30:28.220Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 716,
+    "y": 20,
+    "size": 730
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches",
+  "jersey": "DEN white 2025-26",
+  "concerns": "non-Getty-named nba.com file (name embeds Getty id 2254091325); confirmed by eye: Nuggets #32, Gordon, vs Nets (Sharpe #20 in frame, outside crop); small dark mark on nose; 1920px source",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/04/GettyImages-2211632004-scaled.jpg",
+      "sourcePage": "https://www.nba.com/news/nuggets-westbrook-gordon-x-factors-playoffs",
+      "license": "unknown (Getty Images / NBAE via NBA.com)",
+      "score": 13,
+      "reason": "re-source: photo is a wide celebration shot, face too small",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/11/GettyImages-2182706715-scaled.jpg",
+      "sourcePage": "https://www.nba.com/news/nuggets-aaron-gordon-right-calf-strain",
+      "license": "unknown (Getty Images / NBAE via NBA.com)",
+      "score": 15,
+      "reason": "superseded in the same sourcing pass by a 2025-26 in-game photo (Nov 2024 photo was an older season)",
+      "previousPick": true
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T17:24:42.260Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/aaron-gordon-2a432941-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/aaron-gordon/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T17:24:46.987Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/aaron-gordon.png",
+  "webp": [
+    "assets/players/webp/aaron-gordon-1024.webp",
+    "assets/players/webp/aaron-gordon-400.webp",
+    "assets/players/webp/aaron-gordon-200.webp",
+    "assets/players/webp/aaron-gordon-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/01/gordon-return-1920-2254091325.jpg",
+  "supersededHistory": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/04/GettyImages-2211632004-scaled.jpg",
+      "sourcePage": "https://www.nba.com/news/nuggets-westbrook-gordon-x-factors-playoffs",
+      "sourceFile": "assets/player-sources/aaron-gordon.jpg",
+      "crop": {
+        "x": 612,
+        "y": 21,
+        "size": 1057
+      },
+      "promptVersion": null,
+      "generationAttempt": 0,
+      "attempts": [],
+      "approved": false,
+      "masterFile": null,
+      "supersededReason": "re-source: photo is a wide celebration shot, face too small",
+      "supersededFiles": []
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/11/GettyImages-2182706715-scaled.jpg",
+      "sourcePage": "https://www.nba.com/news/nuggets-aaron-gordon-right-calf-strain",
+      "sourceFile": "assets/player-sources/aaron-gordon.jpg",
+      "crop": {
+        "x": 786,
+        "y": 80,
+        "size": 900
+      },
+      "promptVersion": null,
+      "generationAttempt": 0,
+      "attempts": [],
+      "approved": false,
+      "masterFile": null,
+      "supersededReason": "superseded in the same sourcing pass by a 2025-26 in-game photo (Nov 2024 photo was an older season)",
+      "supersededFiles": []
+    }
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-05T17:24:47.478Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:46.501Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:45:47.053Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/aaron-gordon-2a432941-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/aaron-gordon/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:45:59.509Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/aaron-gordon-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/aaron-gordon/out.png",
+        "fixes": [],
+        "base": "4381311def8dc5084b0cd84b8a4bc2d9827aaa1d",
+        "importedAt": "2026-10-11T17:33:38.416Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0039,
+          "face": 2.8,
+          "purity": 0.991,
+          "coverage": 0.148,
+          "strays": 8,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1575,
+          "oldEdge": 0,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/aaron-gordon-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: jersey fully keyed, logos/patches gone, accessories untouched; aj-green's 1.6% silhouette is redrawn hair edges (unused)",
+          "at": "2026-10-11T17:34:47.296Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/aaron-gordon.webp",
+    "base": "4381311def8dc5084b0cd84b8a4bc2d9827aaa1d",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T17:34:47.840Z"
+  }
+}

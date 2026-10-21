@@ -1,0 +1,67 @@
+{
+  "season": "2025-26",
+  "generatedAt": "2026-10-09T19:12:14.321Z",
+  "playoffGames": 7,
+  "games": [
+    {
+      "date": "2026-05-03",
+      "gameId": "0042500137",
+      "opp": "CLE",
+      "home": false,
+      "result": "L",
+      "pts": 14,
+      "reb": 3,
+      "ast": 7,
+      "ts": 41.2,
+      "oppRank": 9
+    },
+    {
+      "date": "2026-05-01",
+      "gameId": "0042500136",
+      "opp": "CLE",
+      "home": true,
+      "result": "W",
+      "pts": 7,
+      "reb": 1,
+      "ast": 6,
+      "ts": 35,
+      "oppRank": 9
+    },
+    {
+      "date": "2026-04-29",
+      "gameId": "0042500135",
+      "opp": "CLE",
+      "home": false,
+      "result": "L",
+      "pts": 18,
+      "reb": 1,
+      "ast": 7,
+      "ts": 60,
+      "oppRank": 9
+    },
+    {
+      "date": "2026-04-26",
+      "gameId": "0042500134",
+      "opp": "CLE",
+      "home": true,
+      "result": "W",
+      "pts": 2,
+      "reb": 4,
+      "ast": 4,
+      "ts": 16.7,
+      "oppRank": 9
+    },
+    {
+      "date": "2026-04-23",
+      "gameId": "0042500133",
+      "opp": "CLE",
+      "home": true,
+      "result": "W",
+      "pts": 2,
+      "reb": 1,
+      "ast": 5,
+      "ts": 33.3,
+      "oppRank": 9
+    }
+  ]
+}

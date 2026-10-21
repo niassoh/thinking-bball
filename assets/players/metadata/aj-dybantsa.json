@@ -1,0 +1,70 @@
+{
+  "player": "AJ Dybantsa",
+  "playerId": "aj-dybantsa",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2299056166_cropped.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2299056166_cropped.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/aj-shows-off-the-handles-on-the-transition-and-1-bucket",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-10 preseason vs DET, Capital One Arena (Getty caption: dribbles the ball during the game against the Detroit Pistons)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/aj-dybantsa.jpg",
+  "selectedAt": "2026-10-17T08:47:17.708Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 590,
+    "y": 0,
+    "size": 540
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (bringing the ball up, eyes up and just off-camera, mouth open mid-call)",
+  "jersey": "WAS white home Association #4, 2026-27 preseason",
+  "concerns": "only nba.com copy is the 1920x1080 video-thumbnail crop (no full-size original found); hair top touches the frame edge so the crop sits at y=0 with no headroom; face ~310px hair-to-chin; 2026 preseason (rookie, no regular season yet)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2299063419_cropped.jpg",
+      "note": "(same game, jump shot with both arms raised around the face, lips closed, energy ~6)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2299297917.jpg",
+      "note": "(2026-10 preseason red road, full side profile while dribbling, not frontal/3-4)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2286121755.jpg",
+      "note": "(Summer League vs SAC, lips pressed and looking down, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

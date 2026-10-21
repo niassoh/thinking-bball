@@ -1,0 +1,92 @@
+{
+  "player": "Dereck Lively II",
+  "playerId": "dereck-lively-ii",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/11/GettyImages-2247225233-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/11/GettyImages-2247225233-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/mavericks-dereck-lively-out-season-foot-surgery",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1440
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/dereck-lively-ii.jpg",
+  "selectedAt": "2026-10-05T19:29:18.694Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 750,
+    "y": 30,
+    "size": 1166
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (handling the ball, looking off-camera, mouth open)",
+  "jersey": "DAL black City/Statement 2025-26 (Nov 16 2025)",
+  "concerns": "big hair reaches near top edge of crop",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:31.301Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/dereck-lively-ii-2e8b8f3c-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/dereck-lively-ii/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:02:58.103Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/dereck-lively-ii.png",
+  "webp": [
+    "assets/players/webp/dereck-lively-ii-1024.webp",
+    "assets/players/webp/dereck-lively-ii-400.webp",
+    "assets/players/webp/dereck-lively-ii-200.webp",
+    "assets/players/webp/dereck-lively-ii-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/11/GettyImages-2247225233-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:02:58.399Z",
+  "background": "transparent"
+}

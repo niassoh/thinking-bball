@@ -1,0 +1,45 @@
+{
+  "player": "Zach Collins",
+  "slug": "zach-collins",
+  "galleries": [
+    {
+      "url": "https://www.nba.com/suns/photos/suns-at-bulls-apr-5-2026",
+      "title": "Suns at Bulls | Apr. 5, 2026",
+      "date": "2026-04-06T17:56:46Z",
+      "scannedAt": "2026-10-05T19:35:53.132Z",
+      "photos": 47
+    },
+    {
+      "url": "https://www.nba.com/suns/photos/sunsvs-bulls-mar-5-2026",
+      "title": "Suns vs Bulls | Mar. 5, 2026",
+      "date": "2026-03-06T20:15:18Z",
+      "scannedAt": "2026-10-05T19:35:53.186Z",
+      "photos": 40
+    }
+  ],
+  "candidates": [
+    {
+      "index": 0,
+      "sourceUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2253051769-scaled-e1782875287393.jpg",
+      "sourcePage": "https://www.nba.com/news/report-zach-collins-agrees-to-2-year-extension-with-bulls",
+      "gettyId": "2253051769",
+      "caption": "Zach Collins of the Chicago Bulls dunks against the Atlanta Hawks during the fourth quarter at State Farm Arena on December 21, 2025 in Atlanta, Georgia.",
+      "photographer": null,
+      "credit": "Getty Images / NBAE",
+      "license": "unknown",
+      "offTargetCaption": true
+    }
+  ],
+  "articles": [
+    {
+      "url": "https://www.nba.com/news/report-zach-collins-agrees-to-2-year-extension-with-bulls",
+      "scannedAt": "2026-10-05T19:31:54.534Z",
+      "gettyPhotos": 5
+    },
+    {
+      "url": "https://www.nba.com/game/nop-vs-chi-0022500466",
+      "scannedAt": "2026-10-05T19:31:55.706Z",
+      "gettyPhotos": 1
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "player": "DeMarcus Cousins",
+  "playerId": "demarcus-cousins",
+  "sourceUrl": "https://cdn.nba.com/manage/2018/05/GettyImages-910777028.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2018/05/GettyImages-910777028.jpg",
+  "sourcePage": "https://www.nba.com/news/best-free-agents-still-available-2017-offseason",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2018-01-24 (at CHA, Spectrum Center)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/demarcus-cousins.jpg",
+  "selectedAt": "2026-10-17T05:25:29.922Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 985,
+    "y": 0,
+    "size": 520
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (hands on knees catching his breath, mouth open mid-breath, eyes up and alert)",
+  "jersey": "NOP red statement 2017-18",
+  "concerns": "Getty caption (id 910777028) says looks on during the game; face ~290px in a 1920px frame; head top only ~6% below the crop top (y=0); shoulders hunched high in the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/DeMarcus_Cousins_%2825306325548%29.jpg",
+      "note": "(Commons CC BY-SA, Dec 19 2017 at WAS, red, free throw with neutral closed mouth, energy ~4.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2020/10/cousins20with20davis.jpg",
+      "note": "(renamed nba.com, NOP white home 2017, laughing squint beside Anthony Davis, energy ~8, eyes nearly shut)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:54.239Z",
+      "promptAdditions": [
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/demarcus-cousins-f62452ba-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/demarcus-cousins/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.923Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/demarcus-cousins.png",
+  "webp": [
+    "assets/players/webp/demarcus-cousins-1024.webp",
+    "assets/players/webp/demarcus-cousins-400.webp",
+    "assets/players/webp/demarcus-cousins-200.webp",
+    "assets/players/webp/demarcus-cousins-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2018/05/GettyImages-910777028.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:41.645Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/demarcus-cousins-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/demarcus-cousins/out.png",
+        "fixes": [],
+        "base": "7c2ecde39b46997ef75766bf761453d765a6ceb7",
+        "importedAt": "2026-10-17T11:07:05.966Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0037,
+          "face": 7.8,
+          "purity": 0.987,
+          "coverage": 0.19,
+          "strays": 10,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 3761,
+          "oldEdge": 0,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/demarcus-cousins-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:53.965Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/demarcus-cousins.webp",
+    "base": "7c2ecde39b46997ef75766bf761453d765a6ceb7",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:54.257Z"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "TOR",
+  "gp": 46,
+  "generatedAt": "2026-10-02T05:13:04.753Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · TOR",
+      "minutes": 1149,
+      "poss": 2345.5,
+      "net": 2.0464719675975274
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · TOR",
+      "minutes": 2807,
+      "poss": 5772.5,
+      "net": 3.1875270679948033
+    },
+    {
+      "label": "On, w/o Barnes",
+      "sub": "2025–26 · TOR",
+      "minutes": 282,
+      "poss": 576.5,
+      "net": 8.152645273200347
+    },
+    {
+      "label": "On, w/o Ingram",
+      "sub": "2025–26 · TOR",
+      "minutes": 257,
+      "poss": 524.5,
+      "net": 13.15538608198284
+    },
+    {
+      "label": "On, w/o Quickley",
+      "sub": "2025–26 · TOR",
+      "minutes": 368,
+      "poss": 736.5,
+      "net": -6.924643584521386
+    },
+    {
+      "label": "Neither Poeltl nor Barnes",
+      "sub": "2025–26 · TOR",
+      "minutes": 994,
+      "poss": 2032.5,
+      "net": -3.985239852398524
+    }
+  ]
+}

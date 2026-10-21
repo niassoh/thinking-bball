@@ -1,0 +1,70 @@
+{
+  "player": "Cedric Coward",
+  "playerId": "cedric-coward",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_grizzlies/01k8f9cnp9d9jcwbr8n5.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_grizzlies/01k8f9cnp9d9jcwbr8n5.jpg",
+  "sourcePage": "https://www.si.com/nba/grizzlies/onsi/news/ja-morant-shares-praise-for-cedric-coward-after-27-point-game-vs-pacers-01k8f97z3f77",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Wesley Hale / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-10-25 (vs IND, FedExForum; caption: reacts after a three point basket, second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/cedric-coward.jpg",
+  "selectedAt": "2026-10-17T08:41:06.294Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1330,
+    "y": 462,
+    "size": 580
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (composed look-off to his left after a three, lips parted, alert but not mid-breath)",
+  "jersey": "MEM white home 2025-26",
+  "concerns": "SI/Imagn editorial photo, not nba.com or Commons (nba.com articles carry only renamed 1920px Coward images, none in the band; scan-articles found no captioned Getty photos of him); arms are spread in a three-point gesture outside the crop; 2025-26 rookie season rather than 2026 preseason (same MEM uniform); face ~250px hairline-to-chin",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/coward3.jpg",
+      "note": "(nba.com rookie ladder, navy Grizzlies alternate, calm look-off, energy ~5, 1920px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/coward-points.jpg",
+      "note": "(nba.com, white home, pointing upcourt, energy ~6.5 but face ~215px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_grizzlies/01k9j05fq33d3ykqqm32.jpg",
+      "note": "(SI, light-blue alternate, shouting mid-celebration, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

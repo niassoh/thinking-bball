@@ -1,0 +1,88 @@
+{
+  "player": "Jaylin Williams",
+  "playerId": "jaylin-williams",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2025/12/2250538846.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2025/12/2250538846.jpg",
+  "sourcePage": "https://www.nba.com/suns/photos/suns-at-thunder-dec-10-2025",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Zach Beeker / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2025-12-10 (vs PHX, Paycom Center; 2025-26 NBA Cup quarterfinal)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jaylin-williams.jpg",
+  "selectedAt": "2026-10-17T05:40:45.815Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1153,
+    "y": 464,
+    "size": 551
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (going after a loose ball, mouth open showing teeth, eyes locked forward, but not straining or shouting)",
+  "jersey": "OKC orange City Edition home 2025-26",
+  "concerns": "eyes look forward and slightly down at the ball rather than up; NBA Cup quarterfinal (a real game, City Edition uniform); blurred masked teammate in the background at the right edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612760/2026/03/10-260330_JIMMYDO_OKCVSDET_0008.jpg",
+      "note": "(OKC team photo Mar 30 2026 vs DET, white, frontal, lips parted, energy ~6, but face ~150px with the ball and his arms framing his head)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/GettyImages-2277190135-scaled-e1779516061626.jpg",
+      "note": "(May 22 2026 WCF G3, blue, yelling and flexing, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 0,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:57.132Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jaylin-williams-7158441c-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jaylin-williams/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "fail",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [
+          "skin orange (the source arena light and orange City jersey cast it)"
+        ],
+        "checkedAt": "2026-10-17T07:42:24.792Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "latestAttempt": 1
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Jordan Clarkson",
+  "playerId": "jordan-clarkson",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_knicks/01kxgxc7kqky9wwvd5sh.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_knicks/01kxgxc7kqky9wwvd5sh.jpg",
+  "sourcePage": "https://www.si.com/nba/knicks/onsi/knicks-set-up-future-jordan-clarkson-trade-bold-move-01kxgxa6thj4",
+  "license": "unknown (Imagn Images via Reuters Connect, on SI.com)",
+  "licenseUrl": null,
+  "author": "Imagn Images",
+  "credit": null,
+  "photoDate": "2025-26 season (road game, exact game not captioned; image uploaded July 2026)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jordan-clarkson.jpg",
+  "selectedAt": "2026-10-17T08:46:41.523Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1249,
+    "y": 40,
+    "size": 640
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (eyes up and off-camera like McCain, lips parted mid-breath, alert; mouth less open)",
+  "jersey": "NYK white association #00, 2025-26",
+  "concerns": "SI/Imagn editorial photo, not nba.com, license unknown; game not captioned (figcaption is generic); white headband covers his hairline; nba.com Knicks articles carry no Getty photo of him and the 2026 preseason Knicks galleries carry a corner logo bug and small faces",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/fantasy_sports_on_si/01kx3xx9vb5hjwckkhk4.jpg",
+      "note": "(SI fantasy article lead, 2026-03-08 at LAL, blue icon, reacting with mouth in a wide O, energy ~8, head turned 3/4 with braids across the cheek)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Jordan_Clarkson_NY_Knicks_2025_NBA_Cup.jpg",
+      "note": "(Commons, Dec 2025 NBA Cup, white, defensive stance, small face, neutral)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,70 @@
+{
+  "player": "Jared McCain",
+  "playerId": "jared-mccain",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2265473113.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2265473113.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/jared-mccain-micd-up-vs-gsw-on-3-7",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-03-07 vs GSW, Paycom Center (Getty caption: drives past Brandin Podziemski, second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jared-mccain.jpg",
+  "selectedAt": "2026-10-17T08:49:57.237Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 935,
+    "y": 262,
+    "size": 735
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes off-camera to his left, lips just parted on the drive; calmer than the reference look-up)",
+  "jersey": "OKC white Association #3, 2025-26",
+  "concerns": "2025-26 OKC photo (same team as 2026-27; preseason 2026 shots on nba.com are wide or smiling); head leans forward on the drive, 3/4 view; Podziemski’s hand rests on his upper arm at the lower right of the crop, clear of the face",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2298391780.jpg",
+      "note": "(2026-10-06 preseason vs NOP, blue, smiling high-five, face small in a wide frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/GettyImages-2276458371-1-scaled.jpg",
+      "note": "(2026 WCF G1 vs SAS, blue, shouting celebration, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/mccain-wemby-052326-scaled.jpg",
+      "note": "(2026 WCF at SAS, blue, grimacing through contact, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

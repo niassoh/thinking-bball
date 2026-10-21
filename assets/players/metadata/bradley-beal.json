@@ -1,0 +1,139 @@
+{
+  "player": "Bradley Beal",
+  "playerId": "bradley-beal",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/11/GettyImages-2245398912.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/11/GettyImages-2245398912.jpg",
+  "sourcePage": "https://www.nba.com/news/bradley-beal-clippers-free-agency",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2249,
+    1265
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/bradley-beal.jpg",
+  "selectedAt": "2026-10-05T19:24:46.214Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 833,
+    "y": 0,
+    "size": 840
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (dribbling, looking off-camera, lips parted)",
+  "jersey": "LAC red Statement 2025-26 (Nov 9 2025)",
+  "concerns": "Clippers jersey: his 2025-26 team (group list says PHX, but he was bought out July 2025); headband; 3/4 head angle",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:29.793Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/bradley-beal-b09c6c78-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/bradley-beal/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:02:53.767Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/bradley-beal.png",
+  "webp": [
+    "assets/players/webp/bradley-beal-1024.webp",
+    "assets/players/webp/bradley-beal-400.webp",
+    "assets/players/webp/bradley-beal-200.webp",
+    "assets/players/webp/bradley-beal-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/11/GettyImages-2245398912.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:02:54.082Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/bradley-beal-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/bradley-beal/out.png",
+        "fixes": [],
+        "base": "fb7fcaf829b9738e37adadc55634a9a00710b015",
+        "importedAt": "2026-10-11T18:05:00.865Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0042,
+          "face": 2.3,
+          "purity": 0.99,
+          "coverage": 0.19,
+          "strays": 6,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1209,
+          "oldEdge": 0,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/bradley-beal-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: jersey fully keyed, logos/patches gone, accessories (goggles, headbands, T-shirt) untouched",
+          "at": "2026-10-11T18:06:00.819Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/bradley-beal.webp",
+    "base": "fb7fcaf829b9738e37adadc55634a9a00710b015",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T18:06:01.309Z"
+  }
+}

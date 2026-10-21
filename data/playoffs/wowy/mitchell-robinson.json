@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "NYK",
+  "gp": 18,
+  "generatedAt": "2026-10-09T19:02:17.618Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · NYK",
+      "minutes": 251,
+      "poss": 494,
+      "net": 6.275303643724696
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · NYK",
+      "minutes": 666,
+      "poss": 1328,
+      "net": 18.97590361445783
+    },
+    {
+      "label": "On, w/o Brunson",
+      "sub": "2025–26 playoffs · NYK",
+      "minutes": 49,
+      "poss": 92.5,
+      "net": 5.405405405405405
+    },
+    {
+      "label": "On, w/o Hart",
+      "sub": "2025–26 playoffs · NYK",
+      "minutes": 126,
+      "poss": 239,
+      "net": -0.8368200836820083
+    },
+    {
+      "label": "On, w/o Bridges",
+      "sub": "2025–26 playoffs · NYK",
+      "minutes": 101,
+      "poss": 198,
+      "net": 4.545454545454546
+    },
+    {
+      "label": "Neither Robinson nor Brunson",
+      "sub": "2025–26 playoffs · NYK",
+      "minutes": 167,
+      "poss": 331,
+      "net": 13.293051359516618
+    }
+  ]
+}

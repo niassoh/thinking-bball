@@ -1,0 +1,143 @@
+{
+  "player": "Eddie Jones",
+  "playerId": "eddie-jones",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/08/Untitled4.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/08/Untitled4.jpg",
+  "sourcePage": "https://www.nba.com/news/charlotte-hornets-single-season-steals-per-game-leaders",
+  "license": "unknown (NBA.com, likely Getty Images / NBAE)",
+  "licenseUrl": null,
+  "author": "NBA.com (photographer not credited)",
+  "credit": null,
+  "photoDate": "c. 1998-99 or 1999-2000 (undated archive photo, Hornets teal pinstripe road uniform)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/eddie-jones.jpg",
+  "selectedAt": "2026-10-17T05:17:20.156Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 0,
+    "y": 0,
+    "size": 860
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (hands on knees in a stoppage, eyes up and off to the left, lips parted, intent but calm)",
+  "jersey": "CHH teal pinstripe road, c. 1999-2000",
+  "concerns": "renamed nba.com image (Untitled4.jpg), no Getty id; identity from the article caption (Eddie Jones headlines the single season steals per game leaders); exact game/date unknown; 1990s film grain, 1920x1080, face ~330px; head near the top-left of the frame so the crop sits at x=0,y=0 with the face a little left of centre and hair top only ~3% down",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Gilbert_Arenas_and_Eddie_Jones.jpg",
+      "note": "(Commons, Feb 2007, Jones in MIA red defending Arenas, wrong team and small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:54.674Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/eddie-jones-b08f4679-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/eddie-jones/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.071Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/eddie-jones.png",
+  "webp": [
+    "assets/players/webp/eddie-jones-1024.webp",
+    "assets/players/webp/eddie-jones-400.webp",
+    "assets/players/webp/eddie-jones-200.webp",
+    "assets/players/webp/eddie-jones-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/08/Untitled4.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:42.489Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/eddie-jones-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/eddie-jones/out.png",
+        "fixes": [],
+        "base": "0251fcff5046c11b553c3116b06091d74e4cf965",
+        "importedAt": "2026-10-17T11:07:07.325Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0036,
+          "face": 5.6,
+          "purity": 0.978,
+          "coverage": 0.114,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2259,
+          "oldEdge": 0.001,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/eddie-jones-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:54.303Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/eddie-jones.webp",
+    "base": "0251fcff5046c11b553c3116b06091d74e4cf965",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:54.515Z"
+  }
+}

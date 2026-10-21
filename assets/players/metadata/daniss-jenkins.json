@@ -1,0 +1,93 @@
+{
+  "player": "Daniss Jenkins",
+  "playerId": "daniss-jenkins",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/04/GettyImages-2268951781-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/04/GettyImages-2268951781-scaled.jpg",
+  "sourcePage": "https://www.nba.com/game/0022501115",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-04-02 (vs MIN, Little Caesars Arena)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/daniss-jenkins.jpg",
+  "selectedAt": "2026-10-17T05:28:09.500Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 705,
+    "y": 50,
+    "size": 700
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (bringing the ball up, eyes off to his right reading the defense, lips parted mid-breath)",
+  "jersey": "DET black statement #24, 2025-26",
+  "concerns": "head turned to 3/4 toward profile (looking camera-left); dreadlocks over the back shoulder fill the right of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2267629461-scaled.jpg",
+      "note": "(2026-03-23 vs LAL, blue Detroit jersey, sharp and large, but near-profile with lips pushed out mid-drive and the ball beside the face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/marcus-sasser-daniss-jenkins-react.jpg",
+      "note": "(2026 playoffs, black DET, shouting next to Sasser, energy ~9 and teammate in the crop)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:53.747Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/daniss-jenkins-a4e53fa0-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/daniss-jenkins/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.765Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/daniss-jenkins.png",
+  "webp": [
+    "assets/players/webp/daniss-jenkins-1024.webp",
+    "assets/players/webp/daniss-jenkins-400.webp",
+    "assets/players/webp/daniss-jenkins-200.webp",
+    "assets/players/webp/daniss-jenkins-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/04/GettyImages-2268951781-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:40.752Z",
+  "background": "transparent"
+}

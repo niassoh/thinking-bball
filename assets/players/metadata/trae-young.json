@@ -1,0 +1,139 @@
+{
+  "player": "Trae Young",
+  "playerId": "trae-young",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2266522028-scaled-e1782156343455.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2266522028-scaled-e1782156343455.jpg",
+  "sourcePage": "https://www.nba.com/news/wizards-trae-young-free-agency-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1780,
+    1003
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/trae-young.jpg",
+  "selectedAt": "2026-10-05T19:10:15.684Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 765,
+    "y": 34,
+    "size": 577
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (driving, looking off-camera, mouth open)",
+  "jersey": "WAS white/red Association 2025-26 (Mar 8 2026; traded from ATL Jan 2026)",
+  "concerns": "Wizards jersey (2025-26 team after Jan trade; list says ATL); face ~218px; 3/4 head angle looking camera-left",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T04:01:34.722Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/trae-young-81c3ad0f-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/trae-young/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T04:03:06.627Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/trae-young.png",
+  "webp": [
+    "assets/players/webp/trae-young-1024.webp",
+    "assets/players/webp/trae-young-400.webp",
+    "assets/players/webp/trae-young-200.webp",
+    "assets/players/webp/trae-young-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/06/GettyImages-2266522028-scaled-e1782156343455.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-06T04:03:06.886Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/trae-young-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/trae-young/out.png",
+        "fixes": [],
+        "base": "f458eb62227b27349f6f8762cb7bef6712658586",
+        "importedAt": "2026-10-12T03:34:47.268Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.005,
+          "face": 2.3,
+          "purity": 0.989,
+          "coverage": 0.174,
+          "strays": 11,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1239,
+          "oldEdge": 0.015,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/trae-young-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "metrics ok; QA sheet checked",
+          "at": "2026-10-12T03:41:52.325Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/trae-young.webp",
+    "base": "f458eb62227b27349f6f8762cb7bef6712658586",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-12T03:42:24.209Z"
+  }
+}

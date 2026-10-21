@@ -1,0 +1,99 @@
+{
+  "player": "Tristan da Silva",
+  "playerId": "tristan-da-silva",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/the_magic_insider/01k8nhbmpq5vvf2ttas1.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/the_magic_insider/01k8nhbmpq5vvf2ttas1.jpg",
+  "sourcePage": "https://www.si.com/nba/magic/onsi/news/one-orlando-magic-player-is-secretly-dominating-many-of-the-teams-advanced-metrics",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Nathan Ray Seebeck / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-10-22 (vs MIA, Kia Center, 2nd quarter)",
+  "originalSize": null,
+  "storedSize": [
+    2409,
+    1606
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tristan-da-silva.jpg",
+  "selectedAt": "2026-10-17T05:29:59.656Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 587,
+    "y": 32,
+    "size": 770
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (reacting after his made three, looking off-camera, mouth open)",
+  "jersey": "ORL white pinstripe home #23, 2025-26",
+  "concerns": "source priority 3 (editorial Imagn photo via SI.com): no usable in-game nba.com photo found across 29 nba.com posts tagged with him, the 45 articles scanned earlier and the Magic team-site recaps; mild celebration (three-finger gesture after a three), hands outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/the_magic_insider/01k575a32sajvr7e1kbj.jpg",
+      "note": "(Imagn via SI, ORL gray City edition, driving with the ball, mouth open, wide-eyed, energy ~7.5, older season)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/10/dasilva-2400-2432-243-25-24332-23432-2432-243.jpg",
+      "note": "(nba.com Magic site, 2026-27 preseason at MEM, mid-jumper, eyes on the ball, face ~100px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/the_magic_insider/01ka44vn5jm11p3n7my3.jpg",
+      "note": "(Imagn via SI, ORL black, Nov 2025 vs BKN, layup with head tilted up, mouth closed)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:02.862Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/tristan-da-silva-f1a5a8ce-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/tristan-da-silva/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.912Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/tristan-da-silva.png",
+  "webp": [
+    "assets/players/webp/tristan-da-silva-1024.webp",
+    "assets/players/webp/tristan-da-silva-400.webp",
+    "assets/players/webp/tristan-da-silva-200.webp",
+    "assets/players/webp/tristan-da-silva-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/the_magic_insider/01k8nhbmpq5vvf2ttas1.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:59.151Z",
+  "background": "transparent"
+}

@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "POR",
+  "gp": 5,
+  "generatedAt": "2026-10-09T18:55:57.628Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 107,
+      "poss": 213.5,
+      "net": -22.01405152224824
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 133,
+      "poss": 267,
+      "net": -5.617977528089887
+    },
+    {
+      "label": "On, w/o Holiday",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 16,
+      "poss": 32,
+      "net": -34.375
+    },
+    {
+      "label": "On, w/o Avdija",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 26,
+      "poss": 49.5,
+      "net": 12.121212121212121
+    },
+    {
+      "label": "On, w/o Camara",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 23,
+      "poss": 44,
+      "net": -22.727272727272727
+    },
+    {
+      "label": "Neither Clingan nor Holiday",
+      "sub": "2025–26 playoffs · POR",
+      "minutes": 32,
+      "poss": 66.5,
+      "net": -3.007518796992481
+    }
+  ]
+}

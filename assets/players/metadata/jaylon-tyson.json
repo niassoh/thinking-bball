@@ -1,0 +1,93 @@
+{
+  "player": "Jaylon Tyson",
+  "playerId": "jaylon-tyson",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/04/tyson-wizards-meta-041226.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/04/tyson-wizards-meta-041226.jpg",
+  "sourcePage": "https://www.nba.com/game/was-vs-cle-0022501187",
+  "license": "unknown (NBAE / Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "NBAE / Getty Images",
+  "credit": null,
+  "photoDate": "2026-04-12 (vs WAS, Rocket Arena; nba.com game recap header)",
+  "originalSize": null,
+  "storedSize": [
+    2440,
+    1368
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jaylon-tyson.jpg",
+  "selectedAt": "2026-10-17T05:38:13.788Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 628,
+    "y": 0,
+    "size": 1148
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (driving, eyes locked ahead, mouth open with the tongue tip out in concentration)",
+  "jersey": "CLE white home #20, 2025-26",
+  "concerns": "renamed nba.com recap image, no Getty caption to check (page is his 18-point game vs WAS); tongue tip showing between the lips; eyes nearly at the camera rather than off it; ball and right hand at the lower-right edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/tyson-meta-011626-scaled.jpg",
+      "note": "(Jan 16 2026 at PHI recap image, screaming celebration with De’Andre Hunter, too intense)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/tyson-76ers-hp-011626-scaled.jpg",
+      "note": "(Jan 16 2026 at PHI, overhead mid-layup, straining face, ball beside head)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:57.281Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jaylon-tyson-ab404e2f-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jaylon-tyson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.838Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jaylon-tyson.png",
+  "webp": [
+    "assets/players/webp/jaylon-tyson-1024.webp",
+    "assets/players/webp/jaylon-tyson-400.webp",
+    "assets/players/webp/jaylon-tyson-200.webp",
+    "assets/players/webp/jaylon-tyson-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/04/tyson-wizards-meta-041226.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:47.744Z",
+  "background": "transparent"
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Derrick Jones Jr.",
+  "playerId": "derrick-jones-jr",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/02/Getty-Images-2262589671-2.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/02/Getty-Images-2262589671-2.jpg",
+  "sourcePage": "https://www.nba.com/clippers/photos/gallery-clippers-vs-orlando-magic-2-22-26",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-02-22 (vs ORL, Intuit Dome; Getty caption: shoots the ball)",
+  "originalSize": null,
+  "storedSize": [
+    1500,
+    1000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/derrick-jones-jr.jpg",
+  "selectedAt": "2026-10-17T05:49:47.413Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 1,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 754,
+    "y": 378,
+    "size": 380
+  },
+  "needsReview": "face ~180px and a raised forearm beside the face: no full-size in-game nba.com photo of him found; searched nba.com posts tagged with him since 2024 (content API, Getty thumbnails caption-checked), every 2025-26 LAC game page (already scanned in candidates-v2), all 60 2025-26 and Oct 2026 Clippers galleries (Getty captions plus ~550 team-photographer images eyeballed: dunks and layups only), 213hoops and SI All Clippers pages, and Commons (Bulls/Heat only)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (eyes up at the rim on a jumper, lips rounded mid-breath, focused rather than reactive)",
+  "jersey": "LAC red Los Angeles alternate #5 over a white T-shirt, 2025-26",
+  "concerns": "FLAG: face ~180px (hairline to chin) in a 1500x1000 team-gallery copy, below the 250px rule; shooting pose: his raised right forearm runs up the right side of the crop and the ball and hands sit just above it; white T-shirt under the jersey",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/04/GettyImages-2268968896.jpg",
+      "note": "(Apr 2 2026 vs SAS, dunk)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/04/260410_POR-21-2.jpg",
+      "note": "(Apr 10 2026 vs POR, layup, face hidden behind his arm)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

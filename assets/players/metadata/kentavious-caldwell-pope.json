@@ -1,0 +1,170 @@
+{
+  "player": "Kentavious Caldwell-Pope",
+  "playerId": "kentavious-caldwell-pope",
+  "sourceUrl": "https://cdn.nba.com/manage/2024/06/GettyImages-2084806163-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2024/06/GettyImages-2084806163-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/kentavious-caldwell-pope-2024-free-agency",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1440
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kentavious-caldwell-pope.jpg",
+  "selectedAt": "2026-10-05T19:17:31.964Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 0,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 1005,
+    "y": 65,
+    "size": 899
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (handling the ball, looking off, mouth open)",
+  "jersey": "PHI (jersey edit from tyrese-maxey's)",
+  "concerns": "OLDER JERSEY: Nuggets 2023-24, not 2025-26 Memphis (no MEM or ORL photo found in nba.com articles or team galleries); 3/4 head angle looking camera-right; headband; braids",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:26.391Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "PHI (jersey edit from tyrese-maxey's)",
+      "file": "assets/players/attempts/kentavious-caldwell-pope-f0522afa-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/kentavious-caldwell-pope/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:52.728Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kentavious-caldwell-pope.png",
+  "webp": [
+    "assets/players/webp/kentavious-caldwell-pope-1024.webp",
+    "assets/players/webp/kentavious-caldwell-pope-400.webp",
+    "assets/players/webp/kentavious-caldwell-pope-200.webp",
+    "assets/players/webp/kentavious-caldwell-pope-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2024/06/GettyImages-2084806163-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:52.996Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: DEN -> PHI",
+      "archivedAt": "2026-10-09T08:56:26.310Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T04:01:32.546Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/kentavious-caldwell-pope-f0522afa-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/kentavious-caldwell-pope/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T04:03:01.477Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/kentavious-caldwell-pope-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/kentavious-caldwell-pope/out.png",
+        "fixes": [],
+        "base": "499db2da22f7cd608fc2ff8417d46b83835a765c",
+        "importedAt": "2026-10-12T03:33:20.155Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0028,
+          "face": 3.1,
+          "purity": 0.99,
+          "coverage": 0.222,
+          "strays": 2119,
+          "faceStrays": 459,
+          "holes": 0,
+          "edgeMoved": 1396,
+          "oldEdge": 0,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [
+            "strays"
+          ],
+          "fixes": [
+            "spill"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/kentavious-caldwell-pope-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "missed"
+          ],
+          "note": "the white and blue back collar is left between his braids at the left shoulder",
+          "at": "2026-10-12T03:41:54.066Z"
+        }
+      }
+    ]
+  }
+}

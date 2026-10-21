@@ -1,0 +1,152 @@
+{
+  "team": "MIN",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:51.626Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "LaMelo Ball",
+          "slug": "lamelo-ball",
+          "espnId": "4432816",
+          "status": null
+        },
+        {
+          "name": "Isaiah Evans",
+          "slug": "isaiah-evans",
+          "espnId": "5061585",
+          "status": null
+        },
+        {
+          "name": "Bones Hyland",
+          "slug": "bones-hyland",
+          "espnId": "4592492",
+          "status": null
+        },
+        {
+          "name": "Ayo Dosunmu",
+          "slug": "ayo-dosunmu",
+          "espnId": "4397002",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Anthony Edwards",
+          "slug": "anthony-edwards",
+          "espnId": "4594268",
+          "status": null
+        },
+        {
+          "name": "Terrence Shannon Jr.",
+          "slug": "terrence-shannon-jr",
+          "espnId": "4432847",
+          "status": null
+        },
+        {
+          "name": "Isaiah Evans",
+          "slug": "isaiah-evans",
+          "espnId": "5061585",
+          "status": null
+        },
+        {
+          "name": "Ayo Dosunmu",
+          "slug": "ayo-dosunmu",
+          "espnId": "4397002",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Jonathan Kuminga",
+          "slug": "jonathan-kuminga",
+          "espnId": "4433247",
+          "status": null
+        },
+        {
+          "name": "Ayo Dosunmu",
+          "slug": "ayo-dosunmu",
+          "espnId": "4397002",
+          "status": null
+        },
+        {
+          "name": "Terrence Shannon Jr.",
+          "slug": "terrence-shannon-jr",
+          "espnId": "4432847",
+          "status": null
+        },
+        {
+          "name": "Jaylen Clark",
+          "slug": "jaylen-clark",
+          "espnId": "4432247",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Jaden McDaniels",
+          "slug": "jaden-mcdaniels",
+          "espnId": "4431671",
+          "status": null
+        },
+        {
+          "name": "Jonathan Kuminga",
+          "slug": "jonathan-kuminga",
+          "espnId": "4433247",
+          "status": null
+        },
+        {
+          "name": "Enrique Freeman",
+          "slug": "enrique-freeman",
+          "espnId": "4592699",
+          "status": null
+        },
+        {
+          "name": "Terrence Shannon Jr.",
+          "slug": "terrence-shannon-jr",
+          "espnId": "4432847",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Rudy Gobert",
+          "slug": "rudy-gobert",
+          "espnId": "3032976",
+          "status": null
+        },
+        {
+          "name": "Joan Beringer",
+          "slug": "joan-beringer",
+          "espnId": "5279133",
+          "status": null
+        },
+        {
+          "name": "Rocco Zikarsky",
+          "slug": "rocco-zikarsky",
+          "espnId": "5157587",
+          "status": null
+        },
+        {
+          "name": "Enrique Freeman",
+          "slug": "enrique-freeman",
+          "espnId": "4592699",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

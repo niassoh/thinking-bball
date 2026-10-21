@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "ATL",
+  "gp": 6,
+  "generatedAt": "2026-10-09T17:51:44.206Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 166,
+      "poss": 334.5,
+      "net": -22.720478325859492
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 122,
+      "poss": 242.5,
+      "net": -11.958762886597938
+    },
+    {
+      "label": "On, w/o Johnson",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 19,
+      "poss": 40,
+      "net": -37.5
+    },
+    {
+      "label": "On, w/o Alexander-Walker",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 49,
+      "poss": 102,
+      "net": -14.705882352941178
+    },
+    {
+      "label": "On, w/o Okongwu",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 35,
+      "poss": 72,
+      "net": -33.33333333333333
+    },
+    {
+      "label": "Neither Daniels nor Johnson",
+      "sub": "2025–26 playoffs · ATL",
+      "minutes": 55,
+      "poss": 104,
+      "net": 0.9615384615384616
+    }
+  ]
+}

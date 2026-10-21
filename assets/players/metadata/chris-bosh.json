@@ -1,0 +1,164 @@
+{
+  "player": "Chris Bosh",
+  "playerId": "chris-bosh",
+  "sourceUrl": "https://cdn.nba.com/manage/2021/09/GettyImages-78421196-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2021/09/GettyImages-78421196-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/paul-pierce-chris-bosh-and-bill-russell-again-inducted-into-hoops-hall",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "November 25, 2007 (TOR vs CHI, Air Canada Centre)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1593
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/chris-bosh.jpg",
+  "selectedAt": "2026-10-14T03:30:14.099Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 705,
+    "y": 123,
+    "size": 715
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out, looking up at the ball, mouth open mid-breath)",
+  "jersey": "TOR white home 2007-08",
+  "concerns": "small adhesive bandage over his right eyebrow; head tilted up; Ben Wallace beside him is cropped out (detector crop was on Wallace, replaced with a manual crop on Bosh)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chris_Bosh.jpg",
+      "note": "(TOR white free throw looking up at the rim, mouth open, energy ~6.5, 313px, but amateur shot and softer)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/07/GettyImages-98046212cb.jpg",
+      "note": "(TOR red Mar 13 2010 at GSW, looking off with mouthguard showing, energy ~6, 287px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:01.994Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/chris-bosh-e918e282-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/chris-bosh/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:03.988Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/chris-bosh.png",
+  "webp": [
+    "assets/players/webp/chris-bosh-1024.webp",
+    "assets/players/webp/chris-bosh-400.webp",
+    "assets/players/webp/chris-bosh-200.webp",
+    "assets/players/webp/chris-bosh-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2021/09/GettyImages-78421196-scaled.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:04.562Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/chris-bosh-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/chris-bosh/out.png",
+        "fixes": [],
+        "base": "abd2c14d6f8ac0c7f8bb551c59c227ffd34233e6",
+        "importedAt": "2026-10-14T20:25:57.290Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 0
+          },
+          "silhouette": 0.007,
+          "face": 4.3,
+          "purity": 0.989,
+          "coverage": 0.117,
+          "strays": 23,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1679,
+          "oldEdge": 0.018,
+          "shadeLevels": 10,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/chris-bosh-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:10.446Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/chris-bosh.webp",
+    "base": "abd2c14d6f8ac0c7f8bb551c59c227ffd34233e6",
+    "shift": {
+      "dx": -1,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:10.648Z"
+  }
+}

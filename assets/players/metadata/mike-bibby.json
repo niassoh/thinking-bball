@@ -1,0 +1,70 @@
+{
+  "player": "Mike Bibby",
+  "playerId": "mike-bibby",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mike_Bibby_Wizards.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mike_Bibby_Wizards.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Mike_Bibby_Wizards.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2011-02-26 vs DAL, Verizon Center",
+  "originalSize": null,
+  "storedSize": [
+    1326,
+    1532
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/mike-bibby.jpg",
+  "selectedAt": "2026-10-17T11:10:13.406Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 264,
+    "y": 40,
+    "size": 746
+  },
+  "needsReview": "No usable Kings photo found: Commons Kings photos are tiny (2003 at PHI, face ~40px; 2005 team shot) or posed in a shooting shirt (2015); nba.com Kings history articles carry no Bibby photo and pre-2016 team pages only legacy images; NBC Sports Bay Area, SI, Fox and EssentiallySports lead images show him retired, coaching or with Miami. Picked the best in-game face (Wizards) for a jersey repaint to SAC, or a manual Kings-era source.",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes just off-camera, mouth open mid-breath on the dribble)",
+  "jersey": "WAS white home 2010-11 (FLAG: not SAC)",
+  "concerns": "FLAG jersey: Washington 2010-11, not his Sacramento prime; face ~300px, sharp, white headband",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mike_Bibby_2003.jpg",
+      "note": "(Commons 2003 Kings at PHI, in-game but face ~40px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mike_Bibby_Kings.jpg",
+      "note": "(Commons 2015, posed in a Kings shooting shirt, not in-game)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/02/1792/1000/Mike-Bibby-THUMB.jpg",
+      "note": "(Heat white 2011, energy ~7, but top of head cut off by the frame)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,93 @@
+{
+  "player": "Jay Huff",
+  "playerId": "jay-huff",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_pacers/01ks0zs11kzamk0qf2m2.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_pacers/01ks0zs11kzamk0qf2m2.jpg",
+  "sourcePage": "https://www.si.com/nba/pacers/onsi/how-the-pacers-can-upgrade-at-backup-center-via-trade-01ks0zm1fe1f",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Imagn Images (photographer uncredited on page)",
+  "credit": null,
+  "photoDate": "2025-26 season (road game, likely at BOS; undated hero photo on a May 2026 article)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2002
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jay-huff.jpg",
+  "selectedAt": "2026-10-17T05:56:36.197Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1240,
+    "y": 10,
+    "size": 1060
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (talking to Andrew Nembhard mid-play, mouth open mid-word, eyes lowered to his right rather than up)",
+  "jersey": "IND navy Statement 2025-26",
+  "concerns": "eyes lowered (lids half down), energy at the low edge; Andrew Nembhard’s head at the lower-left edge of the crop; editorial wire photo via SI.com, not nba.com (Pacers team-site images are 1130px; nba.com game pages gave one look-down drive photo); game unverified",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/huff-pels-meta-011626-scaled.jpg",
+      "note": "(nba.com, Jan 16 2026 vs NOP, yellow, driving with eyes down at the ball, mouth closed, energy ~5, defender arm at the edge)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612754/2025/12/GettyImages-2252973744.jpg",
+      "note": "(Pacers rewind, Dec 27 2025 at MIA, handling the ball looking down, 1130x640 so face ~100px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:56.969Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jay-huff-053e730c-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jay-huff/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.746Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jay-huff.png",
+  "webp": [
+    "assets/players/webp/jay-huff-1024.webp",
+    "assets/players/webp/jay-huff-400.webp",
+    "assets/players/webp/jay-huff-200.webp",
+    "assets/players/webp/jay-huff-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/images/ImagnImages/mmsport/all_pacers/01ks0zs11kzamk0qf2m2.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:47.463Z",
+  "background": "transparent"
+}

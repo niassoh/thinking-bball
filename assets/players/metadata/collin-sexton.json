@@ -1,0 +1,173 @@
+{
+  "player": "Collin Sexton",
+  "playerId": "collin-sexton",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/02/sexton-iso-021026-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/02/sexton-iso-021026-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/bulls-collin-sexton-fined",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1442
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/collin-sexton.jpg",
+  "selectedAt": "2026-10-05T19:27:03.475Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 972,
+    "y": 32,
+    "size": 993
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "LAL (jersey edit from austin-reaves's)",
+  "concerns": "non-Getty hero file, identity verified visually (#2 Bulls, Sexton); hands-on-hips pause, alert frontal look, lips parted; alternative sexton-1.jpg (CHI black, teeth bared) was ~8/10",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:22.788Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "LAL (jersey edit from austin-reaves's)",
+      "file": "assets/players/attempts/collin-sexton-4904d297-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/collin-sexton/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:44.814Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/collin-sexton.png",
+  "webp": [
+    "assets/players/webp/collin-sexton-1024.webp",
+    "assets/players/webp/collin-sexton-400.webp",
+    "assets/players/webp/collin-sexton-200.webp",
+    "assets/players/webp/collin-sexton-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/02/sexton-iso-021026-scaled.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-09T08:56:45.089Z",
+  "background": "transparent",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "jersey: CHI -> LAL",
+      "archivedAt": "2026-10-09T08:56:22.715Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-06T04:01:30.428Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/collin-sexton-4904d297-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/collin-sexton/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-06T04:02:55.828Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/collin-sexton-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/collin-sexton/out.png",
+        "fixes": [],
+        "base": "741dd167bb6aeb20ceedd309576e0471cd9958de",
+        "importedAt": "2026-10-11T19:39:43.441Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0035,
+          "face": 1.8,
+          "purity": 0.993,
+          "coverage": 0.137,
+          "strays": 11,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 549,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/collin-sexton-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:48:57.750Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/collin-sexton.webp",
+    "base": "741dd167bb6aeb20ceedd309576e0471cd9958de",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:48:58.425Z"
+  }
+}

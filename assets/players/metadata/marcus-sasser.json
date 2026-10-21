@@ -1,0 +1,64 @@
+{
+  "player": "Marcus Sasser",
+  "playerId": "marcus-sasser",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_pistons/01k873phajcx99rd99rr.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_pistons/01k873phajcx99rd99rr.jpg",
+  "sourcePage": "https://www.si.com/nba/pistons/onsi/news/pistons-to-have-minimal-backcourt-depth-in-season-opener-01k873mt6t0e",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Rick Osentoski / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-04-07 (vs SAC, Little Caesars Arena, second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2001
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/marcus-sasser.jpg",
+  "selectedAt": "2026-10-17T11:09:40.659Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 827,
+    "y": 0,
+    "size": 1080
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up and off to his right, mouth open mid-breath, engaged)",
+  "jersey": "DET cream City Edition #25, 2024-25",
+  "concerns": "FLAG: not his 2026-27 DAL jersey. He missed most of the 2026 preseason after the July trade and the only Dallas photo found is a media-day portrait (SI, Oct 16 2026), so DET it is; this is a 2024-25 game, not 2025-26 (nba.com 2025-26 Pistons photos were an overhead layup, a mouth-agape reaction beside Daniss Jenkins and a smile). SI/Imagn editorial photo, license unknown; hair top ~4% from the box top; an out-of-focus Kings defender at the right edge",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/marcus-sasser-daniss-jenkins-react.jpg",
+      "note": "(nba.com, 2025-26 DET black City, reacting with a scowl and open mouth beside Jenkins, energy ~8.5, face ~215px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/dallas_basketball/01m52xv528n63ymvaa9s.jpg",
+      "note": "(SI, DAL white 2026-27, but a media-day posed portrait)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

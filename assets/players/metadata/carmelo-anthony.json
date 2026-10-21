@@ -1,0 +1,161 @@
+{
+  "player": "Carmelo Anthony",
+  "playerId": "carmelo-anthony",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/03/GettyImages-88085689.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/03/GettyImages-88085689.jpg",
+  "sourcePage": "https://www.nba.com/news/top-5-all-time-single-season-leaders-for-points-per-game-denver-nuggets",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "May 25 2009 (2009 West Finals Game 4 vs LAL, Pepsi Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2127
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/carmelo-anthony.jpg",
+  "selectedAt": "2026-10-14T03:28:10.072Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1485,
+    "y": 60,
+    "size": 931
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "close (looking off-camera, lips parted mid-breath, alert; slightly calmer than McCain)",
+  "jersey": "DEN white home 2008-09 (2009 WCF)",
+  "concerns": "slight softness; headband covers the forehead (his usual look)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Carmelo_Anthony_Nuggets.jpg",
+      "note": "(Keith Allison CC BY-SA 2.0, DEN sky-blue road Jan 25 2011 at WAS, 430px, side-eye sneer with head tilt, energy ~6.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/02/GettyImages-73528589-scaled-e1743870543441.jpg",
+      "note": "(Feb 28 2007 vs ORL, laughing with Dwight Howard, profile, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:36:57.582Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/carmelo-anthony-a3ced72b-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/carmelo-anthony/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:01.517Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/carmelo-anthony.png",
+  "webp": [
+    "assets/players/webp/carmelo-anthony-1024.webp",
+    "assets/players/webp/carmelo-anthony-400.webp",
+    "assets/players/webp/carmelo-anthony-200.webp",
+    "assets/players/webp/carmelo-anthony-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/03/GettyImages-88085689.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:01.979Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/carmelo-anthony-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/carmelo-anthony/out.png",
+        "fixes": [],
+        "base": "b632340fe1448413ffb148127b612d8188cee2b2",
+        "importedAt": "2026-10-14T20:25:54.967Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0048,
+          "face": 3.2,
+          "purity": 0.994,
+          "coverage": 0.225,
+          "strays": 3,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 791,
+          "oldEdge": 0.066,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/carmelo-anthony-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "missed"
+          ],
+          "note": "old jersey colour left at the edge (0.066)",
+          "at": "2026-10-14T20:28:35.596Z"
+        }
+      }
+    ]
+  }
+}

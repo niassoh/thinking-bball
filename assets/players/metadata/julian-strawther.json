@@ -1,0 +1,70 @@
+{
+  "player": "Julian Strawther",
+  "playerId": "julian-strawther",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_nuggets/01kxv7jy6mqtqdvh86jc.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_nuggets/01kxv7jy6mqtqdvh86jc.jpg",
+  "sourcePage": "https://www.si.com/nba/nuggets/onsi/one-young-player-who-should-be-thrilled-about-the-nuggets-offseason",
+  "license": "unknown (Imagn Images via SI / Reuters Connect)",
+  "licenseUrl": null,
+  "author": "Mark J. Rebilas / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-03-24 at PHX, Mortgage Matchup Center (SI caption)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2006
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/julian-strawther.jpg",
+  "selectedAt": "2026-10-17T08:52:39.932Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 742,
+    "y": 105,
+    "size": 1516
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (looking up and off-camera, mouth open mid-breath, alert in a stoppage)",
+  "jersey": "DEN white Association road #3, 2025-26 (same team 2026-27)",
+  "concerns": "not nba.com or Commons: the Nuggets team-site galleries (29 captioned Strawther photos incl. Oct 2026 preseason) only carry 1024px copies with small faces; SI lead image (Imagn), license unknown; mouthguard visible between his lips; he wore #3 in 2025-26 and switched to #1 for 2026-27 (number is below the crop)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/10/GettyImages-2298393230.jpg",
+      "note": "(2026-10-06 preseason at UTA, navy #1, grinning, only 1024px, face ~245px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/10/GettyImages-2298380444.jpg",
+      "note": "(2026-10-06 preseason at UTA, navy #1, handles the ball, good look-off but 683x1024, face ~150px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2300398548-scaled-e1792205467651.jpg",
+      "note": "(2026-10-14 preseason at LAC, reacting to his knee injury, pain face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

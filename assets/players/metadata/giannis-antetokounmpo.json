@@ -1,0 +1,429 @@
+{
+  "player": "Giannis Antetokounmpo",
+  "playerId": "giannis-antetokounmpo",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2264816465-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/03/GettyImages-2264816465-scaled.jpg",
+  "sourcePage": "https://www.nba.com/game/uta-vs-mil-0022500919",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1706
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/giannis-antetokounmpo.jpg",
+  "selectedAt": "2026-10-02T03:42:39.624Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 820,
+    "y": 220,
+    "size": 760
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches: free-throw look up at rim, mouth slightly open",
+  "jersey": "MIA (jersey edit from andrew-wiggins's)",
+  "concerns": "face ~210px; NBA.com headline suggests 2026 trade to MIA (2025-26 jersey still allowed)",
+  "rejectedCandidates": [
+    {
+      "index": 0,
+      "title": "File:Giannis Antetokounmpo Free Throw 2026 Denver.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_Free_Throw_2026_Denver.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": 9
+    },
+    {
+      "index": 2,
+      "title": "File:Giannis Antetokounmpo (51914619427).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51914619427).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 3,
+      "title": "File:Giannis Antetokounmpo (51914646457).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51914646457).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 4,
+      "title": "File:Giannis Antetokounmpo (51915616441).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51915616441).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 5,
+      "title": "File:Giannis Antetokounmpo (51915715053).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51915715053).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 6,
+      "title": "File:Giannis Antetokounmpo (51915638301).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51915638301).jpg",
+      "license": "CC BY 2.0",
+      "score": 9
+    },
+    {
+      "index": 7,
+      "title": "File:Giannis Antetokounmpo (51915995798).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51915995798).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 8,
+      "title": "File:Giannis Antetokounmpo (51915070867).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51915070867).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 9,
+      "title": "File:Giannis Antetokounmpo (51916688550).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51916688550).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 10,
+      "title": "File:Giannis Antetokounmpo (51915179067).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51915179067).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 11,
+      "title": "File:Giannis Antetokounmpo (51915222152).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51915222152).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 12,
+      "title": "File:Giannis Antetokounmpo (51916325986).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51916325986).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 13,
+      "title": "File:Giannis Antetokounmpo (51916652434).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51916652434).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 14,
+      "title": "File:Giannis Antetokounmpo (51916333331).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51916333331).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 15,
+      "title": "File:Giannis Antetokounmpo (51916952495).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51916952495).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Giannis_Antetokounmpo_%2851916274036%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giannis_Antetokounmpo_(51916274036)_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "score": 14,
+      "reason": "user feedback 2026-10-01",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/giannis-2.jpg",
+      "note": "(look-off 7, Cream City)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/Giannis-Antetokounmpo-scaled.jpg",
+      "note": "(large face but calm 5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/giannis-2.jpg",
+      "note": "(look-off 7, Cream City)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/Giannis-Antetokounmpo-scaled.jpg",
+      "note": "(large face but calm 5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "masterFile": "assets/players/giannis-antetokounmpo.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 4,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-09T08:56:24.174Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "jersey": "MIA (jersey edit from andrew-wiggins's)",
+      "file": "assets/players/attempts/giannis-antetokounmpo-c1c1bfe4-r4-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey/giannis-antetokounmpo/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": {
+          "face unchanged (jersey-check)": "pass",
+          "jersey matches new team": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-09T08:56:47.894Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "approved": true,
+  "qaSummary": "Pass on attempt 1. Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain.",
+  "webp": [
+    "assets/players/webp/giannis-antetokounmpo-1024.webp",
+    "assets/players/webp/giannis-antetokounmpo-400.webp",
+    "assets/players/webp/giannis-antetokounmpo-200.webp",
+    "assets/players/webp/giannis-antetokounmpo-100.webp"
+  ],
+  "approvedAt": "2026-10-09T08:56:48.136Z",
+  "cancelledRounds": [
+    {
+      "reason": "user cancelled source-brightening step 2026-10-01 (\"Nvm, we dont have to do that\"); results not used",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:15:09.380Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/superseded/giannis-antetokounmpo-c1c1bfe4-cancelled-brighten-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": null
+        }
+      ]
+    }
+  ],
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:14.882Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:00:26.196Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/giannis-antetokounmpo-c1c1bfe4-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-02T04:09:12.859Z",
+            "checklistFile": "QA_CHECKLIST.md",
+            "note": "Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:34.226Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:36:51.753Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/giannis-antetokounmpo-c1c1bfe4-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/giannis-antetokounmpo/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:37:01.191Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "reason": "jersey: MIL -> MIA",
+      "archivedAt": "2026-10-09T08:56:24.076Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 3,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T18:32:07.688Z",
+          "promptAdditions": [],
+          "extras": [],
+          "background": "transparent",
+          "file": "assets/players/attempts/giannis-antetokounmpo-c1c1bfe4-r3-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/giannis-antetokounmpo/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T18:32:16.522Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 4,
+  "latestAttempt": 1,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/03/GettyImages-2264816465-scaled.jpg",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/giannis-antetokounmpo-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/giannis-antetokounmpo/out.png",
+        "fixes": [],
+        "base": "a4b75ab1303ab17e471eaf981b79ac3d3b1706e8",
+        "importedAt": "2026-10-11T19:41:09.680Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0047,
+          "face": 2.2,
+          "purity": 0.992,
+          "coverage": 0.154,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 496,
+          "oldEdge": 0.007,
+          "shadeLevels": 12,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/giannis-antetokounmpo-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-11T19:49:16.997Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/giannis-antetokounmpo.webp",
+    "base": "a4b75ab1303ab17e471eaf981b79ac3d3b1706e8",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T19:49:17.632Z"
+  }
+}

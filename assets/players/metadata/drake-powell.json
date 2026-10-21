@@ -1,0 +1,64 @@
+{
+  "player": "Drake Powell",
+  "playerId": "drake-powell",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kf6qeppfpg0w7gb107.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kf6qeppfpg0w7gb107.jpg",
+  "sourcePage": "https://www.si.com/nba/nets/onsi/news/drake-powell-s-recent-defensive-stretch-is-uncharacteristic-of-a-rookie",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Stephen Lew / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-01-14 (at NOP, Smoothie King Center, first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2669
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/drake-powell.jpg",
+  "selectedAt": "2026-10-17T11:13:37.346Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1352,
+    "y": 361,
+    "size": 636
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (driving past Derik Queen, eyes up-court to his right, lips parted over teeth; focused, not straining)",
+  "jersey": "BKN white #4, 2025-26 (same team 2026-27)",
+  "concerns": "not nba.com: nba.com was blocking this machine (403) during the search; head turned close to profile (strong 3/4 to his right); mid-drive, top of the energy band; 2025-26 photo, no 2026 preseason in-game photo found; Imagn via SI, license unknown",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01k9p3987w8kwq0asec2.jpg",
+      "note": "(SI, Nets press-conference podium shot in jersey, not in-game)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/UNC_vs_NCSU_%28Feb_2024%29_02.jpg",
+      "note": "(Commons, UNC college game, not the NBA jersey)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

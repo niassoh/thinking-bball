@@ -1,0 +1,155 @@
+{
+  "player": "Jameer Nelson",
+  "playerId": "jameer-nelson",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/08/GettyImages-98960879.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/08/GettyImages-98960879.jpg",
+  "sourcePage": "https://www.nba.com/news/top-5-all-time-orlando-magic-assists-leaders",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "May 2010 (2010 East semifinals Game 4 at ATL, Philips Arena)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jameer-nelson.jpg",
+  "selectedAt": "2026-10-17T05:21:03.840Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 685,
+    "y": 192,
+    "size": 480
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (mouth open protesting a foul call, eyes off-camera, arms spread wide outside the crop)",
+  "jersey": "ORL blue pinstripe road #14, 2009-10 playoffs",
+  "concerns": "face ~230px (Getty caption: reacts after being called for a foul); head tilted a little to his right; raised forearm enters lower left and right edges of crop, not the face",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/J.J._RedickJameer_Nelson.jpg",
+      "note": "(CC BY-SA 2.0, ORL blue c. 2009-10, big 450px face, but pursed-lip smirk looking down, energy ~5, soft amateur photo)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/magic/sites/magic/files/nelson24_063014_760.jpg",
+      "note": "(ORL white home jump shot, 760px copy, face tiny)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/magic/sites/magic/files/legacy/main_photo/nelson_300_020613.jpg",
+      "note": "(300px thumbnail only)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:56.604Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jameer-nelson-7bae0057-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/jameer-nelson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:24.651Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jameer-nelson.png",
+  "webp": [
+    "assets/players/webp/jameer-nelson-1024.webp",
+    "assets/players/webp/jameer-nelson-400.webp",
+    "assets/players/webp/jameer-nelson-200.webp",
+    "assets/players/webp/jameer-nelson-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/08/GettyImages-98960879.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:46.783Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/jameer-nelson-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/jameer-nelson/out.png",
+        "fixes": [],
+        "base": "dfdfc319cb4dc800f36e3ba42029674fae3283c2",
+        "importedAt": "2026-10-17T11:07:17.375Z",
+        "metrics": {
+          "shift": {
+            "dx": -1,
+            "dy": 2
+          },
+          "silhouette": 0.0071,
+          "face": 7.7,
+          "purity": 0.986,
+          "coverage": 0.232,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2211,
+          "oldEdge": 0,
+          "shadeLevels": 15,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/jameer-nelson-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:55.925Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/jameer-nelson.webp",
+    "base": "dfdfc319cb4dc800f36e3ba42029674fae3283c2",
+    "shift": {
+      "dx": -1,
+      "dy": 2
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:56.179Z"
+  }
+}

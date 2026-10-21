@@ -1,0 +1,64 @@
+{
+  "player": "Khaman Maluach",
+  "playerId": "khaman-maluach",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2267513438.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2267513438.jpg",
+  "sourcePage": "https://www.nba.com/suns/photos/sunsvs-raptors-mar-22-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-03-22 vs TOR, PHX Arena (Getty caption: plays defense on Sandro Mamukelashvili)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2400
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/khaman-maluach.jpg",
+  "selectedAt": "2026-10-17T11:34:45.779Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 942,
+    "y": 165,
+    "size": 757
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (sweaty, eyes on his man just off-camera, mouth open mid-breath)",
+  "jersey": "PHX purple Icon #10, 2025-26",
+  "concerns": "2025-26 rookie-season photo (same team as 2026-27): the only 2026 preseason photo of him on nba.com (Suns vs Spurs gallery) is a wide rebound shot with a tiny face; Mamukelashvili and the ball are outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2265034660.jpg",
+      "note": "(2026-03-05 vs CHI, black City Edition, facing up Isaac Okoro, mouth wide with tongue out, energy ~8)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/10/2299075466.jpg",
+      "note": "(2026-10-10 preseason vs SAS, white, rebound in a wide low-angle frame, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

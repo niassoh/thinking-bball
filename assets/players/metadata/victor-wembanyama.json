@@ -1,0 +1,321 @@
+{
+  "player": "Victor Wembanyama",
+  "playerId": "victor-wembanyama",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/05/Thumbnail-Dimensions-71.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/05/Thumbnail-Dimensions-71.jpg",
+  "sourcePage": "https://www.nba.com/news/spurs-seeking-answers-to-thunders-dominance-when-wembanyama-rests",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/victor-wembanyama.jpg",
+  "selectedAt": "2026-10-02T03:42:40.218Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 715,
+    "y": 0,
+    "size": 720
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches: looking up/off, mouth slightly open, alert",
+  "jersey": "SAS black 2025-26 (2026 playoffs)",
+  "concerns": "face ~205px",
+  "rejectedCandidates": [
+    {
+      "index": 0,
+      "title": "File:Victor Wembanyama San Antonio Spurs 2025 NBA Cup.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_San_Antonio_Spurs_2025_NBA_Cup.jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 1,
+      "title": "File:Victor Wembanyama San Antonio Spurs 2025 NBA Cup (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_San_Antonio_Spurs_2025_NBA_Cup_(cropped).jpg",
+      "license": "CC BY 4.0",
+      "score": 12
+    },
+    {
+      "index": 3,
+      "title": "File:Victor Wembanyama Metropolitans 01-03-2023.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_Metropolitans_01-03-2023.jpg",
+      "license": "CC BY 4.0",
+      "score": null
+    },
+    {
+      "index": 4,
+      "title": "File:Victor Wembanyama NBA Paris Game.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_NBA_Paris_Game.jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 5,
+      "title": "File:Victor Wembanyama Mets 92.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_Mets_92.jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 6,
+      "title": "File:Victor Wembanyama Mets 92 (2).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_Mets_92_(2).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 7,
+      "title": "File:Victor Wembanyama Mets 92 (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_Mets_92_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": 11
+    },
+    {
+      "index": 8,
+      "title": "File:Victor Wembanyama ASVEL à la salle Carpentier.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_ASVEL_%C3%A0_la_salle_Carpentier.jpg",
+      "license": "CC BY-SA 4.0",
+      "score": null
+    },
+    {
+      "index": 9,
+      "title": "File:Victor Wembanyama.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama.jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 10,
+      "title": "File:Victor Wembanyama ASVEL.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_ASVEL.jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 11,
+      "title": "File:Victor Wembanyama ASVEL (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_ASVEL_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "score": null
+    },
+    {
+      "index": 12,
+      "title": "File:Wembanyama and Hart, 2026 NBA Finals.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wembanyama_and_Hart,_2026_NBA_Finals.png",
+      "license": "Public domain",
+      "score": null
+    },
+    {
+      "index": 13,
+      "title": "File:Basketteurs au Club France - 2.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Basketteurs_au_Club_France_-_2.jpg",
+      "license": "CC0",
+      "score": null
+    },
+    {
+      "index": 14,
+      "title": "File:Basketteurs au Club France - 3.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Basketteurs_au_Club_France_-_3.jpg",
+      "license": "CC0",
+      "score": null
+    },
+    {
+      "index": 15,
+      "title": "File:Basketteurs au Club France - 1.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Basketteurs_au_Club_France_-_1.jpg",
+      "license": "CC0",
+      "score": null
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Victor_Wembanyama_San_Antonio_Spurs_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_San_Antonio_Spurs_2024.jpg",
+      "license": "CC BY 4.0",
+      "score": 15,
+      "reason": "user feedback 2026-10-01",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/GettyImages-2276458625-Cropped.jpg",
+      "note": "(large face, talking/sneer 7.5-8)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/wemby-gm6-meta-052826-scaled.jpg",
+      "note": "(fist pump 8.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/GettyImages-2276458625-Cropped.jpg",
+      "note": "(large face, talking/sneer 7.5-8)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/05/wemby-gm6-meta-052826-scaled.jpg",
+      "note": "(fist pump 8.5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "masterFile": "assets/players/victor-wembanyama.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:12:38.170Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/victor-wembanyama-96c1ab55-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/victor-wembanyama/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:13:05.964Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "approved": true,
+  "qaSummary": "Pass on attempt 1. Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain.",
+  "webp": [
+    "assets/players/webp/victor-wembanyama-1024.webp",
+    "assets/players/webp/victor-wembanyama-400.webp",
+    "assets/players/webp/victor-wembanyama-200.webp",
+    "assets/players/webp/victor-wembanyama-100.webp"
+  ],
+  "approvedAt": "2026-10-06T02:13:06.242Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:15.196Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:00:26.196Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/victor-wembanyama-96c1ab55-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-02T04:09:13.393Z",
+            "checklistFile": "QA_CHECKLIST.md",
+            "note": "Calibrated to the user-approved Jokic/Sabonis/SGA set: facet scale and skin warmth (systematic hue/sat shift) match those approved portraits; both are finer/warmer than McCain."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:34.678Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:58:18.438Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/victor-wembanyama-96c1ab55-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/victor-wembanyama/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:58:24.931Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "latestAttempt": 1,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/05/Thumbnail-Dimensions-71.jpg",
+  "background": "transparent"
+}

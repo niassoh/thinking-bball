@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "HOU",
+  "gp": 6,
+  "generatedAt": "2026-10-09T18:15:36.930Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 104,
+      "poss": 197.5,
+      "net": -2.0253164556962027
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 189,
+      "poss": 361,
+      "net": -3.0470914127423825
+    },
+    {
+      "label": "On, w/o Thompson",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 16,
+      "poss": 32.5,
+      "net": -3.076923076923077
+    },
+    {
+      "label": "On, w/o Smith Jr.",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 19,
+      "poss": 38.5,
+      "net": 15.584415584415584
+    },
+    {
+      "label": "On, w/o Sengun",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 31,
+      "poss": 58,
+      "net": 8.620689655172415
+    },
+    {
+      "label": "Neither Okogie nor Thompson",
+      "sub": "2025–26 playoffs · HOU",
+      "minutes": 12,
+      "poss": 24,
+      "net": -87.5
+    }
+  ]
+}

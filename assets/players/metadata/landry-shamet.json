@@ -1,0 +1,70 @@
+{
+  "player": "Landry Shamet",
+  "playerId": "landry-shamet",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2257640675-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2257640675-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/landry-shamet-knicks-free-agency-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-01-21 (vs BKN, Madison Square Garden; Getty 2257640675)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1707
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/landry-shamet.jpg",
+  "selectedAt": "2026-10-17T08:34:54.636Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 830,
+    "y": 0,
+    "size": 950
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (grinning mid-reaction while jogging back, looking off-camera to his right; a smile where McCain has an open-mouthed breath)",
+  "jersey": "NYK white home #44, 2025-26 (same set as 2026-27)",
+  "concerns": "smile rather than McCain’s open-mouthed look, still alert and engaged; head turned 3/4 to his right; 2025-26 photo, he re-signed with NYK so the jersey matches 2026-27; Knicks 2026 preseason galleries only have small-face shots",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2258181699-scaled.jpg",
+      "note": "(Jan 2026 at TOR, blue road, laughing with Anunoby, energy ~8.5, blurred foreground edge, face cut near frame edge)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/02/GettyImages-2260614942.jpg",
+      "note": "(Feb 11 2026 at PHI, white, mid-shot with ball, 1920px wide, small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/01/GettyImages-2258345906.jpg",
+      "note": "(Jan 2026 at TOR, group look-on with Towns, Kolek, Bridges, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

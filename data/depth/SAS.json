@@ -1,0 +1,152 @@
+{
+  "team": "SAS",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:56.707Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "De'Aaron Fox",
+          "slug": "de-aaron-fox",
+          "espnId": "4066259",
+          "status": null
+        },
+        {
+          "name": "Dylan Harper",
+          "slug": "dylan-harper",
+          "espnId": "5037871",
+          "status": null
+        },
+        {
+          "name": "Jordan McLaughlin",
+          "slug": "jordan-mclaughlin",
+          "espnId": "3134916",
+          "status": null
+        },
+        {
+          "name": "Ja'Kobi Gillespie",
+          "slug": "ja-kobi-gillespie",
+          "espnId": "5107968",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Stephon Castle",
+          "slug": "stephon-castle",
+          "espnId": "4845367",
+          "status": null
+        },
+        {
+          "name": "Dylan Harper",
+          "slug": "dylan-harper",
+          "espnId": "5037871",
+          "status": null
+        },
+        {
+          "name": "Julian Champagnie",
+          "slug": "julian-champagnie",
+          "espnId": "4592479",
+          "status": null
+        },
+        {
+          "name": "Jordan McLaughlin",
+          "slug": "jordan-mclaughlin",
+          "espnId": "3134916",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Devin Vassell",
+          "slug": "devin-vassell",
+          "espnId": "4395630",
+          "status": null
+        },
+        {
+          "name": "Carter Bryant",
+          "slug": "carter-bryant",
+          "espnId": "5061568",
+          "status": null
+        },
+        {
+          "name": "Keldon Johnson",
+          "slug": "keldon-johnson",
+          "espnId": "4395723",
+          "status": null
+        },
+        {
+          "name": "Julian Champagnie",
+          "slug": "julian-champagnie",
+          "espnId": "4592479",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Tobias Harris",
+          "slug": "tobias-harris",
+          "espnId": "6440",
+          "status": null
+        },
+        {
+          "name": "Julian Champagnie",
+          "slug": "julian-champagnie",
+          "espnId": "4592479",
+          "status": null
+        },
+        {
+          "name": "Keldon Johnson",
+          "slug": "keldon-johnson",
+          "espnId": "4395723",
+          "status": null
+        },
+        {
+          "name": "Harrison Barnes",
+          "slug": "harrison-barnes",
+          "espnId": "6578",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Victor Wembanyama",
+          "slug": "victor-wembanyama",
+          "espnId": "5104157",
+          "status": null
+        },
+        {
+          "name": "Luke Kornet",
+          "slug": "luke-kornet",
+          "espnId": "3064560",
+          "status": null
+        },
+        {
+          "name": "Tarris Reed Jr.",
+          "slug": "tarris-reed-jr",
+          "espnId": "5105809",
+          "status": null
+        },
+        {
+          "name": "Jayden Quaintance",
+          "slug": "jayden-quaintance",
+          "espnId": "5101845",
+          "status": "OUT"
+        }
+      ]
+    }
+  ]
+}

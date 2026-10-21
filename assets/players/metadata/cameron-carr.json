@@ -1,0 +1,64 @@
+{
+  "player": "Cameron Carr",
+  "playerId": "cameron-carr",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285083598.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285083598.jpg",
+  "sourcePage": "https://www.nba.com/watch/video/top-cameron-carr-plays-from-the-2026-nba-summer-league",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-07-05 Summer League (California Classic vs MIA, Chase Center; Getty caption: dribbles the ball)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/cameron-carr.jpg",
+  "selectedAt": "2026-10-17T08:57:07.371Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1670,
+    "y": 196,
+    "size": 450
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes up and just off-camera, mouth open mid-breath)",
+  "jersey": "LAL white Summer League 2026",
+  "concerns": "Summer League (California Classic), not a preseason game: 2026 No. 24 pick (Baylor) with no NBA regular season; his only 2026 preseason stills found are a dunk shot from behind (Oct 5 at SAC) and broadcast frames; Summer League white jersey lacks the regular Association trim; crop scaled from the 5000px original to the saved 3000px copy",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285549997.jpg",
+      "note": "(Summer League Jul 14 vs LAC, white, broad smile looking up, outside the band)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/10/Carr_GettyImages-2298805883.jpg",
+      "note": "(Oct 5 2026 preseason at SAC, gold road, slam dunk seen from behind, no face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,146 @@
+{
+  "player": "Chandler Parsons",
+  "playerId": "chandler-parsons",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chandler_Parsons_2012.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chandler_Parsons_2012.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Chandler_Parsons_2012.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Norma Gonzalez, The Pan American",
+  "credit": null,
+  "photoDate": "2012-10-10 (Rockets preseason game, Hidalgo TX)",
+  "originalSize": null,
+  "storedSize": [
+    2114,
+    2651
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/chandler-parsons.jpg",
+  "selectedAt": "2026-10-17T05:38:35.442Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 230,
+    "y": 0,
+    "size": 1240
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (hands on hips during a stoppage, mouth open mid-breath, eyes off to his right)",
+  "jersey": "HOU white home 2012-13 preseason",
+  "concerns": "FLAG: preseason game (Oct 10 2012, NBA D-League arena in Hidalgo TX), not regular season, though a real game in the regular white home uniform; head turned toward 3/4-profile; scoreboard text behind the head; no nba.com Rockets in-game photo of Parsons found (team-site articles and the Rising Stars gallery carry only dunks and All-Star-weekend shots)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Dwight_Howard_Chandler_Parsons.jpg",
+      "note": "(CC BY-SA 2.0 Jose Garcia, 2014-03-05 at ORL, red alternate, his 2013-14 peak, but looking down from a high angle, energy ~5, face ~300px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/rockets/sites/rockets/files/legacy/main_photo/1367105661_0.jpg",
+      "note": "(Rockets site, red road, mid-dunk, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:53.299Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/chandler-parsons-a1a1969a-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/chandler-parsons/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.671Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/chandler-parsons.png",
+  "webp": [
+    "assets/players/webp/chandler-parsons-1024.webp",
+    "assets/players/webp/chandler-parsons-400.webp",
+    "assets/players/webp/chandler-parsons-200.webp",
+    "assets/players/webp/chandler-parsons-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chandler_Parsons_2012.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:40.173Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/chandler-parsons-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/chandler-parsons/out.png",
+        "fixes": [],
+        "base": "0cae3a6a4b2f2dbafb3d284da451eccc0bcfe56f",
+        "importedAt": "2026-10-17T11:07:03.644Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0072,
+          "face": 3.8,
+          "purity": 0.987,
+          "coverage": 0.172,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2025,
+          "oldEdge": 0.18,
+          "shadeLevels": 10,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/chandler-parsons-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "old-edge"
+          ],
+          "note": null,
+          "at": "2026-10-17T11:16:59.738Z"
+        }
+      }
+    ]
+  }
+}

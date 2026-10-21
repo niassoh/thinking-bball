@@ -1,0 +1,164 @@
+{
+  "player": "Amar'e Stoudemire",
+  "playerId": "amar-e-stoudemire",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Amar%27e_Stoudemire_00054226.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Amar%27e_Stoudemire_00054226.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Amar%27e_Stoudemire_00054226.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison from Baltimore, USA",
+  "credit": null,
+  "photoDate": "2009-01-26 (PHX at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    1992,
+    1373
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/amar-e-stoudemire.jpg",
+  "selectedAt": "2026-10-14T03:35:37.265Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 87,
+    "y": 0,
+    "size": 1373
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (gathering a rebound, eyes cut hard off-camera to his left, mouth open mid-breath)",
+  "jersey": "PHX purple road 2008-09",
+  "concerns": "tight original frame: his right hand and wristband sit beside his jaw in the crop and the crop is the full image height (smaller than 2.65x face); eyes turned strongly sideways",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Amar%27e_Stoudemire_free_throw.jpg",
+      "note": "(same game, clean frontal free throw looking up at the rim, 478px, but lips pressed, energy ~5.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Amar%27e_Stoudemire_00054650.jpg",
+      "note": "(same game, frontal 800px, mouth wide open but eyes squeezed nearly shut, energy ~8)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:36:56.232Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/amar-e-stoudemire-aaa7fc49-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/amar-e-stoudemire/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:41:58.479Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/amar-e-stoudemire.png",
+  "webp": [
+    "assets/players/webp/amar-e-stoudemire-1024.webp",
+    "assets/players/webp/amar-e-stoudemire-400.webp",
+    "assets/players/webp/amar-e-stoudemire-200.webp",
+    "assets/players/webp/amar-e-stoudemire-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Amar%27e_Stoudemire_00054226.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:41:59.033Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/amar-e-stoudemire-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/amar-e-stoudemire/out.png",
+        "fixes": [],
+        "base": "3cf429721f42308a3b0d41b2ce14e3b580491a11",
+        "importedAt": "2026-10-14T20:25:50.996Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0052,
+          "face": 2.6,
+          "purity": 0.993,
+          "coverage": 0.148,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1535,
+          "oldEdge": 0,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/amar-e-stoudemire-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:09.047Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/amar-e-stoudemire.webp",
+    "base": "3cf429721f42308a3b0d41b2ce14e3b580491a11",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:09.265Z"
+  }
+}

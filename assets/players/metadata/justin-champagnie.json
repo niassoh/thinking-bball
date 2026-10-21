@@ -1,0 +1,93 @@
+{
+  "player": "Justin Champagnie",
+  "playerId": "justin-champagnie",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Justin_Champagnie_2024.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Justin_Champagnie_2024.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Justin_Champagnie_2024.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": null,
+  "author": "Hameltion",
+  "credit": null,
+  "photoDate": "2024-12-15 (vs BOS, Capital One Arena; crop of Celtics at Wizards 2024-12-012.jpg)",
+  "originalSize": null,
+  "storedSize": [
+    1085,
+    1560
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/justin-champagnie.jpg",
+  "selectedAt": "2026-10-17T05:37:53.476Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 60,
+    "y": 0,
+    "size": 960
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out, eyes up on the ball, mouth open mid-breath)",
+  "jersey": "WAS City Edition (The District, white) #9, 2024-25",
+  "concerns": "FLAG: 2024-25 season, older than the wanted 2025-26/2026-27 (same team, WAS); the only 2025-26 in-game photo found (Commons, Apr 2 2026) is a closed-mouth jog at energy ~5; navy undershirt sleeves under the jersey; fan at right edge of crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/1_justin_champagnie_2026.jpg",
+      "note": "(CC BY-SA 4.0 Chensiyuan, Apr 2 2026, WAS white, huge sharp face but lips pressed jogging, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612764/2025/03/image.jpeg",
+      "note": "(Wizards signing graphic, looking off mouth parted, but \"Signed\" text, name label and red overlay)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:58.443Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/justin-champagnie-739fedb6-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/justin-champagnie/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.272Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/justin-champagnie.png",
+  "webp": [
+    "assets/players/webp/justin-champagnie-1024.webp",
+    "assets/players/webp/justin-champagnie-400.webp",
+    "assets/players/webp/justin-champagnie-200.webp",
+    "assets/players/webp/justin-champagnie-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/9/99/Justin_Champagnie_2024.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:50.159Z",
+  "background": "transparent"
+}

@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "PHI",
+  "gp": 9,
+  "generatedAt": "2026-10-09T19:09:49.691Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 109,
+      "poss": 219.5,
+      "net": -25.05694760820046
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 419,
+      "poss": 812.5,
+      "net": -6.646153846153846
+    },
+    {
+      "label": "On, w/o Maxey",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 64,
+      "poss": 130,
+      "net": -3.076923076923077
+    },
+    {
+      "label": "On, w/o Edgecombe",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 60,
+      "poss": 125.5,
+      "net": -31.872509960159363
+    },
+    {
+      "label": "On, w/o George",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 72,
+      "poss": 148.5,
+      "net": -14.814814814814813
+    },
+    {
+      "label": "Neither Edwards nor Maxey",
+      "sub": "2025–26 playoffs · PHI",
+      "minutes": 27,
+      "poss": 53.5,
+      "net": -35.51401869158878
+    }
+  ]
+}

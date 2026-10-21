@@ -1,0 +1,64 @@
+{
+  "player": "Cameron Boozer",
+  "playerId": "cameron-boozer",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285785638-Cropped-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285785638-Cropped-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/2026-nba-summer-league-standout-players-from-day-8",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-16 (Summer League vs ATL, Thomas & Mack Center)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1440
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/cameron-boozer.jpg",
+  "selectedAt": "2026-10-17T08:43:02.819Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 848,
+    "y": 0,
+    "size": 800
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (dribbling upcourt, eyes locked ahead, mouth open mid-breath)",
+  "jersey": "MEM navy road #27, 2026 Summer League",
+  "concerns": "Summer League, not preseason: his 2026 preseason photos on nba.com are a near-profile look-off (Oct 5 at ATL), a grimacing contact drive and a jump shot with arms around the face; face ~265px brow-to-chin; hair top sits about 6% from the box top (the head is at the image top edge)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/10/GettyImages-2298214230-scaled-e1791593798143.jpg",
+      "note": "(2026-10-05 preseason at ATL, navy road, looks on with mouth slightly open, energy ~6, but head near full profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2286094640.jpg",
+      "note": "(Summer League semifinal Jul 18, white, frontal but neutral stare with mouth closed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

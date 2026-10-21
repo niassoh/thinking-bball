@@ -1,0 +1,64 @@
+{
+  "player": "Nate Ament",
+  "playerId": "nate-ament",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285667005-Cropped-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285667005-Cropped-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/2026-nba-summer-league-standout-players-from-day-7",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-15 (Summer League vs CHA, Cox Pavilion)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1440
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/nate-ament.jpg",
+  "selectedAt": "2026-10-17T08:45:29.693Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 330,
+    "y": 0,
+    "size": 1440
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (sweaty, eyes off to his right, lips parted mid-breath; calmer than McCain)",
+  "jersey": "MIL green road, 2026 Summer League",
+  "concerns": "Summer League, not preseason: nba.com and the Bucks site carry no 2026 preseason game photo of him (Bucks galleries are practices/shootarounds; preseason posts carry only video stills of dunks); hair touches the image top edge, so the box has almost no room above the hair",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/ament1.jpg",
+      "note": "(same game, drive vs CHA, mouth open, energy ~7.5, but smaller face and a defender’s arm just above his head)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285664336-scaled-e1784164820473.jpg",
+      "note": "(same drive, 1574px copy, smaller face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

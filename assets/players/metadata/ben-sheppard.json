@@ -1,0 +1,66 @@
+{
+  "player": "Ben Sheppard",
+  "playerId": "ben-sheppard",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2266229219.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/03/2266229219.jpg",
+  "sourcePage": "https://www.nba.com/suns/photos/sunsat-pacers-mar-12-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2001
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ben-sheppard.jpg",
+  "selectedAt": "2026-10-05T19:48:16.882Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1397,
+    "y": 281,
+    "size": 540
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 8,
+  "energyVsMcCain": "slightly higher",
+  "jersey": "IND white Association 2025-26 (Mar 12 2026 vs PHX)",
+  "concerns": "driving with teeth bared (upper edge of the band); a defender hand reaches in just under his chin and his own arm crosses the lower crop, face itself clear; ball at top-right corner; only 2025-26 game photo found",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 0,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:57:37.214Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/ben-sheppard-5ac40608-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-new/ben-sheppard/out.png",
+      "usage": null,
+      "qa": null
+    }
+  ],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "latestAttempt": 1
+}

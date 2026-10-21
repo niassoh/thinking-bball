@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "TOR",
+  "gp": 7,
+  "generatedAt": "2026-10-09T18:11:23.109Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 271,
+      "poss": 540,
+      "net": 0.7407407407407408
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 70,
+      "poss": 146,
+      "net": -10.95890410958904
+    },
+    {
+      "label": "On, w/o Barnes",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 57,
+      "poss": 116.5,
+      "net": -10.300429184549357
+    },
+    {
+      "label": "On, w/o Walter",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 91,
+      "poss": 176,
+      "net": 17.613636363636363
+    },
+    {
+      "label": "On, w/o Shead",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 98,
+      "poss": 197.5,
+      "net": -13.164556962025317
+    },
+    {
+      "label": "Neither Barrett nor Barnes",
+      "sub": "2025–26 playoffs · TOR",
+      "minutes": 11,
+      "poss": 24,
+      "net": 12.5
+    }
+  ]
+}

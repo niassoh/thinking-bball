@@ -1,0 +1,64 @@
+{
+  "player": "Justin Edwards",
+  "playerId": "justin-edwards",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_76ers/01k8e0fn87xxtba401am.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_76ers/01k8e0fn87xxtba401am.jpg",
+  "sourcePage": "https://www.si.com/nba/76ers/news/additional-injury-concern-pops-up-for-76ers-vs-hornets-01k8e0aeyqyc",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Kyle Ross / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-04-05 vs MIN, Wells Fargo Center (first quarter, controls the ball)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/justin-edwards.jpg",
+  "selectedAt": "2026-10-17T08:55:06.823Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1176,
+    "y": 41,
+    "size": 768
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (mouth open mid-breath, eyes alert and off-camera to his left, game concentration)",
+  "jersey": "PHI white Sixers-script #19 2024-25 (same team 2026-27)",
+  "concerns": "not nba.com: no nba.com page with a usable Getty photo of him (only a 2024 neutral look-on); SI/Imagn editorial, license unknown; 2024-25 photo, no 2025-26 or 2026 preseason game photo found; ball sits below the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_76ers/01k5n29ad43xvm3aevyt.jpg",
+      "note": "(SI/Imagn Mar 10 2025 at ATL, blue #19, mouth open but head turned near profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/12/GettyImages-2186872294-scaled-e1733525008812.jpg",
+      "note": "(nba.com Getty Nov 24 2024 vs LAC, looks on, neutral closed mouth, 1920px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

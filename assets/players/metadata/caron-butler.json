@@ -1,0 +1,149 @@
+{
+  "player": "Caron Butler",
+  "playerId": "caron-butler",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Caron_Butler_Wizards_2009.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Caron_Butler_Wizards_2009.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Caron_Butler_Wizards_2009.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2009-04-04 (2008-09 regular season, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    1873,
+    2343
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/caron-butler.jpg",
+  "selectedAt": "2026-10-17T05:19:18.029Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 530,
+    "y": 104,
+    "size": 920
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (at the free-throw line looking up at the rim, mouth open mid-breath)",
+  "jersey": "WAS white home 2008-09",
+  "concerns": "head tilted up toward the rim (chin raised); 2008-09 rather than his 2007-08 best season, same uniform",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Caron_Butler_Wizards_2007.jpg",
+      "note": "(Dec 2007 home, driving with tongue out, energy ~8, tongue distorts the mouth)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Caron_Butler_Sam_Cassell.jpg",
+      "note": "(Nov 2009 home, closed-mouth look-off with assistant coach Cassell beside him, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:40:53.150Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/caron-butler-f4843375-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/caron-butler/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:23.622Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/caron-butler.png",
+  "webp": [
+    "assets/players/webp/caron-butler-1024.webp",
+    "assets/players/webp/caron-butler-400.webp",
+    "assets/players/webp/caron-butler-200.webp",
+    "assets/players/webp/caron-butler-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/4/40/Caron_Butler_Wizards_2009.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:39.878Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/caron-butler-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/caron-butler/out.png",
+        "fixes": [],
+        "base": "eba1d37cb1c52580878551f82a34ac918831d028",
+        "importedAt": "2026-10-17T11:07:02.557Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.0047,
+          "face": 4.9,
+          "purity": 0.987,
+          "coverage": 0.128,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1036,
+          "oldEdge": 0.034,
+          "shadeLevels": 13,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/caron-butler-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-17T11:11:53.242Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/caron-butler.webp",
+    "base": "eba1d37cb1c52580878551f82a34ac918831d028",
+    "shift": {
+      "dx": 0,
+      "dy": 1
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-17T11:11:53.459Z"
+  }
+}

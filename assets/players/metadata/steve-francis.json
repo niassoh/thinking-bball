@@ -1,0 +1,69 @@
+{
+  "player": "Steve Francis",
+  "playerId": "steve-francis",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Chauncey_Billups_and_Steve_Francis.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Chauncey_Billups_and_Steve_Francis.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Chauncey_Billups_and_Steve_Francis.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Jon (Flickr)",
+  "credit": null,
+  "photoDate": "2006-01-03 (ORL at DET, The Palace)",
+  "originalSize": null,
+  "storedSize": [
+    681,
+    718
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/steve-francis.jpg",
+  "selectedAt": "2026-10-17T05:56:59.555Z",
+  "sourceSelectionScore": 5,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 1,
+    "faceSize": 0,
+    "expression": 1,
+    "minimalOcclusion": 2,
+    "headAngle": 0,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 40,
+    "y": 7,
+    "size": 205
+  },
+  "needsReview": "no HOU in-game photo on nba.com or Commons: re-scanned Rockets history/leader lists, 1999-00 to 2007-08 season reviews, Yao pages, all pre-2008 Rockets team-site news (only ~200px legacy images), Rockets Yao/legends galleries, Commons Rockets season categories 1999-2008 and Category:Steve Francis; previous round skipped him for the same reason",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower (talking to Billups in profile during a stoppage)",
+  "jersey": "ORL blue road 2005-06",
+  "concerns": "FLAG: placeholder only; Magic jersey, not HOU; near-profile from behind; head ~100px in a 681px frame. Strongest lead seen: an AP photo of Francis in the HOU white #3 jersey (Nov 2007, pleading to a ref, large face, energy ~8.5) embedded on andscape.com, not recorded because that site disallows Anthropic crawlers and the expression grimaces past the band",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://andscape.com/wp-content/uploads/2020/08/AP_071124040636-e1598873407102.jpg",
+      "note": "(AP via Andscape, HOU white 2007-08, large sharp face, but a grimacing plea and the host blocks Anthropic crawlers)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Steve_Francis_Knicks.jpg",
+      "note": "(CC BY 2.0, NYK green 2007, face ~40px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "player": "Ryan Kalkbrenner",
+  "playerId": "ryan-kalkbrenner",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2299692942CHA_VS_BOS_101426_.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2299692942CHA_VS_BOS_101426_.jpg",
+  "sourcePage": "https://www.nba.com/hornets/photos/hornets-vs-celtics-gallery-10-14-26",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Brian Babineau / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-14 (2026-27 preseason at BOS, TD Garden; free throw)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    2400
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ryan-kalkbrenner.jpg",
+  "selectedAt": "2026-10-17T05:39:49.808Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 490,
+    "y": 152,
+    "size": 1061
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (free-throw concentration, eyes on the rim, tip of the tongue out between parted lips)",
+  "jersey": "CHA teal road 2026-27 (preseason), white T-shirt under the jersey as he wears in games",
+  "concerns": "FLAG: 2026-27 preseason game (regular teal uniform); tongue tip out at the line, may read oddly once illustrated; ball and right hand fill the lower-left of the crop. Best 2025-26 regular-season option was the Mar 8 2026 free throw at PHX (alt 1, very McCain-like) but the team site only serves it at 720x1080 (face ~130px); 36 other Hornets-gallery photos were drives, dunks, blocks or overhead shots with the face down, in profile or behind an arm",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/03/GettyImages-2265053140.jpg",
+      "note": "(Mar 8 2026 at PHX, teal, free throw, eyes up at the rim and mouth open, energy ~6.5, but 720x1080 with a ~130px face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/01/GettyImages-2255856706CHA_VS_LAL_GALLERY__011526_.jpg",
+      "note": "(Jan 15 2026 at LAL, teal, layup in near-profile with a defender hand over his head)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:01.784Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/ryan-kalkbrenner-6318d2b5-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/ryan-kalkbrenner/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:26.413Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/ryan-kalkbrenner.png",
+  "webp": [
+    "assets/players/webp/ryan-kalkbrenner-1024.webp",
+    "assets/players/webp/ryan-kalkbrenner-400.webp",
+    "assets/players/webp/ryan-kalkbrenner-200.webp",
+    "assets/players/webp/ryan-kalkbrenner-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2299692942CHA_VS_BOS_101426_.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:56.808Z",
+  "background": "transparent"
+}

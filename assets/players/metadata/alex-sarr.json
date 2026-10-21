@@ -1,0 +1,64 @@
+{
+  "player": "Alex Sarr",
+  "playerId": "alex-sarr",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/06/GettyImages_AlexSarr.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/06/GettyImages_AlexSarr.jpg",
+  "sourcePage": "https://www.nba.com/news/wizards-alex-sarr-broke-right-foot-in-offseason-workout-but-is-expected-to-recover-before-next-season",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "undated renamed nba.com photo (at GSW, Chase Center; 2024-25 or 2025-26)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/alex-sarr.jpg",
+  "selectedAt": "2026-10-17T08:38:09.588Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 610,
+    "y": 40,
+    "size": 520
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (pushing the ball up-court, eyes ahead rather than up, mouth open mid-breath; alert and engaged)",
+  "jersey": "WAS navy The District City Edition, 2024-25 or 2025-26",
+  "concerns": "face ~270px hair-to-chin (~210 brow-to-chin) in a 1920px image, at the low edge of the size rule; looking ahead along the lens line rather than up/off-camera; not 2026 preseason (no nba.com preseason photo of him found; the Wizards site posts no game galleries)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/01/GettyImages-2194035913.jpg",
+      "note": "(Jan 13 2025 vs MIN, free-throw form with ball and arm over the forehead, top of head cut off)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/03/GettyImages-2204786443-scaled.jpg",
+      "note": "(Mar 15 2025 at DEN, wide shot mid-jumper, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

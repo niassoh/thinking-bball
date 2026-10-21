@@ -1,0 +1,164 @@
+{
+  "player": "Kevin Garnett",
+  "playerId": "kevin-garnett",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/12/GettyImages-52946289-scaled-e1766093546251.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/12/GettyImages-52946289-scaled-e1766093546251.jpg",
+  "sourcePage": "https://www.nba.com/news/celtics-will-retire-kevin-garnett-number-official-release",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2005-04-20 (vs SAS, Target Center)",
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1442
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kevin-garnett.jpg",
+  "selectedAt": "2026-10-14T03:23:55.412Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 740,
+    "y": 0,
+    "size": 1000
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches in intensity, different mood (confident closed-mouth grin, fist to chest, eyes up and ahead)",
+  "jersey": "MIN white home 2004-05",
+  "concerns": "mild in-game celebration (fist to chest), mouth closed; fist enters lower right of crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2021/05/kevin-garnett-1997.jpg",
+      "note": "(renamed nba.com, young KG laughing, MIN blue collar only, 633px, energy ~7.5, but no caption and context unclear)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kevin_Garnett_2008.jpg",
+      "note": "(CC BY-SA 2.0, BOS green road 2008, fingers to temple mouth open, energy ~7, but Celtics not MIN)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-14T19:37:07.542Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kevin-garnett-17ddce45-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical/kevin-garnett/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": {
+          "real alpha, no halo on light or dark": "pass",
+          "era hair, accessories and jersey kept": "pass"
+        },
+        "failed": [],
+        "checkedAt": "2026-10-14T19:42:19.291Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kevin-garnett.png",
+  "webp": [
+    "assets/players/webp/kevin-garnett-1024.webp",
+    "assets/players/webp/kevin-garnett-400.webp",
+    "assets/players/webp/kevin-garnett-200.webp",
+    "assets/players/webp/kevin-garnett-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/12/GettyImages-52946289-scaled-e1766093546251.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-14T19:42:20.019Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/kevin-garnett-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-historical-key/kevin-garnett/out.png",
+        "fixes": [],
+        "base": "accf299213077ed0d1b074c7d9bfa4f065f0775a",
+        "importedAt": "2026-10-14T20:26:13.720Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0036,
+          "face": 3.1,
+          "purity": 0.953,
+          "coverage": 0.125,
+          "strays": 130,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 3023,
+          "oldEdge": 0.013,
+          "shadeLevels": 15,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/kevin-garnett-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": null,
+          "at": "2026-10-14T20:28:13.521Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/kevin-garnett.webp",
+    "base": "accf299213077ed0d1b074c7d9bfa4f065f0775a",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-14T20:28:13.770Z"
+  }
+}

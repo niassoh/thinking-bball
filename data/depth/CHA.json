@@ -1,0 +1,152 @@
+{
+  "team": "CHA",
+  "season": "2026-27",
+  "generatedAt": "2026-10-02T03:01:43.532Z",
+  "rows": [
+    {
+      "pos": "PG",
+      "players": [
+        {
+          "name": "Coby White",
+          "slug": "coby-white",
+          "espnId": "4395651",
+          "status": null
+        },
+        {
+          "name": "Dennis Schroder",
+          "slug": "dennis-schroder",
+          "espnId": "3032979",
+          "status": null
+        },
+        {
+          "name": "Christian Anderson",
+          "slug": "christian-anderson",
+          "espnId": "5060701",
+          "status": null
+        },
+        {
+          "name": "Kylan Boswell",
+          "slug": "kylan-boswell",
+          "espnId": "4684269",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Kon Knueppel",
+          "slug": "kon-knueppel",
+          "espnId": "5061575",
+          "status": "DTD"
+        },
+        {
+          "name": "Grayson Allen",
+          "slug": "grayson-allen",
+          "espnId": "3135045",
+          "status": null
+        },
+        {
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
+          "status": null
+        },
+        {
+          "name": "Coby White",
+          "slug": "coby-white",
+          "espnId": "4395651",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Brandon Miller",
+          "slug": "brandon-miller",
+          "espnId": "4433287",
+          "status": null
+        },
+        {
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
+          "status": null
+        },
+        {
+          "name": "Grayson Allen",
+          "slug": "grayson-allen",
+          "espnId": "3135045",
+          "status": null
+        },
+        {
+          "name": "Royce O'Neale",
+          "slug": "royce-o-neale",
+          "espnId": "2583632",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "PF",
+      "players": [
+        {
+          "name": "Naz Reid",
+          "slug": "naz-reid",
+          "espnId": "4396971",
+          "status": null
+        },
+        {
+          "name": "Royce O'Neale",
+          "slug": "royce-o-neale",
+          "espnId": "2583632",
+          "status": null
+        },
+        {
+          "name": "Grant Williams",
+          "slug": "grant-williams",
+          "espnId": "4066218",
+          "status": "DTD"
+        },
+        {
+          "name": "Tidjane Salaun",
+          "slug": "tidjane-salaun",
+          "espnId": "5211176",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "C",
+      "players": [
+        {
+          "name": "Hannes Steinbach",
+          "slug": "hannes-steinbach",
+          "espnId": "5281370",
+          "status": null
+        },
+        {
+          "name": "Moussa Diabate",
+          "slug": "moussa-diabate",
+          "espnId": "4433249",
+          "status": null
+        },
+        {
+          "name": "Ryan Kalkbrenner",
+          "slug": "ryan-kalkbrenner",
+          "espnId": "4576060",
+          "status": null
+        },
+        {
+          "name": "Naz Reid",
+          "slug": "naz-reid",
+          "espnId": "4396971",
+          "status": null
+        }
+      ]
+    }
+  ]
+}

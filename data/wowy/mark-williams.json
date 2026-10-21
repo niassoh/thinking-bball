@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "PHX",
+  "gp": 60,
+  "generatedAt": "2026-10-02T05:03:46.249Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · PHX",
+      "minutes": 1416,
+      "poss": 2921.5,
+      "net": -1.506075646072223
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · PHX",
+      "minutes": 2535,
+      "poss": 5110,
+      "net": 3.209393346379648
+    },
+    {
+      "label": "On, w/o Gillespie",
+      "sub": "2025–26 · PHX",
+      "minutes": 691,
+      "poss": 1430,
+      "net": -3.6363636363636362
+    },
+    {
+      "label": "On, w/o O'Neale",
+      "sub": "2025–26 · PHX",
+      "minutes": 295,
+      "poss": 600.5,
+      "net": -0.16652789342214822
+    },
+    {
+      "label": "On, w/o Booker",
+      "sub": "2025–26 · PHX",
+      "minutes": 467,
+      "poss": 928,
+      "net": -13.685344827586206
+    },
+    {
+      "label": "Neither Williams nor Gillespie",
+      "sub": "2025–26 · PHX",
+      "minutes": 979,
+      "poss": 1983.5,
+      "net": -1.4116460801613309
+    }
+  ]
+}

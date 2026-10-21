@@ -1,0 +1,64 @@
+{
+  "player": "DeAndre Jordan",
+  "playerId": "deandre-jordan",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/DeAndre_Jordan_2.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/DeAndre_Jordan_2.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:DeAndre_Jordan_2.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2011-03-12 (at WAS, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    2518,
+    2618
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/deandre-jordan.jpg",
+  "selectedAt": "2026-10-17T08:48:37.821Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 910,
+    "y": 0,
+    "size": 1340
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (sweaty, eyes off to his left, mouth open mid-breath)",
+  "jersey": "LAC red road #6, 2010-11",
+  "concerns": "Commons (CC BY-SA 2.0), not nba.com: the nba.com Clippers history pages only had a neutral 2015 look-on and a 2018 bearded free throw; 2010-11 rather than his 2013-14 best season (same team and short-hair look); slightly soft and noisy arena shot; head at the image top, so only ~4% room above the hair",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/08/GettyImages-472395454.jpg",
+      "note": "(2015 WCSF Game 2 at HOU, blue road, frontal but neutral with lips pressed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/07/GettyImages-912282626dj.jpg",
+      "note": "(2018-01-28 at NOP, white, free throw looking up at the rim, energy ~6, full-beard 2018 look, ball at chin height)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

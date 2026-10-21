@@ -1,0 +1,133 @@
+{
+  "player": "Mookie Blaylock",
+  "playerId": "mookie-blaylock",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/08/Untitled1-3.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/08/Untitled1-3.jpg",
+  "sourcePage": "https://www.nba.com/news/atlanta-hawks-single-season-steals-per-game-leaders",
+  "license": "unknown (NBA.com)",
+  "licenseUrl": null,
+  "author": "NBA.com",
+  "credit": null,
+  "photoDate": "c. 1995-99 (at SAC, ARCO Arena; undated renamed nba.com photo)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/mookie-blaylock.jpg",
+  "selectedAt": "2026-10-17T05:21:07.599Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 665,
+    "y": 26,
+    "size": 590
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (sweaty, looking off-camera to his right, mouth open mid-breath)",
+  "jersey": "ATL dark road #10 (black/red, 1995-99 design)",
+  "concerns": "renamed nba.com image (Untitled1-3.jpg), no Getty caption check, exact game unverified; a Kings player is at the far left edge of the full frame, outside the crop; slight film grain",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-17T07:41:00.323Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/mookie-blaylock-bf10ce94-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm/mookie-blaylock/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-17T07:42:25.944Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/mookie-blaylock.png",
+  "webp": [
+    "assets/players/webp/mookie-blaylock-1024.webp",
+    "assets/players/webp/mookie-blaylock-400.webp",
+    "assets/players/webp/mookie-blaylock-200.webp",
+    "assets/players/webp/mookie-blaylock-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/08/Untitled1-3.jpg",
+  "supersededHistory": [],
+  "promptAdditions": [
+    "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+    "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-17T07:42:54.200Z",
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/mookie-blaylock-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-best-bpm-key/mookie-blaylock/out.png",
+        "fixes": [],
+        "base": "2f3ab7016a8bceb4f1c285a6f38fcf3f8a56fa32",
+        "importedAt": "2026-10-17T11:07:36.988Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 1
+          },
+          "silhouette": 0.005,
+          "face": 4.4,
+          "purity": 0.98,
+          "coverage": 0.165,
+          "strays": 0,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 2314,
+          "oldEdge": 0.059,
+          "shadeLevels": 7,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/mookie-blaylock-1-map.png",
+        "qa": {
+          "verdict": "fail",
+          "failed": [
+            "old-edge"
+          ],
+          "note": null,
+          "at": "2026-10-17T11:17:00.263Z"
+        }
+      }
+    ]
+  }
+}

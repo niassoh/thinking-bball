@@ -1,0 +1,50 @@
+{
+  "season": "2025-26",
+  "team": "ORL",
+  "gp": 53,
+  "generatedAt": "2026-10-02T03:13:22.292Z",
+  "rows": [
+    {
+      "label": "Team, he’s on",
+      "sub": "2025–26 · ORL",
+      "minutes": 613,
+      "poss": 1257,
+      "net": -1.352426412092283
+    },
+    {
+      "label": "Team, he’s off",
+      "sub": "2025–26 · ORL",
+      "minutes": 3353,
+      "poss": 6996.5,
+      "net": 0.9862073894089902
+    },
+    {
+      "label": "On, w/o Bane",
+      "sub": "2025–26 · ORL",
+      "minutes": 271,
+      "poss": 559,
+      "net": 5.008944543828265
+    },
+    {
+      "label": "On, w/o Banchero",
+      "sub": "2025–26 · ORL",
+      "minutes": 278,
+      "poss": 570.5,
+      "net": 4.9079754601226995
+    },
+    {
+      "label": "On, w/o Carter Jr.",
+      "sub": "2025–26 · ORL",
+      "minutes": 396,
+      "poss": 810.5,
+      "net": null
+    },
+    {
+      "label": "Neither Carter nor Bane",
+      "sub": "2025–26 · ORL",
+      "minutes": 939,
+      "poss": 1945,
+      "net": -5.70694087403599
+    }
+  ]
+}

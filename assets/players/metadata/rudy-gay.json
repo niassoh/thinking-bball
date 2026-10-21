@@ -1,0 +1,64 @@
+{
+  "player": "Rudy Gay",
+  "playerId": "rudy-gay",
+  "sourceUrl": "https://assets-cms.thescore.com/uploads/image/file/255940/GettyImages-104900663.jpg",
+  "downloadUrl": "https://assets-cms.thescore.com/uploads/image/file/255940/GettyImages-104900663.jpg",
+  "sourcePage": "https://www.thescore.com/nba/news/1345457",
+  "license": "unknown (Getty Images / NBAE via theScore)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2010-10-06 preseason vs IND, FedExForum (Getty 104900663; start of his best season 2010-11)",
+  "originalSize": null,
+  "storedSize": [
+    2037,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/rudy-gay.jpg",
+  "selectedAt": "2026-10-17T11:12:48.305Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 438,
+    "y": 153,
+    "size": 688
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (mouth open mid-breath, eyes alert and off-camera to his right, walking upcourt beside Tony Allen)",
+  "jersey": "MEM white home #22 2010-11 (preseason, 10th-season patch)",
+  "concerns": "not nba.com or Commons: nba.com was blocking this machine during sourcing and Commons has no usable Grizzlies-era photo; full-size Getty original served by theScore CMS, no watermark, license unknown; preseason game; 2037x3000, slightly soft",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://www.si.com/.image/MTY4MjU4NjczMjMwMzU4NDI5/rudy-gay-memphis-grizzlies-oklahoma-city-thunder-nba-playoffs-2013jpg.jpg",
+      "note": "(SI 2012 playoffs vs LAC overhead shot, mid-layup, 600px, face tiny)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Grizzlies_Mavs_jump_ball_Dec_2008.jpg",
+      "note": "(Commons Dec 2008 jump ball, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

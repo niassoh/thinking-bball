@@ -1,0 +1,64 @@
+{
+  "player": "Ben Saraf",
+  "playerId": "ben-saraf",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kba1wxetrab99e1ba5.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kba1wxetrab99e1ba5.jpg",
+  "sourcePage": "https://www.si.com/nba/nets/onsi/news/nets-rookie-ben-saraf-puts-up-solid-numbers-in-loss-vs-bucks",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Benny Sieu / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-11-29 at MIL, Fiserv Forum, third quarter (caption: Kuzma looks for a shot against Ben Saraf)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1999
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ben-saraf.jpg",
+  "selectedAt": "2026-10-17T11:13:28.488Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 715,
+    "y": 250,
+    "size": 780
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (locked in on defense, eyes on the ball handler, lips parted mid-breath)",
+  "jersey": "BKN black City Edition #77, 2025-26",
+  "concerns": "not nba.com: nba.com was returning 403 to this machine during the search, so this is an SI/Imagn lead image; a blurred teammate (Danny Wolf-like blond) sits in the top-left corner of the crop; 3/4 view looking to his left",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01k6t88y5a0mqzer37zk.jpg",
+      "note": "(2025 media day press conference, not in-game)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ben_Saraf_77_Ratiopharm_Ulm_EuroCup_20250128_%281%29.jpg",
+      "note": "(Commons, Ratiopharm Ulm EuroCup, not an NBA uniform)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

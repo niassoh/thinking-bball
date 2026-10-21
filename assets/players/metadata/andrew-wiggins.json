@@ -1,0 +1,184 @@
+{
+  "player": "Andrew Wiggins",
+  "playerId": "andrew-wiggins",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/03/Andrew-Wiggins.png",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/03/Andrew-Wiggins.png",
+  "sourcePage": "https://www.nba.com/news/andrew-wiggins-is-quietly-having-one-of-his-best-seasons",
+  "license": "unknown (NBA.com article image, likely Getty Images / NBAE)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE (presumed; file not Getty-named)",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/andrew-wiggins.jpg",
+  "selectedAt": "2026-10-05T01:50:29.509Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 550,
+    "y": 0,
+    "size": 680
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower",
+  "jersey": "MIA Vice City Edition black 2025-26",
+  "concerns": "hero image is not Getty-named, so no Getty caption check; identity verified visually (Wiggins, #22 Miami)",
+  "rejectedCandidates": [],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 2,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-05T17:36:42.098Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/andrew-wiggins-06c9e1e5-r2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/andrew-wiggins/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-05T17:36:57.630Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/andrew-wiggins.png",
+  "webp": [
+    "assets/players/webp/andrew-wiggins-1024.webp",
+    "assets/players/webp/andrew-wiggins-400.webp",
+    "assets/players/webp/andrew-wiggins-200.webp",
+    "assets/players/webp/andrew-wiggins-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/03/Andrew-Wiggins.png",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-05T17:36:57.966Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:41.179Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T02:15:40.931Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/andrew-wiggins-06c9e1e5-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue/andrew-wiggins/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T02:16:10.893Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 2,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/andrew-wiggins-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key/andrew-wiggins/out.png",
+        "fixes": [],
+        "base": "de53d5ec997727cfdb65140e51e2da2e148ed375",
+        "importedAt": "2026-10-11T18:04:47.975Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0032,
+          "face": 3.5,
+          "purity": 0.994,
+          "coverage": 0.17,
+          "strays": 23,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1004,
+          "oldEdge": 0.034,
+          "shadeLevels": 14,
+          "shadeSource": "edit",
+          "failed": [
+            "old-edge"
+          ],
+          "fixes": [
+            "missed"
+          ]
+        },
+        "map": "assets/players/attempts/jersey-key/andrew-wiggins-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA: jersey fully keyed, logos/patches gone, accessories (goggles, headbands, T-shirt) untouched",
+          "at": "2026-10-11T18:05:57.479Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/andrew-wiggins.webp",
+    "base": "de53d5ec997727cfdb65140e51e2da2e148ed375",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T18:05:58.044Z"
+  }
+}

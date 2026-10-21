@@ -1,0 +1,619 @@
+{
+  "player": "Nikola Jokić",
+  "playerId": "nikola-jokic",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/03/GettyImages-2206771406-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/03/GettyImages-2206771406-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/nuggets-nikola-jokic-historic-season-2024-25",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": null,
+  "originalSize": null,
+  "storedSize": [
+    2560,
+    1617
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/nikola-jokic.jpg",
+  "selectedAt": "2026-10-02T04:22:57.120Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 665,
+    "y": 80,
+    "size": 1000
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches: alert, eyes slightly off-camera, mouth open mid-reaction; head level and near-frontal",
+  "jersey": "DEN navy Icon 2024-25 (same design worn in 2025-26)",
+  "concerns": "FLAG: 2024-25 season (Mar 2025); no level, frontal 2025-26 game frame with a large face found",
+  "rejectedCandidates": [
+    {
+      "index": 0,
+      "title": "File:Nikola Jokic (51915399117).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915399117).jpg",
+      "license": "CC BY 2.0",
+      "score": 9
+    },
+    {
+      "index": 2,
+      "title": "File:Nikola Jokic (51915413529).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915413529).jpg",
+      "license": "CC BY 2.0",
+      "score": 10
+    },
+    {
+      "index": 3,
+      "title": "File:Nikola Jokic (51914124577).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51914124577).jpg",
+      "license": "CC BY 2.0",
+      "score": 12
+    },
+    {
+      "index": 4,
+      "title": "File:Nikola Jokic (51915414414).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915414414).jpg",
+      "license": "CC BY 2.0",
+      "score": 11
+    },
+    {
+      "index": 5,
+      "title": "File:Nikola Jokic (51913870437).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51913870437).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 6,
+      "title": "File:Nikola Jokic (51914859026).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51914859026).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 7,
+      "title": "File:Nikola Jokic (51913902432).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51913902432).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 8,
+      "title": "File:Nikola Jokic (51915490370).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915490370).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 9,
+      "title": "File:Nikola Jokic (51914978331).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51914978331).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 10,
+      "title": "File:Nikola Jokic (51915596185).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915596185).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 11,
+      "title": "File:Nikola Jokic (51914984866).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51914984866).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 12,
+      "title": "File:Nikola Jokic (51915602685).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915602685).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 13,
+      "title": "File:Nikola Jokic (51914996291).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51914996291).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 14,
+      "title": "File:Nikola Jokic (51914995756).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51914995756).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "index": 15,
+      "title": "File:Nikola Jokic (51915127158).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915127158).jpg",
+      "license": "CC BY 2.0",
+      "score": null
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nikola_Jokic_%2851915710680%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915710680).jpg",
+      "license": "CC BY 2.0",
+      "score": 13,
+      "reason": "user feedback 2026-10-01",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/08/jokic-1.jpg",
+      "note": "(look-up 7, 2024-25 white, defender arm in frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/04/GettyImages-2269260251.jpg",
+      "note": "(FT look-up 6.5, 1024px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/04/GettyImages-2271972649.jpg",
+      "note": "(hands-on-hips 5.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/jokic-grizz-meta-040826-scaled.jpg",
+      "note": "(small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/08/jokic-1.jpg",
+      "note": "(look-up 7, 2024-25 white, defender arm in frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/04/GettyImages-2269260251.jpg",
+      "note": "(FT look-up 6.5, 1024px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/04/GettyImages-2271972649.jpg",
+      "note": "(hands-on-hips 5.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/jokic-grizz-meta-040826-scaled.jpg",
+      "note": "(small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/jokic-raptors-meta-032026-scaled.jpg",
+      "sourcePage": "https://www.nba.com/game/tor-vs-den-0022501021",
+      "license": "unknown (Getty Images / NBAE via NBA.com)",
+      "score": 15,
+      "reason": "user: head tipped back, too wild at thumbnail size",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/04/GettyImages-2271972649.jpg",
+      "note": "(2025-26 white, level but calm 5.5, 1024px small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/11/jokic-heat-110525.jpg",
+      "note": "(2025-26 white, head turned down/away)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/08/jokic-1.jpg",
+      "note": "(looking up, defender arm across frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/04/GettyImages_nikolajokic.jpg",
+      "note": "(waving to crowd, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 3,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-06T02:20:34.393Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/nikola-jokic-b4bb78bc-r3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-transparent/nikola-jokic/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": {
+          "recognizable as the source player": "pass",
+          "source expression and gaze are substantially preserved": "pass",
+          "tight head-and-shoulders crop": "pass",
+          "illustrated / simplified at first glance": "pass",
+          "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+          "hair and facial hair simplified into masses": "pass",
+          "skin is not orange/golden": "pass",
+          "jersey base/trim colors remain faithful": "pass",
+          "background is dark neutral charcoal": "pass",
+          "no white haze, arena lights, or bokeh": "pass",
+          "reads clearly at ~150–200 px tall": "pass"
+        },
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-06T02:20:43.093Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/nikola-jokic.png",
+  "webp": [
+    "assets/players/webp/nikola-jokic-1024.webp",
+    "assets/players/webp/nikola-jokic-400.webp",
+    "assets/players/webp/nikola-jokic-200.webp",
+    "assets/players/webp/nikola-jokic-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/03/GettyImages-2206771406-scaled.jpg",
+  "supersededHistory": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nikola_Jokic_%2851915710680%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915710680).jpg",
+      "promptVersion": "thinking-basketball-v2",
+      "model": "gpt-image-2",
+      "reconstructed": "rebuilt 2026-10-01 20:52 from the session record after select-source.js dropped it (bug fixed); timestamps/usage not recovered",
+      "attempts": [
+        {
+          "attempt": 1,
+          "model": "gpt-image-2",
+          "extras": [],
+          "file": null,
+          "fileLost": "overwritten 2026-10-01 20:48 by a round-2 attempt (generate.js path collision, since fixed); a 512px copy of the Jokic one survives in assets/players/style-comparison.png",
+          "qa": {
+            "verdict": "fail",
+            "failed": [
+              "face contains lots of tiny polygonal facets (cheeks, forehead, jersey)"
+            ]
+          }
+        },
+        {
+          "attempt": 2,
+          "model": "gpt-image-2",
+          "extras": [
+            "Simplify facial rendering substantially; remove micro-detail.",
+            "Use smooth, broad, softly blended light/shadow regions on the face and skin; no faceted, polygonal or low-poly geometry anywhere."
+          ],
+          "file": "assets/players/attempts/superseded/round1-nikola-jokic-2.png",
+          "qa": {
+            "verdict": "pass",
+            "failed": []
+          }
+        }
+      ],
+      "supersededReason": "source rejected by user",
+      "supersededFiles": [
+        "assets/players/attempts/superseded/nikola-jokic.png",
+        "assets/players/attempts/superseded/nikola-jokic-400.webp",
+        "assets/players/attempts/superseded/nikola-jokic-200.webp",
+        "assets/players/attempts/superseded/nikola-jokic-100.webp"
+      ]
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/03/jokic-raptors-meta-032026-scaled.jpg",
+      "sourcePage": "https://www.nba.com/game/tor-vs-den-0022501021",
+      "sourceFile": "assets/player-sources/nikola-jokic.jpg",
+      "crop": {
+        "x": 680,
+        "y": 0,
+        "size": 680
+      },
+      "promptVersion": "thinking-basketball-v3",
+      "generationAttempt": 3,
+      "attempts": [
+        {
+          "attempt": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T03:47:04.338Z",
+          "extras": [],
+          "file": "assets/players/attempts/nikola-jokic-3c772c02-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "fail",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "fail",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "failed": [
+              "facets far finer than McCain (hundreds of small triangles",
+              "reads as low-poly mosaic, not medium flat planes)"
+            ],
+            "checkedAt": "2026-10-02T03:50:15.700Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        },
+        {
+          "attempt": 2,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T03:50:15.894Z",
+          "extras": [
+            "Use fewer, larger facets that follow the facial structure; no mosaic, shard noise or stained-glass fragmentation."
+          ],
+          "file": "assets/players/attempts/nikola-jokic-3c772c02-2.png",
+          "usage": {
+            "input_tokens": 4278,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1085
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11302
+          },
+          "qa": {
+            "verdict": "fail",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "fail",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "failed": [
+              "facets slightly larger than attempt 1 but still a fine triangle mesh, much finer than McCain"
+            ],
+            "checkedAt": "2026-10-02T03:52:38.565Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        },
+        {
+          "attempt": 3,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T03:52:38.784Z",
+          "extras": [
+            "Use fewer, larger facets that follow the facial structure; no mosaic, shard noise or stained-glass fragmentation.",
+            "Match the PRIMARY style reference's facet scale exactly: the whole face is built from roughly 20-30 large flat color planes (cel-shaded vector look) with crisp angular edges, NOT a low-poly triangle mesh of hundreds of small triangles. Skin areas like cheeks and forehead should be single large flat planes."
+          ],
+          "file": "assets/players/attempts/nikola-jokic-3c772c02-3.png",
+          "usage": {
+            "input_tokens": 4341,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1148
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11365
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "failed": [],
+            "checkedAt": "2026-10-02T03:54:50.374Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ],
+      "qaSummary": "Borderline pass: medium planes on forehead/cheek/jaw follow facial structure, but stubble/beard still shard-like and overall still finer than McCain.",
+      "approved": true,
+      "masterFile": "assets/players/nikola-jokic.png",
+      "supersededReason": "user: head tipped back, too wild at thumbnail size",
+      "supersededFiles": [
+        "assets/players/attempts/superseded/prev-3c772c02-nikola-jokic.png",
+        "assets/players/attempts/superseded/prev-3c772c02-nikola-jokic-400.webp",
+        "assets/players/attempts/superseded/prev-3c772c02-nikola-jokic-200.webp",
+        "assets/players/attempts/superseded/prev-3c772c02-nikola-jokic-100.webp"
+      ]
+    }
+  ],
+  "latestAttempt": 1,
+  "qaSummary": "Pass on attempt 1 (round-3 source, replacing the head-tipped-back portrait).",
+  "approvedAt": "2026-10-06T02:20:43.381Z",
+  "previousRounds": [
+    {
+      "round": 1,
+      "reason": "redo via Codex: the user found Codex images better than the API ones",
+      "archivedAt": "2026-10-05T02:13:14.660Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 1,
+          "model": "gpt-image-2",
+          "startedAt": "2026-10-02T04:23:33.906Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/nikola-jokic-b4bb78bc-1.png",
+          "usage": {
+            "input_tokens": 4248,
+            "input_tokens_details": {
+              "image_tokens": 3193,
+              "text_tokens": 1055
+            },
+            "output_tokens": 7024,
+            "output_tokens_details": {
+              "image_tokens": 7024,
+              "text_tokens": 0
+            },
+            "total_tokens": 11272
+          },
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-02T04:25:40.470Z",
+            "checklistFile": "QA_CHECKLIST.md",
+            "note": "Head level and near-frontal (the replacement goal); facet scale and warmth consistent with the approved set."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "redo with a transparent background (user)",
+      "archivedAt": "2026-10-05T17:16:34.033Z",
+      "attempts": [
+        {
+          "attempt": 1,
+          "round": 2,
+          "model": "codex (ChatGPT image tool)",
+          "startedAt": "2026-10-05T03:58:18.153Z",
+          "promptAdditions": [],
+          "extras": [],
+          "file": "assets/players/attempts/nikola-jokic-b4bb78bc-r2-1.png",
+          "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-redo/nikola-jokic/out.png",
+          "usage": null,
+          "qa": {
+            "verdict": "pass",
+            "checklist": {
+              "recognizable as the source player": "pass",
+              "source expression and gaze are substantially preserved": "pass",
+              "tight head-and-shoulders crop": "pass",
+              "illustrated / simplified at first glance": "pass",
+              "triangular/faceted planes similar to the McCain reference (medium facets that follow the facial structure)": "pass",
+              "hair and facial hair simplified into masses": "pass",
+              "skin is not orange/golden": "pass",
+              "jersey base/trim colors remain faithful": "pass",
+              "background is dark neutral charcoal": "pass",
+              "no white haze, arena lights, or bokeh": "pass",
+              "reads clearly at ~150–200 px tall": "pass"
+            },
+            "extraChecks": null,
+            "failed": [],
+            "checkedAt": "2026-10-05T03:58:24.319Z",
+            "checklistFile": "QA_CHECKLIST.md"
+          }
+        }
+      ]
+    }
+  ],
+  "round": 3,
+  "background": "transparent",
+  "jerseyKey": {
+    "attempts": [
+      {
+        "attempt": 1,
+        "file": "assets/players/attempts/jersey-key/nikola-jokic-1.png",
+        "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-jersey-key-pilot/nikola-jokic/out.png",
+        "fixes": [],
+        "base": "7ccfde1395ab920d27f05ab2a2b67eddbabe8815",
+        "importedAt": "2026-10-11T16:55:03.270Z",
+        "metrics": {
+          "shift": {
+            "dx": 0,
+            "dy": 0
+          },
+          "silhouette": 0.0059,
+          "face": 2.8,
+          "purity": 0.988,
+          "coverage": 0.179,
+          "strays": 1,
+          "faceStrays": 0,
+          "holes": 0,
+          "edgeMoved": 1963,
+          "oldEdge": 0,
+          "shadeLevels": 9,
+          "shadeSource": "edit",
+          "failed": [],
+          "fixes": []
+        },
+        "map": "assets/players/attempts/jersey-key/nikola-jokic-1-map.png",
+        "qa": {
+          "verdict": "pass",
+          "failed": [],
+          "note": "Claude vision QA on the pilot sheet: jersey fully keyed, lettering/logos/patches gone, accessories untouched, face unchanged",
+          "at": "2026-10-11T16:57:51.758Z"
+        }
+      }
+    ],
+    "approvedAttempt": 1,
+    "map": "assets/players/jersey/maps/nikola-jokic.webp",
+    "base": "7ccfde1395ab920d27f05ab2a2b67eddbabe8815",
+    "shift": {
+      "dx": 0,
+      "dy": 0
+    },
+    "shadeSource": "edit",
+    "approvedAt": "2026-10-11T16:57:52.886Z"
+  }
+}

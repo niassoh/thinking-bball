@@ -1,0 +1,64 @@
+{
+  "player": "Sidy Cissoko",
+  "playerId": "sidy-cissoko",
+  "sourceUrl": "https://platform.blazersedge.com/wp-content/uploads/sites/34/2026/02/gettyimages-2262818591.jpg",
+  "downloadUrl": "https://platform.blazersedge.com/wp-content/uploads/sites/34/2026/02/gettyimages-2262818591.jpg",
+  "sourcePage": "https://www.blazersedge.com/trail-blazers-news/109522/portland-trail-blazers-sidy-cissoko-signs-contract-nba-news-rayan-rupert-two-way-grizzlies",
+  "license": "unknown (Getty Images via Blazer’s Edge)",
+  "licenseUrl": null,
+  "author": "Soobum Im / Getty Images",
+  "credit": null,
+  "photoDate": "2026-02-20 vs DEN, Moda Center (Getty caption: gestures during the first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/sidy-cissoko.jpg",
+  "selectedAt": "2026-10-17T11:16:13.642Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1030,
+    "y": 0,
+    "size": 860
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (talking mid-play with a thumbs gesture, mouth open showing teeth, eyes off-camera; animated but not shouting)",
+  "jersey": "POR black Statement #91, 2025-26",
+  "concerns": "not nba.com: nba.com was blocking this machine during the search, and Commons has no Cissoko photo; unwatermarked Getty original hosted by the SB Nation blog; teeth showing reads as part grin, part talk; his thumb sits at the far left edge of the crop; 2025-26 photo (same team as 2026-27)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://deweb-519a7.b-cdn.net/post-images/8b63f379-9811-40e9-b0fe-dbaa53ad8576.jpeg",
+      "note": "(Imagn via Roundtable, red City Edition, back to camera shouting, face in profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://gray-kptv-prod.gtv-cdn.com/resizer/v2/4X5PZB5MEVCUVACABLIVA4STA4.jpg?auth=bfc806ebcd7cfb0913243f1f8142ba5cd99941b45b51804c64d36c2483f09999",
+      "note": "(AP, white, sitting on the floor yelling, energy ~9, small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

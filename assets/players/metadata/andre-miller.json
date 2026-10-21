@@ -1,0 +1,70 @@
+{
+  "player": "Andre Miller",
+  "playerId": "andre-miller",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/cavaliers/sites/cavaliers/files/andre_0.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/cavaliers/sites/cavaliers/files/andre_0.jpg",
+  "sourcePage": "https://www.nba.com/cavaliers/features/wherearethey-miller-201210",
+  "license": "unknown (NBA.com; likely NBAE / Getty Images)",
+  "licenseUrl": null,
+  "author": "unknown (NBAE)",
+  "credit": null,
+  "photoDate": "c. 1999-2002 (undated; road game, crouched at the scorer’s table waiting to check in)",
+  "originalSize": null,
+  "storedSize": [
+    2117,
+    1234
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/andre-miller.jpg",
+  "selectedAt": "2026-10-17T11:34:05.764Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 388,
+    "y": 0,
+    "size": 900
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (looking up and off-camera like McCain, with a wry half-smile biting his lip instead of an open mouth)",
+  "jersey": "CLE black road CLEVELAND #24, 1999-2002",
+  "concerns": "in-game but not a live-play moment: crouched at the scorer’s table during a game; wry lip-bite smile rather than McCain-style open mouth; head tilted (angle 1); scanned film with grain; hair touches the top edge (box starts at y=0); undated renamed nba.com legacy image, exact game unknown; the only other Cavs-era Miller photos found are 760px nba.com legacy copies",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/cavaliers/sites/cavaliers/files/decade18_140904.jpg",
+      "note": "(nba.com 2000s All-Decade gallery, CLE white driving vs MIA, mouth open, energy ~7, but 760x480 with a ~90px face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/cavaliers/sites/cavaliers/files/decade17_140904.jpg",
+      "note": "(same gallery, CLE white mid-shot between Pacers, straining, 760px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/publish.nba.com/cavaliers/sites/cavaliers/files/miller.jpg",
+      "note": "(Cavs Rising Stars history, 758px collage, dunk and dribble, faces tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}
