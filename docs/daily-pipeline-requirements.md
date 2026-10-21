@@ -7,14 +7,10 @@ frontend's deploy builds the site from that. Changes to the pulls are recorded i
 
 ## Where things stand (2026-10-21)
 
-- **Built, not yet on GitHub:** the nightly workflow (`.github/workflows/nightly.yml`), its
-  probe and check scripts, every pull made safe to run unattended, and our own
-  play-by-play for the season being played, feeding its Footprint and Lonestar (audit
-  #162–#175), on branch `nightly-pipeline`. The backend has no GitHub repo yet (its only
-  remote is a stale Heroku app). The frontend's deploy building the data itself (below) is
-  on the frontend's branch `ci-export`, also not pushed.
-- **To do before the first run:** the setup below, the 2026-27 rollover in the sheets, and
-  seeding the bucket's 2027 tracking files.
+- **Dispatched by hand:** the nightly workflow (`.github/workflows/nightly.yml`) in the
+  private repo `niassoh/thinking-bball`; the frontend's deploy builds the data from this
+  repo (below). Setup is done except the key rotation and `TBBALL_DISPATCH` (steps 1, 3).
+- **On the Mac:** the NBA.com pulls, play-by-play and tracking (below).
 - **Next:** the schedule, once a dispatched run is green.
 
 ## The nightly run
@@ -37,7 +33,7 @@ that fails keeps yesterday's files and the rest still run.
 | 9 | Game logs, WOWY | `npm run pull:games` | `data/gamelog/`, `data/wowy/` (WOWY summed from 6's files) |
 | 10 | Shots | `npm run pull:shots` | `data/shotshift/`; ESPN's finished games are cached between runs |
 | 11 | Tracking seasons | `node scripts/tracking-seasons.js` | `data/tracking-seasons.json`, from the bucket's season files |
-| 12 | Play-by-play | `node scripts/pbp-fetch.js` | `data/pbp/<season>/<gameId>.json.gz`: each new game's NBA.com v3 play-by-play and starters, checked against pbpstats' final score (kept in git, about 10 KB a game) |
+| 12 | Play-by-play | on the Mac, at 1:30 am (below) | `data/pbp/<season>/<gameId>.json.gz`: each new game's NBA.com v3 play-by-play and starters, checked against pbpstats' final score (kept in git, about 10 KB a game) |
 | 13 | Game dates | `node scripts/footprint-games.js $SEASON` | `data/footprint/<season>/games.json` |
 | 14 | Possessions | `python analysis/footprint/build.py $SEASON` | the season's possession cache (not kept), rebuilt from 12's files |
 | 15 | Footprint (if 13 and 14 succeeded) | `python analysis/footprint/footprint_pbp.py $SEASON` | `data/footprint/<season>/`: profiles take the season's Footprint from here (with rim free throws and teammate counts) instead of 6's files |
@@ -56,15 +52,32 @@ than 10% of its players or `bio.json` more than 2%, or fewer than 400 players ar
 charts: a sheet that hadn't finished loading or an outage, caught before it replaces
 good data.
 
+## On the Mac
+
+stats.nba.com doesn't answer GitHub's runners (the probe's first run, 2026-10-21: both its
+rows timed out), so `scripts/mac-nightly.sh` runs on the Mac at 1:30 am local, before the
+cloud run (10:17 UTC is 2:17 am Pacific in winter):
+
+1. `node scripts/pbp-fetch.js`, then commits and pushes the new games
+   (`Data: play-by-play <date>`).
+2. `python3 scripts/playoff-tracking-pull.py "$SITE_DATA" … --regular` for the season, then
+   `node scripts/tracking-upload.js`, which replaces the six files in
+   `gs://thinkingbball/<end year>/` (read by the sheet's `IMPORTDATA`) with
+   `~/.gcp/thinking-basketball.json`. It uploads nothing if a file lost players, drives have
+   no free throws, or the league's time of possession tops 30 min a team-game (NBA.com's
+   has run about 28 since its 2025-26 reprocessing; `docs/tracking-source-investigation.md`).
+
+Setup: a clone at `~/thinking-bball-nightly` (`npm ci`; this repo's two
+`credential.https://github.com.helper` lines, so it pushes as `niassoh`); the launchd agent
+`~/Library/LaunchAgents/com.thinkingbball.nightly.plist` (1:30 am, `PATH` with node and gh,
+`SITE_DATA` a site_Data clone that has `player_level.py`); and
+`sudo pmset repeat wakeorpoweron MTWRFSU 01:25:00`, so the Mac wakes for it (when plugged
+in). A night it misses, the cloud run keeps the last play-by-play and tracking, and the
+next job catches up. Log: `~/Library/Logs/thinking-bball-nightly.log`; run it now with
+`launchctl kickstart gui/$(id -u)/com.thinkingbball.nightly`.
+
 ## Not in the nightly yet
 
-- **Tracking files → the bucket** (`gs://thinkingbball/<end year>/`, read by the sheet's
-  `IMPORTDATA`): `python3 scripts/playoff-tracking-pull.py <site_Data> <out> 2027 2027
-  --regular`, then upload the six files, from the laptop, about weekly. stats.nba.com is
-  known to drop requests from cloud machines; if the probe shows it answering from the
-  runner, this can move into the nightly. Before uploading, check the league's time of
-  possession is at most 24 minutes per team-game and drive free throws are there
-  (`docs/tracking-source-investigation.md`).
 - **Playoffs** (April): `playoffs.js` has the same hardcoded key and retry problems
   `sheets-teamcat.js` had, and the `--playoffs` pulls aren't steps yet.
 - **By hand, as before:** portraits (`docs/portrait-audit.md`), NBA.com headshots for new
@@ -112,11 +125,10 @@ and pushing the frontend by hand.
   passed, everything else was committed and deployed. "Re-run all jobs" runs every pull
   again, which is safe.
 - **Skip a step for a while:** add `if: false` to it.
-- **The play-by-play fetch failing every night** (the probe's stats.nba.com rows say no
-  answer: NBA.com is dropping the runner): run `node scripts/pbp-fetch.js` from the laptop
-  and push (its files only ever get added), or skip steps 12–16 and delete
+- **The Mac job failing** (its log): the cloud run builds from the last play-by-play it
+  pushed. If it can't run for a while, skip steps 13–16 and delete
   `data/footprint/<season>/`, which otherwise goes stale while still taking precedence
-  over the lineup pull's. Its source is stats.nba.com's `playbyplayv3` and
+  over the lineup pull's. Its sources are stats.nba.com's `playbyplayv3` and
   `boxscoretraditionalv3`; cdn.nba.com's liveData files refuse any non-browser client.
 - **The sheet:** don't run sheet scripts by hand between 10:00 and 11:30 UTC. Each run shows
   the season before in the sheet for a minute, and the recent shift's window while
@@ -136,8 +148,8 @@ and pushing the frontend by hand.
   minutes-floor start date behind `'League data'!D1` → opening night; rookies into
   `Pos & Height` (missing ones get a wrong BPM); the team sheet's season.
 - **The repo variable** `SEASON` → the new season.
-- **The bucket:** seed the new `<end year>/` tracking files from the laptop before the
-  first season pull, which won't settle without them.
+- **The bucket:** the Mac job's first run after opening night writes the new
+  `<end year>/` tracking files; the season pull won't settle without them.
 - **One-token bumps,** once the new keys exist: `lib/teamboard.js` `SEASONS`,
   `scripts/tracking-seasons.js` `LAST_END_YEAR`, and the frontend's `src/TeamBoard.jsx`
   `SEASON`.

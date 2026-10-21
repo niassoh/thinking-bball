@@ -106,12 +106,8 @@ jobs:
         continue-on-error: true
 
       # Our own play-by-play -> the season's possessions (rebuilt whole, names from the
-      # lineup and bio pulls) -> its Footprint and Lonestar. The game dates are listed after
-      # the fetch, so they cover every game it saved.
-      - id: pbp
-        run: node scripts/pbp-fetch.js
-        timeout-minutes: 20
-        continue-on-error: true
+      # lineup and bio pulls) -> its Footprint and Lonestar. The play-by-play is fetched on
+      # the Mac (scripts/mac-nightly.sh): stats.nba.com doesn't answer GitHub's runners.
       - id: footprint-games
         run: node scripts/footprint-games.js "$SEASON"
         timeout-minutes: 5
