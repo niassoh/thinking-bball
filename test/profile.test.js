@@ -157,9 +157,10 @@ test('shot shift: league baseline covers every shot in the pulled players\' zone
   assert.ok(files.every(f => JSON.stringify(f.league) === JSON.stringify(league)))
 })
 
-test('recent shift: each stat carries the spread of season values across players', () => {
+// A season under 30 days old has no shifts yet (scripts/recent-shift.js).
+test('recent shift: each stat carries the spread of season values across players', { skip: !Object.keys(require('../data/recent-shift.json').players).length && 'no shifts yet' }, () => {
   const doc = require('../data/recent-shift.json')
-  const stats = buildProfile('karl-anthony-towns').recentShift.stats
+  const stats = buildProfile(Object.keys(doc.players)[0]).recentShift.stats
   assert.deepStrictEqual(stats.map(r => r.stat), ['BPM', 'AuPM / g', 'Load', 'rTS%', 'Net On'])
   for (const r of stats) {
     const v = Object.values(doc.players).map(rows => rows.find(x => x.stat === r.stat).season.value)
@@ -536,12 +537,12 @@ test('leaderboard recent: the last 30 days as the sheet scoped them, with the st
   assert.deepStrictEqual(doc.window, w.window)
   assert.strictEqual(doc.players.length, w.rows.length)
   // A player's values are the window's row, ranked among the window's players.
-  const jokic = doc.players.find(p => p.slug === 'nikola-jokic')
-  const row = w.rows.find(r => r.Player.startsWith('Nikola Joki'))
+  const [row] = w.rows
+  const pl = doc.players.find(p => p.slug === slugify(row.Player))
   const k = doc.labels.indexOf('rTS%')
-  assert.strictEqual(jokic.v[k], Number(row['rTS%']))
-  assert.ok(jokic.p[k] >= 0 && jokic.p[k] <= 100)
-  assert.strictEqual(jokic.mp, Number(row.MP))
+  assert.strictEqual(pl.v[k], Number(row['rTS%']))
+  assert.ok(pl.p[k] >= 0 && pl.p[k] <= 100)
+  assert.strictEqual(pl.mp, Number(row.MP))
   // Season-level and tracking stats have no 30-day values; Team and Footprint are out.
   for (const l of ['Time of Poss %', 'C&S 3%', 'Team Net', 'Net On/Off']) {
     assert.strictEqual(doc.stats[l].na, true, l)
