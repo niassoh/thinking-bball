@@ -183,13 +183,24 @@ test('profile: last season\'s players count as active in the new season\'s first
   assert.deepStrictEqual([x.active, p.active, p.retired], [grace, grace, !grace])
 })
 
-test('recent shift: a season under 30 days old has no shifts or shot maps yet, and every profile carries its window', { skip: !!require('../data/recent-shift.json').window.restEnd && 'the season is 30+ days old' }, () => {
+test('recent shift: a season under 30 days old sets the season so far against last season, and every profile carries its window', { skip: !!require('../data/recent-shift.json').window.restEnd && 'the season is 30+ days old' }, () => {
   const doc = require('../data/recent-shift.json')
-  for (const slug of ['shai-gilgeous-alexander', 'shaquille-o-neal']) {
-    const p = buildProfile(slug)
-    assert.deepStrictEqual(p.recentShift, { season: doc.season, window: doc.window, stats: [] })
-    assert.strictEqual(p.shotShift, null)
+  const keys = regularSeasonKeys().slice(-2)
+  const [was, now] = keys.map(key => loadSheet(key).rows.find(r => slugify(r.Player) === 'shai-gilgeous-alexander'))
+  const p = buildProfile('shai-gilgeous-alexander')
+  assert.deepStrictEqual([p.recentShift.season, p.recentShift.window], [doc.season, doc.window])
+  assert.ok(p.recentShift.stats.some(r => r.stat === 'BPM'))
+  for (const r of p.recentShift.stats) {
+    const column = SHIFT_STATS.find(([stat]) => stat === r.stat)[1]
+    assert.deepStrictEqual([r.season.value, r.recent.value], [num(was[column]), num(now[column])], r.stat)
   }
+  // His shots so far against last season's history files.
+  const last = require(`../data/history/shot-bands/${seasonOf(keys[0])}.json`).players[require('../data/bio.json')['shai-gilgeous-alexander'].nbaId]
+  assert.deepStrictEqual(p.shotShift.zones.rim.rest, { fga: last[0], fgm: last[1] })
+  assert.deepStrictEqual(p.shotShift.zones.rim.recent, require('../data/shotshift/shai-gilgeous-alexander.json').zones.rim.recent)
+  const out = buildProfile('shaquille-o-neal')
+  assert.deepStrictEqual(out.recentShift, { season: doc.season, window: doc.window, stats: [] })
+  assert.strictEqual(out.shotShift, null)
 })
 
 test('shift cards: Time of Poss % only for seasons NBA.com tracked (2013-14 on), in the career view and the playoffs', () => {
