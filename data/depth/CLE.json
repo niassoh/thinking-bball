@@ -1,7 +1,7 @@
 {
   "team": "CLE",
   "season": "2026-27",
-  "generatedAt": "2026-10-21T17:48:59.810Z",
+  "generatedAt": "2026-10-22T02:51:21.501Z",
   "rows": [
     {
       "pos": "PG",
@@ -39,7 +39,7 @@
           "name": "Sam Merrill",
           "slug": "sam-merrill",
           "espnId": "4066757",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Tyrese Proctor",
@@ -74,7 +74,7 @@
           "name": "Sam Merrill",
           "slug": "sam-merrill",
           "espnId": "4066757",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Mario Hezonja",
@@ -120,7 +120,7 @@
           "name": "Jarrett Allen",
           "slug": "jarrett-allen",
           "espnId": "4066328",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Evan Mobley",
@@ -138,7 +138,7 @@
           "name": "Khalifa Diop",
           "slug": "khalifa-diop",
           "espnId": "4997530",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     }

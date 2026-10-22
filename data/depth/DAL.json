@@ -1,7 +1,7 @@
 {
   "team": "DAL",
   "season": "2026-27",
-  "generatedAt": "2026-10-21T17:49:00.212Z",
+  "generatedAt": "2026-10-22T02:51:21.962Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,15 +36,15 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Zaccharie Risacher",
-          "slug": "zaccharie-risacher",
-          "espnId": "5211175",
-          "status": null
-        },
-        {
           "name": "Max Christie",
           "slug": "max-christie",
           "espnId": "4432582",
+          "status": null
+        },
+        {
+          "name": "Zaccharie Risacher",
+          "slug": "zaccharie-risacher",
+          "espnId": "5211175",
           "status": null
         },
         {

@@ -18,14 +18,8 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "leonard-miller",
-    "status": "DTD",
-    "team": "Chicago Bulls",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "jett-howard",
-    "status": "DTD",
+    "status": "OUT",
     "team": "Dallas Mavericks",
     "reason": "injured but not on a depth chart"
   },
@@ -48,12 +42,6 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "julian-phillips",
-    "status": "DTD",
-    "team": "Houston Rockets",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "brandon-ingram",
     "status": "OUT",
     "team": "LA Clippers",
@@ -69,12 +57,6 @@
     "slug": "adou-thiero",
     "status": "OUT",
     "team": "Los Angeles Lakers",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "vladislav-goldin",
-    "status": "DTD",
-    "team": "Miami Heat",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -97,7 +79,7 @@
   },
   {
     "slug": "tacko-fall",
-    "status": "DTD",
+    "status": "OUT",
     "team": "Philadelphia 76ers",
     "reason": "injured but not on a depth chart"
   },
