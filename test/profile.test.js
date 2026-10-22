@@ -3,7 +3,7 @@ const assert = require('node:assert')
 const { slugify, loadSheet, regularSeasonKeys, seasonFromKey: seasonOf, num } = require('../lib/players')
 const { percentileOf } = require('../lib/percentile')
 const { ALL_STATS, RELATIVE, SHIFT_STATS } = require('../lib/stats')
-const { buildProfile, footprintOf, leaderboard, leaderboardDelta, leaderboardRecent, playerIndex, teamList, distribution, lineupLeague, weightedMean, pullOffsets, fillWindows } = require('../lib/profile')
+const { buildProfile, footprintOf, leaderboard, leaderboardDelta, leaderboardRecent, lonestarDoc, playerIndex, teamList, distribution, lineupLeague, weightedMean, pullOffsets, fillWindows } = require('../lib/profile')
 
 // An illustrated portrait, as approved or in its jersey layers (lib/jerseys.js).
 const ILLUSTRATED = ['portrait', 'jersey']
@@ -552,9 +552,10 @@ test("footprint: teammates' stats leave his own shots out (Giannis's teammates s
 
 test('leaderboard: a season\'s players with each stat as their profiles show it, and Footprint\'s swings in the regular season', () => {
   const d = leaderboard('2025-26')
-  assert.deepStrictEqual(d.groups.map(g => g.id), ['impact', 'creation', 'offense', 'rim', 'shooting', 'defense', 'team', 'footprint'])
-  // Every group's stats, then the hidden single-season shooting columns (in no group).
-  const hidden = d.labels.filter(l => !d.groups.some(g => g.stats.includes(l)))
+  assert.deepStrictEqual(d.groups.map(g => g.id), ['impact', 'creation', 'offense', 'rim', 'shooting', 'defense', 'team', 'footprint', 'lonestar'])
+  // Every group's stats and their sides (Lonestar's on and off), then the hidden
+  // single-season shooting columns (in no group).
+  const hidden = d.labels.filter(l => !d.groups.some(g => g.stats.some(x => x === l || (d.stats[x].sub || []).includes(l))))
   assert.deepStrictEqual(hidden, ['Wide Open 3s/36', 'Wide Open 3%', 'Pullup 3s/36', 'Pullup 3%', 'C&S 3s/36', 'C&S 3%', 'Def FGA <6ft /36', 'Def FGA Diff%'].map(l => `1yr ${l}`))
   // Read the way the stat they stand for is: opponents' FG% is better lower.
   assert.strictEqual(d.stats['1yr Def FGA Diff%'].lowerBetter, d.stats['Def FGA Diff%'].lowerBetter)
@@ -568,7 +569,7 @@ test('leaderboard: a season\'s players with each stat as their profiles show it,
   assert.strictEqual(row.mp, p.seasons[i].mp)
   assert.strictEqual(row.age, p.seasons[i].age)
   assert.strictEqual(row.gp, p.seasons[i].gp)
-  for (const g of d.groups.filter(g => g.id !== 'footprint')) {
+  for (const g of d.groups.filter(g => g.id !== 'footprint' && g.id !== 'lonestar')) {
     for (const l of g.stats) {
       const k = d.labels.indexOf(l)
       const v = p.stats[l].vals[i]
@@ -584,6 +585,29 @@ test('leaderboard: a season\'s players with each stat as their profiles show it,
   }
   assert.strictEqual(leaderboard('2025-26', { type: 'playoffs' }).groups.some(g => g.id === 'footprint'), false)
   assert.strictEqual(leaderboard('1995-96'), null)
+})
+
+test('leaderboard: Lonestar, each player without his top star, the change with its two sides, regular season only', () => {
+  const d = leaderboard('2025-26')
+  const at = (slug, l) => d.players.find(x => x.slug === slug).v[d.labels.indexOf(l)]
+  assert.deepStrictEqual(d.stats['Net Δ'].sub, ['Net on', 'Net off'])
+  const harper = lonestarDoc('dylan-harper')
+  const [net, rts, minutes] = ['net', 'rts', 'minutes'].map(k => harper.fields.indexOf(k))
+  const two = x => Math.round(x * 100) / 100
+  // Harper played most of his minutes without Castle, but his top star is Wembanyama: the
+  // stretch All combined would stand on, not the profile tab's first.
+  const stretches = harper.views.find(v => v.id === '2025-26').scenarios
+  const wemby = stretches.find(s => s.kind === 'one' && s.stars[0].name === 'Victor Wembanyama')
+  assert.notStrictEqual(stretches[0], wemby)
+  assert.deepStrictEqual(['Net on', 'Net off', 'Net Δ', 'Min off'].map(l => at('dylan-harper', l)), [two(wemby.on[net]), two(wemby.off[net]), two(wemby.off[net] - wemby.on[net]), two(wemby.off[minutes])])
+  // A share reads x100, as the tab shows it.
+  assert.ok(Math.abs(at('dylan-harper', 'rTS% on') - wemby.on[rts] * 100) < 0.01)
+  // After a trade, All combined: Harden without Mitchell in Cleveland and Leonard in LA.
+  const all = lonestarDoc('james-harden').views.find(v => v.id === '2025-26').scenarios[0]
+  assert.deepStrictEqual(all.parts.map(x => x.stars[0].name), ['Donovan Mitchell', 'Kawhi Leonard'])
+  assert.strictEqual(at('james-harden', 'Net off'), two(all.off[net]))
+  assert.strictEqual(leaderboard('2025-26', { type: 'playoffs' }).groups.some(g => g.id === 'lonestar'), false)
+  assert.strictEqual(leaderboardRecent().groups.find(g => g.id === 'lonestar').na, true)
 })
 
 test('leaderboard: each row has the birth date the site works ages out from', () => {
@@ -610,12 +634,12 @@ test('leaderboard recent: the last 30 days as the sheet scoped them, with the st
   assert.strictEqual(pl.v[k], Number(row['rTS%']))
   assert.ok(pl.p[k] >= 0 && pl.p[k] <= 100)
   assert.strictEqual(pl.mp, Number(row.MP))
-  // Season-level and tracking stats have no 30-day values; Team and Footprint are out.
+  // Season-level and tracking stats have no 30-day values; Team, Footprint and Lonestar are out.
   for (const l of ['Time of Poss %', 'C&S 3%', 'Team Net', 'Net On/Off']) {
     assert.strictEqual(doc.stats[l].na, true, l)
     assert.ok(doc.players.every(p => p.v[doc.labels.indexOf(l)] === null), l)
   }
-  assert.deepStrictEqual(doc.groups.filter(g => g.na).map(g => g.id), ['team', 'footprint'])
+  assert.deepStrictEqual(doc.groups.filter(g => g.na).map(g => g.id), ['team', 'footprint', 'lonestar'])
   assert.ok(!doc.stats.BPM.na)
 })
 
