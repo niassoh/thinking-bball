@@ -635,9 +635,20 @@ test('leaderboard recent: the last 30 days as the sheet scoped them, with the st
   assert.ok(pl.p[k] >= 0 && pl.p[k] <= 100)
   assert.strictEqual(pl.mp, Number(row.MP))
   // Season-level and tracking stats have no 30-day values; Team, Footprint and Lonestar are out.
-  for (const l of ['Time of Poss %', 'C&S 3%', 'Team Net', 'Net On/Off']) {
+  for (const l of ['C&S 3%', 'Team Net', 'Net On/Off']) {
     assert.strictEqual(doc.stats[l].na, true, l)
     assert.ok(doc.players.every(p => p.v[doc.labels.indexOf(l)] === null), l)
+  }
+  // But Time of Poss %: NBA.com's touches over the window (the Mac's pull) when they're the
+  // season's, ranked among the window's players; else it's season-level too.
+  const touches = require('../data/recent-touches.json')
+  const top = doc.labels.indexOf('Time of Poss %')
+  const nbaId = slug => (require('../data/bio.json')[slug] || {}).nbaId
+  assert.strictEqual(!!doc.stats['Time of Poss %'].na, touches.season !== w.season)
+  if (touches.season === w.season) {
+    for (const p of doc.players) assert.strictEqual(p.v[top], num((touches.players[nbaId(p.slug)] || {}).recent), p.slug)
+    assert.ok(doc.players.filter(p => p.v[top] !== null).length > doc.players.length * 0.9)
+    assert.ok(doc.players.every(p => p.v[top] === null || (p.p[top] >= 0 && p.p[top] <= 100)))
   }
   assert.deepStrictEqual(doc.groups.filter(g => g.na).map(g => g.id), ['team', 'footprint', 'lonestar'])
   assert.ok(!doc.stats.BPM.na)

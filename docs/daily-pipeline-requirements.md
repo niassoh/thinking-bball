@@ -61,9 +61,10 @@ rows timed out), so `scripts/mac-nightly.sh` runs on the Mac at 1:30 am local, b
 cloud run (10:17 UTC is 2:17 am Pacific in winter):
 
 1. `node scripts/pbp-fetch.js` and `node scripts/touches-window.js` (NBA.com's touches over
-   the Last 30 Days card's two windows, `data/recent-touches.json`, for Time of Poss %
-   there; a last night NBA.com hasn't posted yet, which it does the next morning, is left
-   out), then commits and pushes both (`Data: play-by-play and touches <date>`).
+   the Last 30 Days windows, `data/recent-touches.json`, for Time of Poss % on the card
+   and the Leaderboard's 30 days; a last night NBA.com hasn't posted yet, which it does
+   the next morning, is left out), then commits and pushes both (`Data: play-by-play and
+   touches <date>`).
 2. `python3 scripts/playoff-tracking-pull.py "$SITE_DATA" … --regular` for the season, then
    `node scripts/tracking-upload.js`, which replaces the six files in
    `gs://thinkingbball/<end year>/` (read by the sheet's `IMPORTDATA`) with
