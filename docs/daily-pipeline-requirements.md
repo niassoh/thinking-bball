@@ -27,7 +27,7 @@ that fails keeps yesterday's files and the rest still run.
 | 2 | Depth charts, injuries | `npm run pull:depth` | `data/depth/` |
 | 3 | Season sheet | `node scripts/backfill-seasons.js $SEASON` | `dailycat-<YY>`; drives the **production sheet**: loads the season before into `Instructions!A13` (unsaved) and then the season, so its imports refetch. Until every team has played, it also patches the 3 `'PBP Team'` league averages for the run (restored after; without them BPM, OBPM, ScoreVal, PlayVal and Team Net/Off/Def are blank and rTS% inflated); after that A13 is the only cell it writes |
 | 4 | Team sheet | `node sheets-teamcat.js --season=$SEASON` | `teamcat-<YY>` |
-| 5 | Recent shift (only if 3 succeeded) | `npm run pull:recent` | `data/recent-shift.json`, `data/recent-window.json`; sets and then clears the sheet's date window (`E13:F13`), its only write (if the sheet's window formulas are gone it stops; `--patch` puts them back by hand); until the season has 30 days of games its window is the season so far and no player has a shift (audit #190) |
+| 5 | Recent shift (only if 3 succeeded) | `npm run pull:recent` | `data/recent-shift.json`, `data/recent-window.json`; sets and then clears the sheet's date window (`E13:F13`), its only write (if the sheet's window formulas are gone it stops; `--patch` puts them back by hand); until the season has 30 days of games its window is the season so far and no player has a shift (audit #190); Time of Poss % over the windows from the Mac's `data/recent-touches.json` (#198) |
 | 6 | Lineups | `npm run pull:lineups` | `data/lineups/`, `data/lineup-players.json`, `data/stints.json` |
 | 7 | Bio | `npm run pull:bio` | `data/bio.json`; a rookie site_Data doesn't list yet takes the NBA id from 6's player list |
 | 8 | Player totals | `npm run pull:player-totals` | `data/player-totals.json` |
@@ -60,8 +60,10 @@ stats.nba.com doesn't answer GitHub's runners (the probe's first run, 2026-10-21
 rows timed out), so `scripts/mac-nightly.sh` runs on the Mac at 1:30 am local, before the
 cloud run (10:17 UTC is 2:17 am Pacific in winter):
 
-1. `node scripts/pbp-fetch.js`, then commits and pushes the new games
-   (`Data: play-by-play <date>`).
+1. `node scripts/pbp-fetch.js` and `node scripts/touches-window.js` (NBA.com's touches over
+   the Last 30 Days card's two windows, `data/recent-touches.json`, for Time of Poss %
+   there; a last night NBA.com hasn't posted yet, which it does the next morning, is left
+   out), then commits and pushes both (`Data: play-by-play and touches <date>`).
 2. `python3 scripts/playoff-tracking-pull.py "$SITE_DATA" … --regular` for the season, then
    `node scripts/tracking-upload.js`, which replaces the six files in
    `gs://thinkingbball/<end year>/` (read by the sheet's `IMPORTDATA`) with

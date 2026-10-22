@@ -1,5 +1,5 @@
-// Core-stat shift for the profile card: each player's BPM / AuPM per game /
-// Load / rTS% / Net On over the last 30 days of the season vs. the rest of it ->
+// Core-stat shift for the profile card: each player's BPM / AuPM per game / Load / rTS% /
+// Net On / Time of Poss % over the last 30 days of the season vs. the rest of it ->
 // data/recent-shift.json; and the last 30 days' sheet rows (every profile stat's value
 // and the sheet's percentile among the window's players) for the Leaderboard ->
 // data/recent-window.json.
@@ -9,6 +9,8 @@
 //   - Instructions!E13 / F13: window start / end (YYYY-MM-DD); blank = off
 //   - 'RS PBP'!A2: its pbpstats import gets &FromDate/&ToDate when E13 is set
 //   - 'League data'!E1: the minutes floor scales to the window length when set
+// The sheet's tracking tabs stay season-wide, so Time of Poss % in the windows comes from
+// NBA.com's touches instead (data/recent-touches.json, scripts/touches-window.js).
 // With E13:F13 blank the sheet computes exactly what it did before. The patch
 // is idempotent; originals are saved to data/sheet-formula-backup.json and
 // `--restore` puts them back. Team-level imports ('PBP Team') stay season-wide.
@@ -25,6 +27,7 @@ const { google } = require('googleapis')
 const { slugify, loadSheet, regularSeasonKeys, num } = require('../lib/players')
 const { percentileOf } = require('../lib/percentile')
 const { ALL_STATS, LOWER_BETTER, SHIFT_STATS } = require('../lib/stats')
+const { loadBio } = require('../lib/artifacts')
 const pbp = require('../lib/pbpstats')
 const { recentWindow } = require('../lib/window')
 const { sleep } = require('../lib/http')
@@ -33,6 +36,7 @@ const SHEET_ID = '10deal7utcC-C3j3w_3lJX-LjOqpEQ6l8KZBxmGT6OVE'
 const BACKUP_FILE = path.join(__dirname, '..', 'data', 'sheet-formula-backup.json')
 const OUT_FILE = path.join(__dirname, '..', 'data', 'recent-shift.json')
 const WINDOW_FILE = path.join(__dirname, '..', 'data', 'recent-window.json')
+const TOUCHES_FILE = path.join(__dirname, '..', 'data', 'recent-touches.json')
 // A row's own columns kept for the Leaderboard, with every profile stat's value and
 // percentile.
 const ID_COLUMNS = ['Player', 'Tm', 'Pos', 'Age', 'G', 'GP', 'MP']
@@ -169,16 +173,26 @@ const main = async () => {
   const bySlug = rows => new Map(rows.map(r => [slugify(r.Player), r]))
   const seasonMap = bySlug(seasonRows)
   const restMap = bySlug(restRows)
+  // NBA.com's touches over the windows of the night's Mac run, which trail these by a
+  // night when it hasn't posted last night's (scripts/touches-window.js). Time of Poss %
+  // then runs a night behind the card's other stats, its season value (the sheet's, read
+  // from the same night's NBA.com files) too.
+  const t = fs.existsSync(TOUCHES_FILE) && JSON.parse(fs.readFileSync(TOUCHES_FILE, 'utf8'))
+  const touches = t && t.season === season ? t.players : {}
+  console.log(Object.keys(touches).length ? `Time of Poss % over NBA.com's ${t.window.start}..${t.window.end}` : `no NBA.com touches for ${season}: Time of Poss % left out`)
+  const bio = loadBio()
   const players = {}
   for (const [slug, recent] of bySlug(recentRows)) {
     const full = seasonMap.get(slug)
     const rest = restMap.get(slug)
     if (!full || !rest) continue
+    const mine = touches[(bio[slug] || {}).nbaId] || {}
     players[slug] = STATS.map(([label, column]) => {
       const lowerBetter = LOWER_BETTER.has(label)
-      const r = num(recent[column])
+      const top = label === 'Time of Poss %'
+      const r = num(top ? mine.recent : recent[column])
       const s = num(full[column])
-      const rr = num(rest[column])
+      const rr = num(top ? mine.rest : rest[column])
       if (r === null || s === null || rr === null) return null
       return {
         stat: label,

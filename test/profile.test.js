@@ -2,7 +2,7 @@ const test = require('node:test')
 const assert = require('node:assert')
 const { slugify, loadSheet, regularSeasonKeys, seasonFromKey: seasonOf, num } = require('../lib/players')
 const { percentileOf } = require('../lib/percentile')
-const { ALL_STATS, RELATIVE } = require('../lib/stats')
+const { ALL_STATS, RELATIVE, SHIFT_STATS } = require('../lib/stats')
 const { buildProfile, footprintOf, leaderboard, leaderboardDelta, leaderboardRecent, playerIndex, teamList, distribution, lineupLeague, weightedMean, pullOffsets, fillWindows } = require('../lib/profile')
 
 // An illustrated portrait, as approved or in its jersey layers (lib/jerseys.js).
@@ -160,10 +160,11 @@ test('shot shift: league baseline covers every shot in the pulled players\' zone
 // A season under 30 days old has no shifts yet (scripts/recent-shift.js).
 test('recent shift: each stat carries the spread of season values across players', { skip: !Object.keys(require('../data/recent-shift.json').players).length && 'no shifts yet' }, () => {
   const doc = require('../data/recent-shift.json')
-  const stats = buildProfile(Object.keys(doc.players)[0]).recentShift.stats
-  assert.deepStrictEqual(stats.map(r => r.stat), ['BPM', 'AuPM / g', 'Load', 'rTS%', 'Net On'])
+  // A player NBA.com's touches missed (they can run a night behind) has no Time of Poss %.
+  const stats = buildProfile(Object.keys(doc.players).find(slug => doc.players[slug].length === SHIFT_STATS.length)).recentShift.stats
+  assert.deepStrictEqual(stats.map(r => r.stat), SHIFT_STATS.map(([stat]) => stat))
   for (const r of stats) {
-    const v = Object.values(doc.players).map(rows => rows.find(x => x.stat === r.stat).season.value)
+    const v = Object.values(doc.players).flatMap(rows => rows.filter(x => x.stat === r.stat).map(x => x.season.value))
     const mean = v.reduce((a, b) => a + b, 0) / v.length
     const sd = Math.sqrt(v.reduce((a, b) => a + (b - mean) ** 2, 0) / v.length)
     assert.ok(Math.abs(r.spread - sd) < 1e-9, r.stat)
@@ -189,6 +190,19 @@ test('recent shift: a season under 30 days old has no shifts or shot maps yet, a
     assert.deepStrictEqual(p.recentShift, { season: doc.season, window: doc.window, stats: [] })
     assert.strictEqual(p.shotShift, null)
   }
+})
+
+test('shift cards: Time of Poss % only for seasons NBA.com tracked (2013-14 on), in the career view and the playoffs', () => {
+  const has = shift => !!shift && shift.stats.some(r => r.stat === 'Time of Poss %')
+  const wade = buildProfile('dwyane-wade')
+  const career = season => wade.seasons.find(s => s.season === season).career
+  assert.ok(has(career('2015-16')))
+  assert.ok(!has(career('2009-10')))
+  const po = buildProfile('lebron-james', { type: 'playoffs' })
+  const run = season => po.seasons.find(s => s.season === season).shift
+  assert.ok(!has(run('2011-12')))
+  const r = run('2017-18').stats.find(x => x.stat === 'Time of Poss %')
+  assert.deepStrictEqual([r.season.value, r.recent.value], [36.5, 46])
 })
 
 test('player index: active players without a portrait are ordered by (BPM + 2) x minutes over 3 seasons, weighted 1/2/3', () => {
