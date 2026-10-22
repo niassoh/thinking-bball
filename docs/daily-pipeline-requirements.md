@@ -1,6 +1,6 @@
 # Daily pipeline
 
-How the public site (https://niassoh.github.io/tbball/) stays current in season: a
+How the public site (https://data.thinkingbasketball.net/) stays current in season: a
 nightly run in this repo pulls every source into `data/` and commits it, and the
 frontend's deploy builds the site from that. Changes to the pulls are recorded in
 `docs/data-pull-audit.md`; each pull's own notes are in `docs/player-profile-pipeline.md`.
