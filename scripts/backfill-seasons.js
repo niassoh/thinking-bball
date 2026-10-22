@@ -9,14 +9,16 @@
 // assume 30 teams. In a 29-team season (2000-01..2003-04) the empty ORTG/DRTG
 // row errors, which blanks SRS, BPM, OBPM, ScoreVal, PlayVal, Team Net/Off/Def
 // and AuPM, and the empty TS% row counts as 0, which inflates rTS%. They are
-// swapped for averages that skip the empty row while such a season is pulled
+// swapped for averages that skip the empty row while such a season is pulled,
+// and in a new season until every team has played, whose empty rows do the same
 // (same values with 30 teams). These cells and Instructions!A13 are always
 // restored afterwards, including on failure.
 //
 // The nightly pipeline pulls the season being played with it too (`node
 // scripts/backfill-seasons.js 2026-27`): A13 already holds that season then,
 // so the season before it is loaded first, unsaved, to make the imports refetch.
-// A13 is all that run writes: the sheet is otherwise its maintainers' (2026-10-21).
+// Once every team has played, A13 is all that run writes: the sheet is otherwise its
+// maintainers' (2026-10-21).
 //
 // Usage: node scripts/backfill-seasons.js [2003-04 2004-05 ...]  (default 2000-01..2012-13)
 //        node scripts/backfill-seasons.js --out=<file> [seasons]  (write the keys to <file> for review, not the cache)
@@ -317,8 +319,9 @@ const main = async () => {
   if (!seasons.every(s => /^(19|20)\d{2}-\d{2}$/.test(s))) throw new Error(`Bad season in ${seasons.join(' ')}`)
   const original = await readCell(sheets, 'Instructions!A13')
   if (await readCell(sheets, 'Instructions!E13')) throw new Error('A recent-shift window is set in Instructions!E13; run it to completion first')
-  console.log(`Instructions!A13 is ${original}`)
-  const patch = seasons.some(s => s < '2004-05')
+  const rated = (await readRange(sheets, "'PBP Team'!II22:II51")).filter(r => /^-?[\d.]+$/.test(r[0] || '')).length
+  const patch = seasons.some(s => s < '2004-05') || rated < 30
+  console.log(`Instructions!A13 is ${original}; ${rated} of 30 teams rated${patch ? ', so the league averages are patched for the run' : ''}`)
   for (const p of patch ? TEAM_AVERAGES : []) {
     const r = await sheets.spreadsheets.values.get({ spreadsheetId: SHEET_ID, range: p.range, valueRenderOption: 'FORMULA' })
     const current = r.data.values[0][0]

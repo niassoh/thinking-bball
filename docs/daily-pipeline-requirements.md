@@ -25,7 +25,7 @@ that fails keeps yesterday's files and the rest still run.
 |---|---|---|---|
 | 1 | Reachability | `node scripts/reachability.js` | the job summary: whether stats.nba.com, pbpstats, ESPN and Google answer from the runner |
 | 2 | Depth charts, injuries | `npm run pull:depth` | `data/depth/` |
-| 3 | Season sheet | `node scripts/backfill-seasons.js $SEASON` | `dailycat-<YY>`; drives the **production sheet**: loads the season before into `Instructions!A13` (unsaved) and then the season, so its imports refetch; A13 is the only cell it writes |
+| 3 | Season sheet | `node scripts/backfill-seasons.js $SEASON` | `dailycat-<YY>`; drives the **production sheet**: loads the season before into `Instructions!A13` (unsaved) and then the season, so its imports refetch. Until every team has played, it also patches the 3 `'PBP Team'` league averages for the run (restored after; without them BPM, OBPM, ScoreVal, PlayVal and Team Net/Off/Def are blank and rTS% inflated); after that A13 is the only cell it writes |
 | 4 | Team sheet | `node sheets-teamcat.js --season=$SEASON` | `teamcat-<YY>` |
 | 5 | Recent shift (only if 3 succeeded) | `npm run pull:recent` | `data/recent-shift.json`, `data/recent-window.json`; sets and then clears the sheet's date window (`E13:F13`), its only write (if the sheet's window formulas are gone it stops; `--patch` puts them back by hand); until the season has 30 days of games its window is the season so far and no player has a shift (audit #190) |
 | 6 | Lineups | `npm run pull:lineups` | `data/lineups/`, `data/lineup-players.json`, `data/stints.json` |
@@ -49,9 +49,10 @@ gives up and restores the sheet first. If any pull failed, the last step fails t
 which emails the repo's owner.
 
 `nightly-check.js` fails the run if, against the last commit, the season pull lost more
-than 10% of its players or `bio.json` more than 2%, or fewer than 400 players are on depth
-charts: a sheet that hadn't finished loading or an outage, caught before it replaces
-good data.
+than 10% of its players, a column most of its players had came back mostly blank, `bio.json`
+lost more than 2%, or fewer than 400 players are on depth charts: a sheet that hadn't
+finished loading, a sheet formula erroring, or an outage, caught before it replaces good
+data.
 
 ## On the Mac
 
@@ -134,9 +135,10 @@ and pushing the frontend by hand.
 - **The sheet:** don't run sheet scripts by hand between 10:00 and 11:30 UTC. Each run shows
   the season before in the sheet for a minute, and the recent shift's window while
   it runs. Don't cancel a run during steps 3–5: a killed step can't put the sheet back. If
-  one was killed, set `Instructions!A13` to the season and clear `E13:F13`. (A killed
-  backfill of a season before 2004-05 also leaves `'PBP Team'!II52`, `IL52` and `IH60`
-  patched: originals in `scripts/backfill-seasons.js` `TEAM_AVERAGES`.)
+  one was killed, set `Instructions!A13` to the season and clear `E13:F13`. (A run killed
+  before every team has played, or a killed backfill of a season before 2004-05, also
+  leaves `'PBP Team'!II52`, `IL52` and `IH60` patched: originals in
+  `scripts/backfill-seasons.js` `TEAM_AVERAGES`.)
 - **Local work:** pull before changing `data/`; the run commits it every night.
 - **Minutes:** 2,000 a month on the free tier, shared by all private repos; when they run
   out, runs stop until the month resets. Expect about 20–35 minutes a night until January
