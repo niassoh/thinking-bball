@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "LAL",
-  "gp": 72,
-  "generatedAt": "2026-10-02T05:08:56.407Z",
+  "season": "2026-27",
+  "team": "WAS",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:22:50.485Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · LAL",
-      "minutes": 1958,
-      "poss": 4005.5,
-      "net": -0.22469104980651602
+      "sub": "2026–27 · WAS",
+      "minutes": 15,
+      "poss": 29,
+      "net": 21.1
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · LAL",
-      "minutes": 1983,
-      "poss": 4087.5,
-      "net": 3.7431192660550456
+      "sub": "2026–27 · WAS",
+      "minutes": 33,
+      "poss": 74,
+      "net": 8.1
     },
     {
-      "label": "On, w/o Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 660,
-      "poss": 1326,
-      "net": -0.904977375565611
+      "label": "On, w/o Young",
+      "sub": "2026–27 · WAS",
+      "minutes": 2,
+      "poss": 5,
+      "net": -133.3
     },
     {
-      "label": "On, w/o LaRavia",
-      "sub": "2025–26 · LAL",
-      "minutes": 921,
-      "poss": 1891.5,
-      "net": 2.696272799365583
+      "label": "On, w/o Davis",
+      "sub": "2026–27 · WAS",
+      "minutes": 11,
+      "poss": 20,
+      "net": 45
     },
     {
-      "label": "On, w/o James",
-      "sub": "2025–26 · LAL",
-      "minutes": 830,
-      "poss": 1698.5,
-      "net": -1.7073888725345894
+      "label": "On, w/o George",
+      "sub": "2026–27 · WAS",
+      "minutes": 7,
+      "poss": 13,
+      "net": 16
     },
     {
-      "label": "Neither Ayton nor Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 993,
-      "poss": 2009.5,
-      "net": -1.5426723065439165
+      "label": "Neither Ayton nor Young",
+      "sub": "2026–27 · WAS",
+      "minutes": 8,
+      "poss": 17,
+      "net": 72.7
     }
   ]
 }

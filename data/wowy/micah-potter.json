@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "IND",
-  "gp": 47,
-  "generatedAt": "2026-10-02T05:28:32.508Z",
+  "season": "2026-27",
+  "team": "POR",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:23:52.786Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · IND",
-      "minutes": 908,
-      "poss": 1953,
-      "net": -6.1443932411674345
+      "sub": "2026–27 · POR",
+      "minutes": 12,
+      "poss": 26,
+      "net": 0
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · IND",
-      "minutes": 3043,
-      "poss": 6368.5,
-      "net": -8.40072230509539
+      "sub": "2026–27 · POR",
+      "minutes": 36,
+      "poss": 72,
+      "net": 56.9
     },
     {
-      "label": "On, w/o Siakam",
-      "sub": "2025–26 · IND",
-      "minutes": 612,
-      "poss": 1305,
-      "net": -0.30651340996168586
+      "label": "On, w/o Cissoko",
+      "sub": "2026–27 · POR",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     },
     {
-      "label": "On, w/o Walker",
-      "sub": "2025–26 · IND",
-      "minutes": 518,
-      "poss": 1116.5,
-      "net": -4.6574115539632785
+      "label": "On, w/o Lillard",
+      "sub": "2026–27 · POR",
+      "minutes": 12,
+      "poss": 26,
+      "net": 0
     },
     {
-      "label": "On, w/o Nembhard",
-      "sub": "2025–26 · IND",
-      "minutes": 613,
-      "poss": 1320.5,
-      "net": -3.8621734191594093
+      "label": "On, w/o Morant",
+      "sub": "2026–27 · POR",
+      "minutes": 12,
+      "poss": 26,
+      "net": 0
     },
     {
-      "label": "Neither Potter nor Siakam",
-      "sub": "2025–26 · IND",
-      "minutes": 1283,
-      "poss": 2697,
-      "net": -15.60993696700037
+      "label": "Neither Potter nor Cissoko",
+      "sub": "2026–27 · POR",
+      "minutes": 23,
+      "poss": 45,
+      "net": 77.8
     }
   ]
 }

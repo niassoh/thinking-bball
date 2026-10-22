@@ -1,0 +1,24 @@
+{
+  "season": "2026-27",
+  "generatedAt": "2026-10-22T10:08:58.007Z",
+  "recent": {
+    "start": "2026-09-22",
+    "end": "2026-10-21",
+    "games": 1,
+    "seasonGames": 1
+  },
+  "games": [
+    {
+      "date": "2026-10-21",
+      "gameId": "0022600092",
+      "opp": "PHX",
+      "home": true,
+      "result": "W",
+      "pts": 14,
+      "reb": 5,
+      "ast": 8,
+      "ts": 87.5,
+      "oppRank": 28
+    }
+  ]
+}

@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "GSW",
-  "gp": 67,
-  "generatedAt": "2026-10-02T05:33:48.239Z",
+  "season": "2026-27",
+  "team": "MEM",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:21:07.786Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · GSW",
-      "minutes": 1159,
-      "poss": 2390,
-      "net": 2.510460251046025
+      "sub": "2026–27 · MEM",
+      "minutes": 19,
+      "poss": 44,
+      "net": -15.9
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · GSW",
-      "minutes": 2802,
-      "poss": 5800,
-      "net": -1.8275862068965518
+      "sub": "2026–27 · MEM",
+      "minutes": 29,
+      "poss": 60,
+      "net": 45.4
     },
     {
-      "label": "On, w/o Podziemski",
-      "sub": "2025–26 · GSW",
-      "minutes": 563,
-      "poss": 1172,
-      "net": 6.399317406143344
+      "label": "On, w/o Boozer",
+      "sub": "2026–27 · MEM",
+      "minutes": 15,
+      "poss": 33,
+      "net": -36.4
     },
     {
-      "label": "On, w/o Green",
-      "sub": "2025–26 · GSW",
-      "minutes": 709,
-      "poss": 1466,
-      "net": 5.252387448840382
+      "label": "On, w/o Jerome",
+      "sub": "2026–27 · MEM",
+      "minutes": 11,
+      "poss": 24,
+      "net": -41.7
     },
     {
-      "label": "On, w/o Moody",
-      "sub": "2025–26 · GSW",
-      "minutes": 624,
-      "poss": 1275.5,
-      "net": 0.31360250882007057
+      "label": "On, w/o Wells",
+      "sub": "2026–27 · MEM",
+      "minutes": 17,
+      "poss": 39,
+      "net": -20.5
     },
     {
-      "label": "Neither Post nor Podziemski",
-      "sub": "2025–26 · GSW",
-      "minutes": 1065,
-      "poss": 2213.5,
-      "net": -6.144115653941721
+      "label": "Neither Post nor Boozer",
+      "sub": "2026–27 · MEM",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     }
   ]
 }

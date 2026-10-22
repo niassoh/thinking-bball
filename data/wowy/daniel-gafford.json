@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "DAL",
-  "gp": 55,
-  "generatedAt": "2026-10-02T04:56:13.819Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:21:20.585Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · DAL",
-      "minutes": 1194,
-      "poss": 2521,
-      "net": -7.45735819119397
+      "sub": "2026–27 · DAL",
+      "minutes": 22,
+      "poss": 42,
+      "net": 21.4
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · DAL",
-      "minutes": 2777,
-      "poss": 5907,
-      "net": -4.4692737430167595
+      "sub": "2026–27 · DAL",
+      "minutes": 26,
+      "poss": 57,
+      "net": -47.8
     },
     {
       "label": "On, w/o Flagg",
-      "sub": "2025–26 · DAL",
-      "minutes": 453,
-      "poss": 982.5,
-      "net": -11.501272264631043
+      "sub": "2026–27 · DAL",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
+    },
+    {
+      "label": "On, w/o Washington",
+      "sub": "2026–27 · DAL",
+      "minutes": 12,
+      "poss": 25,
+      "net": 44.9
     },
     {
       "label": "On, w/o Christie",
-      "sub": "2025–26 · DAL",
-      "minutes": 482,
-      "poss": 1025.5,
-      "net": 2.242808386153096
-    },
-    {
-      "label": "On, w/o Marshall",
-      "sub": "2025–26 · DAL",
-      "minutes": 555,
-      "poss": 1165.5,
-      "net": -7.207207207207207
+      "sub": "2026–27 · DAL",
+      "minutes": 7,
+      "poss": 15,
+      "net": 106.7
     },
     {
       "label": "Neither Gafford nor Flagg",
-      "sub": "2025–26 · DAL",
-      "minutes": 1174,
-      "poss": 2511,
-      "net": -2.9072082835523694
+      "sub": "2026–27 · DAL",
+      "minutes": 15,
+      "poss": 31,
+      "net": -38.7
     }
   ]
 }

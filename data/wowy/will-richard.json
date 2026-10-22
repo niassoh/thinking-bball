@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "GSW",
-  "gp": 69,
-  "generatedAt": "2026-10-02T05:19:34.551Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:11:52.223Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · GSW",
-      "minutes": 1377,
-      "poss": 2878.5,
-      "net": -3.3698106652770536
+      "sub": "2026–27 · GSW",
+      "minutes": 20,
+      "poss": 44,
+      "net": 0
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · GSW",
-      "minutes": 2584,
-      "poss": 5311.5,
-      "net": 0.9601807399039819
+      "sub": "2026–27 · GSW",
+      "minutes": 28,
+      "poss": 59,
+      "net": -37.6
     },
     {
-      "label": "On, w/o Podziemski",
-      "sub": "2025–26 · GSW",
-      "minutes": 706,
-      "poss": 1481,
-      "net": -4.051316677920324
+      "label": "On, w/o Lendeborg",
+      "sub": "2026–27 · GSW",
+      "minutes": 10,
+      "poss": 22,
+      "net": 31.8
     },
     {
-      "label": "On, w/o Green",
-      "sub": "2025–26 · GSW",
-      "minutes": 962,
-      "poss": 2014.5,
-      "net": -0.8438818565400843
+      "label": "On, w/o Santos",
+      "sub": "2026–27 · GSW",
+      "minutes": 12,
+      "poss": 26,
+      "net": 11.5
     },
     {
-      "label": "On, w/o Moody",
-      "sub": "2025–26 · GSW",
-      "minutes": 948,
-      "poss": 1976,
-      "net": -4.200404858299596
+      "label": "On, w/o Melton",
+      "sub": "2026–27 · GSW",
+      "minutes": 18,
+      "poss": 40,
+      "net": -2.5
     },
     {
-      "label": "Neither Richard nor Podziemski",
-      "sub": "2025–26 · GSW",
-      "minutes": 922,
-      "poss": 1904.5,
-      "net": -0.05250721974271463
+      "label": "Neither Richard nor Lendeborg",
+      "sub": "2026–27 · GSW",
+      "minutes": 9,
+      "poss": 20,
+      "net": -41
     }
   ]
 }

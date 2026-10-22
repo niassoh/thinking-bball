@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "POR",
-  "gp": 77,
-  "generatedAt": "2026-10-02T05:01:40.176Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:22:06.268Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · POR",
-      "minutes": 2094,
-      "poss": 4359.5,
-      "net": 0.3211377451542608
+      "sub": "2026–27 · POR",
+      "minutes": 21,
+      "poss": 39,
+      "net": 64.9
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · POR",
-      "minutes": 1857,
-      "poss": 3951,
-      "net": -0.961781827385472
+      "sub": "2026–27 · POR",
+      "minutes": 27,
+      "poss": 59,
+      "net": 27.1
     },
     {
-      "label": "On, w/o Camara",
-      "sub": "2025–26 · POR",
-      "minutes": 487,
-      "poss": 1021.5,
-      "net": 3.7200195790504162
+      "label": "On, w/o Cissoko",
+      "sub": "2026–27 · POR",
+      "minutes": 15,
+      "poss": 29,
+      "net": 86.2
     },
     {
-      "label": "On, w/o Avdija",
-      "sub": "2025–26 · POR",
-      "minutes": 763,
-      "poss": 1591,
-      "net": 5.153991200502828
+      "label": "On, w/o Lillard",
+      "sub": "2026–27 · POR",
+      "minutes": 6,
+      "poss": 11,
+      "net": 109.1
     },
     {
-      "label": "On, w/o Grant",
-      "sub": "2025–26 · POR",
-      "minutes": 1256,
-      "poss": 2600,
-      "net": 1.6153846153846154
+      "label": "On, w/o Morant",
+      "sub": "2026–27 · POR",
+      "minutes": 4,
+      "poss": 10,
+      "net": -63.2
     },
     {
-      "label": "Neither Clingan nor Camara",
-      "sub": "2025–26 · POR",
-      "minutes": 732,
-      "poss": 1557.5,
-      "net": -6.035313001605137
+      "label": "Neither Clingan nor Cissoko",
+      "sub": "2026–27 · POR",
+      "minutes": 8,
+      "poss": 16,
+      "net": 62.5
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "MIA",
-  "gp": 58,
-  "generatedAt": "2026-10-02T04:00:12.260Z",
+  "season": "2026-27",
+  "team": "CHI",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:14:07.055Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · MIA",
-      "minutes": 1717,
-      "poss": 3724.5,
-      "net": 0.9934219358303128
+      "sub": "2026–27 · CHI",
+      "minutes": 22,
+      "poss": 52,
+      "net": -25
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · MIA",
-      "minutes": 2224,
-      "poss": 4770.5,
-      "net": 3.2281731474688184
+      "sub": "2026–27 · CHI",
+      "minutes": 26,
+      "poss": 60,
+      "net": -50.4
     },
     {
-      "label": "On, w/o Adebayo",
-      "sub": "2025–26 · MIA",
-      "minutes": 644,
-      "poss": 1411.5,
-      "net": -5.242649663478569
+      "label": "On, w/o Wilson",
+      "sub": "2026–27 · CHI",
+      "minutes": 7,
+      "poss": 17,
+      "net": 58.8
     },
     {
-      "label": "On, w/o Jaquez Jr.",
-      "sub": "2025–26 · MIA",
-      "minutes": 990,
-      "poss": 2152.5,
-      "net": 0.4645760743321719
+      "label": "On, w/o Miller",
+      "sub": "2026–27 · CHI",
+      "minutes": 17,
+      "poss": 40,
+      "net": -32.5
     },
     {
-      "label": "On, w/o Wiggins",
-      "sub": "2025–26 · MIA",
-      "minutes": 622,
-      "poss": 1340.5,
-      "net": null
+      "label": "On, w/o Buzelis",
+      "sub": "2026–27 · CHI",
+      "minutes": 8,
+      "poss": 19,
+      "net": -15.8
     },
     {
-      "label": "Neither Powell nor Adebayo",
-      "sub": "2025–26 · MIA",
-      "minutes": 932,
-      "poss": 2049.5,
-      "net": -3.2202976335691638
+      "label": "Neither Powell nor Wilson",
+      "sub": "2026–27 · CHI",
+      "minutes": 9,
+      "poss": 20,
+      "net": -41
     }
   ]
 }

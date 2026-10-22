@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "POR",
-  "gp": 57,
-  "generatedAt": "2026-10-02T04:53:15.715Z",
+  "season": "2026-27",
+  "team": "MEM",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:20:38.601Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · POR",
-      "minutes": 1695,
-      "poss": 3605,
-      "net": -0.1664355062413315
+      "sub": "2026–27 · MEM",
+      "minutes": 24,
+      "poss": 53,
+      "net": -1.9
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · POR",
-      "minutes": 2256,
-      "poss": 4705.5,
-      "net": -0.38253108065030283
+      "sub": "2026–27 · MEM",
+      "minutes": 24,
+      "poss": 51,
+      "net": 41.2
     },
     {
-      "label": "On, w/o Camara",
-      "sub": "2025–26 · POR",
-      "minutes": 483,
-      "poss": 1033,
-      "net": -7.938044530493708
+      "label": "On, w/o Boozer",
+      "sub": "2026–27 · MEM",
+      "minutes": 15,
+      "poss": 33,
+      "net": -36.4
     },
     {
-      "label": "On, w/o Avdija",
-      "sub": "2025–26 · POR",
-      "minutes": 873,
-      "poss": 1845,
-      "net": -0.5420054200542005
+      "label": "On, w/o Jerome",
+      "sub": "2026–27 · MEM",
+      "minutes": 15,
+      "poss": 36,
+      "net": -5.6
     },
     {
-      "label": "On, w/o Clingan",
-      "sub": "2025–26 · POR",
-      "minutes": 857,
-      "poss": 1845.5,
-      "net": 1.1920888648062855
+      "label": "On, w/o Wells",
+      "sub": "2026–27 · MEM",
+      "minutes": 17,
+      "poss": 36,
+      "net": -28.2
     },
     {
-      "label": "Neither Grant nor Camara",
-      "sub": "2025–26 · POR",
-      "minutes": 736,
-      "poss": 1546,
-      "net": 1.6817593790426906
+      "label": "Neither Grant nor Boozer",
+      "sub": "2026–27 · MEM",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     }
   ]
 }

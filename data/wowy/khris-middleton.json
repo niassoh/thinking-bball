@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "DAL",
-  "gp": 63,
-  "generatedAt": "2026-10-02T04:26:47.366Z",
+  "season": "2026-27",
+  "team": "WAS",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:17:38.838Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · DAL",
-      "minutes": 612,
-      "poss": 1303,
-      "net": -15.195702225633154
+      "sub": "2026–27 · WAS",
+      "minutes": 12,
+      "poss": 25,
+      "net": -8
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · DAL",
-      "minutes": 3359,
-      "poss": 7125,
-      "net": -3.564912280701754
+      "sub": "2026–27 · WAS",
+      "minutes": 36,
+      "poss": 78,
+      "net": 18.1
     },
     {
-      "label": "On, w/o Flagg",
-      "sub": "2025–26 · DAL",
-      "minutes": 352,
-      "poss": 752.5,
-      "net": -19.003322259136212
+      "label": "On, w/o Young",
+      "sub": "2026–27 · WAS",
+      "minutes": 4,
+      "poss": 10,
+      "net": -20
     },
     {
-      "label": "On, w/o Christie",
-      "sub": "2025–26 · DAL",
-      "minutes": 283,
-      "poss": 591,
-      "net": -11.336717428087987
+      "label": "On, w/o Davis",
+      "sub": "2026–27 · WAS",
+      "minutes": 4,
+      "poss": 7,
+      "net": -46.2
     },
     {
-      "label": "On, w/o Marshall",
-      "sub": "2025–26 · DAL",
-      "minutes": 389,
-      "poss": 826,
-      "net": -13.438256658595641
+      "label": "On, w/o George",
+      "sub": "2026–27 · WAS",
+      "minutes": 10,
+      "poss": 20,
+      "net": 10
     },
     {
-      "label": "Neither Middleton nor Flagg",
-      "sub": "2025–26 · DAL",
-      "minutes": 1276,
-      "poss": 2741,
-      "net": -1.568770521707406
+      "label": "Neither Middleton nor Young",
+      "sub": "2026–27 · WAS",
+      "minutes": 5,
+      "poss": 11,
+      "net": 72.7
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "LAL",
-  "gp": 66,
-  "generatedAt": "2026-10-02T05:05:12.831Z",
+  "season": "2026-27",
+  "team": "UTA",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:22:34.087Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · LAL",
-      "minutes": 1207,
-      "poss": 2471,
-      "net": 2.8733306353702956
+      "sub": "2026–27 · UTA",
+      "minutes": 26,
+      "poss": 57,
+      "net": -47.8
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · LAL",
-      "minutes": 2734,
-      "poss": 5622,
-      "net": 1.2984702952685878
+      "sub": "2026–27 · UTA",
+      "minutes": 22,
+      "poss": 47,
+      "net": 14.9
     },
     {
-      "label": "On, w/o Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 466,
-      "poss": 932.5,
-      "net": -4.825737265415549
+      "label": "On, w/o Markkanen",
+      "sub": "2026–27 · UTA",
+      "minutes": 9,
+      "poss": 20,
+      "net": -75
     },
     {
-      "label": "On, w/o LaRavia",
-      "sub": "2025–26 · LAL",
-      "minutes": 572,
-      "poss": 1173.5,
-      "net": 2.7268853855986364
+      "label": "On, w/o Peterson",
+      "sub": "2026–27 · UTA",
+      "minutes": 7,
+      "poss": 17,
+      "net": -58.8
     },
     {
-      "label": "On, w/o James",
-      "sub": "2025–26 · LAL",
-      "minutes": 661,
-      "poss": 1369,
-      "net": 2.483564645726808
+      "label": "On, w/o George",
+      "sub": "2026–27 · UTA",
+      "minutes": 7,
+      "poss": 17,
+      "net": -60.6
     },
     {
-      "label": "Neither Hayes nor Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 1186,
-      "poss": 2403,
-      "net": 0.08322929671244278
+      "label": "Neither Hayes nor Markkanen",
+      "sub": "2026–27 · UTA",
+      "minutes": 2,
+      "poss": 5,
+      "net": -66.7
     }
   ]
 }

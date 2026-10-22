@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "MIA",
-  "gp": 47,
-  "generatedAt": "2026-10-02T04:54:50.047Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:21:05.269Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · MIA",
-      "minutes": 808,
-      "poss": 1779,
-      "net": -0.16863406408094433
+      "sub": "2026–27 · MIA",
+      "minutes": 24,
+      "poss": 49,
+      "net": -10.2
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · MIA",
-      "minutes": 3133,
-      "poss": 6716,
-      "net": 2.888624181060155
+      "sub": "2026–27 · MIA",
+      "minutes": 24,
+      "poss": 56,
+      "net": -36
+    },
+    {
+      "label": "On, w/o Mitchell",
+      "sub": "2026–27 · MIA",
+      "minutes": 15,
+      "poss": 32,
+      "net": 6.3
     },
     {
       "label": "On, w/o Adebayo",
-      "sub": "2025–26 · MIA",
-      "minutes": 540,
-      "poss": 1198.5,
-      "net": -4.005006257822278
+      "sub": "2026–27 · MIA",
+      "minutes": 17,
+      "poss": 36,
+      "net": 8.5
     },
     {
-      "label": "On, w/o Jaquez Jr.",
-      "sub": "2025–26 · MIA",
-      "minutes": 269,
-      "poss": 589.5,
-      "net": -15.945716709075489
+      "label": "On, w/o Antetokounmpo",
+      "sub": "2026–27 · MIA",
+      "minutes": 8,
+      "poss": 17,
+      "net": -6.1
     },
     {
-      "label": "On, w/o Wiggins",
-      "sub": "2025–26 · MIA",
-      "minutes": 449,
-      "poss": 988,
-      "net": 3.137651821862348
-    },
-    {
-      "label": "Neither Jović nor Adebayo",
-      "sub": "2025–26 · MIA",
-      "minutes": 1036,
-      "poss": 2262.5,
-      "net": -4.066298342541437
+      "label": "Neither Jović nor Mitchell",
+      "sub": "2026–27 · MIA",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     }
   ]
 }

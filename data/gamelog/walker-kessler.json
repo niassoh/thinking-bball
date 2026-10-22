@@ -1,0 +1,24 @@
+{
+  "season": "2026-27",
+  "generatedAt": "2026-10-22T10:22:21.380Z",
+  "recent": {
+    "start": "2026-09-22",
+    "end": "2026-10-21",
+    "games": 1,
+    "seasonGames": 1
+  },
+  "games": [
+    {
+      "date": "2026-10-21",
+      "gameId": "0022600005",
+      "opp": "GSW",
+      "home": true,
+      "result": "W",
+      "pts": 26,
+      "reb": 9,
+      "ast": 1,
+      "ts": 92.9,
+      "oppRank": 24
+    }
+  ]
+}

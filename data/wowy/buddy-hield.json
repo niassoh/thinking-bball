@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "ATL",
-  "gp": 51,
-  "generatedAt": "2026-10-02T04:00:36.909Z",
+  "season": "2026-27",
+  "team": "CHI",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:14:09.191Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · ATL",
-      "minutes": 51,
-      "poss": 112,
-      "net": 1.7857142857142856
+      "sub": "2026–27 · CHI",
+      "minutes": 14,
+      "poss": 31,
+      "net": -38.7
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · ATL",
-      "minutes": 3900,
-      "poss": 8265,
-      "net": 2.3714458560193585
+      "sub": "2026–27 · CHI",
+      "minutes": 34,
+      "poss": 81,
+      "net": -38.5
     },
     {
-      "label": "On, w/o Alexander-Walker",
-      "sub": "2025–26 · ATL",
-      "minutes": 51,
-      "poss": 111.5,
-      "net": 3.587443946188341
+      "label": "On, w/o Wilson",
+      "sub": "2026–27 · CHI",
+      "minutes": 8,
+      "poss": 17,
+      "net": -23.5
     },
     {
-      "label": "On, w/o Johnson",
-      "sub": "2025–26 · ATL",
-      "minutes": 49,
-      "poss": 107,
-      "net": 6.5420560747663545
+      "label": "On, w/o Miller",
+      "sub": "2026–27 · CHI",
+      "minutes": 1,
+      "poss": 2,
+      "net": 0
     },
     {
-      "label": "On, w/o Daniels",
-      "sub": "2025–26 · ATL",
-      "minutes": 51,
-      "poss": 112,
-      "net": 1.7857142857142856
+      "label": "On, w/o Buzelis",
+      "sub": "2026–27 · CHI",
+      "minutes": 14,
+      "poss": 31,
+      "net": -38.7
     },
     {
-      "label": "Neither Hield nor Alexander-Walker",
-      "sub": "2025–26 · ATL",
-      "minutes": 1297,
-      "poss": 2700.5,
-      "net": -1.851508979818552
+      "label": "Neither Hield nor Wilson",
+      "sub": "2026–27 · CHI",
+      "minutes": 8,
+      "poss": 20,
+      "net": 30.8
     }
   ]
 }

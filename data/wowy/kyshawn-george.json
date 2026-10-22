@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "WAS",
-  "gp": 48,
-  "generatedAt": "2026-10-02T04:04:10.158Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:15:08.800Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · WAS",
-      "minutes": 1391,
-      "poss": 2941,
-      "net": -12.070724243454608
+      "sub": "2026–27 · WAS",
+      "minutes": 29,
+      "poss": 63,
+      "net": 20.6
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · WAS",
-      "minutes": 2560,
-      "poss": 5448.5,
-      "net": -11.526108103147656
+      "sub": "2026–27 · WAS",
+      "minutes": 19,
+      "poss": 40,
+      "net": -2.5
     },
     {
-      "label": "On, w/o Riley",
-      "sub": "2025–26 · WAS",
-      "minutes": 1204,
-      "poss": 2555.5,
-      "net": -11.035022500489141
+      "label": "On, w/o Young",
+      "sub": "2026–27 · WAS",
+      "minutes": 7,
+      "poss": 13,
+      "net": 23.1
+    },
+    {
+      "label": "On, w/o Davis",
+      "sub": "2026–27 · WAS",
+      "minutes": 6,
+      "poss": 12,
+      "net": 87
     },
     {
       "label": "On, w/o Coulibaly",
-      "sub": "2025–26 · WAS",
-      "minutes": 799,
-      "poss": 1682.5,
-      "net": -10.579494799405646
+      "sub": "2026–27 · WAS",
+      "minutes": 7,
+      "poss": 13,
+      "net": 53.8
     },
     {
-      "label": "On, w/o Champagnie",
-      "sub": "2025–26 · WAS",
-      "minutes": 977,
-      "poss": 2072.5,
-      "net": -14.041013268998794
-    },
-    {
-      "label": "Neither George nor Riley",
-      "sub": "2025–26 · WAS",
-      "minutes": 1114,
-      "poss": 2385,
-      "net": -9.09853249475891
+      "label": "Neither George nor Young",
+      "sub": "2026–27 · WAS",
+      "minutes": 3,
+      "poss": 8,
+      "net": 37.5
     }
   ]
 }

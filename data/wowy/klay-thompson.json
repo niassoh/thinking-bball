@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "DAL",
-  "gp": 69,
-  "generatedAt": "2026-10-02T04:02:24.971Z",
+  "season": "2026-27",
+  "team": "MIA",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:14:23.283Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · DAL",
-      "minutes": 1497,
-      "poss": 3226.5,
-      "net": -4.122113745544708
+      "sub": "2026–27 · MIA",
+      "minutes": 16,
+      "poss": 36,
+      "net": -63.9
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · DAL",
-      "minutes": 2474,
-      "poss": 5201.5,
-      "net": -6.132846294338172
+      "sub": "2026–27 · MIA",
+      "minutes": 32,
+      "poss": 69,
+      "net": -2.9
     },
     {
-      "label": "On, w/o Flagg",
-      "sub": "2025–26 · DAL",
-      "minutes": 799,
-      "poss": 1737.5,
-      "net": -6.273381294964028
+      "label": "On, w/o Mitchell",
+      "sub": "2026–27 · MIA",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     },
     {
-      "label": "On, w/o Christie",
-      "sub": "2025–26 · DAL",
-      "minutes": 1006,
-      "poss": 2169.5,
-      "net": -6.314819082737958
+      "label": "On, w/o Adebayo",
+      "sub": "2026–27 · MIA",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     },
     {
-      "label": "On, w/o Marshall",
-      "sub": "2025–26 · DAL",
-      "minutes": 815,
-      "poss": 1748,
-      "net": -4.576659038901601
+      "label": "On, w/o Antetokounmpo",
+      "sub": "2026–27 · MIA",
+      "minutes": 7,
+      "poss": 15,
+      "net": -106.7
     },
     {
-      "label": "Neither Thompson nor Flagg",
-      "sub": "2025–26 · DAL",
-      "minutes": 828,
-      "poss": 1756,
-      "net": -4.384965831435079
+      "label": "Neither Thompson nor Mitchell",
+      "sub": "2026–27 · MIA",
+      "minutes": 15,
+      "poss": 32,
+      "net": 6.3
     }
   ]
 }

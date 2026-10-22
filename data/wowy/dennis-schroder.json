@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "CLE",
-  "gp": 70,
-  "generatedAt": "2026-10-02T03:16:45.221Z",
+  "season": "2026-27",
+  "team": "CHA",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:09:59.565Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · CLE",
-      "minutes": 641,
-      "poss": 1301,
-      "net": 1.6141429669485012
+      "sub": "2026–27 · CHA",
+      "minutes": 35,
+      "poss": 73,
+      "net": 2.7
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · CLE",
-      "minutes": 3310,
-      "poss": 6936,
-      "net": 4.570357554786621
+      "sub": "2026–27 · CHA",
+      "minutes": 13,
+      "poss": 27,
+      "net": 18.5
     },
     {
-      "label": "On, w/o Harden",
-      "sub": "2025–26 · CLE",
-      "minutes": 408,
-      "poss": 831,
-      "net": 4.57280385078219
+      "label": "On, w/o Miller",
+      "sub": "2026–27 · CHA",
+      "minutes": 10,
+      "poss": 19,
+      "net": 57.9
     },
     {
-      "label": "On, w/o Mitchell",
-      "sub": "2025–26 · CLE",
-      "minutes": 344,
-      "poss": 693,
-      "net": 0.8658008658008658
+      "label": "On, w/o Diabaté",
+      "sub": "2026–27 · CHA",
+      "minutes": 10,
+      "poss": 21,
+      "net": 61.9
     },
     {
-      "label": "On, w/o Mobley",
-      "sub": "2025–26 · CLE",
-      "minutes": 420,
-      "poss": 857.5,
-      "net": 1.6326530612244898
+      "label": "On, w/o Reid",
+      "sub": "2026–27 · CHA",
+      "minutes": 4,
+      "poss": 9,
+      "net": -23.5
     },
     {
-      "label": "Neither Schröder nor Harden",
-      "sub": "2025–26 · CLE",
-      "minutes": 2664,
-      "poss": 5611.5,
-      "net": 3.9383409070658466
+      "label": "Neither Schröder nor Miller",
+      "sub": "2026–27 · CHA",
+      "minutes": 3,
+      "poss": 6,
+      "net": 0
     }
   ]
 }

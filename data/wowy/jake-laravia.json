@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "LAL",
-  "gp": 82,
-  "generatedAt": "2026-10-02T04:43:08.705Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:19:37.432Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · LAL",
-      "minutes": 2061,
-      "poss": 4238,
-      "net": -0.09438414346389806
+      "sub": "2026–27 · LAL",
+      "minutes": 18,
+      "poss": 40,
+      "net": 35.4
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · LAL",
-      "minutes": 1880,
-      "poss": 3855,
-      "net": 3.83916990920882
+      "sub": "2026–27 · LAL",
+      "minutes": 30,
+      "poss": 63,
+      "net": 12.8
+    },
+    {
+      "label": "On, w/o Reaves",
+      "sub": "2026–27 · LAL",
+      "minutes": 9,
+      "poss": 21,
+      "net": 38.1
     },
     {
       "label": "On, w/o Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 915,
-      "poss": 1854.5,
-      "net": -3.18145052574818
+      "sub": "2026–27 · LAL",
+      "minutes": 8,
+      "poss": 18,
+      "net": 5.7
     },
     {
-      "label": "On, w/o James",
-      "sub": "2025–26 · LAL",
-      "minutes": 1113,
-      "poss": 2303.5,
-      "net": -2.6915563273279792
+      "label": "On, w/o Kessler",
+      "sub": "2026–27 · LAL",
+      "minutes": 10,
+      "poss": 22,
+      "net": 45.5
     },
     {
-      "label": "On, w/o Ayton",
-      "sub": "2025–26 · LAL",
-      "minutes": 1024,
-      "poss": 2124,
-      "net": 2.6365348399246704
-    },
-    {
-      "label": "Neither LaRavia nor Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 737,
-      "poss": 1481,
-      "net": 1.0803511141120865
+      "label": "Neither LaRavia nor Reaves",
+      "sub": "2026–27 · LAL",
+      "minutes": 7,
+      "poss": 14,
+      "net": -78.6
     }
   ]
 }

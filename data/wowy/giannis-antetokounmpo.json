@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "MIL",
-  "gp": 36,
-  "generatedAt": "2026-10-02T04:51:51.509Z",
+  "season": "2026-27",
+  "team": "MIA",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:20:24.622Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · MIL",
-      "minutes": 1039,
-      "poss": 2126.5,
-      "net": 4.514460380907594
+      "sub": "2026–27 · MIA",
+      "minutes": 30,
+      "poss": 67,
+      "net": -16.5
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · MIL",
-      "minutes": 2912,
-      "poss": 5908.5,
-      "net": -10.23948548701024
+      "sub": "2026–27 · MIA",
+      "minutes": 18,
+      "poss": 38,
+      "net": -36.8
     },
     {
-      "label": "On, w/o Rollins",
-      "sub": "2025–26 · MIL",
-      "minutes": 229,
-      "poss": 482,
-      "net": -1.2448132780082988
+      "label": "On, w/o Mitchell",
+      "sub": "2026–27 · MIA",
+      "minutes": 11,
+      "poss": 25,
+      "net": -8
     },
     {
-      "label": "On, w/o Green",
-      "sub": "2025–26 · MIL",
-      "minutes": 307,
-      "poss": 625.5,
-      "net": -5.595523581135091
+      "label": "On, w/o Adebayo",
+      "sub": "2026–27 · MIA",
+      "minutes": 14,
+      "poss": 30,
+      "net": -3.3
     },
     {
-      "label": "On, w/o Turner",
-      "sub": "2025–26 · MIL",
-      "minutes": 346,
-      "poss": 697.5,
-      "net": -1.7204301075268817
+      "label": "On, w/o Wiggins",
+      "sub": "2026–27 · MIA",
+      "minutes": 16,
+      "poss": 33,
+      "net": -12.3
     },
     {
-      "label": "Neither Antetokounmpo nor Rollins",
-      "sub": "2025–26 · MIL",
-      "minutes": 1347,
-      "poss": 2708.5,
-      "net": -12.110023998523168
+      "label": "Neither Antetokounmpo nor Mitchell",
+      "sub": "2026–27 · MIA",
+      "minutes": 4,
+      "poss": 7,
+      "net": 57.1
     }
   ]
 }

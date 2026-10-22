@@ -1,0 +1,24 @@
+{
+  "season": "2026-27",
+  "generatedAt": "2026-10-22T10:24:37.219Z",
+  "recent": {
+    "start": "2026-09-22",
+    "end": "2026-10-21",
+    "games": 1,
+    "seasonGames": 1
+  },
+  "games": [
+    {
+      "date": "2026-10-21",
+      "gameId": "0022600005",
+      "opp": "LAL",
+      "home": false,
+      "result": "L",
+      "pts": 12,
+      "reb": 3,
+      "ast": 2,
+      "ts": 50,
+      "oppRank": 5
+    }
+  ]
+}

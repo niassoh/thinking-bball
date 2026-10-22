@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "TOR",
-  "gp": 70,
-  "generatedAt": "2026-10-02T03:09:13.941Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:09:10.754Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · TOR",
-      "minutes": 2231,
-      "poss": 4553,
-      "net": 2.657588403250604
+      "sub": "2026–27 · TOR",
+      "minutes": 28,
+      "poss": 68,
+      "net": 55.9
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · TOR",
-      "minutes": 1725,
-      "poss": 3565,
-      "net": 3.1136044880785416
+      "sub": "2026–27 · TOR",
+      "minutes": 20,
+      "poss": 44,
+      "net": 11.5
+    },
+    {
+      "label": "On, w/o Barrett",
+      "sub": "2026–27 · TOR",
+      "minutes": 7,
+      "poss": 19,
+      "net": 63.2
     },
     {
       "label": "On, w/o Barnes",
-      "sub": "2025–26 · TOR",
-      "minutes": 546,
-      "poss": 1100,
-      "net": -10
+      "sub": "2026–27 · TOR",
+      "minutes": 5,
+      "poss": 11,
+      "net": 104.8
     },
     {
-      "label": "On, w/o Ingram",
-      "sub": "2025–26 · TOR",
-      "minutes": 628,
-      "poss": 1272,
-      "net": 4.952830188679245
+      "label": "On, w/o Leonard",
+      "sub": "2026–27 · TOR",
+      "minutes": 9,
+      "poss": 22,
+      "net": 120.9
     },
     {
-      "label": "On, w/o Shead",
-      "sub": "2025–26 · TOR",
-      "minutes": 1775,
-      "poss": 3640,
-      "net": 2.197802197802198
-    },
-    {
-      "label": "Neither Quickley nor Barnes",
-      "sub": "2025–26 · TOR",
-      "minutes": 730,
-      "poss": 1509,
-      "net": 5.036447978793903
+      "label": "Neither Quickley nor Barrett",
+      "sub": "2026–27 · TOR",
+      "minutes": 14,
+      "poss": 33,
+      "net": -9.1
     }
   ]
 }

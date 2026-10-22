@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "DEN",
-  "gp": 80,
-  "generatedAt": "2026-10-02T04:01:26.655Z",
+  "season": "2026-27",
+  "team": "MIA",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:14:20.664Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · DEN",
-      "minutes": 2127,
-      "poss": 4401.5,
-      "net": 4.543905486765875
+      "sub": "2026–27 · MIA",
+      "minutes": 18,
+      "poss": 38,
+      "net": -13.3
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · DEN",
-      "minutes": 1859,
-      "poss": 3800,
-      "net": 5.842105263157895
+      "sub": "2026–27 · MIA",
+      "minutes": 30,
+      "poss": 67,
+      "net": -29.9
     },
     {
-      "label": "On, w/o Murray",
-      "sub": "2025–26 · DEN",
-      "minutes": 886,
-      "poss": 1833,
-      "net": -2.4004364429896343
+      "label": "On, w/o Mitchell",
+      "sub": "2026–27 · MIA",
+      "minutes": 12,
+      "poss": 27,
+      "net": -7.5
     },
     {
-      "label": "On, w/o Jokić",
-      "sub": "2025–26 · DEN",
-      "minutes": 1043,
-      "poss": 2075.5,
-      "net": -1.8790652854733798
+      "label": "On, w/o Adebayo",
+      "sub": "2026–27 · MIA",
+      "minutes": 14,
+      "poss": 30,
+      "net": -3.3
     },
     {
-      "label": "On, w/o Brown",
-      "sub": "2025–26 · DEN",
-      "minutes": 759,
-      "poss": 1582.5,
-      "net": 16.872037914691944
+      "label": "On, w/o Antetokounmpo",
+      "sub": "2026–27 · MIA",
+      "minutes": 3,
+      "poss": 7,
+      "net": 0
     },
     {
-      "label": "Neither Hardaway Jr. nor Murray",
-      "sub": "2025–26 · DEN",
-      "minutes": 448,
-      "poss": 929,
-      "net": 3.767491926803014
+      "label": "Neither Hardaway Jr. nor Mitchell",
+      "sub": "2026–27 · MIA",
+      "minutes": 3,
+      "poss": 6,
+      "net": 72.7
     }
   ]
 }

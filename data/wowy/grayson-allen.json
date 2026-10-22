@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "PHX",
-  "gp": 51,
-  "generatedAt": "2026-10-02T03:58:07.560Z",
+  "season": "2026-27",
+  "team": "CHA",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:14:00.462Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · PHX",
-      "minutes": 1467,
-      "poss": 2974,
-      "net": 0.6388702084734365
+      "sub": "2026–27 · CHA",
+      "minutes": 29,
+      "poss": 62,
+      "net": 32.5
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · PHX",
-      "minutes": 2484,
-      "poss": 5057.5,
-      "net": 1.9970341077607514
+      "sub": "2026–27 · CHA",
+      "minutes": 19,
+      "poss": 39,
+      "net": -33.8
     },
     {
-      "label": "On, w/o Gillespie",
-      "sub": "2025–26 · PHX",
-      "minutes": 800,
-      "poss": 1642.5,
-      "net": -0.547945205479452
+      "label": "On, w/o Miller",
+      "sub": "2026–27 · CHA",
+      "minutes": 12,
+      "poss": 25,
+      "net": 44
     },
     {
-      "label": "On, w/o O'Neale",
-      "sub": "2025–26 · PHX",
-      "minutes": 628,
-      "poss": 1254,
-      "net": 10.606060606060606
+      "label": "On, w/o Schröder",
+      "sub": "2026–27 · CHA",
+      "minutes": 8,
+      "poss": 17,
+      "net": 47.1
     },
     {
-      "label": "On, w/o Booker",
-      "sub": "2025–26 · PHX",
-      "minutes": 778,
-      "poss": 1527,
-      "net": -2.4230517354289454
+      "label": "On, w/o Diabaté",
+      "sub": "2026–27 · CHA",
+      "minutes": 14,
+      "poss": 29,
+      "net": 86.2
     },
     {
-      "label": "Neither Allen nor Gillespie",
-      "sub": "2025–26 · PHX",
-      "minutes": 869,
-      "poss": 1771,
-      "net": -4.009034443817053
+      "label": "Neither Allen nor Miller",
+      "sub": "2026–27 · CHA",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "SAC",
-  "gp": 45,
-  "generatedAt": "2026-10-02T04:22:50.440Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:17:21.086Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · SAC",
-      "minutes": 51,
-      "poss": 105,
-      "net": -0.9523809523809524
+      "sub": "2026–27 · SAC",
+      "minutes": 20,
+      "poss": 42,
+      "net": -57.1
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · SAC",
-      "minutes": 3900,
-      "poss": 8078.5,
-      "net": -10.138020672154484
+      "sub": "2026–27 · SAC",
+      "minutes": 28,
+      "poss": 62,
+      "net": -1.6
     },
     {
-      "label": "On, w/o DeRozan",
-      "sub": "2025–26 · SAC",
-      "minutes": 15,
-      "poss": 32.5,
-      "net": 36.92307692307693
+      "label": "On, w/o Acuff Jr.",
+      "sub": "2026–27 · SAC",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     },
     {
-      "label": "On, w/o Raynaud",
-      "sub": "2025–26 · SAC",
-      "minutes": 33,
-      "poss": 66.5,
-      "net": 6.015037593984962
+      "label": "On, w/o LaVine",
+      "sub": "2026–27 · SAC",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     },
     {
-      "label": "On, w/o Clifford",
-      "sub": "2025–26 · SAC",
-      "minutes": 22,
-      "poss": 45.5,
-      "net": -21.978021978021978
+      "label": "On, w/o Sabonis",
+      "sub": "2026–27 · SAC",
+      "minutes": 1,
+      "poss": 3,
+      "net": -80
     },
     {
-      "label": "Neither Hunter nor DeRozan",
-      "sub": "2025–26 · SAC",
-      "minutes": 1530,
-      "poss": 3162,
-      "net": -7.71663504111322
+      "label": "Neither Hunter nor Acuff Jr.",
+      "sub": "2026–27 · SAC",
+      "minutes": 13,
+      "poss": 29,
+      "net": -6.9
     }
   ]
 }

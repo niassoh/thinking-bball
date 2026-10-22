@@ -1,6 +1,6 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-10-21T17:51:48.299Z",
+  "generatedAt": "2026-10-22T10:08:18.554Z",
   "players": {
     "2544": {
       "minutes": 34,
@@ -10,6 +10,46 @@
       "shootingFoulsPer100": 1.3888888888888888,
       "corner3PAPer36": 1.0588235294117647
     },
+    "201142": {
+      "minutes": 37,
+      "blocksPer100": 1.3333333333333333,
+      "orebPct": 0,
+      "drebPct": 0.2,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0.972972972972973
+    },
+    "201143": {
+      "minutes": 17,
+      "blocksPer100": 0,
+      "orebPct": 0.043478260869565216,
+      "drebPct": 0.25,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 2.1176470588235294
+    },
+    "201572": {
+      "minutes": 27,
+      "blocksPer100": 1.694915254237288,
+      "orebPct": 0,
+      "drebPct": 0.3225806451612903,
+      "shootingFoulsPer100": 1.694915254237288,
+      "corner3PAPer36": 0
+    },
+    "201939": {
+      "minutes": 21,
+      "blocksPer100": 0,
+      "orebPct": 0.05555555555555555,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 2.272727272727273,
+      "corner3PAPer36": 1.7142857142857142
+    },
+    "201950": {
+      "minutes": 21,
+      "blocksPer100": 0,
+      "orebPct": 0.1111111111111111,
+      "drebPct": 0.09090909090909091,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "202331": {
       "minutes": 31,
       "blocksPer100": 0,
@@ -17,6 +57,54 @@
       "drebPct": 0.1724137931034483,
       "shootingFoulsPer100": 4.6875,
       "corner3PAPer36": 2.3225806451612905
+    },
+    "202681": {
+      "minutes": 24,
+      "blocksPer100": 0,
+      "orebPct": 0.05,
+      "drebPct": 0.16666666666666666,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 1.5
+    },
+    "202691": {
+      "minutes": 16,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.07142857142857142,
+      "shootingFoulsPer100": 2.7777777777777777,
+      "corner3PAPer36": 4.5
+    },
+    "202695": {
+      "minutes": 24,
+      "blocksPer100": 1.7857142857142858,
+      "orebPct": 0.03225806451612903,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 1.7857142857142858,
+      "corner3PAPer36": 0
+    },
+    "202696": {
+      "minutes": 5,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.16666666666666666,
+      "shootingFoulsPer100": 8.333333333333334,
+      "corner3PAPer36": 0
+    },
+    "203076": {
+      "minutes": 34,
+      "blocksPer100": 1.2987012987012987,
+      "orebPct": 0.0967741935483871,
+      "drebPct": 0.2903225806451613,
+      "shootingFoulsPer100": 2.5974025974025974,
+      "corner3PAPer36": 0
+    },
+    "203081": {
+      "minutes": 24,
+      "blocksPer100": 0,
+      "orebPct": 0.041666666666666664,
+      "drebPct": 0.08695652173913043,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 1.5
     },
     "203083": {
       "minutes": 24,
@@ -34,6 +122,38 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 4
     },
+    "203110": {
+      "minutes": 21,
+      "blocksPer100": 2.272727272727273,
+      "orebPct": 0,
+      "drebPct": 0.3076923076923077,
+      "shootingFoulsPer100": 2.272727272727273,
+      "corner3PAPer36": 0
+    },
+    "203114": {
+      "minutes": 12,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 3.8461538461538463,
+      "corner3PAPer36": 0
+    },
+    "203468": {
+      "minutes": 25,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.10526315789473684,
+      "shootingFoulsPer100": 1.7241379310344827,
+      "corner3PAPer36": 0
+    },
+    "203471": {
+      "minutes": 35,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.13333333333333333,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "203484": {
       "minutes": 26,
       "blocksPer100": 1.8867924528301887,
@@ -41,6 +161,38 @@
       "drebPct": 0.1,
       "shootingFoulsPer100": 1.8867924528301887,
       "corner3PAPer36": 2.769230769230769
+    },
+    "203497": {
+      "minutes": 33,
+      "blocksPer100": 0,
+      "orebPct": 0.15625,
+      "drebPct": 0.2727272727272727,
+      "shootingFoulsPer100": 2.73972602739726,
+      "corner3PAPer36": 0
+    },
+    "203501": {
+      "minutes": 18,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.2,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 2
+    },
+    "203507": {
+      "minutes": 30,
+      "blocksPer100": 0,
+      "orebPct": 0.03571428571428571,
+      "drebPct": 0.16129032258064516,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "203897": {
+      "minutes": 34,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.07142857142857142,
+      "shootingFoulsPer100": 2.6315789473684212,
+      "corner3PAPer36": 1.0588235294117647
     },
     "203903": {
       "minutes": 8,
@@ -50,12 +202,68 @@
       "shootingFoulsPer100": 5.882352941176471,
       "corner3PAPer36": 0
     },
+    "203924": {
+      "minutes": 24,
+      "blocksPer100": 1.9230769230769231,
+      "orebPct": 0.07692307692307693,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "203935": {
+      "minutes": 26,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.08695652173913043,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 1.3846153846153846
+    },
+    "203937": {
+      "minutes": 5,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.3333333333333333,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "203944": {
+      "minutes": 38,
+      "blocksPer100": 1.2820512820512822,
+      "orebPct": 0,
+      "drebPct": 0.18604651162790697,
+      "shootingFoulsPer100": 1.2820512820512822,
+      "corner3PAPer36": 0.9473684210526315
+    },
+    "203952": {
+      "minutes": 27,
+      "blocksPer100": 0,
+      "orebPct": 0.04,
+      "drebPct": 0.037037037037037035,
+      "shootingFoulsPer100": 1.5873015873015872,
+      "corner3PAPer36": 2.6666666666666665
+    },
     "203954": {
       "minutes": 33,
       "blocksPer100": 4.225352112676056,
       "orebPct": 0.05,
       "drebPct": 0.21951219512195122,
       "shootingFoulsPer100": 2.816901408450704,
+      "corner3PAPer36": 0
+    },
+    "203991": {
+      "minutes": 8,
+      "blocksPer100": 0,
+      "orebPct": 0.2857142857142857,
+      "drebPct": 0.2,
+      "shootingFoulsPer100": 5,
+      "corner3PAPer36": 0
+    },
+    "203992": {
+      "minutes": 13,
+      "blocksPer100": 0,
+      "orebPct": 0.1,
+      "drebPct": 0,
+      "shootingFoulsPer100": 7.6923076923076925,
       "corner3PAPer36": 0
     },
     "1626157": {
@@ -66,6 +274,118 @@
       "shootingFoulsPer100": 2,
       "corner3PAPer36": 0
     },
+    "1626162": {
+      "minutes": 28,
+      "blocksPer100": 1.6666666666666667,
+      "orebPct": 0,
+      "drebPct": 0.06666666666666667,
+      "shootingFoulsPer100": 5,
+      "corner3PAPer36": 2.5714285714285716
+    },
+    "1626164": {
+      "minutes": 29,
+      "blocksPer100": 1.7241379310344827,
+      "orebPct": 0.06451612903225806,
+      "drebPct": 0.06896551724137931,
+      "shootingFoulsPer100": 1.7241379310344827,
+      "corner3PAPer36": 0
+    },
+    "1626167": {
+      "minutes": 32,
+      "blocksPer100": 1.4285714285714286,
+      "orebPct": 0.030303030303030304,
+      "drebPct": 0.13333333333333333,
+      "shootingFoulsPer100": 2.857142857142857,
+      "corner3PAPer36": 0
+    },
+    "1626168": {
+      "minutes": 12,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.1,
+      "shootingFoulsPer100": 7.142857142857143,
+      "corner3PAPer36": 0
+    },
+    "1626171": {
+      "minutes": 25,
+      "blocksPer100": 1.9607843137254901,
+      "orebPct": 0.05,
+      "drebPct": 0.11538461538461539,
+      "shootingFoulsPer100": 1.9607843137254901,
+      "corner3PAPer36": 0
+    },
+    "1626172": {
+      "minutes": 15,
+      "blocksPer100": 0,
+      "orebPct": 0.14285714285714285,
+      "drebPct": 0.15,
+      "shootingFoulsPer100": 2.9411764705882355,
+      "corner3PAPer36": 0
+    },
+    "1626181": {
+      "minutes": 22,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.15625,
+      "shootingFoulsPer100": 5.882352941176471,
+      "corner3PAPer36": 1.6363636363636365
+    },
+    "1626204": {
+      "minutes": 5,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 7.6923076923076925,
+      "corner3PAPer36": 0
+    },
+    "1626220": {
+      "minutes": 17,
+      "blocksPer100": 2.6315789473684212,
+      "orebPct": 0.125,
+      "drebPct": 0.05,
+      "shootingFoulsPer100": 2.6315789473684212,
+      "corner3PAPer36": 2.1176470588235294
+    },
+    "1627734": {
+      "minutes": 34,
+      "blocksPer100": 0,
+      "orebPct": 0.027777777777777776,
+      "drebPct": 0.5333333333333333,
+      "shootingFoulsPer100": 2.7027027027027026,
+      "corner3PAPer36": 0
+    },
+    "1627739": {
+      "minutes": 27,
+      "blocksPer100": 3.7037037037037037,
+      "orebPct": 0.08333333333333333,
+      "drebPct": 0.10344827586206896,
+      "shootingFoulsPer100": 1.8518518518518519,
+      "corner3PAPer36": 1.3333333333333333
+    },
+    "1627741": {
+      "minutes": 14,
+      "blocksPer100": 0,
+      "orebPct": 0.05555555555555555,
+      "drebPct": 0.058823529411764705,
+      "shootingFoulsPer100": 6.451612903225806,
+      "corner3PAPer36": 0
+    },
+    "1627749": {
+      "minutes": 34,
+      "blocksPer100": 4.054054054054054,
+      "orebPct": 0.05128205128205128,
+      "drebPct": 0.034482758620689655,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 3.176470588235294
+    },
+    "1627751": {
+      "minutes": 22,
+      "blocksPer100": 1.9607843137254901,
+      "orebPct": 0,
+      "drebPct": 0.1875,
+      "shootingFoulsPer100": 5.882352941176471,
+      "corner3PAPer36": 0
+    },
     "1627759": {
       "minutes": 35,
       "blocksPer100": 1.3157894736842106,
@@ -73,6 +393,54 @@
       "drebPct": 0.13333333333333333,
       "shootingFoulsPer100": 1.3157894736842106,
       "corner3PAPer36": 3.085714285714286
+    },
+    "1627777": {
+      "minutes": 20,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.08333333333333333,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 1.8
+    },
+    "1627780": {
+      "minutes": 18,
+      "blocksPer100": 0,
+      "orebPct": 0.07142857142857142,
+      "drebPct": 0,
+      "shootingFoulsPer100": 2.5641025641025643,
+      "corner3PAPer36": 4
+    },
+    "1627783": {
+      "minutes": 35,
+      "blocksPer100": 0,
+      "orebPct": 0.08333333333333333,
+      "drebPct": 0.18181818181818182,
+      "shootingFoulsPer100": 1.3157894736842106,
+      "corner3PAPer36": 0
+    },
+    "1627826": {
+      "minutes": 34,
+      "blocksPer100": 2.816901408450704,
+      "orebPct": 0.10714285714285714,
+      "drebPct": 0.2777777777777778,
+      "shootingFoulsPer100": 7.042253521126761,
+      "corner3PAPer36": 0
+    },
+    "1627832": {
+      "minutes": 30,
+      "blocksPer100": 1.7241379310344827,
+      "orebPct": 0,
+      "drebPct": 0.08695652173913043,
+      "shootingFoulsPer100": 1.7241379310344827,
+      "corner3PAPer36": 0
+    },
+    "1627884": {
+      "minutes": 26,
+      "blocksPer100": 0,
+      "orebPct": 0.05,
+      "drebPct": 0.1,
+      "shootingFoulsPer100": 1.8518518518518519,
+      "corner3PAPer36": 0
     },
     "1627936": {
       "minutes": 25,
@@ -98,6 +466,22 @@
       "shootingFoulsPer100": 2.5,
       "corner3PAPer36": 0.9473684210526315
     },
+    "1628374": {
+      "minutes": 36,
+      "blocksPer100": 1.2658227848101267,
+      "orebPct": 0,
+      "drebPct": 0.23684210526315788,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1628380": {
+      "minutes": 9,
+      "blocksPer100": 0,
+      "orebPct": 0.1111111111111111,
+      "drebPct": 0.2222222222222222,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "1628381": {
       "minutes": 25,
       "blocksPer100": 1.8867924528301887,
@@ -114,6 +498,14 @@
       "shootingFoulsPer100": 2.9411764705882355,
       "corner3PAPer36": 4.5
     },
+    "1628389": {
+      "minutes": 31,
+      "blocksPer100": 0,
+      "orebPct": 0.03571428571428571,
+      "drebPct": 0.2,
+      "shootingFoulsPer100": 1.4492753623188406,
+      "corner3PAPer36": 2.3225806451612905
+    },
     "1628392": {
       "minutes": 17,
       "blocksPer100": 2.6315789473684212,
@@ -121,6 +513,14 @@
       "drebPct": 0.09523809523809523,
       "shootingFoulsPer100": 5.2631578947368425,
       "corner3PAPer36": 0
+    },
+    "1628398": {
+      "minutes": 27,
+      "blocksPer100": 0,
+      "orebPct": 0.06896551724137931,
+      "drebPct": 0.13043478260869565,
+      "shootingFoulsPer100": 1.6666666666666667,
+      "corner3PAPer36": 2.6666666666666665
     },
     "1628401": {
       "minutes": 36,
@@ -138,11 +538,27 @@
       "shootingFoulsPer100": 1.5384615384615385,
       "corner3PAPer36": 0
     },
+    "1628415": {
+      "minutes": 27,
+      "blocksPer100": 0,
+      "orebPct": 0.037037037037037035,
+      "drebPct": 0.10714285714285714,
+      "shootingFoulsPer100": 1.9230769230769231,
+      "corner3PAPer36": 0
+    },
     "1628436": {
       "minutes": 13,
       "blocksPer100": 3.7037037037037037,
       "orebPct": 0,
       "drebPct": 0.08333333333333333,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1628960": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.11538461538461539,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
@@ -154,6 +570,14 @@
       "shootingFoulsPer100": 1.3888888888888888,
       "corner3PAPer36": 1.0909090909090908
     },
+    "1628970": {
+      "minutes": 29,
+      "blocksPer100": 1.8181818181818181,
+      "orebPct": 0.02702702702702703,
+      "drebPct": 0.11538461538461539,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 1.2413793103448276
+    },
     "1628973": {
       "minutes": 34,
       "blocksPer100": 0,
@@ -161,6 +585,14 @@
       "drebPct": 0.13157894736842105,
       "shootingFoulsPer100": 1.3513513513513513,
       "corner3PAPer36": 0
+    },
+    "1628976": {
+      "minutes": 31,
+      "blocksPer100": 0,
+      "orebPct": 0.07142857142857142,
+      "drebPct": 0.14814814814814814,
+      "shootingFoulsPer100": 4.109589041095891,
+      "corner3PAPer36": 1.1612903225806452
     },
     "1628983": {
       "minutes": 36,
@@ -177,6 +609,46 @@
       "drebPct": 0.13333333333333333,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 4
+    },
+    "1628991": {
+      "minutes": 28,
+      "blocksPer100": 3.4482758620689653,
+      "orebPct": 0,
+      "drebPct": 0.125,
+      "shootingFoulsPer100": 5.172413793103448,
+      "corner3PAPer36": 2.5714285714285716
+    },
+    "1629001": {
+      "minutes": 21,
+      "blocksPer100": 0,
+      "orebPct": 0.05263157894736842,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 2.272727272727273,
+      "corner3PAPer36": 1.7142857142857142
+    },
+    "1629004": {
+      "minutes": 19,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 2.127659574468085,
+      "corner3PAPer36": 1.894736842105263
+    },
+    "1629006": {
+      "minutes": 8,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.125,
+      "shootingFoulsPer100": 6.666666666666667,
+      "corner3PAPer36": 0
+    },
+    "1629008": {
+      "minutes": 34,
+      "blocksPer100": 0,
+      "orebPct": 0.03225806451612903,
+      "drebPct": 0.15789473684210525,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 1.0588235294117647
     },
     "1629011": {
       "minutes": 18,
@@ -202,12 +674,84 @@
       "shootingFoulsPer100": 1.8518518518518519,
       "corner3PAPer36": 2.88
     },
+    "1629021": {
+      "minutes": 16,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1629023": {
+      "minutes": 31,
+      "blocksPer100": 1.6129032258064515,
+      "orebPct": 0.04,
+      "drebPct": 0.08,
+      "shootingFoulsPer100": 1.6129032258064515,
+      "corner3PAPer36": 0
+    },
     "1629026": {
       "minutes": 7,
       "blocksPer100": 0,
       "orebPct": 0.125,
       "drebPct": 0.1,
       "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1629027": {
+      "minutes": 38,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 2.4390243902439024,
+      "corner3PAPer36": 0.9473684210526315
+    },
+    "1629028": {
+      "minutes": 15,
+      "blocksPer100": 6.896551724137931,
+      "orebPct": 0.09090909090909091,
+      "drebPct": 0.1111111111111111,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1629029": {
+      "minutes": 30,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.20588235294117646,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 1.2
+    },
+    "1629048": {
+      "minutes": 12,
+      "blocksPer100": 0,
+      "orebPct": 0.23076923076923078,
+      "drebPct": 0.2727272727272727,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1629057": {
+      "minutes": 15,
+      "blocksPer100": 3.0303030303030303,
+      "orebPct": 0.23076923076923078,
+      "drebPct": 0.5,
+      "shootingFoulsPer100": 3.0303030303030303,
+      "corner3PAPer36": 0
+    },
+    "1629060": {
+      "minutes": 32,
+      "blocksPer100": 1.5151515151515151,
+      "orebPct": 0.07692307692307693,
+      "drebPct": 0.1875,
+      "shootingFoulsPer100": 3.0303030303030303,
+      "corner3PAPer36": 2.25
+    },
+    "1629111": {
+      "minutes": 19,
+      "blocksPer100": 2.4390243902439024,
+      "orebPct": 0.05263157894736842,
+      "drebPct": 0.05555555555555555,
+      "shootingFoulsPer100": 4.878048780487805,
       "corner3PAPer36": 0
     },
     "1629130": {
@@ -218,6 +762,86 @@
       "shootingFoulsPer100": 3.508771929824561,
       "corner3PAPer36": 2.5714285714285716
     },
+    "1629614": {
+      "minutes": 34,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.05714285714285714,
+      "shootingFoulsPer100": 4.166666666666667,
+      "corner3PAPer36": 0
+    },
+    "1629618": {
+      "minutes": 2,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1629627": {
+      "minutes": 32,
+      "blocksPer100": 0,
+      "orebPct": 0.02702702702702703,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 1.4492753623188406,
+      "corner3PAPer36": 0
+    },
+    "1629628": {
+      "minutes": 26,
+      "blocksPer100": 0,
+      "orebPct": 0.03125,
+      "drebPct": 0.0967741935483871,
+      "shootingFoulsPer100": 3.3333333333333335,
+      "corner3PAPer36": 2.769230769230769
+    },
+    "1629630": {
+      "minutes": 23,
+      "blocksPer100": 0,
+      "orebPct": 0.045454545454545456,
+      "drebPct": 0.15384615384615385,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1629631": {
+      "minutes": 20,
+      "blocksPer100": 0,
+      "orebPct": 0.04,
+      "drebPct": 0.11764705882352941,
+      "shootingFoulsPer100": 4.761904761904762,
+      "corner3PAPer36": 0
+    },
+    "1629636": {
+      "minutes": 32,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.02857142857142857,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 1.125
+    },
+    "1629637": {
+      "minutes": 26,
+      "blocksPer100": 10.714285714285714,
+      "orebPct": 0.038461538461538464,
+      "drebPct": 0.13043478260869565,
+      "shootingFoulsPer100": 5.357142857142857,
+      "corner3PAPer36": 0
+    },
+    "1629638": {
+      "minutes": 30,
+      "blocksPer100": 1.5151515151515151,
+      "orebPct": 0.1111111111111111,
+      "drebPct": 0.04,
+      "shootingFoulsPer100": 1.5151515151515151,
+      "corner3PAPer36": 0
+    },
+    "1629639": {
+      "minutes": 32,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.06896551724137931,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "1629640": {
       "minutes": 20,
       "blocksPer100": 0,
@@ -225,6 +849,46 @@
       "drebPct": 0.05,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 1.8
+    },
+    "1629652": {
+      "minutes": 28,
+      "blocksPer100": 0,
+      "orebPct": 0.10344827586206896,
+      "drebPct": 0.038461538461538464,
+      "shootingFoulsPer100": 3.278688524590164,
+      "corner3PAPer36": 1.2857142857142858
+    },
+    "1629655": {
+      "minutes": 22,
+      "blocksPer100": 4.878048780487805,
+      "orebPct": 0.07142857142857142,
+      "drebPct": 0.05555555555555555,
+      "shootingFoulsPer100": 2.4390243902439024,
+      "corner3PAPer36": 0
+    },
+    "1629656": {
+      "minutes": 27,
+      "blocksPer100": 1.7543859649122806,
+      "orebPct": 0,
+      "drebPct": 0.0625,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1629660": {
+      "minutes": 32,
+      "blocksPer100": 1.5151515151515151,
+      "orebPct": 0.03225806451612903,
+      "drebPct": 0.16129032258064516,
+      "shootingFoulsPer100": 3.0303030303030303,
+      "corner3PAPer36": 0
+    },
+    "1629673": {
+      "minutes": 15,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.14285714285714285,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
     },
     "1629674": {
       "minutes": 22,
@@ -234,6 +898,22 @@
       "shootingFoulsPer100": 4.081632653061225,
       "corner3PAPer36": 0
     },
+    "1629675": {
+      "minutes": 33,
+      "blocksPer100": 0,
+      "orebPct": 0.05405405405405406,
+      "drebPct": 0.2857142857142857,
+      "shootingFoulsPer100": 4.477611940298507,
+      "corner3PAPer36": 2.1818181818181817
+    },
+    "1629680": {
+      "minutes": 23,
+      "blocksPer100": 2.1739130434782608,
+      "orebPct": 0.06666666666666667,
+      "drebPct": 0.045454545454545456,
+      "shootingFoulsPer100": 4.3478260869565215,
+      "corner3PAPer36": 3.130434782608696
+    },
     "1629750": {
       "minutes": 18,
       "blocksPer100": 0,
@@ -241,6 +921,54 @@
       "drebPct": 0.13636363636363635,
       "shootingFoulsPer100": 2.7027027027027026,
       "corner3PAPer36": 10
+    },
+    "1630162": {
+      "minutes": 33,
+      "blocksPer100": 1.36986301369863,
+      "orebPct": 0,
+      "drebPct": 0.35714285714285715,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 4.363636363636363
+    },
+    "1630163": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.07407407407407407,
+      "shootingFoulsPer100": 4.6875,
+      "corner3PAPer36": 2.4827586206896552
+    },
+    "1630166": {
+      "minutes": 23,
+      "blocksPer100": 0,
+      "orebPct": 0.11538461538461539,
+      "drebPct": 0.23809523809523808,
+      "shootingFoulsPer100": 2.3255813953488373,
+      "corner3PAPer36": 1.565217391304348
+    },
+    "1630167": {
+      "minutes": 25,
+      "blocksPer100": 0,
+      "orebPct": 0.038461538461538464,
+      "drebPct": 0.07407407407407407,
+      "shootingFoulsPer100": 1.8867924528301887,
+      "corner3PAPer36": 7.2
+    },
+    "1630168": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.04,
+      "drebPct": 0.15384615384615385,
+      "shootingFoulsPer100": 1.4705882352941178,
+      "corner3PAPer36": 1.2413793103448276
+    },
+    "1630169": {
+      "minutes": 34,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.0625,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
     },
     "1630170": {
       "minutes": 31,
@@ -250,6 +978,22 @@
       "shootingFoulsPer100": 3.076923076923077,
       "corner3PAPer36": 2.3225806451612905
     },
+    "1630171": {
+      "minutes": 18,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 5,
+      "corner3PAPer36": 2
+    },
+    "1630173": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.125,
+      "drebPct": 0.08695652173913043,
+      "shootingFoulsPer100": 1.5873015873015872,
+      "corner3PAPer36": 1.2413793103448276
+    },
     "1630178": {
       "minutes": 40,
       "blocksPer100": 3.6144578313253013,
@@ -257,6 +1001,38 @@
       "drebPct": 0.0625,
       "shootingFoulsPer100": 1.2048192771084338,
       "corner3PAPer36": 1.8
+    },
+    "1630180": {
+      "minutes": 24,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.21739130434782608,
+      "shootingFoulsPer100": 1.9607843137254901,
+      "corner3PAPer36": 1.5
+    },
+    "1630183": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.07407407407407407,
+      "drebPct": 0.23076923076923078,
+      "shootingFoulsPer100": 1.5625,
+      "corner3PAPer36": 2.4827586206896552
+    },
+    "1630188": {
+      "minutes": 19,
+      "blocksPer100": 2.272727272727273,
+      "orebPct": 0.14814814814814814,
+      "drebPct": 0.14285714285714285,
+      "shootingFoulsPer100": 6.818181818181818,
+      "corner3PAPer36": 1.894736842105263
+    },
+    "1630193": {
+      "minutes": 28,
+      "blocksPer100": 0,
+      "orebPct": 0.06060606060606061,
+      "drebPct": 0.030303030303030304,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 2.5714285714285716
     },
     "1630194": {
       "minutes": 17,
@@ -274,12 +1050,140 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
+    "1630200": {
+      "minutes": 13,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.13636363636363635,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "1630202": {
       "minutes": 28,
       "blocksPer100": 0,
       "orebPct": 0.07692307692307693,
       "drebPct": 0.06896551724137931,
       "shootingFoulsPer100": 1.7543859649122806,
+      "corner3PAPer36": 0
+    },
+    "1630208": {
+      "minutes": 3,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630217": {
+      "minutes": 33,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.18518518518518517,
+      "shootingFoulsPer100": 3.896103896103896,
+      "corner3PAPer36": 4.363636363636363
+    },
+    "1630224": {
+      "minutes": 25,
+      "blocksPer100": 2.127659574468085,
+      "orebPct": 0,
+      "drebPct": 0.07142857142857142,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630228": {
+      "minutes": 30,
+      "blocksPer100": 1.6129032258064515,
+      "orebPct": 0.03571428571428571,
+      "drebPct": 0,
+      "shootingFoulsPer100": 3.225806451612903,
+      "corner3PAPer36": 3.6
+    },
+    "1630230": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.041666666666666664,
+      "drebPct": 0.04,
+      "shootingFoulsPer100": 3.389830508474576,
+      "corner3PAPer36": 1.2413793103448276
+    },
+    "1630245": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.08823529411764706,
+      "drebPct": 0.08,
+      "shootingFoulsPer100": 1.5625,
+      "corner3PAPer36": 1.2413793103448276
+    },
+    "1630249": {
+      "minutes": 15,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.09523809523809523,
+      "shootingFoulsPer100": 2.9411764705882355,
+      "corner3PAPer36": 0
+    },
+    "1630256": {
+      "minutes": 2,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630311": {
+      "minutes": 7,
+      "blocksPer100": 6.25,
+      "orebPct": 0,
+      "drebPct": 0.375,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630314": {
+      "minutes": 18,
+      "blocksPer100": 0,
+      "orebPct": 0.08333333333333333,
+      "drebPct": 0.15384615384615385,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630529": {
+      "minutes": 17,
+      "blocksPer100": 0,
+      "orebPct": 0.06666666666666667,
+      "drebPct": 0.06666666666666667,
+      "shootingFoulsPer100": 2.5641025641025643,
+      "corner3PAPer36": 0
+    },
+    "1630530": {
+      "minutes": 32,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.06896551724137931,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630532": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.041666666666666664,
+      "drebPct": 0.14814814814814814,
+      "shootingFoulsPer100": 2.9411764705882355,
+      "corner3PAPer36": 3.7241379310344827
+    },
+    "1630533": {
+      "minutes": 24,
+      "blocksPer100": 0,
+      "orebPct": 0.07692307692307693,
+      "drebPct": 0.03333333333333333,
+      "shootingFoulsPer100": 2,
+      "corner3PAPer36": 1.5
+    },
+    "1630538": {
+      "minutes": 4,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.5,
+      "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
     "1630540": {
@@ -290,12 +1194,84 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 7.714285714285714
     },
+    "1630543": {
+      "minutes": 15,
+      "blocksPer100": 0,
+      "orebPct": 0.09090909090909091,
+      "drebPct": 0.3076923076923077,
+      "shootingFoulsPer100": 6.451612903225806,
+      "corner3PAPer36": 0
+    },
+    "1630545": {
+      "minutes": 20,
+      "blocksPer100": 0,
+      "orebPct": 0.04,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 7.2
+    },
+    "1630549": {
+      "minutes": 30,
+      "blocksPer100": 4.838709677419355,
+      "orebPct": 0.1111111111111111,
+      "drebPct": 0.10810810810810811,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630551": {
+      "minutes": 21,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.3333333333333333,
+      "shootingFoulsPer100": 2.3255813953488373,
+      "corner3PAPer36": 1.7142857142857142
+    },
+    "1630552": {
+      "minutes": 28,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.4,
+      "shootingFoulsPer100": 5.970149253731344,
+      "corner3PAPer36": 0
+    },
+    "1630558": {
+      "minutes": 33,
+      "blocksPer100": 1.36986301369863,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630559": {
+      "minutes": 32,
+      "blocksPer100": 1.492537313432836,
+      "orebPct": 0.05,
+      "drebPct": 0.10714285714285714,
+      "shootingFoulsPer100": 1.492537313432836,
+      "corner3PAPer36": 0
+    },
+    "1630567": {
+      "minutes": 26,
+      "blocksPer100": 0,
+      "orebPct": 0.06060606060606061,
+      "drebPct": 0.125,
+      "shootingFoulsPer100": 1.5873015873015872,
+      "corner3PAPer36": 1.3846153846153846
+    },
     "1630568": {
       "minutes": 8,
       "blocksPer100": 0,
       "orebPct": 0.25,
       "drebPct": 0,
       "shootingFoulsPer100": 13.333333333333334,
+      "corner3PAPer36": 0
+    },
+    "1630572": {
+      "minutes": 22,
+      "blocksPer100": 0,
+      "orebPct": 0.1111111111111111,
+      "drebPct": 0.06666666666666667,
+      "shootingFoulsPer100": 2.0408163265306123,
       "corner3PAPer36": 0
     },
     "1630573": {
@@ -314,6 +1290,46 @@
       "shootingFoulsPer100": 1.5625,
       "corner3PAPer36": 3.6
     },
+    "1630578": {
+      "minutes": 30,
+      "blocksPer100": 0,
+      "orebPct": 0.17391304347826086,
+      "drebPct": 0.15384615384615385,
+      "shootingFoulsPer100": 1.7241379310344827,
+      "corner3PAPer36": 0
+    },
+    "1630579": {
+      "minutes": 2,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630581": {
+      "minutes": 24,
+      "blocksPer100": 0,
+      "orebPct": 0.058823529411764705,
+      "drebPct": 0.16,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 1.5
+    },
+    "1630590": {
+      "minutes": 20,
+      "blocksPer100": 0,
+      "orebPct": 0.09090909090909091,
+      "drebPct": 0,
+      "shootingFoulsPer100": 2.272727272727273,
+      "corner3PAPer36": 1.8
+    },
+    "1630591": {
+      "minutes": 32,
+      "blocksPer100": 0,
+      "orebPct": 0.043478260869565216,
+      "drebPct": 0.08333333333333333,
+      "shootingFoulsPer100": 1.3888888888888888,
+      "corner3PAPer36": 2.25
+    },
     "1630595": {
       "minutes": 35,
       "blocksPer100": 1.3333333333333333,
@@ -321,6 +1337,30 @@
       "drebPct": 0.1111111111111111,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 2.057142857142857
+    },
+    "1630598": {
+      "minutes": 32,
+      "blocksPer100": 0,
+      "orebPct": 0.03225806451612903,
+      "drebPct": 0.03125,
+      "shootingFoulsPer100": 2.73972602739726,
+      "corner3PAPer36": 0
+    },
+    "1630611": {
+      "minutes": 25,
+      "blocksPer100": 0,
+      "orebPct": 0.06896551724137931,
+      "drebPct": 0.17647058823529413,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 2.88
+    },
+    "1630619": {
+      "minutes": 2,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
     },
     "1630631": {
       "minutes": 16,
@@ -330,6 +1370,62 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 2.25
     },
+    "1630692": {
+      "minutes": 22,
+      "blocksPer100": 0,
+      "orebPct": 0.04,
+      "drebPct": 0.1875,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630695": {
+      "minutes": 12,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.1875,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630700": {
+      "minutes": 35,
+      "blocksPer100": 0,
+      "orebPct": 0.03225806451612903,
+      "drebPct": 0.1,
+      "shootingFoulsPer100": 2.4390243902439024,
+      "corner3PAPer36": 0
+    },
+    "1630702": {
+      "minutes": 7,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.1111111111111111,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1630703": {
+      "minutes": 19,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.09090909090909091,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 3.789473684210526
+    },
+    "1631094": {
+      "minutes": 41,
+      "blocksPer100": 0,
+      "orebPct": 0.02631578947368421,
+      "drebPct": 0.13157894736842105,
+      "shootingFoulsPer100": 1.0416666666666667,
+      "corner3PAPer36": 0
+    },
+    "1631095": {
+      "minutes": 36,
+      "blocksPer100": 0,
+      "orebPct": 0.06666666666666667,
+      "drebPct": 0.10344827586206896,
+      "shootingFoulsPer100": 1.36986301369863,
+      "corner3PAPer36": 4
+    },
     "1631096": {
       "minutes": 31,
       "blocksPer100": 6.0606060606060606,
@@ -337,6 +1433,22 @@
       "drebPct": 0.08108108108108109,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 1.1612903225806452
+    },
+    "1631097": {
+      "minutes": 18,
+      "blocksPer100": 0,
+      "orebPct": 0.06666666666666667,
+      "drebPct": 0.11764705882352941,
+      "shootingFoulsPer100": 5.128205128205129,
+      "corner3PAPer36": 0
+    },
+    "1631099": {
+      "minutes": 28,
+      "blocksPer100": 0,
+      "orebPct": 0.03333333333333333,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 1.6666666666666667,
+      "corner3PAPer36": 2.5714285714285716
     },
     "1631105": {
       "minutes": 28,
@@ -346,6 +1458,30 @@
       "shootingFoulsPer100": 1.6666666666666667,
       "corner3PAPer36": 0
     },
+    "1631106": {
+      "minutes": 3,
+      "blocksPer100": 0,
+      "orebPct": 0.3333333333333333,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1631107": {
+      "minutes": 24,
+      "blocksPer100": 2.0408163265306123,
+      "orebPct": 0,
+      "drebPct": 0.13793103448275862,
+      "shootingFoulsPer100": 2.0408163265306123,
+      "corner3PAPer36": 3
+    },
+    "1631108": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.043478260869565216,
+      "drebPct": 0.045454545454545456,
+      "shootingFoulsPer100": 1.7857142857142858,
+      "corner3PAPer36": 3.7241379310344827
+    },
     "1631114": {
       "minutes": 30,
       "blocksPer100": 1.5384615384615385,
@@ -353,6 +1489,14 @@
       "drebPct": 0.2,
       "shootingFoulsPer100": 1.5384615384615385,
       "corner3PAPer36": 1.2
+    },
+    "1631117": {
+      "minutes": 30,
+      "blocksPer100": 3.278688524590164,
+      "orebPct": 0.10526315789473684,
+      "drebPct": 0.25925925925925924,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
     },
     "1631119": {
       "minutes": 17,
@@ -362,11 +1506,107 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 4.235294117647059
     },
+    "1631123": {
+      "minutes": 7,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.25,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "1631133": {
       "minutes": 3,
       "blocksPer100": 0,
       "orebPct": 0,
       "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1631157": {
+      "minutes": 24,
+      "blocksPer100": 0,
+      "orebPct": 0.08333333333333333,
+      "drebPct": 0.19047619047619047,
+      "shootingFoulsPer100": 3.8461538461538463,
+      "corner3PAPer36": 0
+    },
+    "1631159": {
+      "minutes": 26,
+      "blocksPer100": 0,
+      "orebPct": 0.06896551724137931,
+      "drebPct": 0.14814814814814814,
+      "shootingFoulsPer100": 3.225806451612903,
+      "corner3PAPer36": 0
+    },
+    "1631165": {
+      "minutes": 34,
+      "blocksPer100": 1.408450704225352,
+      "orebPct": 0.03125,
+      "drebPct": 0.02631578947368421,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 2.1176470588235294
+    },
+    "1631170": {
+      "minutes": 31,
+      "blocksPer100": 0,
+      "orebPct": 0.06896551724137931,
+      "drebPct": 0.1724137931034483,
+      "shootingFoulsPer100": 1.4285714285714286,
+      "corner3PAPer36": 0
+    },
+    "1631172": {
+      "minutes": 21,
+      "blocksPer100": 0,
+      "orebPct": 0.09523809523809523,
+      "drebPct": 0.1111111111111111,
+      "shootingFoulsPer100": 4.651162790697675,
+      "corner3PAPer36": 1.7142857142857142
+    },
+    "1631204": {
+      "minutes": 24,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.04,
+      "shootingFoulsPer100": 3.8461538461538463,
+      "corner3PAPer36": 3
+    },
+    "1631217": {
+      "minutes": 34,
+      "blocksPer100": 0,
+      "orebPct": 0.11627906976744186,
+      "drebPct": 0.10714285714285714,
+      "shootingFoulsPer100": 5.555555555555555,
+      "corner3PAPer36": 0
+    },
+    "1631218": {
+      "minutes": 10,
+      "blocksPer100": 0,
+      "orebPct": 0.16666666666666666,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1631221": {
+      "minutes": 21,
+      "blocksPer100": 0,
+      "orebPct": 0.043478260869565216,
+      "drebPct": 0,
+      "shootingFoulsPer100": 2.1739130434782608,
+      "corner3PAPer36": 1.7142857142857142
+    },
+    "1631222": {
+      "minutes": 18,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.08695652173913043,
+      "shootingFoulsPer100": 7.894736842105263,
+      "corner3PAPer36": 4
+    },
+    "1631245": {
+      "minutes": 16,
+      "blocksPer100": 0,
+      "orebPct": 0.07142857142857142,
+      "drebPct": 0.16666666666666666,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
@@ -378,6 +1618,46 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
+    "1631260": {
+      "minutes": 15,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 2.4
+    },
+    "1631288": {
+      "minutes": 14,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 3.125,
+      "corner3PAPer36": 0
+    },
+    "1631321": {
+      "minutes": 25,
+      "blocksPer100": 0,
+      "orebPct": 0.041666666666666664,
+      "drebPct": 0.1,
+      "shootingFoulsPer100": 1.8518518518518519,
+      "corner3PAPer36": 2.88
+    },
+    "1631323": {
+      "minutes": 3,
+      "blocksPer100": 16.666666666666668,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1631342": {
+      "minutes": 13,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.18181818181818182,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "1641705": {
       "minutes": 34,
       "blocksPer100": 8.333333333333334,
@@ -385,6 +1665,22 @@
       "drebPct": 0.2564102564102564,
       "shootingFoulsPer100": 1.3888888888888888,
       "corner3PAPer36": 0
+    },
+    "1641706": {
+      "minutes": 36,
+      "blocksPer100": 1.2987012987012987,
+      "orebPct": 0.027777777777777776,
+      "drebPct": 0.0625,
+      "shootingFoulsPer100": 1.2987012987012987,
+      "corner3PAPer36": 1
+    },
+    "1641708": {
+      "minutes": 33,
+      "blocksPer100": 0,
+      "orebPct": 0.1935483870967742,
+      "drebPct": 0.17391304347826086,
+      "shootingFoulsPer100": 1.4285714285714286,
+      "corner3PAPer36": 1.0909090909090908
     },
     "1641709": {
       "minutes": 33,
@@ -394,6 +1690,30 @@
       "shootingFoulsPer100": 2.985074626865672,
       "corner3PAPer36": 1.0909090909090908
     },
+    "1641711": {
+      "minutes": 19,
+      "blocksPer100": 2.272727272727273,
+      "orebPct": 0,
+      "drebPct": 0.17647058823529413,
+      "shootingFoulsPer100": 6.818181818181818,
+      "corner3PAPer36": 1.894736842105263
+    },
+    "1641713": {
+      "minutes": 19,
+      "blocksPer100": 4.651162790697675,
+      "orebPct": 0.10526315789473684,
+      "drebPct": 0.25,
+      "shootingFoulsPer100": 2.3255813953488373,
+      "corner3PAPer36": 1.894736842105263
+    },
+    "1641716": {
+      "minutes": 19,
+      "blocksPer100": 2.4390243902439024,
+      "orebPct": 0,
+      "drebPct": 0.3,
+      "shootingFoulsPer100": 2.4390243902439024,
+      "corner3PAPer36": 0
+    },
     "1641717": {
       "minutes": 19,
       "blocksPer100": 0,
@@ -401,6 +1721,38 @@
       "drebPct": 0.14285714285714285,
       "shootingFoulsPer100": 4.761904761904762,
       "corner3PAPer36": 1.894736842105263
+    },
+    "1641718": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.05,
+      "drebPct": 0.0625,
+      "shootingFoulsPer100": 3.4482758620689653,
+      "corner3PAPer36": 0
+    },
+    "1641729": {
+      "minutes": 14,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.13333333333333333,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1641730": {
+      "minutes": 22,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.15789473684210525,
+      "shootingFoulsPer100": 6.818181818181818,
+      "corner3PAPer36": 0
+    },
+    "1641731": {
+      "minutes": 29,
+      "blocksPer100": 2.985074626865672,
+      "orebPct": 0.037037037037037035,
+      "drebPct": 0.03571428571428571,
+      "shootingFoulsPer100": 2.985074626865672,
+      "corner3PAPer36": 3.7241379310344827
     },
     "1641737": {
       "minutes": 10,
@@ -410,6 +1762,46 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
+    "1641739": {
+      "minutes": 23,
+      "blocksPer100": 0,
+      "orebPct": 0.04,
+      "drebPct": 0.037037037037037035,
+      "shootingFoulsPer100": 2.2222222222222223,
+      "corner3PAPer36": 3.130434782608696
+    },
+    "1641740": {
+      "minutes": 3,
+      "blocksPer100": 0,
+      "orebPct": 0.2,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1641744": {
+      "minutes": 21,
+      "blocksPer100": 4.761904761904762,
+      "orebPct": 0.15,
+      "drebPct": 0.3,
+      "shootingFoulsPer100": 7.142857142857143,
+      "corner3PAPer36": 0
+    },
+    "1641750": {
+      "minutes": 14,
+      "blocksPer100": 7.407407407407407,
+      "orebPct": 0.3333333333333333,
+      "drebPct": 0.13333333333333333,
+      "shootingFoulsPer100": 7.407407407407407,
+      "corner3PAPer36": 0
+    },
+    "1641767": {
+      "minutes": 12,
+      "blocksPer100": 0,
+      "orebPct": 0.0625,
+      "drebPct": 0,
+      "shootingFoulsPer100": 11.538461538461538,
+      "corner3PAPer36": 3
+    },
     "1641775": {
       "minutes": 13,
       "blocksPer100": 3.7037037037037037,
@@ -417,6 +1809,30 @@
       "drebPct": 0.23076923076923078,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
+    },
+    "1641783": {
+      "minutes": 28,
+      "blocksPer100": 1.5625,
+      "orebPct": 0,
+      "drebPct": 0.04,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 2.5714285714285716
+    },
+    "1641796": {
+      "minutes": 24,
+      "blocksPer100": 1.7857142857142858,
+      "orebPct": 0,
+      "drebPct": 0.12,
+      "shootingFoulsPer100": 5.357142857142857,
+      "corner3PAPer36": 1.5
+    },
+    "1641824": {
+      "minutes": 25,
+      "blocksPer100": 3.3333333333333335,
+      "orebPct": 0.038461538461538464,
+      "drebPct": 0.16,
+      "shootingFoulsPer100": 3.3333333333333335,
+      "corner3PAPer36": 2.88
     },
     "1641842": {
       "minutes": 3,
@@ -426,6 +1842,54 @@
       "shootingFoulsPer100": 16.666666666666668,
       "corner3PAPer36": 12
     },
+    "1641871": {
+      "minutes": 9,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.1111111111111111,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642066": {
+      "minutes": 3,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.4,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642258": {
+      "minutes": 27,
+      "blocksPer100": 0,
+      "orebPct": 0.05555555555555555,
+      "drebPct": 0.19230769230769232,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642259": {
+      "minutes": 24,
+      "blocksPer100": 0,
+      "orebPct": 0.16,
+      "drebPct": 0.16,
+      "shootingFoulsPer100": 1.8181818181818181,
+      "corner3PAPer36": 3
+    },
+    "1642262": {
+      "minutes": 3,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642263": {
+      "minutes": 16,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 2.7027027027027026,
+      "corner3PAPer36": 2.25
+    },
     "1642264": {
       "minutes": 28,
       "blocksPer100": 0,
@@ -433,6 +1897,46 @@
       "drebPct": 0.16129032258064516,
       "shootingFoulsPer100": 1.7241379310344827,
       "corner3PAPer36": 5.142857142857143
+    },
+    "1642266": {
+      "minutes": 23,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.10344827586206896,
+      "shootingFoulsPer100": 5.357142857142857,
+      "corner3PAPer36": 1.565217391304348
+    },
+    "1642267": {
+      "minutes": 18,
+      "blocksPer100": 0,
+      "orebPct": 0.0625,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 4
+    },
+    "1642268": {
+      "minutes": 16,
+      "blocksPer100": 0,
+      "orebPct": 0.06666666666666667,
+      "drebPct": 0.18181818181818182,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642270": {
+      "minutes": 21,
+      "blocksPer100": 0,
+      "orebPct": 0.09090909090909091,
+      "drebPct": 0.20833333333333334,
+      "shootingFoulsPer100": 5.128205128205129,
+      "corner3PAPer36": 0
+    },
+    "1642271": {
+      "minutes": 9,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 4
     },
     "1642272": {
       "minutes": 22,
@@ -442,12 +1946,92 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 1.6363636363636365
     },
+    "1642273": {
+      "minutes": 29,
+      "blocksPer100": 1.5625,
+      "orebPct": 0,
+      "drebPct": 0.16666666666666666,
+      "shootingFoulsPer100": 1.5625,
+      "corner3PAPer36": 2.4827586206896552
+    },
+    "1642274": {
+      "minutes": 30,
+      "blocksPer100": 4.761904761904762,
+      "orebPct": 0.21212121212121213,
+      "drebPct": 0.2916666666666667,
+      "shootingFoulsPer100": 3.1746031746031744,
+      "corner3PAPer36": 0
+    },
+    "1642276": {
+      "minutes": 14,
+      "blocksPer100": 0,
+      "orebPct": 0.11764705882352941,
+      "drebPct": 0.1111111111111111,
+      "shootingFoulsPer100": 18.51851851851852,
+      "corner3PAPer36": 0
+    },
+    "1642284": {
+      "minutes": 5,
+      "blocksPer100": 0,
+      "orebPct": 0.25,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642285": {
+      "minutes": 16,
+      "blocksPer100": 0,
+      "orebPct": 0.058823529411764705,
+      "drebPct": 0.2222222222222222,
+      "shootingFoulsPer100": 2.6315789473684212,
+      "corner3PAPer36": 0
+    },
+    "1642345": {
+      "minutes": 15,
+      "blocksPer100": 0,
+      "orebPct": 0.14285714285714285,
+      "drebPct": 0.07142857142857142,
+      "shootingFoulsPer100": 6.666666666666667,
+      "corner3PAPer36": 0
+    },
+    "1642346": {
+      "minutes": 14,
+      "blocksPer100": 0,
+      "orebPct": 0.058823529411764705,
+      "drebPct": 0.07142857142857142,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642347": {
+      "minutes": 16,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.09523809523809523,
+      "shootingFoulsPer100": 2.857142857142857,
+      "corner3PAPer36": 0
+    },
     "1642349": {
       "minutes": 23,
       "blocksPer100": 0,
       "orebPct": 0,
       "drebPct": 0.17857142857142858,
       "shootingFoulsPer100": 6.25,
+      "corner3PAPer36": 0
+    },
+    "1642353": {
+      "minutes": 2,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642355": {
+      "minutes": 7,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
     "1642357": {
@@ -458,12 +2042,84 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
+    "1642363": {
+      "minutes": 17,
+      "blocksPer100": 0,
+      "orebPct": 0.07692307692307693,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 2.1176470588235294
+    },
+    "1642366": {
+      "minutes": 19,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.07142857142857142,
+      "shootingFoulsPer100": 4.545454545454546,
+      "corner3PAPer36": 3.789473684210526
+    },
+    "1642367": {
+      "minutes": 8,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 5.882352941176471,
+      "corner3PAPer36": 0
+    },
+    "1642377": {
+      "minutes": 28,
+      "blocksPer100": 0,
+      "orebPct": 0.1111111111111111,
+      "drebPct": 0.09090909090909091,
+      "shootingFoulsPer100": 1.6666666666666667,
+      "corner3PAPer36": 0
+    },
+    "1642384": {
+      "minutes": 3,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 12
+    },
+    "1642394": {
+      "minutes": 9,
+      "blocksPer100": 0,
+      "orebPct": 0.14285714285714285,
+      "drebPct": 0.3333333333333333,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642419": {
+      "minutes": 11,
+      "blocksPer100": 0,
+      "orebPct": 0.2222222222222222,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 7.142857142857143,
+      "corner3PAPer36": 3.272727272727273
+    },
     "1642450": {
       "minutes": 15,
       "blocksPer100": 0,
       "orebPct": 0.14285714285714285,
       "drebPct": 0,
       "shootingFoulsPer100": 9.67741935483871,
+      "corner3PAPer36": 0
+    },
+    "1642502": {
+      "minutes": 9,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.1111111111111111,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 4
+    },
+    "1642843": {
+      "minutes": 33,
+      "blocksPer100": 1.492537313432836,
+      "orebPct": 0,
+      "drebPct": 0.2,
+      "shootingFoulsPer100": 1.492537313432836,
       "corner3PAPer36": 0
     },
     "1642844": {
@@ -482,6 +2138,102 @@
       "shootingFoulsPer100": 5.2631578947368425,
       "corner3PAPer36": 2.057142857142857
     },
+    "1642846": {
+      "minutes": 24,
+      "blocksPer100": 5.357142857142857,
+      "orebPct": 0.09523809523809523,
+      "drebPct": 0.13636363636363635,
+      "shootingFoulsPer100": 3.5714285714285716,
+      "corner3PAPer36": 4.5
+    },
+    "1642847": {
+      "minutes": 21,
+      "blocksPer100": 0,
+      "orebPct": 0.038461538461538464,
+      "drebPct": 0.10526315789473684,
+      "shootingFoulsPer100": 6.666666666666667,
+      "corner3PAPer36": 0
+    },
+    "1642848": {
+      "minutes": 19,
+      "blocksPer100": 2.7027027027027026,
+      "orebPct": 0,
+      "drebPct": 0.041666666666666664,
+      "shootingFoulsPer100": 5.405405405405405,
+      "corner3PAPer36": 0
+    },
+    "1642849": {
+      "minutes": 16,
+      "blocksPer100": 0,
+      "orebPct": 0.15384615384615385,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642852": {
+      "minutes": 18,
+      "blocksPer100": 0,
+      "orebPct": 0.058823529411764705,
+      "drebPct": 0.42105263157894735,
+      "shootingFoulsPer100": 4.878048780487805,
+      "corner3PAPer36": 0
+    },
+    "1642853": {
+      "minutes": 12,
+      "blocksPer100": 3.8461538461538463,
+      "orebPct": 0.0625,
+      "drebPct": 0.08333333333333333,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 9
+    },
+    "1642855": {
+      "minutes": 10,
+      "blocksPer100": 0,
+      "orebPct": 0.07692307692307693,
+      "drebPct": 0.25,
+      "shootingFoulsPer100": 4.166666666666667,
+      "corner3PAPer36": 0
+    },
+    "1642856": {
+      "minutes": 27,
+      "blocksPer100": 0,
+      "orebPct": 0.08695652173913043,
+      "drebPct": 0.06451612903225806,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642857": {
+      "minutes": 26,
+      "blocksPer100": 1.8181818181818181,
+      "orebPct": 0.03571428571428571,
+      "drebPct": 0.09523809523809523,
+      "shootingFoulsPer100": 3.6363636363636362,
+      "corner3PAPer36": 0
+    },
+    "1642859": {
+      "minutes": 14,
+      "blocksPer100": 5.555555555555555,
+      "orebPct": 0,
+      "drebPct": 0.10526315789473684,
+      "shootingFoulsPer100": 2.7777777777777777,
+      "corner3PAPer36": 0
+    },
+    "1642862": {
+      "minutes": 3,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 1,
+      "shootingFoulsPer100": 16.666666666666668,
+      "corner3PAPer36": 12
+    },
+    "1642863": {
+      "minutes": 17,
+      "blocksPer100": 3.3333333333333335,
+      "orebPct": 0.09090909090909091,
+      "drebPct": 0.23529411764705882,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "1642864": {
       "minutes": 10,
       "blocksPer100": 0,
@@ -489,6 +2241,30 @@
       "drebPct": 0.25,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 3.6
+    },
+    "1642865": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.06060606060606061,
+      "drebPct": 0.047619047619047616,
+      "shootingFoulsPer100": 4.838709677419355,
+      "corner3PAPer36": 0
+    },
+    "1642866": {
+      "minutes": 14,
+      "blocksPer100": 0,
+      "orebPct": 0.16666666666666666,
+      "drebPct": 0.14285714285714285,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642867": {
+      "minutes": 20,
+      "blocksPer100": 2.272727272727273,
+      "orebPct": 0.08695652173913043,
+      "drebPct": 0.18181818181818182,
+      "shootingFoulsPer100": 2.272727272727273,
+      "corner3PAPer36": 0
     },
     "1642868": {
       "minutes": 6,
@@ -498,6 +2274,14 @@
       "shootingFoulsPer100": 7.142857142857143,
       "corner3PAPer36": 0
     },
+    "1642883": {
+      "minutes": 27,
+      "blocksPer100": 0,
+      "orebPct": 0.029411764705882353,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 1.7857142857142858,
+      "corner3PAPer36": 5.333333333333333
+    },
     "1642892": {
       "minutes": 1,
       "blocksPer100": 0,
@@ -506,10 +2290,186 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
+    "1642905": {
+      "minutes": 12,
+      "blocksPer100": 0,
+      "orebPct": 0.08333333333333333,
+      "drebPct": 0.125,
+      "shootingFoulsPer100": 7.6923076923076925,
+      "corner3PAPer36": 0
+    },
+    "1642907": {
+      "minutes": 28,
+      "blocksPer100": 1.6666666666666667,
+      "orebPct": 0,
+      "drebPct": 0.21428571428571427,
+      "shootingFoulsPer100": 8.333333333333334,
+      "corner3PAPer36": 0
+    },
+    "1642912": {
+      "minutes": 2,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 1,
+      "shootingFoulsPer100": 25,
+      "corner3PAPer36": 0
+    },
+    "1642918": {
+      "minutes": 5,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1642920": {
+      "minutes": 19,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 6.818181818181818,
+      "corner3PAPer36": 0
+    },
+    "1642954": {
+      "minutes": 20,
+      "blocksPer100": 0,
+      "orebPct": 0.13333333333333333,
+      "drebPct": 0.058823529411764705,
+      "shootingFoulsPer100": 2.2222222222222223,
+      "corner3PAPer36": 0
+    },
     "1642964": {
       "minutes": 1,
       "blocksPer100": 0,
       "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1643018": {
+      "minutes": 9,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.1111111111111111,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1643024": {
+      "minutes": 6,
+      "blocksPer100": 0,
+      "orebPct": 0.125,
+      "drebPct": 0,
+      "shootingFoulsPer100": 7.142857142857143,
+      "corner3PAPer36": 6
+    },
+    "1643052": {
+      "minutes": 5,
+      "blocksPer100": 0,
+      "orebPct": 0.14285714285714285,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 7.2
+    },
+    "1643257": {
+      "minutes": 7,
+      "blocksPer100": 0,
+      "orebPct": 0.125,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 5.142857142857143
+    },
+    "1643408": {
+      "minutes": 31,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.11428571428571428,
+      "shootingFoulsPer100": 3.225806451612903,
+      "corner3PAPer36": 0
+    },
+    "1643409": {
+      "minutes": 33,
+      "blocksPer100": 0,
+      "orebPct": 0.03225806451612903,
+      "drebPct": 0.25806451612903225,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1643410": {
+      "minutes": 32,
+      "blocksPer100": 1.3157894736842106,
+      "orebPct": 0.08571428571428572,
+      "drebPct": 0.04,
+      "shootingFoulsPer100": 2.6315789473684212,
+      "corner3PAPer36": 4.5
+    },
+    "1643411": {
+      "minutes": 35,
+      "blocksPer100": 0,
+      "orebPct": 0.024390243902439025,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 2.7027027027027026,
+      "corner3PAPer36": 0
+    },
+    "1643412": {
+      "minutes": 15,
+      "blocksPer100": 2.9411764705882355,
+      "orebPct": 0.05555555555555555,
+      "drebPct": 0.21428571428571427,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1643413": {
+      "minutes": 29,
+      "blocksPer100": 0,
+      "orebPct": 0.05,
+      "drebPct": 0.13793103448275862,
+      "shootingFoulsPer100": 2.985074626865672,
+      "corner3PAPer36": 1.2413793103448276
+    },
+    "1643414": {
+      "minutes": 20,
+      "blocksPer100": 0,
+      "orebPct": 0.05,
+      "drebPct": 0.09523809523809523,
+      "shootingFoulsPer100": 2.5641025641025643,
+      "corner3PAPer36": 0
+    },
+    "1643415": {
+      "minutes": 16,
+      "blocksPer100": 0,
+      "orebPct": 0.05555555555555555,
+      "drebPct": 0.2727272727272727,
+      "shootingFoulsPer100": 3.5714285714285716,
+      "corner3PAPer36": 0
+    },
+    "1643512": {
+      "minutes": 19,
+      "blocksPer100": 6.976744186046512,
+      "orebPct": 0.15,
+      "drebPct": 0.041666666666666664,
+      "shootingFoulsPer100": 2.3255813953488373,
+      "corner3PAPer36": 3.789473684210526
+    },
+    "1643515": {
+      "minutes": 13,
+      "blocksPer100": 0,
+      "orebPct": 0.08333333333333333,
+      "drebPct": 0.07142857142857142,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1643516": {
+      "minutes": 14,
+      "blocksPer100": 0,
+      "orebPct": 0.07142857142857142,
+      "drebPct": 0.16666666666666666,
+      "shootingFoulsPer100": 12.121212121212121,
+      "corner3PAPer36": 0
+    },
+    "1643520": {
+      "minutes": 7,
+      "blocksPer100": 0,
+      "orebPct": 0.125,
       "drebPct": 0,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
@@ -530,6 +2490,14 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
     },
+    "1643547": {
+      "minutes": 7,
+      "blocksPer100": 0,
+      "orebPct": 0.16666666666666666,
+      "drebPct": 0.16666666666666666,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "1643551": {
       "minutes": 1,
       "blocksPer100": 0,
@@ -538,6 +2506,46 @@
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 36
     },
+    "1643553": {
+      "minutes": 3,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 16.666666666666668,
+      "corner3PAPer36": 12
+    },
+    "1643558": {
+      "minutes": 5,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1643567": {
+      "minutes": 17,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.07692307692307693,
+      "shootingFoulsPer100": 5.405405405405405,
+      "corner3PAPer36": 0
+    },
+    "1643568": {
+      "minutes": 2,
+      "blocksPer100": 0,
+      "orebPct": 0.3333333333333333,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
+    "1643570": {
+      "minutes": 2,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0,
+      "shootingFoulsPer100": 0,
+      "corner3PAPer36": 0
+    },
     "1643576": {
       "minutes": 1,
       "blocksPer100": 0,
@@ -545,6 +2553,30 @@
       "drebPct": 0,
       "shootingFoulsPer100": 0,
       "corner3PAPer36": 0
+    },
+    "1643591": {
+      "minutes": 14,
+      "blocksPer100": 3.0303030303030303,
+      "orebPct": 0.4,
+      "drebPct": 0.1,
+      "shootingFoulsPer100": 3.0303030303030303,
+      "corner3PAPer36": 0
+    },
+    "1643633": {
+      "minutes": 12,
+      "blocksPer100": 3.8461538461538463,
+      "orebPct": 0.07142857142857142,
+      "drebPct": 0.08333333333333333,
+      "shootingFoulsPer100": 7.6923076923076925,
+      "corner3PAPer36": 0
+    },
+    "1643637": {
+      "minutes": 14,
+      "blocksPer100": 0,
+      "orebPct": 0,
+      "drebPct": 0.1,
+      "shootingFoulsPer100": 6.0606060606060606,
+      "corner3PAPer36": 2.5714285714285716
     }
   }
 }

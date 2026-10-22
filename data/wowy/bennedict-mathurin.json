@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "LAC",
-  "gp": 54,
-  "generatedAt": "2026-10-02T03:32:34.551Z",
+  "season": "2026-27",
+  "team": "NOP",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:12:11.496Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · LAC",
-      "minutes": 729,
-      "poss": 1493.5,
-      "net": 4.48610646133244
+      "sub": "2026–27 · NOP",
+      "minutes": 18,
+      "poss": 39,
+      "net": -13
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · LAC",
-      "minutes": 3227,
-      "poss": 6462.5,
-      "net": 0.402321083172147
+      "sub": "2026–27 · NOP",
+      "minutes": 30,
+      "poss": 66,
+      "net": 3.1
     },
     {
-      "label": "On, w/o Dunn",
-      "sub": "2025–26 · LAC",
-      "minutes": 384,
-      "poss": 787,
-      "net": 8.005082592121983
+      "label": "On, w/o Murray",
+      "sub": "2026–27 · NOP",
+      "minutes": 14,
+      "poss": 30,
+      "net": 10.2
     },
     {
-      "label": "On, w/o Leonard",
-      "sub": "2025–26 · LAC",
-      "minutes": 439,
-      "poss": 897,
-      "net": -0.33444816053511706
+      "label": "On, w/o Murphy III",
+      "sub": "2026–27 · NOP",
+      "minutes": 13,
+      "poss": 28,
+      "net": -25
     },
     {
-      "label": "On, w/o Collins",
-      "sub": "2025–26 · LAC",
-      "minutes": 535,
-      "poss": 1091,
-      "net": 8.615948670944087
+      "label": "On, w/o Williamson",
+      "sub": "2026–27 · NOP",
+      "minutes": 16,
+      "poss": 34,
+      "net": -11.8
     },
     {
-      "label": "Neither Mathurin nor Dunn",
-      "sub": "2025–26 · LAC",
-      "minutes": 1344,
-      "poss": 2695.5,
-      "net": 0.333889816360601
+      "label": "Neither Mathurin nor Murray",
+      "sub": "2026–27 · NOP",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     }
   ]
 }

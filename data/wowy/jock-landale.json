@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "ATL",
-  "gp": 68,
-  "generatedAt": "2026-10-02T05:12:36.482Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:23:19.631Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · ATL",
-      "minutes": 446,
-      "poss": 920,
-      "net": 3.6956521739130435
+      "sub": "2026–27 · ATL",
+      "minutes": 19,
+      "poss": 41,
+      "net": -12.3
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · ATL",
-      "minutes": 3505,
-      "poss": 7457,
-      "net": 2.1992758481963257
-    },
-    {
-      "label": "On, w/o Alexander-Walker",
-      "sub": "2025–26 · ATL",
-      "minutes": 196,
-      "poss": 404,
-      "net": -2.2277227722772275
-    },
-    {
-      "label": "On, w/o Johnson",
-      "sub": "2025–26 · ATL",
-      "minutes": 259,
-      "poss": 545.5,
-      "net": 6.782768102658111
+      "sub": "2026–27 · ATL",
+      "minutes": 29,
+      "poss": 70,
+      "net": 17.3
     },
     {
       "label": "On, w/o Daniels",
-      "sub": "2025–26 · ATL",
-      "minutes": 300,
-      "poss": 618,
-      "net": 2.750809061488673
+      "sub": "2026–27 · ATL",
+      "minutes": 13,
+      "poss": 27,
+      "net": -11.3
     },
     {
-      "label": "Neither Landale nor Alexander-Walker",
-      "sub": "2025–26 · ATL",
-      "minutes": 1152,
-      "poss": 2408,
-      "net": -1.5365448504983388
+      "label": "On, w/o Wiggins",
+      "sub": "2026–27 · ATL",
+      "minutes": 1,
+      "poss": 1,
+      "net": 300
+    },
+    {
+      "label": "On, w/o Alexander-Walker",
+      "sub": "2026–27 · ATL",
+      "minutes": 8,
+      "poss": 17,
+      "net": -72.7
+    },
+    {
+      "label": "Neither Landale nor Daniels",
+      "sub": "2026–27 · ATL",
+      "minutes": 0,
+      "poss": 2,
+      "net": 0
     }
   ]
 }

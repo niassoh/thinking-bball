@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "OKC",
-  "gp": 65,
-  "generatedAt": "2026-10-02T03:49:20.773Z",
+  "season": "2026-27",
+  "team": "ATL",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:13:13.815Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · OKC",
-      "minutes": 1414,
-      "poss": 2934,
-      "net": 6.0668029993183366
+      "sub": "2026–27 · ATL",
+      "minutes": 32,
+      "poss": 73,
+      "net": 2.7
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · OKC",
-      "minutes": 2557,
-      "poss": 5306,
-      "net": 13.871089332830758
+      "sub": "2026–27 · ATL",
+      "minutes": 16,
+      "poss": 37,
+      "net": 13.5
     },
     {
-      "label": "On, w/o Gilgeous-Alexander",
-      "sub": "2025–26 · OKC",
-      "minutes": 857,
-      "poss": 1771.5,
-      "net": 2.7095681625740897
+      "label": "On, w/o Daniels",
+      "sub": "2026–27 · ATL",
+      "minutes": 13,
+      "poss": 28,
+      "net": -10.7
     },
     {
-      "label": "On, w/o Wallace",
-      "sub": "2025–26 · OKC",
-      "minutes": 867,
-      "poss": 1789.5,
-      "net": 6.258731489242805
+      "label": "On, w/o Alexander-Walker",
+      "sub": "2026–27 · ATL",
+      "minutes": 12,
+      "poss": 29,
+      "net": -44.8
     },
     {
-      "label": "On, w/o Holmgren",
-      "sub": "2025–26 · OKC",
-      "minutes": 859,
-      "poss": 1790.5,
-      "net": 4.188774085450992
+      "label": "On, w/o Okongwu",
+      "sub": "2026–27 · ATL",
+      "minutes": 18,
+      "poss": 41,
+      "net": -14.6
     },
     {
-      "label": "Neither Wiggins nor Gilgeous-Alexander",
-      "sub": "2025–26 · OKC",
-      "minutes": 855,
-      "poss": 1735,
-      "net": 4.495677233429395
+      "label": "Neither Wiggins nor Daniels",
+      "sub": "2026–27 · ATL",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     }
   ]
 }

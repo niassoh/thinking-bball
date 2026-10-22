@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "MIA",
-  "gp": 77,
-  "generatedAt": "2026-10-02T05:01:10.202Z",
+  "season": "2026-27",
+  "team": "MIL",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:22:05.042Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · MIA",
-      "minutes": 1704,
-      "poss": 3671,
-      "net": -1.8251157722691365
+      "sub": "2026–27 · MIL",
+      "minutes": 14,
+      "poss": 27,
+      "net": -37
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · MIA",
-      "minutes": 2237,
-      "poss": 4824,
-      "net": 5.348258706467662
+      "sub": "2026–27 · MIL",
+      "minutes": 34,
+      "poss": 76,
+      "net": -2.6
     },
     {
-      "label": "On, w/o Adebayo",
-      "sub": "2025–26 · MIA",
-      "minutes": 1199,
-      "poss": 2608.5,
-      "net": -5.78876749089515
+      "label": "On, w/o Herro",
+      "sub": "2026–27 · MIL",
+      "minutes": 4,
+      "poss": 8,
+      "net": -26.7
+    },
+    {
+      "label": "On, w/o Turner",
+      "sub": "2026–27 · MIL",
+      "minutes": 14,
+      "poss": 27,
+      "net": -37
     },
     {
       "label": "On, w/o Jaquez Jr.",
-      "sub": "2025–26 · MIA",
-      "minutes": 729,
-      "poss": 1578.5,
-      "net": -2.5340513145391195
+      "sub": "2026–27 · MIL",
+      "minutes": 9,
+      "poss": 16,
+      "net": -77.4
     },
     {
-      "label": "On, w/o Wiggins",
-      "sub": "2025–26 · MIA",
-      "minutes": 995,
-      "poss": 2143,
-      "net": 0.4199720018665422
-    },
-    {
-      "label": "Neither Ware nor Adebayo",
-      "sub": "2025–26 · MIA",
-      "minutes": 377,
-      "poss": 852.5,
-      "net": 1.2903225806451613
+      "label": "Neither Ware nor Herro",
+      "sub": "2026–27 · MIL",
+      "minutes": 12,
+      "poss": 25,
+      "net": -16.3
     }
   ]
 }

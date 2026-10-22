@@ -1,72 +1,24 @@
 {
-  "season": "2025-26",
-  "generatedAt": "2026-10-02T03:46:02.180Z",
+  "season": "2026-27",
+  "generatedAt": "2026-10-22T10:11:21.214Z",
   "recent": {
-    "start": "2026-03-14",
-    "end": "2026-04-12",
-    "games": 14,
-    "seasonGames": 73
+    "start": "2026-09-22",
+    "end": "2026-10-21",
+    "games": 1,
+    "seasonGames": 1
   },
   "games": [
     {
-      "date": "2026-04-12",
-      "gameId": "0022501199",
-      "opp": "LAC",
-      "home": false,
-      "result": "L",
-      "pts": 2,
-      "reb": 2,
-      "ast": 1,
-      "ts": 50,
-      "oppRank": 16
-    },
-    {
-      "date": "2026-04-10",
-      "gameId": "0022501184",
-      "opp": "SAC",
-      "home": false,
-      "result": "L",
-      "pts": 10,
-      "reb": 3,
-      "ast": 0,
-      "ts": 83.3,
-      "oppRank": 28
-    },
-    {
-      "date": "2026-04-09",
-      "gameId": "0022501170",
+      "date": "2026-10-21",
+      "gameId": "0022600005",
       "opp": "LAL",
-      "home": true,
+      "home": false,
       "result": "L",
       "pts": 10,
       "reb": 1,
       "ast": 0,
-      "ts": 100,
-      "oppRank": 14
-    },
-    {
-      "date": "2026-04-07",
-      "gameId": "0022501154",
-      "opp": "SAC",
-      "home": true,
-      "result": "W",
-      "pts": 12,
-      "reb": 4,
-      "ast": 3,
-      "ts": 75,
-      "oppRank": 28
-    },
-    {
-      "date": "2026-04-05",
-      "gameId": "0022501142",
-      "opp": "HOU",
-      "home": true,
-      "result": "L",
-      "pts": 14,
-      "reb": 3,
-      "ast": 2,
-      "ts": 58.3,
-      "oppRank": 6
+      "ts": 55.6,
+      "oppRank": 5
     }
   ]
 }

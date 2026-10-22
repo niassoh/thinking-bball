@@ -1,12 +1,12 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-10-21T17:57:14.210Z",
+  "generatedAt": "2026-10-22T10:25:54.130Z",
   "window": {
     "days": 30,
     "seasonStart": "2026-10-20",
-    "restEnd": "2026-09-20",
-    "start": "2026-09-21",
-    "end": "2026-10-20"
+    "restEnd": "2026-09-21",
+    "start": "2026-09-22",
+    "end": "2026-10-21"
   },
   "zones": {
     "rim": {
@@ -52,20 +52,20 @@
   },
   "league": {
     "rim": {
-      "fga": 165,
-      "fgm": 93
+      "fga": 854,
+      "fgm": 543
     },
     "short_mid": {
-      "fga": 88,
-      "fgm": 31
+      "fga": 383,
+      "fgm": 155
     },
     "long_mid": {
-      "fga": 52,
-      "fgm": 18
+      "fga": 181,
+      "fgm": 67
     },
     "three": {
-      "fga": 213,
-      "fgm": 76
+      "fga": 955,
+      "fgm": 317
     }
   },
   "shots": [

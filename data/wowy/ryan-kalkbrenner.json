@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "CHA",
-  "gp": 69,
-  "generatedAt": "2026-10-02T05:03:18.950Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:22:20.141Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · CHA",
-      "minutes": 1479,
-      "poss": 3031,
-      "net": 1.5176509402837348
+      "sub": "2026–27 · CHA",
+      "minutes": 14,
+      "poss": 29,
+      "net": 77.2
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · CHA",
-      "minutes": 2472,
-      "poss": 4957.5,
-      "net": 7.060010085728694
+      "sub": "2026–27 · CHA",
+      "minutes": 34,
+      "poss": 72,
+      "net": -21
     },
     {
-      "label": "On, w/o Knueppel",
-      "sub": "2025–26 · CHA",
-      "minutes": 535,
-      "poss": 1069.5,
-      "net": null
+      "label": "On, w/o Miller",
+      "sub": "2026–27 · CHA",
+      "minutes": 8,
+      "poss": 16,
+      "net": 90.3
     },
     {
-      "label": "On, w/o Bridges",
-      "sub": "2025–26 · CHA",
-      "minutes": 716,
-      "poss": 1433.5,
-      "net": 9.138472270666202
+      "label": "On, w/o Schröder",
+      "sub": "2026–27 · CHA",
+      "minutes": 4,
+      "poss": 9,
+      "net": 111.1
     },
     {
-      "label": "On, w/o Ball",
-      "sub": "2025–26 · CHA",
-      "minutes": 840,
-      "poss": 1705,
-      "net": 3.343108504398827
+      "label": "On, w/o Diabaté",
+      "sub": "2026–27 · CHA",
+      "minutes": 14,
+      "poss": 29,
+      "net": 77.2
     },
     {
-      "label": "Neither Kalkbrenner nor Knueppel",
-      "sub": "2025–26 · CHA",
-      "minutes": 865,
-      "poss": 1712,
-      "net": 4.322429906542056
+      "label": "Neither Kalkbrenner nor Miller",
+      "sub": "2026–27 · CHA",
+      "minutes": 5,
+      "poss": 10,
+      "net": -31.6
     }
   ]
 }

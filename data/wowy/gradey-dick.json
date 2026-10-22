@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "TOR",
-  "gp": 76,
-  "generatedAt": "2026-10-02T03:27:26.189Z",
+  "season": "2026-27",
+  "team": "LAC",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:11:35.443Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · TOR",
-      "minutes": 1067,
-      "poss": 2236.5,
-      "net": 5.454951933825173
+      "sub": "2026–27 · LAC",
+      "minutes": 19,
+      "poss": 43,
+      "net": 7.1
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · TOR",
-      "minutes": 2889,
-      "poss": 5881.5,
-      "net": 1.870271189322452
+      "sub": "2026–27 · LAC",
+      "minutes": 29,
+      "poss": 62,
+      "net": 35.8
     },
     {
-      "label": "On, w/o Barnes",
-      "sub": "2025–26 · TOR",
-      "minutes": 469,
-      "poss": 983.5,
-      "net": 4.880528723945094
+      "label": "On, w/o Garland",
+      "sub": "2026–27 · LAC",
+      "minutes": 12,
+      "poss": 27,
+      "net": 18.5
     },
     {
-      "label": "On, w/o Ingram",
-      "sub": "2025–26 · TOR",
-      "minutes": 750,
-      "poss": 1579,
-      "net": 3.2932235592146926
+      "label": "On, w/o Hachimura",
+      "sub": "2026–27 · LAC",
+      "minutes": 10,
+      "poss": 23,
+      "net": 17.4
     },
     {
-      "label": "On, w/o Quickley",
-      "sub": "2025–26 · TOR",
-      "minutes": 664,
-      "poss": 1409,
-      "net": 5.39389638041164
+      "label": "On, w/o Wagler",
+      "sub": "2026–27 · LAC",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     },
     {
-      "label": "Neither Dick nor Barnes",
-      "sub": "2025–26 · TOR",
-      "minutes": 806,
-      "poss": 1625.5,
-      "net": -5.044601661027377
+      "label": "Neither Dick nor Garland",
+      "sub": "2026–27 · LAC",
+      "minutes": 4,
+      "poss": 7,
+      "net": 71.4
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "LAL",
-  "gp": 68,
-  "generatedAt": "2026-10-02T04:21:48.839Z",
+  "season": "2026-27",
+  "team": "LAC",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:17:08.335Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · LAL",
-      "minutes": 1927,
-      "poss": 3985,
-      "net": 2.032622333751568
+      "sub": "2026–27 · LAC",
+      "minutes": 32,
+      "poss": 67,
+      "net": 19.5
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · LAL",
-      "minutes": 2014,
-      "poss": 4108,
-      "net": 1.5335929892891917
+      "sub": "2026–27 · LAC",
+      "minutes": 16,
+      "poss": 38,
+      "net": 32
     },
     {
-      "label": "On, w/o Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 773,
-      "poss": 1570,
-      "net": 1.019108280254777
+      "label": "On, w/o Garland",
+      "sub": "2026–27 · LAC",
+      "minutes": 9,
+      "poss": 16,
+      "net": 18.8
     },
     {
-      "label": "On, w/o LaRavia",
-      "sub": "2025–26 · LAL",
-      "minutes": 1093,
-      "poss": 2260.5,
-      "net": 2.74275602742756
+      "label": "On, w/o Wagler",
+      "sub": "2026–27 · LAC",
+      "minutes": 15,
+      "poss": 32,
+      "net": 31.3
     },
     {
-      "label": "On, w/o James",
-      "sub": "2025–26 · LAL",
-      "minutes": 1193,
-      "poss": 2474.5,
-      "net": 2.828854314002829
+      "label": "On, w/o Dunn",
+      "sub": "2026–27 · LAC",
+      "minutes": 9,
+      "poss": 22,
+      "net": 18.6
     },
     {
-      "label": "Neither Hachimura nor Dončić",
-      "sub": "2025–26 · LAL",
-      "minutes": 880,
-      "poss": 1765.5,
-      "net": -3.341829510053809
+      "label": "Neither Hachimura nor Garland",
+      "sub": "2026–27 · LAC",
+      "minutes": 7,
+      "poss": 18,
+      "net": 38.9
     }
   ]
 }

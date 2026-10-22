@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "CHA",
-  "gp": 77,
-  "generatedAt": "2026-10-02T04:21:18.311Z",
+  "season": "2026-27",
+  "team": "PHX",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:17:07.101Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · CHA",
-      "minutes": 2387,
-      "poss": 4832.5,
-      "net": 3.041903776513192
+      "sub": "2026–27 · PHX",
+      "minutes": 29,
+      "poss": 56,
+      "net": -63.1
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · CHA",
-      "minutes": 1564,
-      "poss": 3156,
-      "net": 7.889733840304182
+      "sub": "2026–27 · PHX",
+      "minutes": 19,
+      "poss": 42,
+      "net": -14.3
     },
     {
-      "label": "On, w/o Knueppel",
-      "sub": "2025–26 · CHA",
-      "minutes": 642,
-      "poss": 1275,
-      "net": -1.5686274509803921
+      "label": "On, w/o Booker",
+      "sub": "2026–27 · PHX",
+      "minutes": 7,
+      "poss": 15,
+      "net": -53.3
     },
     {
-      "label": "On, w/o Ball",
-      "sub": "2025–26 · CHA",
-      "minutes": 1006,
-      "poss": 2034,
-      "net": -4.031465093411996
+      "label": "On, w/o Brooks",
+      "sub": "2026–27 · PHX",
+      "minutes": 14,
+      "poss": 30,
+      "net": -53.3
     },
     {
-      "label": "On, w/o Miller",
-      "sub": "2025–26 · CHA",
-      "minutes": 1117,
-      "poss": 2268.5,
-      "net": -4.981265153184924
+      "label": "On, w/o Green",
+      "sub": "2026–27 · PHX",
+      "minutes": 11,
+      "poss": 22,
+      "net": -31.8
     },
     {
-      "label": "Neither Bridges nor Knueppel",
-      "sub": "2025–26 · CHA",
-      "minutes": 758,
-      "poss": 1506.5,
-      "net": 6.2396282774643215
+      "label": "Neither Bridges nor Booker",
+      "sub": "2026–27 · PHX",
+      "minutes": 11,
+      "poss": 25,
+      "net": 40
     }
   ]
 }

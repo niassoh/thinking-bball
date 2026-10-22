@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "CHA",
-  "gp": 82,
-  "generatedAt": "2026-10-02T05:29:07.240Z",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:14:38.959Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · CHA",
-      "minutes": 1843,
-      "poss": 3726.5,
-      "net": 1.7442640547430566
+      "sub": "2026–27 · CHA",
+      "minutes": 27,
+      "poss": 54,
+      "net": -13
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · CHA",
-      "minutes": 2108,
-      "poss": 4262,
-      "net": 7.766306898169874
+      "sub": "2026–27 · CHA",
+      "minutes": 21,
+      "poss": 46,
+      "net": 30.4
     },
     {
-      "label": "On, w/o Knueppel",
-      "sub": "2025–26 · CHA",
-      "minutes": 850,
-      "poss": 1685,
-      "net": 1.543026706231454
+      "label": "On, w/o Miller",
+      "sub": "2026–27 · CHA",
+      "minutes": 9,
+      "poss": 18,
+      "net": 34.3
     },
     {
-      "label": "On, w/o Bridges",
-      "sub": "2025–26 · CHA",
-      "minutes": 897,
-      "poss": 1808.5,
-      "net": 7.464749792645839
+      "label": "On, w/o Schröder",
+      "sub": "2026–27 · CHA",
+      "minutes": 8,
+      "poss": 16,
+      "net": -18.7
     },
     {
-      "label": "On, w/o Ball",
-      "sub": "2025–26 · CHA",
-      "minutes": 1298,
-      "poss": 2617.5,
-      "net": -0.9551098376313276
+      "label": "On, w/o Diabaté",
+      "sub": "2026–27 · CHA",
+      "minutes": 5,
+      "poss": 10,
+      "net": 105.3
     },
     {
-      "label": "Neither James nor Knueppel",
-      "sub": "2025–26 · CHA",
-      "minutes": 551,
-      "poss": 1096.5,
-      "net": 4.377564979480164
+      "label": "Neither James nor Miller",
+      "sub": "2026–27 · CHA",
+      "minutes": 4,
+      "poss": 8,
+      "net": 66.7
     }
   ]
 }

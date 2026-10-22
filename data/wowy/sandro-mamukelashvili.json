@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "TOR",
-  "gp": 80,
-  "generatedAt": "2026-10-02T05:06:44.072Z",
+  "season": "2026-27",
+  "team": "LAL",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:22:37.770Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · TOR",
-      "minutes": 1751,
-      "poss": 3612.5,
-      "net": 5.1211072664359865
+      "sub": "2026–27 · LAL",
+      "minutes": 22,
+      "poss": 48,
+      "net": 25
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · TOR",
-      "minutes": 2205,
-      "poss": 4505.5,
-      "net": 1.0431694595494396
+      "sub": "2026–27 · LAL",
+      "minutes": 26,
+      "poss": 54,
+      "net": 18.5
     },
     {
-      "label": "On, w/o Barnes",
-      "sub": "2025–26 · TOR",
-      "minutes": 793,
-      "poss": 1612.5,
-      "net": 0.6201550387596899
+      "label": "On, w/o Reaves",
+      "sub": "2026–27 · LAL",
+      "minutes": 14,
+      "poss": 30,
+      "net": 6.7
     },
     {
-      "label": "On, w/o Ingram",
-      "sub": "2025–26 · TOR",
-      "minutes": 686,
-      "poss": 1445.5,
-      "net": 11.553095814597025
+      "label": "On, w/o Dončić",
+      "sub": "2026–27 · LAL",
+      "minutes": 5,
+      "poss": 10,
+      "net": -60
     },
     {
-      "label": "On, w/o Quickley",
-      "sub": "2025–26 · TOR",
-      "minutes": 938,
-      "poss": 1968,
-      "net": 10.060975609756099
+      "label": "On, w/o Kessler",
+      "sub": "2026–27 · LAL",
+      "minutes": 17,
+      "poss": 36,
+      "net": 8.3
     },
     {
-      "label": "Neither Mamukelashvili nor Barnes",
-      "sub": "2025–26 · TOR",
-      "minutes": 482,
-      "poss": 996.5,
-      "net": -4.415454089312594
+      "label": "Neither Mamukelashvili nor Reaves",
+      "sub": "2026–27 · LAL",
+      "minutes": 2,
+      "poss": 5,
+      "net": -100
     }
   ]
 }

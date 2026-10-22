@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "ATL",
-  "gp": 36,
-  "generatedAt": "2026-10-02T04:13:59.774Z",
+  "season": "2026-27",
+  "team": "MIN",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:16:08.626Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · ATL",
-      "minutes": 354,
-      "poss": 747,
-      "net": 13.386880856760374
+      "sub": "2026–27 · MIN",
+      "minutes": 30,
+      "poss": 62,
+      "net": 32.3
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · ATL",
-      "minutes": 3597,
-      "poss": 7630,
-      "net": 1.2844036697247707
+      "sub": "2026–27 · MIN",
+      "minutes": 19,
+      "poss": 43,
+      "net": 11.8
     },
     {
-      "label": "On, w/o Alexander-Walker",
-      "sub": "2025–26 · ATL",
-      "minutes": 165,
-      "poss": 341.5,
-      "net": 19.03367496339678
+      "label": "On, w/o Edwards",
+      "sub": "2026–27 · MIN",
+      "minutes": 9,
+      "poss": 18,
+      "net": 22.9
     },
     {
-      "label": "On, w/o Johnson",
-      "sub": "2025–26 · ATL",
-      "minutes": 241,
-      "poss": 509,
-      "net": 17.68172888015717
+      "label": "On, w/o Gobert",
+      "sub": "2026–27 · MIN",
+      "minutes": 4,
+      "poss": 9,
+      "net": 82.4
     },
     {
-      "label": "On, w/o Daniels",
-      "sub": "2025–26 · ATL",
-      "minutes": 187,
-      "poss": 397.5,
-      "net": 2.767295597484277
+      "label": "On, w/o Ball",
+      "sub": "2026–27 · MIN",
+      "minutes": 8,
+      "poss": 17,
+      "net": 52.9
     },
     {
-      "label": "Neither Kuminga nor Alexander-Walker",
-      "sub": "2025–26 · ATL",
-      "minutes": 1183,
-      "poss": 2470.5,
-      "net": -4.493017607771707
+      "label": "Neither Kuminga nor Edwards",
+      "sub": "2026–27 · MIN",
+      "minutes": 7,
+      "poss": 14,
+      "net": -29.6
     }
   ]
 }

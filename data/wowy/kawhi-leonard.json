@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "LAC",
-  "gp": 65,
-  "generatedAt": "2026-10-02T04:29:37.554Z",
+  "season": "2026-27",
+  "team": "TOR",
+  "gp": 1,
+  "generatedAt": "2026-10-22T10:18:06.760Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · LAC",
-      "minutes": 2085,
-      "poss": 4164,
-      "net": 8.165225744476464
+      "sub": "2026–27 · TOR",
+      "minutes": 24,
+      "poss": 56,
+      "net": 21.6
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · LAC",
-      "minutes": 1871,
-      "poss": 3792,
-      "net": -6.513713080168776
+      "sub": "2026–27 · TOR",
+      "minutes": 24,
+      "poss": 56,
+      "net": 55.4
     },
     {
-      "label": "On, w/o Dunn",
-      "sub": "2025–26 · LAC",
-      "minutes": 814,
-      "poss": 1622,
-      "net": 10.60419235511714
+      "label": "On, w/o Quickley",
+      "sub": "2026–27 · TOR",
+      "minutes": 4,
+      "poss": 9,
+      "net": 0
     },
     {
-      "label": "On, w/o Collins",
-      "sub": "2025–26 · LAC",
-      "minutes": 1023,
-      "poss": 2047.5,
-      "net": 12.258852258852258
+      "label": "On, w/o Barrett",
+      "sub": "2026–27 · TOR",
+      "minutes": 7,
+      "poss": 16,
+      "net": -19.4
     },
     {
-      "label": "On, w/o Lopez",
-      "sub": "2025–26 · LAC",
-      "minutes": 1056,
-      "poss": 2124,
-      "net": 6.167608286252354
+      "label": "On, w/o Barnes",
+      "sub": "2026–27 · TOR",
+      "minutes": 8,
+      "poss": 16,
+      "net": 43.8
     },
     {
-      "label": "Neither Leonard nor Dunn",
-      "sub": "2025–26 · LAC",
-      "minutes": 914,
-      "poss": 1860.5,
-      "net": -5.374899220639613
+      "label": "Neither Leonard nor Quickley",
+      "sub": "2026–27 · TOR",
+      "minutes": 15,
+      "poss": 35,
+      "net": 14.5
     }
   ]
 }
