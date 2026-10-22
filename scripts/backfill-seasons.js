@@ -9,13 +9,14 @@
 // assume 30 teams. In a 29-team season (2000-01..2003-04) the empty ORTG/DRTG
 // row errors, which blanks SRS, BPM, OBPM, ScoreVal, PlayVal, Team Net/Off/Def
 // and AuPM, and the empty TS% row counts as 0, which inflates rTS%. They are
-// swapped for averages that skip the empty row during the run (same values
-// with 30 teams). These cells and Instructions!A13 are always restored
-// afterwards, including on failure.
+// swapped for averages that skip the empty row while such a season is pulled
+// (same values with 30 teams). These cells and Instructions!A13 are always
+// restored afterwards, including on failure.
 //
 // The nightly pipeline pulls the season being played with it too (`node
 // scripts/backfill-seasons.js 2026-27`): A13 already holds that season then,
 // so the season before it is loaded first, unsaved, to make the imports refetch.
+// A13 is all that run writes: the sheet is otherwise its maintainers' (2026-10-21).
 //
 // Usage: node scripts/backfill-seasons.js [2003-04 2004-05 ...]  (default 2000-01..2012-13)
 //        node scripts/backfill-seasons.js --out=<file> [seasons]  (write the keys to <file> for review, not the cache)
@@ -317,7 +318,8 @@ const main = async () => {
   const original = await readCell(sheets, 'Instructions!A13')
   if (await readCell(sheets, 'Instructions!E13')) throw new Error('A recent-shift window is set in Instructions!E13; run it to completion first')
   console.log(`Instructions!A13 is ${original}`)
-  for (const p of TEAM_AVERAGES) {
+  const patch = seasons.some(s => s < '2004-05')
+  for (const p of patch ? TEAM_AVERAGES : []) {
     const r = await sheets.spreadsheets.values.get({ spreadsheetId: SHEET_ID, range: p.range, valueRenderOption: 'FORMULA' })
     const current = r.data.values[0][0]
     if (current !== p.original && current !== p.patched) throw new Error(`${p.range} is ${current}, expected ${p.original}`)
@@ -338,7 +340,7 @@ const main = async () => {
   let playersWritten = false
   let before = fingerprint(await readFormat(sheets))
   try {
-    await writeFormulas(sheets, 'patched')
+    if (patch) await writeFormulas(sheets, 'patched')
     if (PLAYOFFS) await writeRange(sheets, MINUTES_FLOOR, [[50]])
     let current = original
     for (const season of seasons) {
@@ -366,14 +368,14 @@ const main = async () => {
     }
   } finally {
     await writeYear(sheets, original)
-    await writeFormulas(sheets, 'original')
+    if (patch) await writeFormulas(sheets, 'original')
     if (PLAYOFFS) {
       if (gamesWritten) await restoreGameImport(sheets, importFormula)
       if (playersWritten) await restorePlayerImport(sheets, playerFormula)
       await writeRange(sheets, TEAM_LIST, teamList.map(t => [t]))
       await writeRange(sheets, MINUTES_FLOOR, [[floor]])
     }
-    console.log(`Instructions!A13 restored to ${original}; ${TEAM_AVERAGES.map(p => p.range).join(', ')} restored${PLAYOFFS ? `; ${TEAM_LIST}, 'Game Import'!A1, 'PS PBP'!A2, 'PBP Team'!A2 and ${MINUTES_FLOOR} (${floor}) restored` : ''}`)
+    console.log(`Instructions!A13 restored to ${original}${patch ? `; ${TEAM_AVERAGES.map(p => p.range).join(', ')} restored` : ''}${PLAYOFFS ? `; ${TEAM_LIST}, 'Game Import'!A1, 'PS PBP'!A2, 'PBP Team'!A2 and ${MINUTES_FLOOR} (${floor}) restored` : ''}`)
   }
 }
 

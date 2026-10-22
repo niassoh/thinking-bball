@@ -12,8 +12,11 @@
 // With E13:F13 blank the sheet computes exactly what it did before. The patch
 // is idempotent; originals are saved to data/sheet-formula-backup.json and
 // `--restore` puts them back. Team-level imports ('PBP Team') stay season-wide.
+// A plain run only checks the patch is there: the sheet's formulas are its
+// maintainers' (2026-10-21), so the nightly writes nothing but E13:F13.
 //
-// Usage: node scripts/recent-shift.js            (patch if needed, pull both windows)
+// Usage: node scripts/recent-shift.js            (pull both windows; stop if the patch is missing)
+//        node scripts/recent-shift.js --patch    (patch if needed, then pull)
 //        node scripts/recent-shift.js --dry-run  (show the patch, change nothing)
 //        node scripts/recent-shift.js --restore  (restore original formulas)
 const fs = require('fs')
@@ -65,11 +68,11 @@ const readFormulas = async (sheets, ranges) => {
 const writeCells = (sheets, data, valueInputOption = 'USER_ENTERED') =>
   sheets.spreadsheets.values.batchUpdate({ spreadsheetId: SHEET_ID, requestBody: { valueInputOption, data } })
 
-const ensurePatched = async (sheets, dryRun) => {
+const ensurePatched = async (sheets, apply) => {
   const current = await readFormulas(sheets, PATCHES.map(p => p.range))
   const todo = PATCHES.map((p, i) => ({ ...p, current: current[i] })).filter(p => !p.patched(p.current))
-  for (const p of todo) console.log(`${dryRun ? '[dry-run] would patch' : 'patching'} ${p.range}\n  old: ${p.current}\n  new: ${p.apply(p.current)}`)
-  if (dryRun || !todo.length) return
+  for (const p of todo) console.log(`${apply ? 'patching' : 'would patch'} ${p.range}\n  old: ${p.current}\n  new: ${p.apply(p.current)}`)
+  if (!apply || !todo.length) return todo.length
   const backup = fs.existsSync(BACKUP_FILE) ? JSON.parse(fs.readFileSync(BACKUP_FILE, 'utf8')) : {}
   for (const p of todo) if (!backup[p.range]) backup[p.range] = p.current
   fs.writeFileSync(BACKUP_FILE, JSON.stringify(backup, null, 2) + '\n')
@@ -136,8 +139,9 @@ const main = async () => {
   const sheets = await sheetsClient()
   if (process.argv.includes('--restore')) return restore(sheets)
   const dryRun = process.argv.includes('--dry-run')
-  await ensurePatched(sheets, dryRun)
+  const missing = await ensurePatched(sheets, !dryRun && process.argv.includes('--patch'))
   if (dryRun) return
+  if (missing) throw new Error('The sheet lacks the date window (above); check its formulas, then run with --patch')
 
   const season = await pbp.latestSeasonWithGames()
   const [scopeSeason] = await readFormulas(sheets, ['Instructions!A13'])

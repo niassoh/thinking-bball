@@ -25,9 +25,9 @@ that fails keeps yesterday's files and the rest still run.
 |---|---|---|---|
 | 1 | Reachability | `node scripts/reachability.js` | the job summary: whether stats.nba.com, pbpstats, ESPN and Google answer from the runner |
 | 2 | Depth charts, injuries | `npm run pull:depth` | `data/depth/` |
-| 3 | Season sheet | `node scripts/backfill-seasons.js $SEASON` | `dailycat-<YY>`; drives the **production sheet**: loads the season before into `Instructions!A13` (unsaved) and then the season, so its imports refetch |
+| 3 | Season sheet | `node scripts/backfill-seasons.js $SEASON` | `dailycat-<YY>`; drives the **production sheet**: loads the season before into `Instructions!A13` (unsaved) and then the season, so its imports refetch; A13 is the only cell it writes |
 | 4 | Team sheet | `node sheets-teamcat.js --season=$SEASON` | `teamcat-<YY>` |
-| 5 | Recent shift (only if 3 succeeded) | `npm run pull:recent` | `data/recent-shift.json`, `data/recent-window.json`; sets and then clears the sheet's date window (`E13:F13`); until the season has 30 days of games its window is the season so far and no player has a shift (audit #190) |
+| 5 | Recent shift (only if 3 succeeded) | `npm run pull:recent` | `data/recent-shift.json`, `data/recent-window.json`; sets and then clears the sheet's date window (`E13:F13`), its only write (if the sheet's window formulas are gone it stops; `--patch` puts them back by hand); until the season has 30 days of games its window is the season so far and no player has a shift (audit #190) |
 | 6 | Lineups | `npm run pull:lineups` | `data/lineups/`, `data/lineup-players.json`, `data/stints.json` |
 | 7 | Bio | `npm run pull:bio` | `data/bio.json`; a rookie site_Data doesn't list yet takes the NBA id from 6's player list |
 | 8 | Player totals | `npm run pull:player-totals` | `data/player-totals.json` |
@@ -134,9 +134,9 @@ and pushing the frontend by hand.
 - **The sheet:** don't run sheet scripts by hand between 10:00 and 11:30 UTC. Each run shows
   the season before in the sheet for a minute, and the recent shift's window while
   it runs. Don't cancel a run during steps 3–5: a killed step can't put the sheet back. If
-  one was killed, set `Instructions!A13` to the season, clear `E13:F13`, and put back the
-  `'PBP Team'!II52`, `IL52` and `IH60` formulas (originals in `scripts/backfill-seasons.js`
-  `TEAM_AVERAGES`).
+  one was killed, set `Instructions!A13` to the season and clear `E13:F13`. (A killed
+  backfill of a season before 2004-05 also leaves `'PBP Team'!II52`, `IL52` and `IH60`
+  patched: originals in `scripts/backfill-seasons.js` `TEAM_AVERAGES`.)
 - **Local work:** pull before changing `data/`; the run commits it every night.
 - **Minutes:** 2,000 a month on the free tier, shared by all private repos; when they run
   out, runs stop until the month resets. Expect about 20–35 minutes a night until January
