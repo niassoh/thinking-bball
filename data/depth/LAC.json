@@ -1,7 +1,7 @@
 {
   "team": "LAC",
   "season": "2026-27",
-  "generatedAt": "2026-10-21T17:49:02.753Z",
+  "generatedAt": "2026-10-22T15:18:52.327Z",
   "rows": [
     {
       "pos": "PG",
@@ -13,15 +13,15 @@
           "status": null
         },
         {
-          "name": "Kris Dunn",
-          "slug": "kris-dunn",
-          "espnId": "2991139",
-          "status": null
-        },
-        {
           "name": "Keaton Wagler",
           "slug": "keaton-wagler",
           "espnId": "5254165",
+          "status": null
+        },
+        {
+          "name": "Kris Dunn",
+          "slug": "kris-dunn",
+          "espnId": "2991139",
           "status": null
         },
         {
@@ -36,9 +36,9 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Keaton Wagler",
-          "slug": "keaton-wagler",
-          "espnId": "5254165",
+          "name": "Kris Dunn",
+          "slug": "kris-dunn",
+          "espnId": "2991139",
           "status": null
         },
         {
@@ -48,15 +48,15 @@
           "status": "OUT"
         },
         {
-          "name": "Kobe Sanders",
-          "slug": "kobe-sanders",
-          "espnId": "4702352",
+          "name": "Keaton Wagler",
+          "slug": "keaton-wagler",
+          "espnId": "5254165",
           "status": null
         },
         {
-          "name": "Gradey Dick",
-          "slug": "gradey-dick",
-          "espnId": "5106258",
+          "name": "Kobe Sanders",
+          "slug": "kobe-sanders",
+          "espnId": "4702352",
           "status": null
         }
       ]

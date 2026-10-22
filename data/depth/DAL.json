@@ -1,7 +1,7 @@
 {
   "team": "DAL",
   "season": "2026-27",
-  "generatedAt": "2026-10-22T09:59:52.060Z",
+  "generatedAt": "2026-10-22T15:18:50.093Z",
   "rows": [
     {
       "pos": "PG",
@@ -123,16 +123,16 @@
       "pos": "C",
       "players": [
         {
-          "name": "Dereck Lively II",
-          "slug": "dereck-lively-ii",
-          "espnId": "4683688",
-          "status": "OUT"
-        },
-        {
           "name": "Daniel Gafford",
           "slug": "daniel-gafford",
           "espnId": "4278049",
           "status": null
+        },
+        {
+          "name": "Dereck Lively II",
+          "slug": "dereck-lively-ii",
+          "espnId": "4683688",
+          "status": "DTD"
         },
         {
           "name": "Moussa Cisse",
