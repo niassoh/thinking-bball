@@ -1,17 +1,11 @@
 {
   "team": "POR",
   "season": "2026-27",
-  "generatedAt": "2026-10-22T02:51:29.821Z",
+  "generatedAt": "2026-10-23T15:05:59.545Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
-        {
-          "name": "Damian Lillard",
-          "slug": "damian-lillard",
-          "espnId": "6606",
-          "status": null
-        },
         {
           "name": "Ja Morant",
           "slug": "ja-morant",
@@ -22,6 +16,12 @@
           "name": "Scoot Henderson",
           "slug": "scoot-henderson",
           "espnId": "4683678",
+          "status": null
+        },
+        {
+          "name": "Damian Lillard",
+          "slug": "damian-lillard",
+          "espnId": "6606",
           "status": null
         },
         {
@@ -36,9 +36,9 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Ja Morant",
-          "slug": "ja-morant",
-          "espnId": "4279888",
+          "name": "Damian Lillard",
+          "slug": "damian-lillard",
+          "espnId": "6606",
           "status": null
         },
         {
@@ -48,15 +48,15 @@
           "status": null
         },
         {
-          "name": "Scoot Henderson",
-          "slug": "scoot-henderson",
-          "espnId": "4683678",
+          "name": "Ja Morant",
+          "slug": "ja-morant",
+          "espnId": "4279888",
           "status": null
         },
         {
-          "name": "Damian Lillard",
-          "slug": "damian-lillard",
-          "espnId": "6606",
+          "name": "Scoot Henderson",
+          "slug": "scoot-henderson",
+          "espnId": "4683678",
           "status": null
         }
       ]
@@ -141,10 +141,10 @@
           "status": null
         },
         {
-          "name": "Sidy Cissoko",
-          "slug": "sidy-cissoko",
-          "espnId": "5081727",
-          "status": null
+          "name": "Branden Carlson",
+          "slug": "branden-carlson",
+          "espnId": "4592435",
+          "status": "OUT"
         }
       ]
     }

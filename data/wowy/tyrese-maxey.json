@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "PHI",
-  "gp": 1,
-  "generatedAt": "2026-10-21T17:52:23.751Z",
+  "gp": 2,
+  "generatedAt": "2026-10-23T15:16:19.774Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHI",
-      "minutes": 40,
-      "poss": 83,
-      "net": 13.3
+      "minutes": 81,
+      "poss": 176,
+      "net": 17.1
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHI",
-      "minutes": 8,
-      "poss": 20,
-      "net": -25.6
-    },
-    {
-      "label": "On, w/o Edgecombe",
-      "sub": "2026–27 · PHI",
-      "minutes": 13,
-      "poss": 27,
-      "net": 22.6
+      "minutes": 15,
+      "poss": 35,
+      "net": -45.7
     },
     {
       "label": "On, w/o Brown",
       "sub": "2026–27 · PHI",
-      "minutes": 10,
-      "poss": 21,
-      "net": -29.3
+      "minutes": 15,
+      "poss": 31,
+      "net": -23
     },
     {
-      "label": "On, w/o James",
+      "label": "On, w/o Edgecombe",
+      "sub": "2026–27 · PHI",
+      "minutes": 28,
+      "poss": 57,
+      "net": -8.8
+    },
+    {
+      "label": "On, w/o Embiid",
+      "sub": "2026–27 · PHI",
+      "minutes": 28,
+      "poss": 57,
+      "net": -30.1
+    },
+    {
+      "label": "Neither Maxey nor Brown",
       "sub": "2026–27 · PHI",
       "minutes": 9,
-      "poss": 17,
-      "net": 47.1
-    },
-    {
-      "label": "Neither Maxey nor Edgecombe",
-      "sub": "2026–27 · PHI",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "poss": 20,
+      "net": -66.7
     }
   ]
 }

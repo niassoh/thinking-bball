@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "SAC",
-  "gp": 77,
-  "generatedAt": "2026-10-02T04:07:47.711Z",
+  "season": "2026-27",
+  "team": "DEN",
+  "gp": 1,
+  "generatedAt": "2026-10-23T15:22:22.439Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · SAC",
-      "minutes": 2406,
-      "poss": 4989,
-      "net": -11.785929043896573
+      "sub": "2026–27 · DEN",
+      "minutes": 28,
+      "poss": 56,
+      "net": -18
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · SAC",
-      "minutes": 1545,
-      "poss": 3194.5,
-      "net": -7.262482391610581
+      "sub": "2026–27 · DEN",
+      "minutes": 20,
+      "poss": 38,
+      "net": -5.3
     },
     {
-      "label": "On, w/o Raynaud",
-      "sub": "2025–26 · SAC",
-      "minutes": 1191,
-      "poss": 2459.5,
-      "net": -10.977841024598495
+      "label": "On, w/o Murray",
+      "sub": "2026–27 · DEN",
+      "minutes": 9,
+      "poss": 20,
+      "net": 0
     },
     {
-      "label": "On, w/o Clifford",
-      "sub": "2025–26 · SAC",
-      "minutes": 1574,
-      "poss": 3271,
-      "net": -15.255273616631
+      "label": "On, w/o Jokić",
+      "sub": "2026–27 · DEN",
+      "minutes": 11,
+      "poss": 22,
+      "net": 13.6
     },
     {
-      "label": "On, w/o Westbrook",
-      "sub": "2025–26 · SAC",
-      "minutes": 935,
-      "poss": 1903.5,
-      "net": -9.929078014184398
+      "label": "On, w/o Braun",
+      "sub": "2026–27 · DEN",
+      "minutes": 14,
+      "poss": 27,
+      "net": 11.1
     },
     {
-      "label": "Neither DeRozan nor Raynaud",
-      "sub": "2025–26 · SAC",
-      "minutes": 796,
-      "poss": 1643,
-      "net": -5.4169202678028
+      "label": "Neither DeRozan nor Murray",
+      "sub": "2026–27 · DEN",
+      "minutes": 2,
+      "poss": 4,
+      "net": 75
     }
   ]
 }

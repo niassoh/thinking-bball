@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "NOP",
-  "generatedAt": "2026-10-22T10:26:29.971Z",
+  "generatedAt": "2026-10-23T15:32:24.236Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -25,29 +25,29 @@
     {
       "id": "1627749",
       "load": 45.8,
-      "obpm": 4.1,
-      "score": 279,
+      "obpm": 4.2,
+      "score": 284,
       "minutes": 34.35
     },
     {
       "id": "1629627",
       "load": 38.1,
-      "obpm": 3.2,
-      "score": 198,
+      "obpm": 3.3,
+      "score": 202,
       "minutes": 32.13
     },
     {
       "id": "1631097",
       "load": 32.3,
-      "obpm": 3.4,
-      "score": 174,
+      "obpm": 3.5,
+      "score": 178,
       "minutes": 17.87
     },
     {
       "id": "1642847",
       "load": 30.9,
-      "obpm": 0,
-      "score": 62,
+      "obpm": 0.2,
+      "score": 68,
       "minutes": 20.93
     }
   ],

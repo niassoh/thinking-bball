@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "OKC",
-  "gp": 1,
-  "generatedAt": "2026-10-21T17:57:03.929Z",
+  "gp": 2,
+  "generatedAt": "2026-10-23T15:31:32.222Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · OKC",
-      "minutes": 12,
-      "poss": 26,
-      "net": 35.3
+      "minutes": 24,
+      "poss": 51,
+      "net": 2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · OKC",
-      "minutes": 36,
-      "poss": 76,
-      "net": 3.9
+      "minutes": 72,
+      "poss": 145,
+      "net": 15.9
     },
     {
       "label": "On, w/o Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 1,
-      "poss": 3,
-      "net": 80
-    },
-    {
-      "label": "On, w/o Holmgren",
-      "sub": "2026–27 · OKC",
-      "minutes": 11,
-      "poss": 24,
-      "net": 29.2
+      "minutes": 14,
+      "poss": 28,
+      "net": -21.8
     },
     {
       "label": "On, w/o Williams",
       "sub": "2026–27 · OKC",
-      "minutes": 11,
-      "poss": 24,
-      "net": 29.2
+      "minutes": 13,
+      "poss": 27,
+      "net": 7.4
+    },
+    {
+      "label": "On, w/o Holmgren",
+      "sub": "2026–27 · OKC",
+      "minutes": 24,
+      "poss": 49,
+      "net": -2
     },
     {
       "label": "Neither Mara nor Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
       "minutes": 11,
-      "poss": 21,
-      "net": 19
+      "poss": 23,
+      "net": 13.3
     }
   ]
 }

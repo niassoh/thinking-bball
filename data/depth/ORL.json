@@ -1,7 +1,7 @@
 {
   "team": "ORL",
   "season": "2026-27",
-  "generatedAt": "2026-10-22T09:59:58.130Z",
+  "generatedAt": "2026-10-23T15:05:58.110Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,7 +16,7 @@
           "name": "Anthony Black",
           "slug": "anthony-black",
           "espnId": "4712849",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Jevon Carter",
@@ -45,7 +45,7 @@
           "name": "Anthony Black",
           "slug": "anthony-black",
           "espnId": "4712849",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Jamal Cain",
@@ -141,10 +141,10 @@
           "status": null
         },
         {
-          "name": "Izaiyah Nelson",
-          "slug": "izaiyah-nelson",
-          "espnId": "5107251",
-          "status": "OUT"
+          "name": "Colin Castleton",
+          "slug": "colin-castleton",
+          "espnId": "4397204",
+          "status": null
         }
       ]
     }

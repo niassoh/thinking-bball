@@ -1,7 +1,7 @@
 {
   "team": "SAS",
   "season": "2026-27",
-  "generatedAt": "2026-10-21T17:49:08.490Z",
+  "generatedAt": "2026-10-23T15:06:00.638Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "De'Aaron Fox",
           "slug": "de-aaron-fox",
           "espnId": "4066259",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Dylan Harper",
@@ -80,7 +80,7 @@
           "name": "Keldon Johnson",
           "slug": "keldon-johnson",
           "espnId": "4395723",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Julian Champagnie",
@@ -97,7 +97,7 @@
           "name": "Tobias Harris",
           "slug": "tobias-harris",
           "espnId": "6440",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Julian Champagnie",
@@ -109,7 +109,7 @@
           "name": "Keldon Johnson",
           "slug": "keldon-johnson",
           "espnId": "4395723",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Harrison Barnes",

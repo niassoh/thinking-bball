@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "DEN",
-  "gp": 54,
-  "generatedAt": "2026-10-02T03:31:44.947Z",
+  "season": "2026-27",
+  "team": "CLE",
+  "gp": 1,
+  "generatedAt": "2026-10-23T15:18:42.577Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · DEN",
-      "minutes": 1598,
-      "poss": 3269,
-      "net": 5.995717344753747
+      "sub": "2026–27 · CLE",
+      "minutes": 30,
+      "poss": 71,
+      "net": -26.8
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · DEN",
-      "minutes": 2388,
-      "poss": 4932.5,
-      "net": 4.581855043081601
+      "sub": "2026–27 · CLE",
+      "minutes": 18,
+      "poss": 38,
+      "net": 29.3
     },
     {
-      "label": "On, w/o Murray",
-      "sub": "2025–26 · DEN",
-      "minutes": 408,
-      "poss": 837,
-      "net": 2.031063321385902
+      "label": "On, w/o Mitchell",
+      "sub": "2026–27 · CLE",
+      "minutes": 11,
+      "poss": 26,
+      "net": -3.8
     },
     {
-      "label": "On, w/o Jokić",
-      "sub": "2025–26 · DEN",
-      "minutes": 763,
-      "poss": 1506.5,
-      "net": -2.920677066047129
+      "label": "On, w/o Mobley",
+      "sub": "2026–27 · CLE",
+      "minutes": 6,
+      "poss": 15,
+      "net": -20
     },
     {
-      "label": "On, w/o Hardaway Jr.",
-      "sub": "2025–26 · DEN",
-      "minutes": 754,
-      "poss": 1520,
-      "net": 2.9605263157894735
+      "label": "On, w/o Harden",
+      "sub": "2026–27 · CLE",
+      "minutes": 0,
+      "poss": 0,
+      "net": null
     },
     {
-      "label": "Neither Watson nor Murray",
-      "sub": "2025–26 · DEN",
-      "minutes": 926,
-      "poss": 1925,
-      "net": -1.3506493506493507
+      "label": "Neither Watson nor Mitchell",
+      "sub": "2026–27 · CLE",
+      "minutes": 2,
+      "poss": 4,
+      "net": -25
     }
   ]
 }

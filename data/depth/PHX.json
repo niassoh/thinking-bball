@@ -1,7 +1,7 @@
 {
   "team": "PHX",
   "season": "2026-27",
-  "generatedAt": "2026-10-22T09:59:58.962Z",
+  "generatedAt": "2026-10-23T15:05:59.122Z",
   "rows": [
     {
       "pos": "PG",
@@ -77,15 +77,15 @@
           "status": null
         },
         {
-          "name": "Koa Peat",
-          "slug": "koa-peat",
-          "espnId": "5041953",
-          "status": null
-        },
-        {
           "name": "Rasheer Fleming",
           "slug": "rasheer-fleming",
           "espnId": "5105977",
+          "status": null
+        },
+        {
+          "name": "Ryan Dunn",
+          "slug": "ryan-dunn",
+          "espnId": "4888725",
           "status": null
         }
       ]

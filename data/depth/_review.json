@@ -25,8 +25,14 @@
   },
   {
     "slug": "tarik-biberovic",
-    "status": "DTD",
+    "status": "OUT",
     "team": "Dallas Mavericks",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "kristaps-porzingis",
+    "status": "OUT",
+    "team": "Golden State Warriors",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -55,13 +61,13 @@
   },
   {
     "slug": "adou-thiero",
-    "status": "DTD",
+    "status": "OUT",
     "team": "Los Angeles Lakers",
     "reason": "injured but not on a depth chart"
   },
   {
     "slug": "cameron-carr",
-    "status": "DTD",
+    "status": "OUT",
     "team": "Los Angeles Lakers",
     "reason": "injured but not on a depth chart"
   },
@@ -79,13 +85,19 @@
   },
   {
     "slug": "jonathan-isaac",
-    "status": "DTD",
+    "status": "OUT",
+    "team": "Orlando Magic",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "izaiyah-nelson",
+    "status": "OUT",
     "team": "Orlando Magic",
     "reason": "injured but not on a depth chart"
   },
   {
     "slug": "tacko-fall",
-    "status": "OUT",
+    "status": "DTD",
     "team": "Philadelphia 76ers",
     "reason": "injured but not on a depth chart"
   },
@@ -102,14 +114,8 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "branden-carlson",
-    "status": "DTD",
-    "team": "Portland Trail Blazers",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "chris-youngblood",
-    "status": "DTD",
+    "status": "OUT",
     "team": "Portland Trail Blazers",
     "reason": "injured but not on a depth chart"
   },
@@ -135,6 +141,12 @@
     "slug": "jusuf-nurkic",
     "status": "OUT",
     "team": "Utah Jazz",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "felix-okpara",
+    "status": "DTD",
+    "team": "Washington Wizards",
     "reason": "injured but not on a depth chart"
   },
   {
