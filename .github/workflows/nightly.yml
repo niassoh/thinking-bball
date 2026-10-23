@@ -5,7 +5,8 @@
 name: nightly
 
 on:
-  # After the Mac's NBA.com job (1:30 am Pacific: 08:30 UTC in summer, 09:30 in winter).
+  # Meant to follow the Mac's NBA.com job (7 am Pacific), which it does as GitHub has been
+  # starting it, about five hours late (docs/daily-pipeline-requirements.md).
   schedule:
     - cron: '17 10 * * *'
   workflow_dispatch:

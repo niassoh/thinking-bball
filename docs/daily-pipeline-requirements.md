@@ -34,7 +34,7 @@ that fails keeps yesterday's files and the rest still run.
 | 9 | Game logs, WOWY | `npm run pull:games` | `data/gamelog/`, `data/wowy/` (WOWY summed from 6's files) |
 | 10 | Shots | `npm run pull:shots` | `data/shotshift/`; ESPN's finished games are cached between runs |
 | 11 | Tracking seasons | `node scripts/tracking-seasons.js` | `data/tracking-seasons.json`, from the bucket's season files |
-| 12 | Play-by-play | on the Mac, at 1:30 am (below) | `data/pbp/<season>/<gameId>.json.gz`: each new game's NBA.com v3 play-by-play and starters, checked against pbpstats' final score (kept in git, about 10 KB a game) |
+| 12 | Play-by-play | on the Mac, at 7 am (below) | `data/pbp/<season>/<gameId>.json.gz`: each new game's NBA.com v3 play-by-play and starters, checked against pbpstats' final score (kept in git, about 10 KB a game) |
 | 13 | Game dates | `node scripts/footprint-games.js $SEASON` | `data/footprint/<season>/games.json` |
 | 14 | Possessions | `python analysis/footprint/build.py $SEASON` | the season's possession cache (not kept), rebuilt from 12's files |
 | 15 | Footprint (if 13 and 14 succeeded) | `python analysis/footprint/footprint_pbp.py $SEASON` | `data/footprint/<season>/`: profiles take the season's Footprint from here (with rim free throws and teammate counts) instead of 6's files |
@@ -57,8 +57,11 @@ data.
 ## On the Mac
 
 stats.nba.com doesn't answer GitHub's runners (the probe's first run, 2026-10-21: both its
-rows timed out), so `scripts/mac-nightly.sh` runs on the Mac at 1:30 am local, before the
-cloud run (10:17 UTC is 2:17 am Pacific in winter):
+rows timed out), so `scripts/mac-nightly.sh` runs on the Mac at 7 am local. At 1:30 am it
+missed whole nights: pbpstats lists a night's games around 3 am Pacific and NBA.com posts
+drives and touches later in the morning. GitHub has started the 10:17 UTC cloud run about
+five hours late (about 8 am Pacific), so the Mac job still comes first; a night GitHub
+starts it on time, Footprint, Lonestar and the tracking files run a night behind:
 
 1. `node scripts/pbp-fetch.js` and `node scripts/touches-window.js` (NBA.com's touches over
    the Last 30 Days windows, `data/recent-touches.json`, for Time of Poss % on the card
@@ -74,9 +77,9 @@ cloud run (10:17 UTC is 2:17 am Pacific in winter):
 
 Setup: a clone at `~/thinking-bball-nightly` (`npm ci`; this repo's two
 `credential.https://github.com.helper` lines, so it pushes as `niassoh`); the launchd agent
-`~/Library/LaunchAgents/com.thinkingbball.nightly.plist` (1:30 am, `PATH` with node and gh,
+`~/Library/LaunchAgents/com.thinkingbball.nightly.plist` (7 am, `PATH` with node and gh,
 `SITE_DATA` a site_Data clone that has `player_level.py`); and
-`sudo pmset repeat wakeorpoweron MTWRFSU 01:25:00`, so the Mac wakes for it (when plugged
+`sudo pmset repeat wakeorpoweron MTWRFSU 06:55:00`, so the Mac wakes for it (when plugged
 in). A night it misses, the cloud run keeps the last play-by-play and tracking, and the
 next job catches up. Log: `~/Library/Logs/thinking-bball-nightly.log`; run it now with
 `launchctl kickstart gui/$(id -u)/com.thinkingbball.nightly`.

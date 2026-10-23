@@ -2,7 +2,7 @@
 # The nightly's NBA.com half, which stats.nba.com won't serve to GitHub's runners: new
 # games' play-by-play into git (the cloud run builds Footprint and Lonestar from it), the
 # Last 30 Days windows' touches into git (Time of Poss % there), and the season's tracking
-# files into the bucket the stats sheet reads. launchd runs it at 1:30 am, before the
+# files into the bucket the stats sheet reads. launchd runs it at 7 am, before the
 # cloud run; SITE_DATA is a site_Data clone (docs/daily-pipeline-requirements.md).
 cd "${0:A:h}/.." || exit 1
 echo "== $(date)"
