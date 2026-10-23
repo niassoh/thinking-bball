@@ -552,7 +552,7 @@ test("footprint: teammates' stats leave his own shots out (Giannis's teammates s
 
 test('leaderboard: a season\'s players with each stat as their profiles show it, and Footprint\'s swings in the regular season', () => {
   const d = leaderboard('2025-26')
-  assert.deepStrictEqual(d.groups.map(g => g.id), ['impact', 'creation', 'offense', 'rim', 'shooting', 'defense', 'team', 'footprint', 'lonestar'])
+  assert.deepStrictEqual(d.groups.map(g => g.id), ['impact', 'creation', 'offense', 'rim', 'shooting', 'defense', 'team', 'footprint', 'lonestar', 'lonestar-duo'])
   // Every group's stats and their sides (Lonestar's on and off), then the hidden
   // single-season shooting columns (in no group).
   const hidden = d.labels.filter(l => !d.groups.some(g => g.stats.some(x => x === l || (d.stats[x].sub || []).includes(l))))
@@ -569,7 +569,7 @@ test('leaderboard: a season\'s players with each stat as their profiles show it,
   assert.strictEqual(row.mp, p.seasons[i].mp)
   assert.strictEqual(row.age, p.seasons[i].age)
   assert.strictEqual(row.gp, p.seasons[i].gp)
-  for (const g of d.groups.filter(g => g.id !== 'footprint' && g.id !== 'lonestar')) {
+  for (const g of d.groups.filter(g => !['footprint', 'lonestar', 'lonestar-duo'].includes(g.id))) {
     for (const l of g.stats) {
       const k = d.labels.indexOf(l)
       const v = p.stats[l].vals[i]
@@ -606,7 +606,15 @@ test('leaderboard: Lonestar, each player without his top star, the change with i
   const all = lonestarDoc('james-harden').views.find(v => v.id === '2025-26').scenarios[0]
   assert.deepStrictEqual(all.parts.map(x => x.stars[0].name), ['Donovan Mitchell', 'Kawhi Leonard'])
   assert.strictEqual(at('james-harden', 'Net off'), two(all.off[net]))
-  assert.strictEqual(leaderboard('2025-26', { type: 'playoffs' }).groups.some(g => g.id === 'lonestar'), false)
+  // The switch: without his top two together, its own labels, the tab's other view. White
+  // without Brown and Pritchard (Tatum hurt).
+  const duo = lonestarDoc('derrick-white').views.find(v => v.id === '2025-26').scenarios.find(s => s.kind === 'two')
+  assert.deepStrictEqual(duo.stars.map(x => x.name), ['Jaylen Brown', 'Payton Pritchard'])
+  assert.strictEqual(d.groups.find(g => g.id === 'lonestar-duo').alt, 'lonestar')
+  assert.deepStrictEqual(d.stats['Duo Net Δ'].sub, ['Duo Net on', 'Duo Net off'])
+  assert.strictEqual(d.stats['Duo Net on'].weight, 'Duo Min on')
+  assert.deepStrictEqual(['Duo Net on', 'Duo Net off', 'Duo Min off'].map(l => at('derrick-white', l)), [two(duo.on[net]), two(duo.off[net]), two(duo.off[minutes])])
+  assert.strictEqual(leaderboard('2025-26', { type: 'playoffs' }).groups.some(g => g.id === 'lonestar' || g.id === 'lonestar-duo'), false)
   assert.strictEqual(leaderboardRecent().groups.find(g => g.id === 'lonestar').na, true)
 })
 
