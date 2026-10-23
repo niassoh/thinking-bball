@@ -1,6 +1,6 @@
 const test = require('node:test')
 const assert = require('node:assert')
-const { lineupProfile, league, poolFloor, pickRange, rankAmong, POOL_MAX } = require('../lib/lineups')
+const { lineupProfile, teamUnits, league, poolFloor, pickRange, rankAmong, POOL_MAX } = require('../lib/lineups')
 
 const L = (ids, minutes, poss, plusMinus) => ({ ids: ids.split(''), seconds: minutes * 60, offPoss: poss, defPoss: poss, plusMinus })
 const FLOORS = { 2: 100, 3: 250, 4: 100, 5: 100 }
@@ -105,4 +105,15 @@ test('lineups: the lowest pickable minimum leaves at most POOL_MAX units, on a 5
   // Few units: the lowest is one step. A lowest above the size's highest lifts the highest.
   assert.deepStrictEqual(pickRange([30, 10], 5), [50, 150])
   assert.deepStrictEqual(pickRange(minutes, 5), [1050, 1050])
+})
+
+test('lineups: a team\'s most-played unit of each size, and its best over the floor with its rank', () => {
+  const u = teamUnits(LINEUPS, { ...FLOORS, 3: 1000 }, { 2: [30, 10, 0], 3: [], 4: [], 5: [20, 0] })
+  // AFGHI is the most-played five; ABCDE (+20, 120 min) the best over the 100-minute floor.
+  assert.deepStrictEqual(u[5].mostUsed.ids, ['A', 'F', 'G', 'H', 'I'])
+  assert.deepStrictEqual(u[5].best.ids, ['A', 'B', 'C', 'D', 'E'])
+  assert.deepStrictEqual(u[5].best.rank, { rank: 1, of: 2 })
+  // No trio clears a 1000-minute floor: no best, and the most-played one has no rank.
+  assert.strictEqual(u[3].best, null)
+  assert.strictEqual(u[3].mostUsed.rank, null)
 })

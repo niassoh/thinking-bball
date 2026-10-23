@@ -292,6 +292,15 @@ app.get('/api/teamboard/:season', (req, res) => {
   res.json(doc);
 });
 
+// The team card's units: each team's most-played and best of each size (lib/profile.js).
+app.get('/api/teamunits/:season', (req, res) => {
+  const doc = /^\d{4}-\d{2}$/.test(req.params.season) ? profile.teamUnitsDoc(req.params.season) : null;
+  if (!doc) {
+    return res.status(404).json({ message: 'No lineup data for that season' });
+  }
+  res.json(doc);
+});
+
 // Playoffs mode reads the same documents under /api/playoffs/ (built from the playoff
 // sheet's runs); the player list and teams are shared.
 const seasonType = req => (req.path.startsWith('/api/playoffs/') ? 'playoffs' : 'regular');
