@@ -190,6 +190,26 @@ test('lonestar: rORTG takes each season\'s league ORTG, weighted by his possessi
   assert.ok(Math.abs(one.off.rortg - (-10 * 1000 - 20 * 2000) / 3000) < 1e-9)
 })
 
+test('lonestar: a hand-picked stretch is offered in his views, not the league\'s pools or ALL', () => {
+  // Z isn't among the team's stars; Y isn't on the team, so without A and Y is without A
+  // against with him.
+  const d = doc('2025-26', 400)
+  d.base.Z = row(1200, 600)
+  d.sets.Z = { off: { R: row(600, 200) }, on: { R: row(900, 400) } }
+  d.sets['A,Y'] = { off: { R: row(500, 400) }, on: { R: row(1000, 300) }, both: {} }
+  const data = { league: { '2025-26': LEAGUE }, seasons: ['2025-26'], docs: [d], examples: new Map([['R', [{ stars: ['Z'], seasons: ['2025-26'] }, { stars: ['A', 'Y'], seasons: ['2025-26'] }, { stars: ['A'], seasons: ['2025-26'] }]]]) }
+  const keys = xs => xs.map(s => `${s.kind}:${s.stars.join('+')}${s.example ? '*' : ''}${s.all ? ' all' : ''}`).sort()
+  assert.deepStrictEqual(keys(scenariosOf(data, 'R', ctx)), ['one:A', 'two:A+B'])
+  const mine = scenariosOf(data, 'R', ctx, { examples: true, all: true })
+  assert.deepStrictEqual(keys(mine), ['one:A', 'one:Z*', 'two:A+B', 'two:A+Y*'])
+  const ay = mine.find(s => s.stars.join() === 'A,Y')
+  assert.strictEqual(ay.on.minutes, 1000)
+  assert.strictEqual(ay.off.minutes, 500)
+  // Only in a view that overlaps its years.
+  data.examples.set('R', [{ stars: ['Z'], seasons: ['2023-24'] }])
+  assert.deepStrictEqual(keys(scenariosOf(data, 'R', ctx, { examples: true })), ['one:A', 'two:A+B'])
+})
+
 test('lonestar: a teammate on for a second, with no possessions, leaves his Load and the rest whole', () => {
   // The 2005-06 Rockets had one (2668): 0.02 minutes all season, in McGrady's minutes
   // without Yao, which left those minutes with no Load, Box Creation or Passer Rating.

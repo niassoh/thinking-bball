@@ -11,7 +11,8 @@
 //     those he shared the floor with (lib/lonestar.js), so the sets are each of the four
 //     alone and every pair; "off" is the minutes with none of the set on, "on" those with
 //     at least one, and for a pair "both" those with both on (the tab compares without
-//     both against with both).
+//     both against with both); and the sets of the stretches picked by hand
+//     (data/lonestar/offensive-wowy-examples.csv) the team-season holds.
 //   data/lonestar/league.json: per season, league TS% (the average of the teams'), ORTG
 //     and the share of assists at the rim (for rTS%, rORTG and Passer Rating), and the
 //     top quarter's sheet Load (topLoad, for ball competitors).
@@ -40,7 +41,7 @@ const { fromBrefAbbr } = require('../lib/teams')
 const FIELDS = ['Minutes', 'OffPoss', 'DefPoss', 'PlusMinus', 'OpponentPoints', 'Points', 'Assists', 'AtRimAssists', 'FG2A', 'FG3A', 'FG3M', 'FTA', 'FtPoints', 'OffRebounds', 'Turnovers', 'TsPct']
 const MIN_MINUTES = 500
 // A lead role (lib/lonestar.js, which orders a player's stars by it too).
-const { leads } = require('../lib/lonestar')
+const { leads, load } = require('../lib/lonestar')
 const STARS = 4
 
 // A sheet row's star score: his offensive role (Load) times his offensive box-score impact
@@ -144,6 +145,16 @@ const setsOf = top => {
   return [...ids.map(id => [id]), ...ids.flatMap((a, i) => ids.slice(i + 1).map(b => [a, b]))]
 }
 
+// With the hand-picked stretches' sets a team-season holds (lib/lonestar.js examplesOf:
+// his minutes with the team and at least one of the stars'), each once.
+let examples = null
+const withExamples = (sets, base, season) => {
+  if (!examples) examples = (load() || { examples: new Map() }).examples
+  const extra = [...examples].flatMap(([id, xs]) => (base[id] ? xs.filter(x => x.seasons.includes(season) && x.stars.some(t => base[t])).map(x => x.stars) : []))
+  const key = ids => [...ids].sort().join()
+  return [...sets, ...extra].filter((ids, i, all) => all.findIndex(x => key(x) === key(ids)) === i)
+}
+
 // The play-by-play helper's rows for a season: every team's season totals, and the sets
 // asked for in `spec` ({ TEAM: [[id…]…] }), plus the league's values.
 const local = (season, spec) => {
@@ -161,7 +172,7 @@ const team = async (season, abbr, teamId, sheetRows, bio, prev, open) => {
   const had = prev ? Object.fromEntries(Object.entries(prev.sets).map(([k, s]) => [k.split(',').sort().join(), s])) : {}
   const out = {}
   let kept = 0
-  for (const ids of setsOf(top)) {
+  for (const ids of withExamples(setsOf(top), base, season)) {
     const key = ids.join(',')
     const old = had[[...ids].sort().join()]
     const pull = async filter => keep(await pbp.playersWith(teamId, season, { [filter]: key }))
@@ -220,7 +231,7 @@ const main = async () => {
       const totals = local(season, {})
       const abbrs = Object.keys(totals.teams).sort().filter(wanted)
       const tops = Object.fromEntries(abbrs.map(a => [a, pick(mineOf(a), minutesOf(totals.teams[a].base), bio, open)]))
-      const got = local(season, Object.fromEntries(abbrs.map(a => [a, setsOf(tops[a])])))
+      const got = local(season, Object.fromEntries(abbrs.map(a => [a, withExamples(setsOf(tops[a]), totals.teams[a].base, season)])))
       for (const a of abbrs) {
         write({ season, team: a, generatedAt: new Date().toISOString(), source: 'pbp', fields: FIELDS, top: tops[a], loads: loadsOf(mineOf(a), bio), base: got.teams[a].base, sets: got.teams[a].sets })
         done++
