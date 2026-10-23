@@ -181,6 +181,15 @@ test('lonestar: each scenario is his stats with the stars off against on, pooled
   assert.strictEqual(one.ranked, true)
 })
 
+test('lonestar: rORTG takes each season\'s league ORTG, weighted by his possessions in it', () => {
+  // ORTG 100 over 1,000 possessions in a 110 league and 2,000 in a 120 league: -10 and -20.
+  const data = { league: { '2024-25': { ...LEAGUE, ortg: 110 }, '2025-26': { ...LEAGUE, ortg: 120 } }, seasons: ['2024-25', '2025-26'], docs: [doc('2024-25', 400), doc('2025-26', 400)] }
+  data.docs[1].sets.A.off.R = row(1000, 400)
+  const one = scenariosOf(data, 'R', ctx).find(s => s.kind === 'one')
+  assert.ok(Math.abs(one.off.ortg - 100) < 1e-9)
+  assert.ok(Math.abs(one.off.rortg - (-10 * 1000 - 20 * 2000) / 3000) < 1e-9)
+})
+
 test('lonestar: a teammate on for a second, with no possessions, leaves his Load and the rest whole', () => {
   // The 2005-06 Rockets had one (2668): 0.02 minutes all season, in McGrady's minutes
   // without Yao, which left those minutes with no Load, Box Creation or Passer Rating.
