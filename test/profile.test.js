@@ -613,6 +613,11 @@ test('leaderboard: Lonestar, each player without his top star, the change with i
   assert.strictEqual(d.groups.find(g => g.id === 'lonestar-duo').alt, 'lonestar')
   assert.deepStrictEqual(d.stats['Duo Net Δ'].sub, ['Duo Net on', 'Duo Net off'])
   assert.strictEqual(d.stats['Duo Net on'].weight, 'Duo Min on')
+  // Each row names who he was without, for its hover: White's two in Boston, Harden's one
+  // a team.
+  const white = d.players.find(x => x.slug === 'derrick-white').stars
+  assert.deepStrictEqual(white['lonestar-duo'].map(x => [x.team, x.stars.map(t => t.name)]), [['BOS', ['Jaylen Brown', 'Payton Pritchard']]])
+  assert.deepStrictEqual(d.players.find(x => x.slug === 'james-harden').stars.lonestar.map(x => x.stars.map(t => t.name)), [['Donovan Mitchell'], ['Kawhi Leonard']])
   assert.deepStrictEqual(['Duo Net on', 'Duo Net off', 'Duo Min off'].map(l => at('derrick-white', l)), [two(duo.on[net]), two(duo.off[net]), two(duo.off[minutes])])
   assert.strictEqual(leaderboard('2025-26', { type: 'playoffs' }).groups.some(g => g.id === 'lonestar' || g.id === 'lonestar-duo'), false)
   assert.strictEqual(leaderboardRecent().groups.find(g => g.id === 'lonestar').na, true)
