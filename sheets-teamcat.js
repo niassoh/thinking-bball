@@ -336,5 +336,32 @@ const pullSheet = attempt => {
   )
 }
 
-//Execute
-pullSheet(1)
+// The sheet's pbpstats imports are ImportJSON on Instructions!A13 and only fetch again when
+// it changes, so it's set to the season before and back first (as backfill-seasons.js does
+// the stats sheet's), each time waiting for Format's records to change; then it's read.
+const nudge = async () => {
+  const sheets = google.sheets({ version: 'v4', auth: await auth.getClient() })
+  const spreadsheetId = '1_MOhMxiijKUt31qscH08z2aCMnb0uE18pJLEp6NWJIg'
+  const setYear = year => sheets.spreadsheets.values.update({ spreadsheetId, range: 'Instructions!A13', valueInputOption: 'RAW', requestBody: { values: [[year]] } })
+  const records = async () => ((await sheets.spreadsheets.values.get({ spreadsheetId, range: 'Format!A6:H36' })).data.values || []).map(r => r.join(':')).join('|')
+  const change = async before => {
+    for (let i = 0; i < 18; i++) {
+      await new Promise(resolve => setTimeout(resolve, 10000))
+      const now = await records()
+      if (now !== before && !/Loading|#N\/A/.test(now)) return now
+    }
+    return before
+  }
+  const prior = `${+season.slice(0, 4) - 1}-${season.slice(2, 4)}`
+  const start = await records()
+  try {
+    await setYear(prior)
+    const detour = await change(start)
+    await setYear(season)
+    if (detour === start || (await change(detour)) === detour) console.error('Team sheet did not reload; reading it as it is')
+  } finally {
+    await setYear(season)
+  }
+}
+
+nudge().catch(e => console.error('Team sheet nudge failed:', e.message)).then(() => pullSheet(1))
