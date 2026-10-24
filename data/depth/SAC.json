@@ -1,7 +1,7 @@
 {
   "team": "SAC",
   "season": "2026-27",
-  "generatedAt": "2026-10-22T09:59:59.766Z",
+  "generatedAt": "2026-10-24T14:02:13.571Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,7 +16,13 @@
           "name": "Malik Monk",
           "slug": "malik-monk",
           "espnId": "4066262",
-          "status": "DTD"
+          "status": null
+        },
+        {
+          "name": "Sean Pedulla",
+          "slug": "sean-pedulla",
+          "espnId": "4709131",
+          "status": null
         },
         {
           "name": "Ben Simmons",
@@ -51,7 +57,7 @@
           "name": "Malik Monk",
           "slug": "malik-monk",
           "espnId": "4066262",
-          "status": "DTD"
+          "status": null
         }
       ]
     },

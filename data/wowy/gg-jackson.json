@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "MEM",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:18:50.321Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:26:15.497Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MEM",
-      "minutes": 19,
-      "poss": 44,
-      "net": -18.4
+      "minutes": 33,
+      "poss": 75,
+      "net": -4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MEM",
-      "minutes": 29,
-      "poss": 60,
-      "net": 46.7
+      "minutes": 62,
+      "poss": 125,
+      "net": 19.2
     },
     {
       "label": "On, w/o Boozer",
@@ -35,16 +35,16 @@
     {
       "label": "On, w/o Wells",
       "sub": "2026–27 · MEM",
-      "minutes": 18,
-      "poss": 42,
-      "net": -16.7
+      "minutes": 24,
+      "poss": 55,
+      "net": -25.5
     },
     {
       "label": "Neither Jackson nor Boozer",
       "sub": "2026–27 · MEM",
-      "minutes": 2,
-      "poss": 4,
-      "net": 28.6
+      "minutes": 12,
+      "poss": 25,
+      "net": -32
     }
   ]
 }

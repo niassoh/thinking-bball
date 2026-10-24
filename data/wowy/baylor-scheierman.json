@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "BOS",
-  "gp": 1,
-  "generatedAt": "2026-10-21T17:53:35.518Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:19:05.053Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BOS",
-      "minutes": 18,
-      "poss": 36,
-      "net": -28.2
+      "minutes": 29,
+      "poss": 60,
+      "net": -10.1
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BOS",
-      "minutes": 30,
-      "poss": 64,
-      "net": 3.1
+      "minutes": 67,
+      "poss": 132,
+      "net": 1.5
     },
     {
       "label": "On, w/o Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 6,
-      "poss": 12,
-      "net": 8.7
+      "minutes": 8,
+      "poss": 16,
+      "net": -12.9
     },
     {
       "label": "On, w/o White",
       "sub": "2026–27 · BOS",
-      "minutes": 9,
-      "poss": 18,
-      "net": 16.7
+      "minutes": 18,
+      "poss": 38,
+      "net": 23.7
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · BOS",
-      "minutes": 13,
-      "poss": 26,
-      "net": -7.8
+      "minutes": 23,
+      "poss": 48,
+      "net": 8.4
     },
     {
       "label": "Neither Scheierman nor Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 4,
-      "poss": 7,
-      "net": -57.1
+      "minutes": 13,
+      "poss": 24,
+      "net": 8.3
     }
   ]
 }

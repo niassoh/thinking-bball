@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "NOP",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:12:11.496Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:16:26.109Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · NOP",
-      "minutes": 18,
-      "poss": 39,
-      "net": -13
+      "minutes": 33,
+      "poss": 72,
+      "net": -11.2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NOP",
-      "minutes": 30,
-      "poss": 66,
-      "net": 3.1
+      "minutes": 63,
+      "poss": 135,
+      "net": 3
     },
     {
       "label": "On, w/o Murray",
       "sub": "2026–27 · NOP",
-      "minutes": 14,
-      "poss": 30,
-      "net": 10.2
-    },
-    {
-      "label": "On, w/o Murphy III",
-      "sub": "2026–27 · NOP",
-      "minutes": 13,
-      "poss": 28,
-      "net": -25
+      "minutes": 25,
+      "poss": 54,
+      "net": 9.3
     },
     {
       "label": "On, w/o Williamson",
       "sub": "2026–27 · NOP",
-      "minutes": 16,
-      "poss": 34,
-      "net": -11.8
+      "minutes": 25,
+      "poss": 54,
+      "net": -9.3
+    },
+    {
+      "label": "On, w/o Murphy III",
+      "sub": "2026–27 · NOP",
+      "minutes": 28,
+      "poss": 61,
+      "net": -16.4
     },
     {
       "label": "Neither Mathurin nor Murray",
       "sub": "2026–27 · NOP",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "minutes": 7,
+      "poss": 13,
+      "net": -23.1
     }
   ]
 }

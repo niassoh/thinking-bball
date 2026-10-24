@@ -1,7 +1,7 @@
 {
   "team": "DAL",
   "season": "2026-27",
-  "generatedAt": "2026-10-23T15:05:51.076Z",
+  "generatedAt": "2026-10-24T14:02:05.632Z",
   "rows": [
     {
       "pos": "PG",
@@ -22,7 +22,7 @@
           "name": "Cooper Flagg",
           "slug": "cooper-flagg",
           "espnId": "5041939",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Sergio de Larrea",
@@ -51,7 +51,7 @@
           "name": "Caleb Martin",
           "slug": "caleb-martin",
           "espnId": "3138160",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Marcus Sasser",
@@ -68,7 +68,7 @@
           "name": "Cooper Flagg",
           "slug": "cooper-flagg",
           "espnId": "5041939",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Naji Marshall",
@@ -86,7 +86,7 @@
           "name": "Santi Aldama",
           "slug": "santi-aldama",
           "espnId": "4593125",
-          "status": "OUT"
+          "status": "DTD"
         }
       ]
     },
@@ -109,13 +109,13 @@
           "name": "Santi Aldama",
           "slug": "santi-aldama",
           "espnId": "4593125",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Caleb Martin",
           "slug": "caleb-martin",
           "espnId": "3138160",
-          "status": "OUT"
+          "status": "DTD"
         }
       ]
     },
@@ -144,7 +144,7 @@
           "name": "Santi Aldama",
           "slug": "santi-aldama",
           "espnId": "4593125",
-          "status": "OUT"
+          "status": "DTD"
         }
       ]
     }

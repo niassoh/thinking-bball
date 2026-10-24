@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIA",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:21:05.269Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:37:51.726Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIA",
-      "minutes": 24,
-      "poss": 49,
-      "net": -10.2
+      "minutes": 38,
+      "poss": 77,
+      "net": -5.2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIA",
-      "minutes": 24,
-      "poss": 56,
-      "net": -36
+      "minutes": 59,
+      "poss": 130,
+      "net": -29.2
     },
     {
       "label": "On, w/o Mitchell",
       "sub": "2026–27 · MIA",
-      "minutes": 15,
-      "poss": 32,
-      "net": 6.3
-    },
-    {
-      "label": "On, w/o Adebayo",
-      "sub": "2026–27 · MIA",
-      "minutes": 17,
-      "poss": 36,
-      "net": 8.5
+      "minutes": 23,
+      "poss": 46,
+      "net": 13
     },
     {
       "label": "On, w/o Antetokounmpo",
       "sub": "2026–27 · MIA",
-      "minutes": 8,
-      "poss": 17,
-      "net": -6.1
+      "minutes": 18,
+      "poss": 37,
+      "net": 5.5
+    },
+    {
+      "label": "On, w/o Adebayo",
+      "sub": "2026–27 · MIA",
+      "minutes": 30,
+      "poss": 60,
+      "net": 5
     },
     {
       "label": "Neither Jović nor Mitchell",
       "sub": "2026–27 · MIA",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "minutes": 8,
+      "poss": 17,
+      "net": 17.6
     }
   ]
 }

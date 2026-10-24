@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "BOS",
-  "gp": 1,
-  "generatedAt": "2026-10-21T17:57:02.028Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:42:45.369Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BOS",
-      "minutes": 22,
-      "poss": 49,
-      "net": 14.3
+      "minutes": 44,
+      "poss": 93,
+      "net": 6.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BOS",
-      "minutes": 26,
-      "poss": 50,
-      "net": -30
+      "minutes": 52,
+      "poss": 99,
+      "net": -10.2
     },
     {
       "label": "On, w/o Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "minutes": 2,
+      "poss": 3,
+      "net": -66.7
     },
     {
       "label": "On, w/o White",
       "sub": "2026–27 · BOS",
-      "minutes": 7,
-      "poss": 15,
-      "net": -6.9
+      "minutes": 18,
+      "poss": 38,
+      "net": 21.1
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · BOS",
-      "minutes": 7,
-      "poss": 15,
-      "net": -6.9
+      "minutes": 14,
+      "poss": 31,
+      "net": 25.8
     },
     {
       "label": "Neither Queta nor Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 10,
-      "poss": 19,
-      "net": -16.2
+      "minutes": 20,
+      "poss": 37,
+      "net": 5.5
     }
   ]
 }

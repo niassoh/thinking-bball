@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIA",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:14:24.613Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:19:08.626Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIA",
-      "minutes": 24,
-      "poss": 56,
-      "net": -21.4
+      "minutes": 53,
+      "poss": 116,
+      "net": -10.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIA",
-      "minutes": 24,
-      "poss": 49,
-      "net": -26.8
+      "minutes": 43,
+      "poss": 91,
+      "net": -33
     },
     {
       "label": "On, w/o Mitchell",
       "sub": "2026–27 · MIA",
-      "minutes": 12,
-      "poss": 27,
-      "net": -7.5
-    },
-    {
-      "label": "On, w/o Adebayo",
-      "sub": "2026–27 · MIA",
-      "minutes": 11,
-      "poss": 25,
-      "net": -8
+      "minutes": 24,
+      "poss": 52,
+      "net": 5.8
     },
     {
       "label": "On, w/o Antetokounmpo",
       "sub": "2026–27 · MIA",
-      "minutes": 8,
-      "poss": 18,
-      "net": -55.6
+      "minutes": 20,
+      "poss": 44,
+      "net": -13.8
+    },
+    {
+      "label": "On, w/o Adebayo",
+      "sub": "2026–27 · MIA",
+      "minutes": 30,
+      "poss": 63,
+      "net": 3.2
     },
     {
       "label": "Neither Larsson nor Mitchell",
       "sub": "2026–27 · MIA",
-      "minutes": 3,
-      "poss": 6,
-      "net": 72.7
+      "minutes": 6,
+      "poss": 11,
+      "net": 54.5
     }
   ]
 }

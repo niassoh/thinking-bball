@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "WAS",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:21:23.126Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:38:44.500Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · WAS",
-      "minutes": 34,
-      "poss": 76,
-      "net": 7.9
+      "minutes": 66,
+      "poss": 149,
+      "net": -4.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · WAS",
-      "minutes": 14,
-      "poss": 27,
-      "net": 22.6
+      "minutes": 30,
+      "poss": 60,
+      "net": 15
     },
     {
       "label": "On, w/o Young",
       "sub": "2026–27 · WAS",
-      "minutes": 10,
-      "poss": 21,
-      "net": 29.3
+      "minutes": 19,
+      "poss": 42,
+      "net": -9.6
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · WAS",
-      "minutes": 11,
-      "poss": 25,
-      "net": 12.2
+      "minutes": 23,
+      "poss": 51,
+      "net": 15.8
     },
     {
       "label": "On, w/o Coulibaly",
       "sub": "2026–27 · WAS",
-      "minutes": 7,
-      "poss": 15,
-      "net": -6.9
+      "minutes": 14,
+      "poss": 33,
+      "net": 12.1
     },
     {
       "label": "Neither Davis nor Young",
       "sub": "2026–27 · WAS",
-      "minutes": 0,
-      "poss": 1,
-      "net": 0
+      "minutes": 1,
+      "poss": 4,
+      "net": -28.6
     }
   ]
 }

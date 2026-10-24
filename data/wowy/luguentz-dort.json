@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "ATL",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:13:12.508Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:17:26.513Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · ATL",
-      "minutes": 28,
-      "poss": 62,
-      "net": -1.6
+      "minutes": 47,
+      "poss": 104,
+      "net": 6.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · ATL",
-      "minutes": 20,
-      "poss": 49,
-      "net": 16.5
+      "minutes": 49,
+      "poss": 105,
+      "net": 44.8
     },
     {
       "label": "On, w/o Daniels",
       "sub": "2026–27 · ATL",
-      "minutes": 13,
-      "poss": 28,
-      "net": -18.2
-    },
-    {
-      "label": "On, w/o Wiggins",
-      "sub": "2026–27 · ATL",
-      "minutes": 10,
-      "poss": 24,
-      "net": 38.3
+      "minutes": 30,
+      "poss": 64,
+      "net": 3.1
     },
     {
       "label": "On, w/o Alexander-Walker",
       "sub": "2026–27 · ATL",
-      "minutes": 13,
-      "poss": 30,
-      "net": -16.7
+      "minutes": 22,
+      "poss": 50,
+      "net": -10
+    },
+    {
+      "label": "On, w/o Johnson",
+      "sub": "2026–27 · ATL",
+      "minutes": 28,
+      "poss": 62,
+      "net": 8.1
     },
     {
       "label": "Neither Dort nor Daniels",
       "sub": "2026–27 · ATL",
-      "minutes": 0,
-      "poss": 1,
-      "net": 400
+      "minutes": 8,
+      "poss": 15,
+      "net": 66.7
     }
   ]
 }

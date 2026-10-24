@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIL",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:15:53.381Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:20:18.582Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIL",
-      "minutes": 21,
-      "poss": 44,
-      "net": -9.2
+      "minutes": 37,
+      "poss": 77,
+      "net": -18.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIL",
-      "minutes": 27,
-      "poss": 59,
-      "net": -13.6
-    },
-    {
-      "label": "On, w/o Herro",
-      "sub": "2026–27 · MIL",
-      "minutes": 7,
-      "poss": 15,
-      "net": 13.3
-    },
-    {
-      "label": "On, w/o Turner",
-      "sub": "2026–27 · MIL",
-      "minutes": 10,
-      "poss": 20,
-      "net": -25
+      "minutes": 59,
+      "poss": 136,
+      "net": -3.7
     },
     {
       "label": "On, w/o Jaquez Jr.",
       "sub": "2026–27 · MIL",
-      "minutes": 15,
-      "poss": 30,
-      "net": -26.7
+      "minutes": 24,
+      "poss": 49,
+      "net": -28.6
     },
     {
-      "label": "Neither Dieng nor Herro",
+      "label": "On, w/o Herro",
       "sub": "2026–27 · MIL",
-      "minutes": 9,
-      "poss": 17,
-      "net": -47.1
+      "minutes": 12,
+      "poss": 24,
+      "net": 16.7
+    },
+    {
+      "label": "On, w/o Turner",
+      "sub": "2026–27 · MIL",
+      "minutes": 22,
+      "poss": 43,
+      "net": 0
+    },
+    {
+      "label": "Neither Dieng nor Jaquez Jr.",
+      "sub": "2026–27 · MIL",
+      "minutes": 5,
+      "poss": 11,
+      "net": -85.7
     }
   ]
 }

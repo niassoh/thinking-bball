@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIA",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:17:36.339Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:21:52.862Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIA",
-      "minutes": 27,
-      "poss": 63,
-      "net": -40
+      "minutes": 53,
+      "poss": 117,
+      "net": -37.6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIA",
-      "minutes": 21,
-      "poss": 42,
-      "net": 0
+      "minutes": 43,
+      "poss": 90,
+      "net": 2.2
     },
     {
       "label": "On, w/o Mitchell",
       "sub": "2026–27 · MIA",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
-    },
-    {
-      "label": "On, w/o Adebayo",
-      "sub": "2026–27 · MIA",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "minutes": 5,
+      "poss": 10,
+      "net": -30
     },
     {
       "label": "On, w/o Antetokounmpo",
       "sub": "2026–27 · MIA",
-      "minutes": 13,
-      "poss": 29,
-      "net": -63.2
+      "minutes": 16,
+      "poss": 33,
+      "net": -48.5
+    },
+    {
+      "label": "On, w/o Adebayo",
+      "sub": "2026–27 · MIA",
+      "minutes": 10,
+      "poss": 22,
+      "net": 14
     },
     {
       "label": "Neither Wiggins nor Mitchell",
       "sub": "2026–27 · MIA",
-      "minutes": 15,
-      "poss": 32,
-      "net": 6.3
+      "minutes": 25,
+      "poss": 53,
+      "net": 22.6
     }
   ]
 }

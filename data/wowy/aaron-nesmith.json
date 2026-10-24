@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "IND",
-  "gp": 45,
-  "generatedAt": "2026-10-02T04:19:37.681Z",
+  "gp": 1,
+  "generatedAt": "2026-10-24T14:21:07.449Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · IND",
-      "minutes": 1335,
-      "poss": 2813,
-      "net": -7.14539637397796
+      "sub": "2026–27 · IND",
+      "minutes": 20,
+      "poss": 41,
+      "net": -26.8
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · IND",
-      "minutes": 2616,
-      "poss": 5508.5,
-      "net": -8.241808114731779
+      "sub": "2026–27 · IND",
+      "minutes": 76,
+      "poss": 163,
+      "net": -1.2
     },
     {
-      "label": "On, w/o Siakam",
-      "sub": "2025–26 · IND",
-      "minutes": 521,
-      "poss": 1074.5,
-      "net": -10.609585853885529
-    },
-    {
-      "label": "On, w/o Walker",
-      "sub": "2025–26 · IND",
-      "minutes": 604,
-      "poss": 1268,
-      "net": -3.7066246056782335
+      "label": "On, w/o Haliburton",
+      "sub": "2026–27 · IND",
+      "minutes": 3,
+      "poss": 8,
+      "net": -106.7
     },
     {
       "label": "On, w/o Nembhard",
-      "sub": "2025–26 · IND",
-      "minutes": 616,
-      "poss": 1292,
-      "net": -8.746130030959751
+      "sub": "2026–27 · IND",
+      "minutes": 10,
+      "poss": 18,
+      "net": -22.9
     },
     {
-      "label": "Neither Nesmith nor Siakam",
-      "sub": "2025–26 · IND",
-      "minutes": 1374,
-      "poss": 2927.5,
-      "net": -10.623398804440649
+      "label": "On, w/o Siakam",
+      "sub": "2026–27 · IND",
+      "minutes": 4,
+      "poss": 10,
+      "net": -157.9
+    },
+    {
+      "label": "Neither Nesmith nor Haliburton",
+      "sub": "2026–27 · IND",
+      "minutes": 28,
+      "poss": 59,
+      "net": -1.7
     }
   ]
 }

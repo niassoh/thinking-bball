@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "POR",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:08:58.008Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:13:18.860Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · POR",
-      "minutes": 23,
-      "poss": 43,
-      "net": 76.7
+      "minutes": 49,
+      "poss": 102,
+      "net": 39.2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · POR",
-      "minutes": 25,
-      "poss": 55,
-      "net": 14.7
-    },
-    {
-      "label": "On, w/o Cissoko",
-      "sub": "2026–27 · POR",
-      "minutes": 17,
-      "poss": 32,
-      "net": 92.1
-    },
-    {
-      "label": "On, w/o Lillard",
-      "sub": "2026–27 · POR",
-      "minutes": 11,
-      "poss": 22,
-      "net": 81.8
+      "minutes": 47,
+      "poss": 101,
+      "net": 8.9
     },
     {
       "label": "On, w/o Avdija",
       "sub": "2026–27 · POR",
-      "minutes": 8,
-      "poss": 16,
-      "net": 56.3
+      "minutes": 12,
+      "poss": 26,
+      "net": 31.4
     },
     {
-      "label": "Neither Morant nor Cissoko",
+      "label": "On, w/o Lillard",
       "sub": "2026–27 · POR",
-      "minutes": 6,
-      "poss": 14,
-      "net": 44.4
+      "minutes": 20,
+      "poss": 42,
+      "net": 41
+    },
+    {
+      "label": "On, w/o Cissoko",
+      "sub": "2026–27 · POR",
+      "minutes": 34,
+      "poss": 69,
+      "net": 43.5
+    },
+    {
+      "label": "Neither Morant nor Avdija",
+      "sub": "2026–27 · POR",
+      "minutes": 23,
+      "poss": 51,
+      "net": 7.9
     }
   ]
 }

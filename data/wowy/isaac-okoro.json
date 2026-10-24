@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CHI",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:12:24.202Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:16:41.286Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CHI",
-      "minutes": 18,
-      "poss": 40,
-      "net": -67.5
+      "minutes": 45,
+      "poss": 102,
+      "net": -15.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHI",
-      "minutes": 30,
-      "poss": 72,
-      "net": -22.4
+      "minutes": 51,
+      "poss": 120,
+      "net": -16.7
     },
     {
       "label": "On, w/o Wilson",
       "sub": "2026–27 · CHI",
-      "minutes": 7,
-      "poss": 17,
-      "net": -29.4
+      "minutes": 20,
+      "poss": 45,
+      "net": 0
+    },
+    {
+      "label": "On, w/o Powell",
+      "sub": "2026–27 · CHI",
+      "minutes": 24,
+      "poss": 52,
+      "net": -23.3
     },
     {
       "label": "On, w/o Miller",
       "sub": "2026–27 · CHI",
-      "minutes": 6,
-      "poss": 13,
-      "net": -56
-    },
-    {
-      "label": "On, w/o Buzelis",
-      "sub": "2026–27 · CHI",
-      "minutes": 14,
-      "poss": 30,
-      "net": -60
+      "minutes": 12,
+      "poss": 29,
+      "net": -3.4
     },
     {
       "label": "Neither Okoro nor Wilson",
       "sub": "2026–27 · CHI",
-      "minutes": 8,
-      "poss": 20,
-      "net": 35.9
+      "minutes": 10,
+      "poss": 24,
+      "net": 50
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "DEN",
   "season": "2026-27",
-  "generatedAt": "2026-10-23T15:05:51.515Z",
+  "generatedAt": "2026-10-24T14:02:05.979Z",
   "rows": [
     {
       "pos": "PG",
@@ -45,7 +45,7 @@
           "name": "Spencer Jones",
           "slug": "spencer-jones",
           "espnId": "4592427",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "name": "Cameron Johnson",
           "slug": "cameron-johnson",
           "espnId": "3138196",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "DeMar DeRozan",
@@ -74,7 +74,7 @@
           "name": "Alpha Diallo",
           "slug": "alpha-diallo",
           "espnId": "4065813",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -97,13 +97,13 @@
           "name": "Spencer Jones",
           "slug": "spencer-jones",
           "espnId": "4592427",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Alpha Diallo",
           "slug": "alpha-diallo",
           "espnId": "4065813",
-          "status": null
+          "status": "DTD"
         }
       ]
     },

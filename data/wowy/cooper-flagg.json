@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DAL",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:15:25.367Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:19:52.230Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DAL",
-      "minutes": 33,
-      "poss": 68,
-      "net": -8.9
+      "minutes": 50,
+      "poss": 106,
+      "net": 26.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DAL",
-      "minutes": 15,
-      "poss": 31,
-      "net": -38.7
-    },
-    {
-      "label": "On, w/o Washington",
-      "sub": "2026–27 · DAL",
-      "minutes": 14,
-      "poss": 29,
-      "net": 31
+      "minutes": 46,
+      "poss": 93,
+      "net": -32.4
     },
     {
       "label": "On, w/o Christie",
       "sub": "2026–27 · DAL",
-      "minutes": 9,
-      "poss": 19,
-      "net": 63.2
+      "minutes": 14,
+      "poss": 29,
+      "net": 93.1
+    },
+    {
+      "label": "On, w/o Washington",
+      "sub": "2026–27 · DAL",
+      "minutes": 23,
+      "poss": 50,
+      "net": 60.6
     },
     {
       "label": "On, w/o Marshall",
       "sub": "2026–27 · DAL",
-      "minutes": 18,
-      "poss": 38,
-      "net": -5.3
+      "minutes": 25,
+      "poss": 53,
+      "net": 15.2
     },
     {
-      "label": "Neither Flagg nor Washington",
+      "label": "Neither Flagg nor Christie",
       "sub": "2026–27 · DAL",
-      "minutes": 3,
-      "poss": 8,
-      "net": 0
+      "minutes": 16,
+      "poss": 34,
+      "net": -17.9
     }
   ]
 }

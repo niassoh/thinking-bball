@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "ORL",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:16:23.938Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:20:47.258Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · ORL",
-      "minutes": 29,
-      "poss": 68,
-      "net": -1.5
+      "minutes": 62,
+      "poss": 138,
+      "net": -13.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · ORL",
-      "minutes": 19,
-      "poss": 43,
-      "net": -14.1
+      "minutes": 34,
+      "poss": 74,
+      "net": -13.6
     },
     {
       "label": "On, w/o Banchero",
       "sub": "2026–27 · ORL",
-      "minutes": 7,
-      "poss": 15,
-      "net": 13.3
-    },
-    {
-      "label": "On, w/o Bane",
-      "sub": "2026–27 · ORL",
-      "minutes": 10,
-      "poss": 24,
-      "net": 0
+      "minutes": 24,
+      "poss": 55,
+      "net": -18.2
     },
     {
       "label": "On, w/o Suggs",
       "sub": "2026–27 · ORL",
-      "minutes": 7,
-      "poss": 18,
-      "net": 61.1
+      "minutes": 13,
+      "poss": 30,
+      "net": -6.7
+    },
+    {
+      "label": "On, w/o Bane",
+      "sub": "2026–27 · ORL",
+      "minutes": 23,
+      "poss": 52,
+      "net": -23.1
     },
     {
       "label": "Neither Wagner nor Banchero",
       "sub": "2026–27 · ORL",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "minutes": 4,
+      "poss": 10,
+      "net": 10.5
     }
   ]
 }

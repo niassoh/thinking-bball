@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "GSW",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:24:22.010Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:44:00.567Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · GSW",
-      "minutes": 12,
-      "poss": 26,
-      "net": 47.1
+      "minutes": 24,
+      "poss": 51,
+      "net": -7.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · GSW",
-      "minutes": 36,
-      "poss": 77,
-      "net": -44.4
+      "minutes": 71,
+      "poss": 148,
+      "net": -12.9
     },
     {
       "label": "On, w/o Lendeborg",
@@ -26,25 +26,25 @@
       "net": 50
     },
     {
-      "label": "On, w/o Santos",
+      "label": "On, w/o Green",
       "sub": "2026–27 · GSW",
-      "minutes": 9,
-      "poss": 19,
-      "net": 63.2
+      "minutes": 15,
+      "poss": 33,
+      "net": 15.2
     },
     {
-      "label": "On, w/o Melton",
+      "label": "On, w/o Curry",
       "sub": "2026–27 · GSW",
-      "minutes": 10,
-      "poss": 22,
-      "net": 51.2
+      "minutes": 14,
+      "poss": 31,
+      "net": 22.6
     },
     {
       "label": "Neither Ike nor Lendeborg",
       "sub": "2026–27 · GSW",
-      "minutes": 10,
-      "poss": 22,
-      "net": -51.2
+      "minutes": 21,
+      "poss": 41,
+      "net": -12.3
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIN",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:23:36.177Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:42:41.066Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIN",
-      "minutes": 33,
-      "poss": 73,
-      "net": 40
+      "minutes": 63,
+      "poss": 134,
+      "net": 28.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIN",
-      "minutes": 15,
-      "poss": 32,
-      "net": -12.5
+      "minutes": 33,
+      "poss": 72,
+      "net": 12.5
     },
     {
       "label": "On, w/o Edwards",
       "sub": "2026–27 · MIN",
-      "minutes": 10,
-      "poss": 21,
-      "net": 39
+      "minutes": 19,
+      "poss": 39,
+      "net": 23.1
+    },
+    {
+      "label": "On, w/o McDaniels",
+      "sub": "2026–27 · MIN",
+      "minutes": 15,
+      "poss": 33,
+      "net": 24.2
     },
     {
       "label": "On, w/o Kuminga",
       "sub": "2026–27 · MIN",
-      "minutes": 8,
-      "poss": 19,
-      "net": 84.2
-    },
-    {
-      "label": "On, w/o Ball",
-      "sub": "2026–27 · MIN",
-      "minutes": 7,
-      "poss": 14,
-      "net": 50
+      "minutes": 14,
+      "poss": 34,
+      "net": 47.1
     },
     {
       "label": "Neither Gobert nor Edwards",
       "sub": "2026–27 · MIN",
-      "minutes": 5,
-      "poss": 11,
-      "net": -76.2
+      "minutes": 11,
+      "poss": 26,
+      "net": -23.5
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "UTA",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:08:25.084Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:12:35.109Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · UTA",
-      "minutes": 16,
-      "poss": 38,
-      "net": -26.7
+      "minutes": 34,
+      "poss": 78,
+      "net": -10.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · UTA",
-      "minutes": 32,
-      "poss": 66,
-      "net": -15.2
+      "minutes": 62,
+      "poss": 128,
+      "net": -8.6
     },
     {
       "label": "On, w/o Markkanen",
       "sub": "2026–27 · UTA",
-      "minutes": 9,
-      "poss": 20,
-      "net": -71.8
-    },
-    {
-      "label": "On, w/o Peterson",
-      "sub": "2026–27 · UTA",
-      "minutes": 12,
-      "poss": 31,
-      "net": 0
+      "minutes": 15,
+      "poss": 34,
+      "net": -35.3
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · UTA",
-      "minutes": 16,
-      "poss": 38,
-      "net": -26.7
+      "minutes": 31,
+      "poss": 73,
+      "net": -11
+    },
+    {
+      "label": "On, w/o Jackson Jr.",
+      "sub": "2026–27 · UTA",
+      "minutes": 22,
+      "poss": 52,
+      "net": 15.4
     },
     {
       "label": "Neither Collier nor Markkanen",
       "sub": "2026–27 · UTA",
-      "minutes": 3,
-      "poss": 5,
-      "net": -80
+      "minutes": 10,
+      "poss": 21,
+      "net": 4.9
     }
   ]
 }

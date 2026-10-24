@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DAL",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:24:48.808Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:50:14.428Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DAL",
-      "minutes": 14,
-      "poss": 32,
-      "net": -62.5
+      "minutes": 31,
+      "poss": 65,
+      "net": 1.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DAL",
-      "minutes": 34,
-      "poss": 67,
-      "net": 3
-    },
-    {
-      "label": "On, w/o Flagg",
-      "sub": "2026–27 · DAL",
-      "minutes": 10,
-      "poss": 23,
-      "net": -53.3
-    },
-    {
-      "label": "On, w/o Washington",
-      "sub": "2026–27 · DAL",
-      "minutes": 3,
-      "poss": 7,
-      "net": -42.9
+      "minutes": 65,
+      "poss": 133,
+      "net": -2.3
     },
     {
       "label": "On, w/o Christie",
       "sub": "2026–27 · DAL",
-      "minutes": 10,
-      "poss": 24,
-      "net": -59.6
+      "minutes": 15,
+      "poss": 33,
+      "net": 6.1
     },
     {
-      "label": "Neither Johnson Jr. nor Flagg",
+      "label": "On, w/o Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 5,
-      "poss": 9,
-      "net": 0
+      "minutes": 14,
+      "poss": 31,
+      "net": 32.8
+    },
+    {
+      "label": "On, w/o Marshall",
+      "sub": "2026–27 · DAL",
+      "minutes": 4,
+      "poss": 10,
+      "net": -120
+    },
+    {
+      "label": "Neither Johnson Jr. nor Christie",
+      "sub": "2026–27 · DAL",
+      "minutes": 15,
+      "poss": 30,
+      "net": 64.4
     }
   ]
 }

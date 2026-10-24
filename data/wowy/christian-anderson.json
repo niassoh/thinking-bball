@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CHA",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:25:05.352Z",
+  "gp": 2,
+  "generatedAt": "2026-10-24T14:43:00.510Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CHA",
-      "minutes": 13,
-      "poss": 27,
-      "net": 18.5
+      "minutes": 29,
+      "poss": 62,
+      "net": -1.6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHA",
-      "minutes": 35,
-      "poss": 73,
-      "net": 2.7
+      "minutes": 67,
+      "poss": 138,
+      "net": -28.4
     },
     {
       "label": "On, w/o Miller",
       "sub": "2026–27 · CHA",
-      "minutes": 3,
-      "poss": 6,
-      "net": 0
+      "minutes": 16,
+      "poss": 36,
+      "net": -5.6
+    },
+    {
+      "label": "On, w/o Reid",
+      "sub": "2026–27 · CHA",
+      "minutes": 25,
+      "poss": 52,
+      "net": 7.7
     },
     {
       "label": "On, w/o Schröder",
       "sub": "2026–27 · CHA",
-      "minutes": 13,
-      "poss": 27,
-      "net": 18.5
-    },
-    {
-      "label": "On, w/o Diabaté",
-      "sub": "2026–27 · CHA",
-      "minutes": 4,
-      "poss": 9,
-      "net": 111.1
+      "minutes": 29,
+      "poss": 62,
+      "net": -1.6
     },
     {
       "label": "Neither Anderson nor Miller",
       "sub": "2026–27 · CHA",
-      "minutes": 10,
-      "poss": 19,
-      "net": 57.9
+      "minutes": 22,
+      "poss": 40,
+      "net": 7.6
     }
   ]
 }
