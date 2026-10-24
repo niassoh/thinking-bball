@@ -362,6 +362,31 @@ const nudge = async () => {
   } finally {
     await setYear(season)
   }
+  await standings(sheets, spreadsheetId)
+}
+
+// The win pace is mostly SRS this early, and SRS comes from an IMPORTHTML of
+// Basketball-Reference's standings ('BBR standings', East at A37, West at A54), which Google
+// refetches only now and then (the A13 nudge doesn't touch them): unattended, they can hold
+// SRS from before the season. When their games trail Format's, the imports are entered again
+// (the same formulas) to refetch them, waiting until they catch up; still behind, the sheet
+// is read as it is.
+const standings = async (sheets, spreadsheetId) => {
+  const IMPORTS = ["'BBR standings'!A37", "'BBR standings'!A54"]
+  const get = (range, valueRenderOption) => sheets.spreadsheets.values.get({ spreadsheetId, range, valueRenderOption }).then(r => r.data.values || [])
+  const games = rows => rows.reduce((n, r) => n + (+r[0] || 0) + (+r[1] || 0), 0)
+  const played = games(await get('Format!G6:H35'))
+  const behind = async () => games(await get("'BBR standings'!Q3:R34")) < played
+  if (!(await behind())) return
+  for (const range of IMPORTS) {
+    const formula = (await get(range, 'FORMULA'))[0][0]
+    await sheets.spreadsheets.values.update({ spreadsheetId, range, valueInputOption: 'USER_ENTERED', requestBody: { values: [[formula]] } })
+  }
+  for (let i = 0; i < 18; i++) {
+    await new Promise(resolve => setTimeout(resolve, 10000))
+    if (!(await behind())) return console.log('Team sheet standings refetched for SRS')
+  }
+  console.error("Team sheet's Basketball-Reference standings still trail its records; SRS and the win pace read stale")
 }
 
 nudge().catch(e => console.error('Team sheet nudge failed:', e.message)).then(() => pullSheet(1))
