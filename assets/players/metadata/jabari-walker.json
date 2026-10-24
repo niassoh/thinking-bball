@@ -1,0 +1,64 @@
+{
+  "player": "Jabari Walker",
+  "playerId": "jabari-walker",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/buffs_beat/01khmpmgtadwmday78k9.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/buffs_beat/01khmpmgtadwmday78k9.jpg",
+  "sourcePage": "https://www.si.com/college/colorado/basketball/jabari-walker-contract-extension-philadelphia-76ers-says-colorado-buffaloes-current-struggles",
+  "license": "unknown (Imagn Images via SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Brad Penner / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-12-19 at NYK, Madison Square Garden (SI caption: drives to the basket against Josh Hart, third quarter)",
+  "originalSize": null,
+  "storedSize": [
+    2400,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jabari-walker.jpg",
+  "selectedAt": "2026-10-24T03:09:37.335Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 683,
+    "y": 423,
+    "size": 650
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up-court past the camera, lips parted over clenched teeth on the drive; engaged, not straining)",
+  "jersey": "PHI white Association #33, 2025-26",
+  "concerns": "2025-26 photo (same team as 2026-27); Minute Media serves the 2952x3690 original at 2400x3000, crop is in that stored size; locs fall behind his left ear; his own shoulder/arm tattoo at the right edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_76ers/01kg0me7ejxth1k4t3rk.jpg",
+      "note": "(Imagn, 2025-12-12 vs IND, black, layup with arm raised, face partly blocked)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_76ers/01khmcvsjjz7p28wm9f1.jpg",
+      "note": "(Imagn, 2025-12-02 vs WAS, navy, jump shot in a wide frame, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

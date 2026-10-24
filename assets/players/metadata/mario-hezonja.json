@@ -1,0 +1,70 @@
+{
+  "player": "Mario Hezonja",
+  "playerId": "mario-hezonja",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m5ba2g5m85zt1nwqnw.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m5ba2g5m85zt1nwqnw.jpg",
+  "sourcePage": "https://www.si.com/nba/cavaliers/onsi/new-cavs-forward-set-to-debut-against-the-player-he-s-replacing-01m5b9qv4vc7",
+  "license": "unknown (Imagn Images via Reuters Connect / SI)",
+  "licenseUrl": null,
+  "author": "David Dermer / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-08 preseason vs BOS, Rocket Arena (Imagn caption: drives to the basket during the second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/mario-hezonja.jpg",
+  "selectedAt": "2026-10-24T03:03:19.011Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1190,
+    "y": 0,
+    "size": 900
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (sweaty, eyes off-camera to his right, mouth open mid-breath on the drive)",
+  "jersey": "CLE white Association #33, 2026-27 preseason",
+  "concerns": "Imagn/Reuters copy hosted by SI (3000px rendition of a 4948px original), license unknown; hair sits ~35px from the image top, so the crop starts at y=0; his first Cavs season after six years in Europe, so the only in-jersey photos are 2026 preseason/opener",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m5fepgg10p5q47whjb.jpg",
+      "note": "(Imagn, Oct 2026 vs ORL, white, cheeks puffed straining past Davison, eyes down, energy ~8.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m4f4pxp1dy974njmn3.jpg",
+      "note": "(Imagn, 2026 media day portrait, posed smile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://www.bta.bg/upload/13982328/f5185483254c41d3a2eb070c9555f894--0--64ae3e8641f24e30b6f257bbc148a46d.jpg",
+      "note": "(AP via BTA, 2026-10-11 vs ORL, drive, BTA watermark tiled over the frame)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

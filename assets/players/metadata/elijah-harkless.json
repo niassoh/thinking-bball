@@ -1,0 +1,58 @@
+{
+  "player": "Elijah Harkless",
+  "playerId": "elijah-harkless",
+  "sourceUrl": "https://res.cloudinary.com/ybmedia/image/upload/v1/m/9/8/985f22e9fa1de15b2815639bb99af30a33211091/mar-28-2026-phoenix-arizona-usa-utah-jazz-guard.jpg",
+  "downloadUrl": "https://res.cloudinary.com/ybmedia/image/upload/v1/m/9/8/985f22e9fa1de15b2815639bb99af30a33211091/mar-28-2026-phoenix-arizona-usa-utah-jazz-guard.jpg",
+  "sourcePage": "https://www.yardbarker.com/nba/articles/pistons_sign_elijah_harkless_to_two_way_contract/s1_14822_44044121",
+  "license": "unknown (Imagn Images via Yardbarker)",
+  "licenseUrl": null,
+  "author": "Imagn Images",
+  "credit": null,
+  "photoDate": "2026-03-28 at PHX (Imagn file name: Mar 28, 2026, Phoenix, Utah Jazz guard)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    1421
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/elijah-harkless.jpg",
+  "selectedAt": "2026-10-24T03:29:24.823Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 600,
+    "y": 30,
+    "size": 680
+  },
+  "needsReview": "wrong team (Utah Jazz 2025-26) — no usable Pistons game photo found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (eyes off-camera to his right, lips parted mid-breath, sweaty; alert at a stoppage)",
+  "jersey": "UTA white City Edition #16, 2025-26 — NOT the wanted DET",
+  "concerns": "FLAG jersey: Utah, his 2025-26 team, not Detroit: his Oct 2026 Pistons preseason Getty photos (drives, dunks, layups) are not hosted unwatermarked anywhere found (Detroit Bad Boys, opponent SB Nation blogs, nba.com CDN), and the AP Pistons-Wizards preseason set is watermarked (BTA); 2000x1421 Imagn copy on Yardbarker’s CDN; white headband over the hairline",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://www.bta.bg/bg/galleries/528734",
+      "note": "(AP 2026-10-10 at WAS, Pistons white, layup among defenders; BTA watermark)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

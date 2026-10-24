@@ -1,0 +1,64 @@
+{
+  "player": "Colin Castleton",
+  "playerId": "colin-castleton",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_gators/01kx3vsj75c8y8vet8jh.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_gators/01kx3vsj75c8y8vet8jh.jpg",
+  "sourcePage": "https://www.si.com/college/florida/basketball/where-former-gators-are-playing-in-the-nba-summer-league-01kx3sxwxgyx",
+  "license": "unknown (Imagn Images via Reuters Connect, hosted by SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Matt Pendleton / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-10-12 preseason vs MIA, Kia Center (embedded caption: dribbles the ball against the Miami Heat, second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/colin-castleton.jpg",
+  "selectedAt": "2026-10-24T03:08:44.287Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1340,
+    "y": 110,
+    "size": 620
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (eyes up-court just past the camera, mouth open in an O mid-breath while pushing the ball; alert, frontal)",
+  "jersey": "ORL white pinstripe Association #14, 2025-26 preseason",
+  "concerns": "2025-26 preseason photo (same team as 2026-27): no 2026 preseason photo of him found (Cavaliers-site galleries of both 2026 Magic games have none; the Magic-site photo on his re-signing is a shouting celebration, energy ~9); full-body frame, head ~300px hair-to-chin, face ~200px brow-to-chin",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2025/10/colin-castleton-20251018.jpg",
+      "note": "(Magic site, 2025-26, ORL white, screaming celebration, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/the_magic_insider/01jqyavs8bw7jq1jt2ad.jpg",
+      "note": "(Imagn, Raptors era, pre-game, not in a game)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Baba Miller",
+  "playerId": "baba-miller",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/10/GettyImages-2299060990.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/10/GettyImages-2299060990.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2299060990",
+  "license": "unknown (Getty Images / NBAE via Clippers team site)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-10 preseason vs TOR, Rogers Arena, Vancouver (Getty caption: looks to pass the ball)",
+  "originalSize": null,
+  "storedSize": [
+    1500,
+    1072
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/baba-miller.jpg",
+  "selectedAt": "2026-10-24T03:42:43.138Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 1,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 535,
+    "y": 95,
+    "size": 330
+  },
+  "needsReview": "face ~90 px tall (far under the 250 px bar); expression and angle are right but detail is thin",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "about matches (alert, mouth open mid-breath, eyes just off-camera while bringing the ball up)",
+  "jersey": "LAC navy #18, 2026 preseason",
+  "concerns": "face only ~90 px tall in a 1500 px team-site copy and soft; the full-size Getty file is not hosted unwatermarked anywhere found (cdn.nba.com manage, SB Nation blogs); other unwatermarked copies (team-site Honolulu and Denver photos, Eurohoops 950 px layup) are shooting frames or near profile; 2026 rookie (No. 36 pick), no regular-season photo hosted",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images.eurohoops.net/2026/10/c1b40774-baba-miller-layup-los-angeles-clippers-v-golden-state-warriors-preseason.jpg",
+      "note": "(2026-10-04 preseason vs GSW, white #18, layup in profile, 950 px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612746/2026/10/GettyImages-2299707272.jpg",
+      "note": "(2026-10-14 preseason vs DEN, white #18, three-point shot, tiny face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

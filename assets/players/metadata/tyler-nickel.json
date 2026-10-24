@@ -1,0 +1,58 @@
+{
+  "player": "Tyler Nickel",
+  "playerId": "tyler-nickel",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612752/2026/10/01-5.png",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612752/2026/10/01-5.png",
+  "sourcePage": "https://www.nba.com/knicks/photos/knicks-on-the-court-tuesday-october-13-vs-toronto-raptors",
+  "license": "unknown (New York Knicks team photo via NBA.com)",
+  "licenseUrl": null,
+  "author": "New York Knicks / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-13 preseason at TOR, Scotiabank Arena (Knicks gallery, no captions; #55 matches his Summer League number)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tyler-nickel.jpg",
+  "selectedAt": "2026-10-24T03:03:17.181Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 355,
+    "y": 120,
+    "size": 520
+  },
+  "needsReview": "face ~225px hair-to-chin, below the 250px target (Knicks-site web copy, no larger original found)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out, eyes up tracking the shot, mouth open mid-breath)",
+  "jersey": "NYK blue Icon #55, 2026-27 preseason",
+  "concerns": "Knicks-site 1920x1080 web copy, not a Getty original; face ~225px hair-to-chin (~185px hairline-to-chin), under the 250px target; white undershirt under the jersey; a Raptors player’s shoulder enters the right edge of the crop; Knicks logo bug top right, outside the crop; 2026 rookie (No. 47 pick)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612752/2026/10/03-4.png",
+      "note": "(same game, layup with arm extended, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

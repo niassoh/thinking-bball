@@ -1,0 +1,64 @@
+{
+  "player": "Nolan Traore",
+  "playerId": "nolan-traore",
+  "sourceUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/03/gettyimages-2264303060.jpg",
+  "downloadUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/03/gettyimages-2264303060.jpg",
+  "sourcePage": "https://www.netsdaily.com/nets-features-profiles/106844/nolan-traore-continuing-to-turn-heads-among-pundits",
+  "license": "unknown (Getty Images via NetsDaily)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-03-01 vs CLE, Barclays Center (Getty caption: dribbles during the second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/nolan-traore.jpg",
+  "selectedAt": "2026-10-24T03:03:46.984Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 900,
+    "y": 120,
+    "size": 900
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (calling a play while bringing the ball up, eyes off-camera to his left, mouth open mid-call)",
+  "jersey": "BKN black sleeved Statement #88, 2025-26",
+  "concerns": "not nba.com: the Nets site galleries carry only uncaptioned team-photographer shots (none usable) and no 2026 preseason gallery; unwatermarked Getty original hosted by the SB Nation blog; 2025-26 photo (same team as 2026-27); sleeved alternate jersey; his pointing arm runs off the right edge of the crop, below head level",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/03/gettyimages-2265674050.jpg",
+      "note": "(Getty 2026-03-09 vs MEM, black, defending with mouth open, but Mashack’s face sits right beside his in any crop)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/10/gettyimages-2299390374.jpg",
+      "note": "(Getty 2026-10-12 preseason at WAS, black, defending in a wide frame, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

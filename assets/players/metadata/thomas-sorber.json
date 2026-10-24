@@ -1,0 +1,70 @@
+{
+  "player": "Thomas Sorber",
+  "playerId": "thomas-sorber",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_thunder/01jymzb6gstj11j4bn8n.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_thunder/01jymzb6gstj11j4bn8n.jpg",
+  "sourcePage": "https://www.si.com/nba/thunder/onsi/draft-coverage/okc-thunder-select-thomas-sorber-with-no-15-pick-in-2025-nba-draft",
+  "license": "unknown (Imagn Images via SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Daniel Kucin Jr. / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-01-31 vs Butler, Capital One Arena (SI caption: celebrates during the second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/thomas-sorber.jpg",
+  "selectedAt": "2026-10-24T03:02:39.931Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 1150,
+    "y": 0,
+    "size": 900
+  },
+  "needsReview": "college photo (Georgetown, Jan 2025): no NBA game photo exists; Imagn on SI has only media day, warmups and a playoff pre-game shot of him in OKC gear; revisit once he debuts",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (clapping mid-play, eyes cut off-camera to his right, lips pressed in a half-smile; engaged but mouth closed)",
+  "jersey": "Georgetown gray #35, 2024-25 college — NOT the wanted OKC",
+  "concerns": "FLAG college jersey: he has never played an NBA game (torn ACL Sept 2025 cost his rookie season; knee scope July 2026 kept him out of 2026 Summer League and preseason, and he is out to start 2026-27); only OKC photos are media day, warmups and pre-game; his clapping hands sit at the lower-left of the crop beside the chin; hair ~40px from the image top",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_timberwolves/01jxz4a6mh4hk3gvntyy.jpg",
+      "note": "(Imagn, 2025-01-31 vs Butler, Georgetown gray, arms raised after the game, face small)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/all_hawks/01jx7xpdy6ctnneh307d.jpg",
+      "note": "(Imagn, 2025-02-08 vs Seton Hall, Georgetown white/pink, smiling in side profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_thunder/01m2v2wtmfj2xkkd1q5r.jpg",
+      "note": "(Imagn, 2026-04-19 OKC playoff pre-game, not in a game)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

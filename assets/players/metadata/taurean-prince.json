@@ -1,0 +1,64 @@
+{
+  "player": "Taurean Prince",
+  "playerId": "taurean-prince",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/bucks_zone/01kajj2n5mn55kgrgnwe.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/bucks_zone/01kajj2n5mn55kgrgnwe.jpg",
+  "sourcePage": "https://www.si.com/nba/bucks/onsi/news/surgeon-gets-honest-about-bucks-forward-taurean-princes-neck-surgery-rehab",
+  "license": "unknown (Imagn Images via SI.com)",
+  "licenseUrl": null,
+  "author": "Imagn Images",
+  "credit": null,
+  "photoDate": "2025-10-28 vs NYK, Fiserv Forum (Imagn caption on the SI page: reacts to a foul call by referee Brandon Schwab in the second quarter)",
+  "originalSize": null,
+  "storedSize": [
+    2872,
+    1914
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/taurean-prince.jpg",
+  "selectedAt": "2026-10-24T03:38:00.366Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 1580,
+    "y": 40,
+    "size": 860
+  },
+  "needsReview": "wrong team (MIL, 2025-26) because no DET game photo is hosted unwatermarked yet; swap once Pistons regular-season photos appear",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "about equal (pleading a foul call to the ref: brows up, mouth open mid-word, eyes engaged off-camera; animated but not shouting)",
+  "jersey": "MIL white Association #12, 2025-26 — NOT the wanted DET 2026-27",
+  "concerns": "wrong team: no unwatermarked DET game photo found; he has DET preseason Getty frames (Oct 5 vs PHX, Oct 10 at WAS, Oct 16 vs TOR) but none is hosted on nba.com, Detroit Bad Boys, SI or Yahoo, and he missed the Oct 20 opener (personal); a year old; the referee’s raised hands sit outside the crop on the left",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/bucks_zone/01k9jaxeq7mjhnkc62q2.jpg",
+      "note": "(same moment, alternate SI crop)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/bucks_zone/01k9qc424kqg4bzfr3g6.jpg",
+      "note": "(Imagn, 2024-11-07 vs UTA, rebound scrum, face half hidden)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,58 @@
+{
+  "player": "Zeke Nnaji",
+  "playerId": "zeke-nnaji",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nuggets/01kf2j3eed21hryjc5je.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nuggets/01kf2j3eed21hryjc5je.jpg",
+  "sourcePage": "https://www.si.com/nba/nuggets/onsi/news/denver-nuggets-one-trade-candidate-monitor-zeke-nnaji-before-deadline",
+  "license": "unknown (Imagn Images via SI)",
+  "licenseUrl": null,
+  "author": "Ron Chenoy / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-01-09 vs ATL, Ball Arena (Imagn caption: Nnaji and Bruce Brown react in the second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2001
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/zeke-nnaji.jpg",
+  "selectedAt": "2026-10-24T03:11:49.903Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 700,
+    "y": 60,
+    "size": 700
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (blowing out a breath with pursed lips after a play, eyes off-camera to his left; engaged, mouth not open)",
+  "jersey": "DEN navy Icon #22, 2025-26",
+  "concerns": "2025-26 photo (same team as 2026-27): his 2026 preseason Getty photos are only on nba.com galleries as 1024px web copies; wears a white NBA headband over the hairline; pursed-lips breath reads slightly odd; his own fist sits at the lower left edge of the crop, Bruce Brown is outside it",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://www.gettyimages.com/detail/news-photo/x/2299253836",
+      "note": "(Getty 2026-10-11 preseason vs CHI, white, goes to the basket; watermarked preview only, no unwatermarked host found)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nuggets/01kf2j3eed21hryjc5je.jpg",
+  "supersededHistory": []
+}

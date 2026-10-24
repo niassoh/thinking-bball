@@ -1,0 +1,51 @@
+{
+  "player": "Nick Richards",
+  "playerId": "nick-richards",
+  "sourceUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/10/gettyimages-2299776301.jpg",
+  "downloadUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/10/gettyimages-2299776301.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2299776301",
+  "license": "unknown (Getty Images / NBAE via NetsDaily uploads)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-14 preseason vs BKN, Kaseya Center (Getty caption: Richards and Day’Ron Sharpe box out during the game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/nick-richards.jpg",
+  "selectedAt": "2026-10-24T03:33:10.300Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 140,
+    "y": 110,
+    "size": 850
+  },
+  "needsReview": "steep upward head tilt; no other unwatermarked 2026 Heat game photo of him found (NetsDaily, all SB Nation blogs, Heat team-site and NBA.com uploads probed)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out, eyes up at the ball, mouth open mid-breath)",
+  "jersey": "MIA white #8, 2026 preseason",
+  "concerns": "head tilted well back so the face is seen from below (underside of nose and beard prominent); preseason, not regular season; his hand on Sharpe’s shoulder sits at the lower right of the crop; page is the Getty detail page because the NetsDaily article embedding the unwatermarked upload was not found",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

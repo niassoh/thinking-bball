@@ -1,0 +1,64 @@
+{
+  "player": "Karim Lopez",
+  "playerId": "karim-lopez",
+  "sourceUrl": "https://www.elimparcial.com/resizer/v2/JEBVRY3ZRRBUZBG7HHRLUZOWQ4.jpg?auth=3504f5535bd8e6eaf0683eafee9eab840c6ce42b45f3fdfa928846fe8f69f2ad",
+  "downloadUrl": "https://www.elimparcial.com/resizer/v2/JEBVRY3ZRRBUZBG7HHRLUZOWQ4.jpg?auth=3504f5535bd8e6eaf0683eafee9eab840c6ce42b45f3fdfa928846fe8f69f2ad",
+  "sourcePage": "https://www.elimparcial.com/deporte/2026/10/07/grizzlies-vs-magic-a-que-hora-y-donde-ver-hoy-a-karim-lopez-en-la-pretemporada-de-la-nba/",
+  "license": "unknown (AP Photo via El Imparcial)",
+  "licenseUrl": null,
+  "author": "Mike Stewart / AP",
+  "credit": null,
+  "photoDate": "2026-10-05 preseason at ATL, State Farm Arena (AP caption: shoots over Asa Newell in the second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/karim-lopez.jpg",
+  "selectedAt": "2026-10-24T03:41:43.249Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 630,
+    "y": 640,
+    "size": 800
+  },
+  "needsReview": "near-profile head angle during a shot; best unwatermarked in-game photo found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "about matches (eyes up at the rim, lips parted mid-breath, focused)",
+  "jersey": "MEM navy #35, 2026 preseason",
+  "concerns": "head is near profile (turned to his left) and tilted up toward the rim; his raised shooting arm runs up the left edge of the crop; preseason, 2026 rookie with no regular-season photo hosted unwatermarked; Getty game photos of him (vs ORL looks-on) are not hosted unwatermarked anywhere found",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://www.elimparcial.com/resizer/v2/KRZ67BSAQNCS7P7SWW6DQNQ6X4.jpeg?auth=cb768a6addf3eb3721ba878349e43b34c4a7ead25c5635c1f69f219863dfd276",
+      "note": "(same game, AP, 1600 px copy, face ~130 px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.gettyimages.com/id/2299424225/photo/x.jpg",
+      "note": "(2026-10-07 vs ORL, white #35, looks on, frontal, watermarked Getty preview only)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

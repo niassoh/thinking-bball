@@ -1,0 +1,64 @@
+{
+  "player": "Brandon Williams",
+  "playerId": "brandon-williams",
+  "sourceUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/10/gettyimages-2299066364.jpg",
+  "downloadUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/10/gettyimages-2299066364.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2299066364",
+  "license": "unknown (Getty Images / NBAE via Golden State of Mind uploads)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-10 preseason vs SAC, Chase Center (Getty caption: shoots a free throw)",
+  "originalSize": null,
+  "storedSize": [
+    2143,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/brandon-williams.jpg",
+  "selectedAt": "2026-10-24T03:22:20.729Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 640,
+    "y": 120,
+    "size": 820
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (looking up at the rim at the line, mouth open mid-breath, sweaty; close to the reference look-up, calmer)",
+  "jersey": "GSW white Association #12, 2026-27 preseason",
+  "concerns": "free-throw moment rather than live play; white headband covers the hairline; unwatermarked Getty original (2857x4000, stored 2143x3000) found in the Golden State of Mind (SB Nation) upload folder, but no article embedding it was found, so --page is the Getty caption page",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/10/gettyimages-2299562851.jpg",
+      "note": "(Getty Oct 2026 preseason in Las Vegas vs LAL, blue, bringing the ball up, lips parted, face smaller)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/10/gettyimages-2299069227.jpg",
+      "note": "(Getty 2026-10-10 vs SAC, white, wide dribble frame, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

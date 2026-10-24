@@ -1,0 +1,64 @@
+{
+  "player": "Rasheer Fleming",
+  "playerId": "rasheer-fleming",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_suns/01m46p0787kxs0mvvw1v.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_suns/01m46p0787kxs0mvvw1v.jpg",
+  "sourcePage": "https://www.si.com/nba/suns/onsi/3-big-things-phoenix-suns-preseason-opener-detroit-pistons",
+  "license": "unknown (Imagn Images via Reuters Connect, hosted by SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Mark J. Rebilas / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-02-22 vs POR, Mortgage Matchup Center (embedded caption: Khaman Maluach and Rasheer Fleming against the Trail Blazers; he is the player on the right, #20)",
+  "originalSize": null,
+  "storedSize": [
+    2688,
+    1881
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/rasheer-fleming.jpg",
+  "selectedAt": "2026-10-24T03:11:28.278Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1510,
+    "y": 110,
+    "size": 680
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out and looking up at the ball, mouth open mid-breath; the reference look-up almost exactly)",
+  "jersey": "PHX black “The Valley” City Edition #20, 2025-26",
+  "concerns": "2025-26 photo (same team as 2026-27): the only 2026 preseason Getty frame of him on nba.com is a crowded rebound scrum (Suns at Pistons gallery); head tilted back looking up, so the chin leads and the view is from slightly below; the Trail Blazers player’s locs and red jersey sit at the left edge of the crop; caption names two players, identified by jersey #20",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/10/2298211158.jpg",
+      "note": "(Suns site, 2026-10-05 preseason at DET, white, rebound scrum with Goodwin and Collins, team-site web copy with a small face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/10/2298211158.jpg",
+      "note": "(Suns site, 2026-10-05 preseason at DET, white, rebound scrum with Goodwin and Collins, team-site web copy with a small face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_suns/01m46p0787kxs0mvvw1v.jpg",
+  "supersededHistory": []
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Jaron Pierre Jr.",
+  "playerId": "jaron-pierre-jr",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2026/07/GettyImages-2284781671.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2026/07/GettyImages-2284781671.jpg",
+  "sourcePage": "https://www.nba.com/pelicans/photos/2026-nba-summer-league-photos-pelicans-vs-timberwolves-7-9-26",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-09 Las Vegas Summer League vs MIN, Thomas & Mack Center (Getty caption: dribbles the ball)",
+  "originalSize": null,
+  "storedSize": [
+    2001,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jaron-pierre-jr.jpg",
+  "selectedAt": "2026-10-24T03:25:00.056Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 700,
+    "y": 520,
+    "size": 720
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes up-court just off-camera, lips parted mid-breath)",
+  "jersey": "NOP white Summer League #10, 2026 Las Vegas Summer League",
+  "concerns": "Summer League, not preseason: his only 2026 preseason photo on nba.com (Pelicans vs Wizards gallery, 2026-10-16) is a three-point attempt with a small face, and he is a background figure (face ~140px) in the AJ Johnson frame from that game; face ~240px headband-to-chin, slightly soft; headband; two-way player",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2026/07/GettyImages-2284781773.jpg",
+      "note": "(same SL game, white #10, looks on standing, full-length frame, neutral)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2026/10/Pelicans-Wizards-10-16-2026-game-action-gallery-52.jpg",
+      "note": "(2026-10-16 preseason vs WAS, white #10, three-point shot, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

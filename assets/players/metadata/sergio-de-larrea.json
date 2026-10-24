@@ -1,0 +1,70 @@
+{
+  "player": "Sergio de Larrea",
+  "playerId": "sergio-de-larrea",
+  "sourceUrl": "https://platform.mavsmoneyball.com/wp-content/uploads/sites/104/2026/10/gettyimages-2299702996.jpg",
+  "downloadUrl": "https://platform.mavsmoneyball.com/wp-content/uploads/sites/104/2026/10/gettyimages-2299702996.jpg",
+  "sourcePage": "https://www.mavsmoneyball.com/mavericks-features-profiles/63007/the-spanish-national-team-coach-is-pleased-with-de-larreas-preseason-sergio-is-playing-exceptionally-well",
+  "license": "unknown (Getty Images via Mavs Moneyball)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-14 preseason vs NOP, American Airlines Center (Getty caption: handles the ball during the second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1861
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/sergio-de-larrea.jpg",
+  "selectedAt": "2026-10-24T03:07:21.915Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1036,
+    "y": 0,
+    "size": 820
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes locked on his defender just off-camera, mouth open mid-breath, sweaty)",
+  "jersey": "DAL white Association #55, 2026-27 preseason",
+  "concerns": "unwatermarked Getty original (5925px, stored at 3000px) hosted by the SB Nation blog, license unknown; hair sits close to the image top, so the crop starts at y=0; Pelicans defender Johnson is at the right edge of the full frame, outside the crop; 2026 rookie, no NBA regular-season game yet",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.mavsmoneyball.com/wp-content/uploads/sites/104/2026/10/gettyimages-2299696987.jpg",
+      "note": "(Getty 2026-10-14 vs NOP, white, triple-threat in a wide vertical frame, face small)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.mavsmoneyball.com/wp-content/uploads/sites/104/2026/10/gettyimages-2299139209.jpg",
+      "note": "(Getty 2026-10-11 vs HOU in Macao, blue, hands on hips, neutral stare)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/dallas_basketball/01m4vdcz9w4mwey3pfk0.jpg",
+      "note": "(Imagn 2026 media day portrait)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

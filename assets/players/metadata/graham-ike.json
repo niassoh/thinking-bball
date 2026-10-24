@@ -1,0 +1,70 @@
+{
+  "player": "Graham Ike",
+  "playerId": "graham-ike",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2286826282.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2286826282.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2286826282",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-07-19 vs MEM, Thomas & Mack Center (Las Vegas Summer League championship; Getty caption: Yaxel Lendeborg reacts with Graham Ike after making a basket)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/graham-ike.jpg",
+  "selectedAt": "2026-10-24T03:11:24.965Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1265,
+    "y": 105,
+    "size": 510
+  },
+  "needsReview": "face ~180 px tall (under the 250 px bar) in a 1920x1080 NBA.com copy; Summer League rather than a preseason game",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "about matches (mouth open mid-word, eyes off-camera to his right after a teammate’s basket; a touch of a grin)",
+  "jersey": "GSW navy #45, 2026 Las Vegas Summer League",
+  "concerns": "Summer League (title game), not preseason: his 2026 preseason and opening-night Getty photos (vs POR, LAC, LAL, MEM) are not hosted unwatermarked anywhere found (all SB Nation team blogs and cdn.nba.com probed); face only ~180 px tall in a 1920 px web copy and a little soft; slight grin; undrafted 2026 rookie on a two-way deal",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612744/2026/09/Graham-Ike-1280.png",
+      "note": "(2026 Las Vegas SL, white #45, free throw, eyes on rim, energy ~5.5, face ~130 px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.blazersedge.com/wp-content/uploads/sites/34/2026/10/gettyimages-2299151690.jpg",
+      "note": "(2026-10-07 preseason at POR, overhead rim cam, his face hidden behind the ball)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.gettyimages.com/id/2300832815/photo/x.jpg",
+      "note": "(2026-10-21 at LAL, blue #45, looks on, good face, watermarked Getty preview only)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

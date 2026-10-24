@@ -1,0 +1,64 @@
+{
+  "player": "Jayden Quaintance",
+  "playerId": "jayden-quaintance",
+  "sourceUrl": "https://platform.aseaofblue.com/wp-content/uploads/sites/13/2026/01/gettyimages-2254532578.jpg",
+  "downloadUrl": "https://platform.aseaofblue.com/wp-content/uploads/sites/13/2026/01/gettyimages-2254532578.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2254532578",
+  "license": "unknown (Getty Images via A Sea Of Blue)",
+  "licenseUrl": null,
+  "author": "Brandon Sumrall / Getty Images",
+  "credit": null,
+  "photoDate": "2026-01-03 at Alabama, Coleman Coliseum (college; Getty caption: shoots a first-half free throw)",
+  "originalSize": null,
+  "storedSize": [
+    2216,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jayden-quaintance.jpg",
+  "selectedAt": "2026-10-24T03:30:29.440Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 785,
+    "y": 150,
+    "size": 1000
+  },
+  "needsReview": "college (Kentucky) photo: no NBA, preseason or Summer League game photo exists yet; regenerate from a Spurs game photo once he plays",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up at the rim, mouth open mid-breath at the line, sweaty)",
+  "jersey": "Kentucky Wildcats blue #21, 2025-26 college — NOT the wanted SAS",
+  "concerns": "FLAG: college photo, not NBA: the 2026 No. 20 pick has not played an NBA, preseason or Summer League game (Getty has him only at the rookie press conference, in a team polo on the California Classic bench, singing at the open scrimmage and arriving at games), so no in-game Spurs photo exists yet; locks fall around the face but leave it clear; 2216x3000 publisher crop; unwatermarked Getty original on the A Sea Of Blue (SB Nation) uploads host, found by Getty id, so the page is the Getty detail page",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2284809772.jpg",
+      "note": "(2026-07-05 California Classic, Spurs polo on the bench, not in uniform)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.aseaofblue.com/wp-content/uploads/sites/13/2026/01/gettyimages-2255227595.jpg",
+      "note": "(2026-01-07 vs Missouri, Kentucky white, looks on with pursed lips, locks across the face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

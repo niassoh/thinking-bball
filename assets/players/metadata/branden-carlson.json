@@ -1,0 +1,64 @@
+{
+  "player": "Branden Carlson",
+  "playerId": "branden-carlson",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_thunder/01jkerr60ras9aqz82dj.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_thunder/01jkerr60ras9aqz82dj.jpg",
+  "sourcePage": "https://www.si.com/nba/thunder/onsi/news/okc-thunder-ink-branden-carlson-to-two-way-pact",
+  "license": "unknown (Imagn Images via SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Alonzo Adams / Imagn Images",
+  "credit": null,
+  "photoDate": "2024-12-03 vs UTA, Paycom Center (SI caption: runs down the court, second half of an NBA Cup game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/branden-carlson.jpg",
+  "selectedAt": "2026-10-24T03:17:45.855Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 1180,
+    "y": 0,
+    "size": 780
+  },
+  "needsReview": "off-team and older (OKC, Dec 2024): no in-game Trail Blazers photo of him found yet; recheck once he returns from concussion protocol",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (eyes off-camera to his right, mouth open mid-breath while running back; alert)",
+  "jersey": "OKC orange City Edition #15, 2024-25 — NOT the wanted POR",
+  "concerns": "FLAG jersey: Oklahoma City (2024-25), not Portland: no 2026 Blazers preseason photo of him found (SI Blazers preseason recaps, Yardbarker and Rose Garden Report carry none; no Blazers preseason gallery on nba.com), and he is now in concussion protocol; his 2025-26 OKC photos are a calm run with a small face and a dunk; NBA-logo headband; two seasons old, hair similar to now; hair sits near the image top, so the crop starts at y=0",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_thunder/01kwmdcgywffsxm9106s.jpg",
+      "note": "(Imagn, 2026-04-12 vs PHX, OKC white, running down court, calm, face small)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_thunder/01kdxfgszcj1hed7s60a.jpg",
+      "note": "(Imagn, 2025-12-18 vs LAC, OKC blue, dunk, past the energy band and face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

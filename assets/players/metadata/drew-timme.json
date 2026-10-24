@@ -1,0 +1,64 @@
+{
+  "player": "Drew Timme",
+  "playerId": "drew-timme",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/gonzaga_nation/01m5d4bdd807x81k7mc3.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/gonzaga_nation/01m5d4bdd807x81k7mc3.jpg",
+  "sourcePage": "https://www.si.com/college/gonzaga/basketball/where-all-12-former-gonzaga-basketball-stars-are-playing-in-the-nba-this-season",
+  "license": "unknown (Imagn Images via Reuters Connect, hosted by SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "David Banks / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-16 preseason at CHI, United Center (embedded caption: Orlando Robinson defends Drew Timme, second half)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/drew-timme.jpg",
+  "selectedAt": "2026-10-24T03:12:28.006Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 671,
+    "y": 887,
+    "size": 541
+  },
+  "needsReview": "off-team jersey (MIN 2026 preseason): no Suns game photo exists yet; the alternatives are a Lakers 2025-26 jump shot with the face behind his arms and Nets 2024-25 photos with a small face",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up on the ball after a one-handed floater, mouth open mid-breath; alert, not straining)",
+  "jersey": "MIN blue Classic Edition #17, 2026 preseason — NOT the wanted PHX",
+  "concerns": "FLAG jersey: Timberwolves (training camp), not Phoenix: the Suns claimed him off waivers days before the opener and he has not played for them; Minute Media serves the 2774x4160 original at 2000x3000, crop is in that stored size; his raised shooting arm runs up the left side of the crop and Robinson’s hand reaches into the bottom of it below the chin; wears a white headband; slightly soft focus",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_suns/01m5b42j19q9k8httaq0.jpg",
+      "note": "(Imagn, 2026-04-07 vs OKC, LAL gold, jump shot, arms over the face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/gonzaga_nation/01jysan5n54h5kvjfwqj.jpg",
+      "note": "(Imagn, 2025 vs ATL, BKN black, bringing the ball up, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,51 @@
+{
+  "player": "Trey Alexander",
+  "playerId": "trey-alexander",
+  "sourceUrl": "https://platform.slcdunk.com/wp-content/uploads/sites/145/2026/07/gettyimages-2286115213.jpg",
+  "downloadUrl": "https://platform.slcdunk.com/wp-content/uploads/sites/145/2026/07/gettyimages-2286115213.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2286115213",
+  "license": "unknown (Getty Images via SLC Dunk)",
+  "licenseUrl": null,
+  "author": "Ian Maule / Getty Images",
+  "credit": null,
+  "photoDate": "2026-07-12 vs LAC, Thomas & Mack Center (Las Vegas Summer League; Getty caption: reacts after a play, third quarter)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/trey-alexander.jpg",
+  "selectedAt": "2026-10-24T03:21:25.593Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1000,
+    "y": 0,
+    "size": 1246
+  },
+  "needsReview": "Summer League photo for a player with NBA games: no usable unwatermarked regular-season or preseason photo found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (talking mid-play with a hand gesture, mouth open, eyes off-camera to his left; animated but not shouting)",
+  "jersey": "UTA white #15, 2026 Las Vegas Summer League",
+  "concerns": "Summer League, not a regular-season or preseason game, though he has NBA games: none of his 2025-26 Jazz or 2026 preseason Getty photos is hosted unwatermarked on nba.com galleries or the SB Nation blogs; his raised hand sits in the lower right of the crop below the chin; unwatermarked Getty original on the SLC Dunk uploads host, found by Getty id, so the page is the Getty detail page; hair close to the image top (crop y=0)",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

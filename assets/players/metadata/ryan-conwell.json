@@ -1,0 +1,70 @@
+{
+  "player": "Ryan Conwell",
+  "playerId": "ryan-conwell",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages_RyanConwell.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages_RyanConwell.jpg",
+  "sourcePage": "https://www.nba.com/news/2026-california-classic-summer-league-heat-warriors-gold",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "July 2026 California Classic Summer League vs Warriors Gold, Chase Center (hero image of the NBA.com recap; exact frame time unverified)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ryan-conwell.jpg",
+  "selectedAt": "2026-10-24T03:15:46.787Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 740,
+    "y": 0,
+    "size": 780
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (talking with a half grin, eyes off-camera to his left; alert but lighter than the reference)",
+  "jersey": "MIA black Summer League (number out of frame; he wore #7 in Summer League), 2026 California Classic",
+  "concerns": "Summer League, not preseason: his 2026 preseason photos found are a near-profile 1200x630 Heat-site header and Imagn shots with ~150px faces; no Getty id or caption (file named GettyImages_RyanConwell, used as the recap hero; same black headband as his Vegas SL photo); half grin shows teeth, reads more pleased than intense; 1920x1080 web copy; 2026 rookie (No. 37 pick)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612748/2026/10/10162026_Heat_Magic_Medina_1418_Takeaways_1200x630.jpg",
+      "note": "(Heat site, 2026-10-16 preseason at ORL, black #4, focused drive, energy ~6, but near-profile and 1200x630)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages_RyanConwell_VegasSummer.jpg",
+      "note": "(2026 Las Vegas SL vs MIL, white #7, dribbling, face ~110px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://deweb-519a7.b-cdn.net/post-images/339f327c-bb09-403a-bf24-29ee48d0bd88.jpeg",
+      "note": "(Imagn via Roundtable, 2026-10-10 preseason vs MIN, white #4, mouth open, face ~150px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

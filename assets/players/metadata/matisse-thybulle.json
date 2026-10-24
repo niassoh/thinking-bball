@@ -1,0 +1,70 @@
+{
+  "player": "Matisse Thybulle",
+  "playerId": "matisse-thybulle",
+  "sourceUrl": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/10/gettyimages-2298676165.jpg",
+  "downloadUrl": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/10/gettyimages-2298676165.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2298676165",
+  "license": "unknown (Getty Images / NBAE via Silver Screen and Roll uploads)",
+  "licenseUrl": null,
+  "author": "Adam Pantozzi / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-08 preseason vs SAC, Crypto.com Arena (Getty caption: Mamukelashvili, Dylan Cardwell and Thybulle look on during the game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2250
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/matisse-thybulle.jpg",
+  "selectedAt": "2026-10-24T03:05:55.659Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1655,
+    "y": 105,
+    "size": 690
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out for a rebound, eyes up off-camera, mouth open mid-breath)",
+  "jersey": "LAL gold #26, 2026 preseason (he wears #4 in the 2026-27 regular season)",
+  "concerns": "preseason, not regular season; jersey number #26 differs from his regular-season #4; Mamukelashvili’s raised hand sits at the lower left of the crop, clear of the face; page is the Getty detail page because the Silver Screen and Roll article embedding the unwatermarked upload was not found",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://media.gettyimages.com/id/2298680625/photo/x.jpg",
+      "note": "(2026-10-08 vs SAC, gold #26, looks up off-camera, calm, only watermarked Getty preview found)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.gettyimages.com/id/2301544731/photo/x.jpg",
+      "note": "(2026-10-21 opener vs GSW, gold #4, walking, neutral, watermarked preview only)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/10/gettyimages-2298676400.jpg",
+      "note": "(2026-10-08 vs SAC, high five with Grimes, near side profile)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

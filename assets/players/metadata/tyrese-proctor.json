@@ -1,0 +1,70 @@
+{
+  "player": "Tyrese Proctor",
+  "playerId": "tyrese-proctor",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m4ndtc59r12ccm15c0.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m4ndtc59r12ccm15c0.jpg",
+  "sourcePage": "https://www.si.com/nba/cavaliers/onsi/peyton-watson-makes-a-bold-statement-about-cavs-rookie-tyrese-proctor-01m4ndr66ccw",
+  "license": "unknown (Imagn Images via Reuters Connect / SI)",
+  "licenseUrl": null,
+  "author": "David Dermer / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-08 preseason vs BOS, Rocket Arena (Imagn caption: dribbles up court during the second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2052
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tyrese-proctor.jpg",
+  "selectedAt": "2026-10-24T03:05:34.331Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1370,
+    "y": 0,
+    "size": 580
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (eyes off-camera to his left reading the floor, lips parted mid-breath; alert, not reacting)",
+  "jersey": "CLE white Association #24, 2026-27 preseason",
+  "concerns": "Imagn/Reuters copy hosted by SI, license unknown; full-body frame, head ~305px hair-to-chin, so the crop is tight to the image top (y=0) with little headroom; new braided hairstyle versus his 2025-26 look",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m4cd1myr866dztf41a.jpg",
+      "note": "(Imagn 2026-04-06 at MEM, white, layup looking up at the ball, smiling, arms over the head)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m1kn58e9y3ytctyh1q.jpg",
+      "note": "(Imagn 2026-04-05 vs IND, wine Icon, side profile grimace on a drive, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m0cyv9cfz3682txaqq.jpg",
+      "note": "(Imagn, white, hanging after a dunk, grimace)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

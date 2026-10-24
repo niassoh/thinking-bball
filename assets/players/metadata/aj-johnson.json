@@ -1,0 +1,64 @@
+{
+  "player": "AJ Johnson",
+  "playerId": "aj-johnson",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2026/10/Pelicans-Wizards-10-16-2026-game-action-gallery-50.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612740/2026/10/Pelicans-Wizards-10-16-2026-game-action-gallery-50.jpg",
+  "sourcePage": "https://www.nba.com/pelicans/photos/new-orleans-pelicans-vs-washington-wizards-photos-game-action-10-16-2026",
+  "license": "unknown (Getty Images via nba.com/pelicans)",
+  "licenseUrl": null,
+  "author": "Tyler Kaufman / Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-16 preseason vs WAS, Smoothie King Center (Getty caption: takes a shot over Trevor Keels #13 during the second half)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1280
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/aj-johnson.jpg",
+  "selectedAt": "2026-10-24T03:38:38.983Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 500,
+    "y": 270,
+    "size": 400
+  },
+  "needsReview": "near-profile shooting frame with a small face (~180px) in a 1920px gallery image; the only NOP game photo hosted unwatermarked",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (rising into a jumper, eyes locked up on the rim, lips parted; focused rather than reactive)",
+  "jersey": "NOP white Association #14, 2026-27 preseason",
+  "concerns": "near-profile (facing right, looking up at the rim); 1920px gallery image, face about 180px tall; shooting arm crosses the lower right of the crop; the better Oct 14 at DAL dribbling frames (Getty 2299703282/239/225) are not hosted anywhere unwatermarked",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_wizards/01m216pmvpyxq4wkwzk0.jpg",
+      "note": "(Imagn, 2026-01-02 WAS #4 vs BKN, hands on hips looks on, energy ~5, wrong team)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/pelicans_scoop/01m2emg96pkagbtnfd9b.jpg",
+      "note": "(Imagn, 2026-04-10 DAL warmup shirt, rejected: warmups)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

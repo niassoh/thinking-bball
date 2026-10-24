@@ -1,0 +1,64 @@
+{
+  "player": "Bennett Stirtz",
+  "playerId": "bennett-stirtz",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_thunder/01m4v4sqpm855nay861z.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_thunder/01m4v4sqpm855nay861z.jpg",
+  "sourcePage": "https://www.yardbarker.com/nba/articles/bennett_stirtz_continues_to_impress_during_the_preseason/s1_16796_44423816",
+  "license": "unknown (Imagn Images via Reuters Connect, hosted by Minute Media for Yardbarker/SI)",
+  "licenseUrl": null,
+  "author": "Jordan Godfree / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-12 preseason at ATL, State Farm Arena (embedded caption: dribbles against Zuby Ejiofor, fourth quarter; his 26-point game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/bennett-stirtz.jpg",
+  "selectedAt": "2026-10-24T02:58:55.662Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1010,
+    "y": 440,
+    "size": 650
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes up-court just right of camera, mouth open mid-breath while sizing up his defender)",
+  "jersey": "OKC blue Icon #14, 2026 preseason",
+  "concerns": "2026 rookie (No. 16 pick), no regular-season game yet; Yardbarker serves a 912px crop, the 3000px original comes from the same Minute Media asset id; head ~320px hair-to-chin, slight 3/4 turn to his left; the ball and his hand sit at the lower-left corner of the crop, well below the chin",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_thunder/01m4hqg2q09mhx9qvhm5.jpg",
+      "note": "(Imagn, 2026 preseason, OKC blue, hands on hips, calm stare off-camera, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612760/2026/10/8-261013_JIMMYDO_OKCATIND_0087.jpg",
+      "note": "(Thunder site, 2026-10-13 preseason vs IND, white, follow-through looking up, lips parted, but near profile and face ~150px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

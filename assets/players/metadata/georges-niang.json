@@ -1,0 +1,51 @@
+{
+  "player": "Georges Niang",
+  "playerId": "georges-niang",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_warriors/01m509wnwjzx2mh2awhf.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_warriors/01m509wnwjzx2mh2awhf.jpg",
+  "sourcePage": "https://www.si.com/nba/warriors/onsi/warriors-opening-night-roster-and-rotation-prediction-who-s-in-who-s-out-analysis-01m506k7j3fc",
+  "license": "unknown (Imagn Images via Reuters Connect / SI)",
+  "licenseUrl": null,
+  "author": "Imagn Images",
+  "credit": null,
+  "photoDate": "Oct 2026 preseason home game at Chase Center (SI caption gives only \"Georges Niang\"; exact game unverified: Warriors white with the 2026-27 IREN patch, before the 2026-10-15 article)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/georges-niang.jpg",
+  "selectedAt": "2026-10-24T03:23:16.763Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 830,
+    "y": 0,
+    "size": 820
+  },
+  "needsReview": "near-profile head angle and undated SI caption (game not verified)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (running back, head turned to his left with eyes off-camera, mouth open mid-breath, sweaty)",
+  "jersey": "GSW white Association #32, 2026-27 preseason",
+  "concerns": "head turned past 3/4 toward profile (far eye still visible); caption has no date or photographer; Imagn/Reuters copy hosted by SI, license unknown; no Getty preseason photo of him found unwatermarked (Golden State of Mind uploads have none)",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

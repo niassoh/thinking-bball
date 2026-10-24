@@ -1,0 +1,64 @@
+{
+  "player": "James Wiseman",
+  "playerId": "james-wiseman",
+  "sourceUrl": "https://platform.postingandtoasting.com/wp-content/uploads/sites/125/2026/10/gettyimages-2299551649.jpg",
+  "downloadUrl": "https://platform.postingandtoasting.com/wp-content/uploads/sites/125/2026/10/gettyimages-2299551649.jpg",
+  "sourcePage": "https://www.postingandtoasting.com/knicks-news/89957/knicks-bulletin-stay-diligent",
+  "license": "unknown (Getty Images / NBAE via Posting and Toasting)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-13 preseason at TOR, Scotiabank Arena (Getty caption: boxes out during the game against the Toronto Raptors)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2143
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/james-wiseman.jpg",
+  "selectedAt": "2026-10-24T03:29:27.112Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 860,
+    "y": 120,
+    "size": 780
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (boxing out, head tipped back with eyes up on the shot, lips just parted; sweaty and engaged)",
+  "jersey": "NYK blue Icon #35, 2026-27 preseason",
+  "concerns": "not nba.com: no Knicks or Raptors nba.com gallery shows him close (the Knicks preseason galleries are uncaptioned social crops without him); unwatermarked Getty original hosted by the SB Nation blog; head tilted well back, so the view is from under the chin; the Raptors defender’s cheek and fist sit at the right edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.postingandtoasting.com/wp-content/uploads/sites/125/2026/10/gettyimages-2299432754.jpg",
+      "note": "(Getty, 2026-10-08 preseason vs WAS, white #35, walking with lips pressed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.postingandtoasting.com/wp-content/uploads/sites/125/2026/10/gettyimages-2299555178.jpg",
+      "note": "(Getty, 2026-10-13 preseason at TOR, overhead rebound shot, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

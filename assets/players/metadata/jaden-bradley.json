@@ -1,0 +1,51 @@
+{
+  "player": "Jaden Bradley",
+  "playerId": "jaden-bradley",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612761/2026/09/03c1d8fe-67e8-4e7c-bf41-ca784dac36c2RAPS-SKL-SUMMERLEAGUE-vsIND-260713-01400-2.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612761/2026/09/03c1d8fe-67e8-4e7c-bf41-ca784dac36c2RAPS-SKL-SUMMERLEAGUE-vsIND-260713-01400-2.jpg",
+  "sourcePage": "https://www.nba.com/raptors/news/raptors-sign-bradley",
+  "license": "unknown (Toronto Raptors team photo via NBA.com)",
+  "licenseUrl": null,
+  "author": "Toronto Raptors",
+  "credit": null,
+  "photoDate": "2026-07-13 vs IND, Las Vegas Summer League (file name RAPS-SKL-SUMMERLEAGUE-vsIND-260713)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    1687
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jaden-bradley.jpg",
+  "selectedAt": "2026-10-24T03:10:12.429Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1212,
+    "y": 48,
+    "size": 660
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (sweaty, eyes up-court off to his right, mouth open mid-breath while bringing the ball up)",
+  "jersey": "TOR red #8, 2026 Las Vegas Summer League",
+  "concerns": "Summer League in Raptors red, not a preseason game: 2026 undrafted rookie with no NBA season yet; head turned toward a 3/4-to-profile angle (far ear visible, near cheek wide); team-site photo with a warm/desaturated edit; 5000px original stored at 3000px, face ~270px in the stored file",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612761/2026/09/03c1d8fe-67e8-4e7c-bf41-ca784dac36c2RAPS-SKL-SUMMERLEAGUE-vsIND-260713-01400-2.jpg",
+  "supersededHistory": []
+}

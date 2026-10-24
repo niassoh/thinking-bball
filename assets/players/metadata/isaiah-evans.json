@@ -1,0 +1,64 @@
+{
+  "player": "Isaiah Evans",
+  "playerId": "isaiah-evans",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/91/01m551xbzbsjhqhxfbb9.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/91/01m551xbzbsjhqhxfbb9.jpg",
+  "sourcePage": "https://dunkingwithwolves.com/isaiah-evans-reminds-the-timberwolves-why-they-drafted-him-in-final-preseason-game",
+  "license": "unknown (Imagn Images via Dunking With Wolves / FanSided)",
+  "licenseUrl": null,
+  "author": "Vincent Carchietta / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-12 preseason at NYK, Madison Square Garden (credit Vincent Carchietta-Imagn, MSG crowd; date inferred: that was the Wolves only game at MSG)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/isaiah-evans.jpg",
+  "selectedAt": "2026-10-24T03:39:19.324Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 700,
+    "y": 180,
+    "size": 680
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (jogging upcourt, head turned to his left, eyes off-camera, mouth open mid-breath; alert)",
+  "jersey": "MIN blue Icon #33 over a white tee, 2026-27 preseason",
+  "concerns": "not nba.com: no Wolves nba.com gallery frame was usable and his Getty game frames are not hosted unwatermarked; FanSided page shows only the credit, so the game date is inferred from the MSG setting and photographer; 3/4 turn to his left; white undershirt sleeves",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/175/01m551mnn6mtemtarh0z.jpg",
+      "note": "(same Imagn frame, Ball Durham copy)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images.daznservices.com/di/library/DAZN_News/3/40/isaiah-evans_17bruzniamuqs1j70pofxqkqpo.jpg",
+      "note": "(media day portrait, rejected)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

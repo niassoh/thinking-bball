@@ -1,0 +1,64 @@
+{
+  "player": "Kylan Boswell",
+  "playerId": "kylan-boswell",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285915433CHA_VS_SAC___071726_.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285915433CHA_VS_SAC___071726_.jpg",
+  "sourcePage": "https://www.nba.com/hornets/photos/2026-summer-league-gallery-hornets-vs-kings-07-17-26",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-17 vs SAC, Cox Pavilion (Las Vegas Summer League; Getty caption: dribbles the ball)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1280
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kylan-boswell.jpg",
+  "selectedAt": "2026-10-24T03:18:02.949Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 820,
+    "y": 100,
+    "size": 400
+  },
+  "needsReview": "face only ~165px tall in a 1920px team-site web copy; no larger in-game photo of him in a Hornets uniform found (no preseason games; SI pages carry only Illinois college and draft photos)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (eyes raised toward the defense while bringing the ball up, lips parted mid-breath)",
+  "jersey": "CHA white #18, 2026 Las Vegas Summer League",
+  "concerns": "Summer League in Hornets white: he has not played a preseason game (knee rehab, targeting a late-October return) and the Hornets preseason galleries do not include him; team-site 1920x1280 web copy; face only ~165px headband-to-chin; white headband covers the hairline; 2026 undrafted two-way rookie",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285664512.jpg",
+      "note": "(2026-07-15 Summer League vs MIL, white, looking up at the rim with mouth open, energy ~7, but an 864x1080 copy with a ~100px face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285918838CHA_VS_SAC___071726_.jpg",
+      "note": "(2026-07-17 Summer League vs SAC, white, driving with a flat stare, a Kings arm above his head, face ~130px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

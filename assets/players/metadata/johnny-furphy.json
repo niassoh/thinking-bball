@@ -1,0 +1,64 @@
+{
+  "player": "Johnny Furphy",
+  "playerId": "johnny-furphy",
+  "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/01/gettyimages-2254730703.jpg",
+  "downloadUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/01/gettyimages-2254730703.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2254730703",
+  "license": "unknown (Getty Images via CelticsBlog uploads)",
+  "licenseUrl": null,
+  "author": "Michael Hickey / Getty Images",
+  "credit": null,
+  "photoDate": "2026-01-06 vs CLE, Gainbridge Fieldhouse (2025-26 regular season; Getty caption: goes up to dunk)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/johnny-furphy.jpg",
+  "selectedAt": "2026-10-24T03:19:03.095Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1030,
+    "y": 250,
+    "size": 820
+  },
+  "needsReview": "dunk moment and near-profile head angle; no in-game 2026 preseason photo of him exists on Getty (arrivals and media day only)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "about matches (eyes up at the rim, lips parted showing teeth, focused rather than straining)",
+  "jersey": "IND gold #12 (Icon), 2025-26",
+  "concerns": "a dunk approach, though the face is composed rather than a mid-dunk strain; head is near profile (3/4 to his left) and tilted up; from January 2026, not 2026 preseason (no 2026 preseason game photos of him found: only arrivals and media day); his raised arm runs along the left edge of the crop; page is the Getty detail page because the CelticsBlog article embedding the unwatermarked upload was not found",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/01/gettyimages-2256261816.jpg",
+      "note": "(2026-01-17 at DET, gold #12, bringing the ball up, face ~150 px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612754/2026/04/GettyImages-2249856141.jpg",
+      "note": "(vs DEN, navy #12, defending, 1130x640 web crop, face ~100 px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

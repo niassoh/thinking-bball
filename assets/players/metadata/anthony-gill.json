@@ -1,0 +1,70 @@
+{
+  "player": "Anthony Gill",
+  "playerId": "anthony-gill",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/1_anthony_gill.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/1_anthony_gill.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:1_anthony_gill.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": null,
+  "author": "Chensiyuan",
+  "credit": null,
+  "photoDate": "c. 2023-04-09 (Commons EXIF 2023-04-10 01:30; exact game unverified)",
+  "originalSize": null,
+  "storedSize": [
+    1890,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/anthony-gill.jpg",
+  "selectedAt": "2026-10-24T03:25:29.303Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 140,
+    "y": 60,
+    "size": 1500
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (focused stare just off-camera while pointing a teammate into place, lips parted; engaged, not reacting)",
+  "jersey": "WAS navy City Edition (The District) #16, 2022-23",
+  "concerns": "three seasons old (2022-23), same team as 2026-27; his own pointing arm crosses the lower part of the crop below the chin; direct, fairly calm look at the low end of the band; the newer Getty photos hosted unwatermarked (Bullets Forever) are a downcast half-smile (2026-04-07, energy ~5) and overhead dunks",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.bulletsforever.com/wp-content/uploads/sites/52/2026/09/gettyimages-2273074131.jpg",
+      "note": "(Getty 2026-04-07 vs CHI, white, running back with eyes down and a half-smile, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.bulletsforever.com/wp-content/uploads/sites/52/2026/03/gettyimages-2267499653.jpg",
+      "note": "(Getty 2026-03-22 at NYK, overhead dunk, face small)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Anthony_Gill_and_James_Johnson_%2851875108419%29.jpg",
+      "note": "(Commons 2022-02-09 vs BKN, straining layup, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

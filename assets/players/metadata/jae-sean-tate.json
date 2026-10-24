@@ -1,0 +1,58 @@
+{
+  "player": "Jae'Sean Tate",
+  "playerId": "jae-sean-tate",
+  "sourceUrl": "https://platform.thedreamshake.com/wp-content/uploads/sites/160/2026/05/gettyimages-2270276931.jpg",
+  "downloadUrl": "https://platform.thedreamshake.com/wp-content/uploads/sites/160/2026/05/gettyimages-2270276931.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2270276931",
+  "license": "unknown (Getty Images via The Dream Shake uploads)",
+  "licenseUrl": null,
+  "author": "Eakin Howard / Getty Images",
+  "credit": null,
+  "photoDate": "2026-04-05 at GSW, Chase Center (2025-26 regular season; Getty caption: looks on in the second quarter)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jae-sean-tate.jpg",
+  "selectedAt": "2026-10-24T03:14:57.032Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 680,
+    "y": 110,
+    "size": 1700
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "about matches (alert, mouth open mid-breath, eyes just off-camera to his right)",
+  "jersey": "HOU black #8 (Statement), 2025-26",
+  "concerns": "from the 2025-26 regular season, not 2026 preseason: his only 2026 preseason photos are a shot and team celebrations, none hosted unwatermarked; near-frontal look with eyes only slightly off-camera; page is the Getty detail page because The Dream Shake article embedding the unwatermarked upload was not found",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://media.gettyimages.com/id/2299881850/photo/x.jpg",
+      "note": "(2026-10-15 preseason vs OKC, shooting, watermarked Getty preview only)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

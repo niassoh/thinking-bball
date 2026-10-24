@@ -1,0 +1,58 @@
+{
+  "player": "Aday Mara",
+  "playerId": "aday-mara",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612760/2026/10/1-261012_JIMMYDO_OKCATATL_0115.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612760/2026/10/1-261012_JIMMYDO_OKCATATL_0115.jpg",
+  "sourcePage": "https://www.nba.com/thunder/photos/okcatatl-261012",
+  "license": "unknown (OKC Thunder team photo via NBA.com)",
+  "licenseUrl": null,
+  "author": "Jimmy Do / OKC Thunder",
+  "credit": null,
+  "photoDate": "2026-10-12 preseason at ATL, State Farm Arena (Thunder gallery; caption is a photo credit only)",
+  "originalSize": null,
+  "storedSize": [
+    760,
+    950
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/aday-mara.jpg",
+  "selectedAt": "2026-10-24T03:23:22.975Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 140,
+    "y": 60,
+    "size": 480
+  },
+  "needsReview": "small source (760x950, face ~230px hair-to-chin); expression is right but resolution is at the floor",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (at the free-throw line, eyes up at the rim, mouth open mid-breath)",
+  "jersey": "OKC blue Icon #15, 2026-27 preseason",
+  "concerns": "Thunder-site gallery copy is only 760x950: face ~230px hair-to-chin (~165px hairline-to-chin), so the crop is upscaled and a little soft; warm, contrasty team edit; free-throw routine rather than live action; 2026 rookie, no Getty original of this frame found",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612760/2026/10/14-261013_JIMMYDO_OKCATIND_0062.jpg",
+      "note": "(Thunder gallery, 2026-10-13 preseason vs IND, white #15, shooting with his back to the camera)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

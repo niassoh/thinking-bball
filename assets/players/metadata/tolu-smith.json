@@ -1,0 +1,58 @@
+{
+  "player": "Tolu Smith",
+  "playerId": "tolu-smith",
+  "sourceUrl": "https://res.cloudinary.com/ybmedia/image/upload/v1/m/4/6/46ac3d1f6bd534413e1b5e56ed8569f28aebdda0/mar-26-2026-detroit-michigan-usa-detroit-pistons.jpg",
+  "downloadUrl": "https://res.cloudinary.com/ybmedia/image/upload/v1/m/4/6/46ac3d1f6bd534413e1b5e56ed8569f28aebdda0/mar-26-2026-detroit-michigan-usa-detroit-pistons.jpg",
+  "sourcePage": "https://www.yardbarker.com/nba/articles/pistons_to_sign_tolu_smith_to_two_year_deal/s1_14822_43698392",
+  "license": "unknown (Imagn Images via Yardbarker)",
+  "licenseUrl": null,
+  "author": "Rick Osentoski / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-03-26, Little Caesars Arena (Imagn file name: Mar 26, 2026, Detroit; opponent not in the caption)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    1334
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tolu-smith.jpg",
+  "selectedAt": "2026-10-24T03:29:04.392Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 700,
+    "y": 0,
+    "size": 580
+  },
+  "needsReview": "near-profile head angle and modest face size; best unwatermarked in-game Pistons photo found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (head snapped to his left reading the floor while holding the ball, mouth open mid-call; alert)",
+  "jersey": "DET navy City Edition #35, 2025-26",
+  "concerns": "head turned past 3/4 toward profile (far eye barely visible); 2000x1334 Imagn copy on Yardbarker’s CDN, face ~190px hairline-to-chin, head ~270px; dark headband over the hairline; hair sits ~60px from the image top, crop starts at y=0; 2025-26 photo (same team as 2026-27); none of his ~30 Oct 2026 preseason Getty photos found unwatermarked (Detroit Bad Boys, opponent SB Nation blogs, nba.com CDN), and AP preseason copies are watermarked (BTA) or small",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://www.supertalk.fm/wp-content/uploads/2026/04/Tolu-1.webp",
+      "note": "(AP 2026-01-10 vs LAC, white, shooting in traffic, 876px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

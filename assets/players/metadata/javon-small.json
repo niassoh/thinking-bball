@@ -1,0 +1,51 @@
+{
+  "player": "Javon Small",
+  "playerId": "javon-small",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285535412.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2285535412.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2285535412",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-14 vs GSW, Cox Pavilion (Las Vegas Summer League; Getty caption: drives to the basket)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/javon-small.jpg",
+  "selectedAt": "2026-10-24T03:37:10.105Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 640,
+    "y": 570,
+    "size": 720
+  },
+  "needsReview": "Summer League photo for a player with NBA games; energy at the top of the band (wide-eyed)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (wide eyes and an O-shaped open mouth while driving, eyes off-camera to his left; not straining)",
+  "jersey": "MEM navy #10, 2026 Las Vegas Summer League",
+  "concerns": "Summer League, although he has NBA regular-season games (2025-26): none of his 2026 preseason Getty photos is hosted unwatermarked (SB Nation blogs, Grizzlies team-site and NBA.com uploads probed); eyes a little wide; dreads cross the left edge of the crop",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Tre Donaldson",
+  "playerId": "tre-donaldson",
+  "sourceUrl": "https://assets.newsweek.com/wp-content/uploads/2026/07/GettyImages-2286576569.jpg",
+  "downloadUrl": "https://assets.newsweek.com/wp-content/uploads/2026/07/GettyImages-2286576569.jpg",
+  "sourcePage": "https://www.newsweek.com/sports/nba/heat-tre-donaldson-breakout-player-to-watch-this-season-12214652",
+  "license": "unknown (Getty Images via Newsweek)",
+  "licenseUrl": null,
+  "author": "Louis Grasse / Getty Images",
+  "credit": null,
+  "photoDate": "2026-07-17 Las Vegas Summer League vs DET, Thomas & Mack Center (Getty caption: drives against Brice Williams, first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2001
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tre-donaldson.jpg",
+  "selectedAt": "2026-10-24T03:09:58.996Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1300,
+    "y": 230,
+    "size": 740
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes down-court off-camera to his left, mouth open mid-breath)",
+  "jersey": "MIA white Summer League #11, 2026 Las Vegas Summer League",
+  "concerns": "Summer League, not preseason: no Heat preseason gallery exists on nba.com and the preseason photos found (Imagn via Roundtable) show only Conwell; unwatermarked Getty original hosted by Newsweek, license unknown; face ~210px headband-to-chin (~370px with his hair), slightly soft at full size; gaze a little downward; tattooed arm at the right edge of the crop; two-way player, undrafted 2026 rookie",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_heat/01kxbky8zag1wfgjpkk9.jpg",
+      "note": "(Imagn via SI, college at Miami (FL), screaming, energy ~9)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612748/2026/07/MH26123_WelcomeTreDonaldson_HEAT.com-Article-Header_1200x630-01.jpg",
+      "note": "(Heat-site signing graphic, college photos cut out on a graphic background)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

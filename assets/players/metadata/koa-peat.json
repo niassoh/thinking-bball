@@ -1,0 +1,64 @@
+{
+  "player": "Koa Peat",
+  "playerId": "koa-peat",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_wildcats/01m5d8d7pa0gmqh98pbt.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_wildcats/01m5d8d7pa0gmqh98pbt.jpg",
+  "sourcePage": "https://www.si.com/college/arizona/basketball/where-all-16-former-arizona-basketball-stars-are-playing-in-the-nba-this-season",
+  "license": "unknown (Imagn Images via Reuters Connect, hosted by SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Anna Carrington / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-16 preseason vs UTA, Mortgage Matchup Center (embedded caption: enters the game, second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/koa-peat.jpg",
+  "selectedAt": "2026-10-24T03:11:15.841Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1170,
+    "y": 0,
+    "size": 660
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes just off-camera to his left, mouth open mid-breath as he checks in; engaged, not reacting to a play)",
+  "jersey": "PHX white Association #18, 2026 preseason",
+  "concerns": "2026 rookie, no regular-season game yet; caption says he is entering the game (on court, in uniform) rather than mid-play; hair sits near the image top, so the crop starts at y=0; a blurred teammate in the foreground sits just right of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_wildcats/01m5d538vy4zgkzpx4h6.jpg",
+      "note": "(Imagn, 2026-10-10 preseason vs SAS, white, shielding the ball from RJ Davis, ball and hand cover the face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612756/2026/10/2298214223.jpg",
+      "note": "(Suns site, 2026-10-05 preseason at DET, free throw, calm, team-site web copy)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

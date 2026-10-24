@@ -1,0 +1,64 @@
+{
+  "player": "Yanic Konan Niederhauser",
+  "playerId": "yanic-konan-niederhauser",
+  "sourceUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/03/gettyimages-2264480111.jpg",
+  "downloadUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/03/gettyimages-2264480111.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2264480111",
+  "license": "unknown (Getty Images via Golden State of Mind uploads)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-03-02 at GSW, Chase Center (2025-26 regular season; Getty caption: Brandin Podziemski is guarded by Yanic Konan Niederhauser in the first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/yanic-konan-niederhauser.jpg",
+  "selectedAt": "2026-10-24T03:43:05.918Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 460,
+    "y": 0,
+    "size": 640
+  },
+  "needsReview": "energy below the band (~5.5) and near-profile angle; City Edition jersey; best unwatermarked in-game photo found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (focused on his man, lips just parted, eyes off to his left; calm rather than reacting)",
+  "jersey": "LAC orange City Edition #14, 2025-26",
+  "concerns": "near-profile 3/4 turned to his left; a shade calmer than McCain; his hair touches the top of the frame in the source, so the crop sits at the top edge; Nicolas Batum’s shoulder enters the lower right; orange City Edition rather than a standard uniform; no 2026 preseason game photos of him exist on Getty (media day only), and none of his 2025-26 looks-on/reacts photos is hosted unwatermarked (Clippers team site, cdn.nba.com, SB Nation blogs probed)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.bulletsforever.com/wp-content/uploads/sites/52/2026/01/gettyimages-2256373199.jpg",
+      "note": "(2026-01-14 vs WAS, overhead rim cam, face sideways under an arm)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.gettyimages.com/id/2254123288/photo/x.jpg",
+      "note": "(2025-12-30 vs SAC, reacts, watermarked Getty preview only)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

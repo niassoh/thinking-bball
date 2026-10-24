@@ -1,0 +1,76 @@
+{
+  "player": "Moussa Cisse",
+  "playerId": "moussa-cisse",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/dallas_basketball/01m5a8qh06pbdpw588ax.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/dallas_basketball/01m5a8qh06pbdpw588ax.jpg",
+  "sourcePage": "https://www.si.com/nba/mavericks/onsi/could-dallas-mavericks-trade-center-moussa-cisse-after-drawing-interest-lakers-chicago-bulls-",
+  "license": "unknown (Imagn Images via Reuters Connect / SI)",
+  "licenseUrl": null,
+  "author": "Mark J. Rebilas / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-04-08 at PHX, Mortgage Matchup Center (Imagn caption: against the Phoenix Suns)",
+  "originalSize": null,
+  "storedSize": [
+    1982,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/moussa-cisse.jpg",
+  "selectedAt": "2026-10-24T03:34:16.842Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 700,
+    "y": 290,
+    "size": 580
+  },
+  "needsReview": "energy ~5.5, just under the band: standing hands-on-hips look-off at a stoppage; the only clean in-game alternatives are head-down or side-on action",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (hands on hips during a stoppage, eyes cut hard to his left, lips just parted; alert but calm)",
+  "jersey": "DAL white Association #30, 2025-26",
+  "concerns": "below the 6-8 band: a dead-ball moment, not live play; Imagn 3000x4541 vertical stored at 1982x3000, head ~280px; 2025-26 photo (same team as 2026-27); no unwatermarked 2026 preseason game photo found (Mavs Moneyball hosts none of his Getty preseason shots, nba.com CDN has none, AP via TSN is a head-down block)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/dallas_basketball/01kxv5f8n73k5x5xqyjw.jpg",
+      "note": "(Imagn same game, hands on hips, calmer, smaller face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/dallas_basketball/01kxw8mfqqqsk7drapbm.jpg",
+      "note": "(Imagn same game, standing, neutral)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://www.tsn.ca/resizer/v2/SNBA5TMKKJHE5PCQXS3W3DTKO4.jpg",
+      "note": "(AP 2025-11-08 at WAS, white, blocking a shot with head tilted down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/dallas_basketball/01m52m39he2s9gxj5jaz.jpg",
+      "note": "(Imagn 2026 media day portrait)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/dallas_basketball/01m5a8qh06pbdpw588ax.jpg",
+  "supersededHistory": []
+}

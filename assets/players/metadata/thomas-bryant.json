@@ -1,0 +1,51 @@
+{
+  "player": "Thomas Bryant",
+  "playerId": "thomas-bryant",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2274709031-scaled-e1782763383205.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/06/GettyImages-2274709031-scaled-e1782763383205.jpg",
+  "sourcePage": "https://www.nba.com/news/cavaliers-thomas-bryant-free-agency-2026",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026 ECSF Game 1 at DET, Little Caesars Arena (May 2026, exact date unverified; Getty caption: Bryant and Donovan Mitchell react during the first half)",
+  "originalSize": null,
+  "storedSize": [
+    2325,
+    1310
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/thomas-bryant.jpg",
+  "selectedAt": "2026-10-24T02:56:33.656Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 900,
+    "y": 0,
+    "size": 720
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (sweaty, eyes off-camera to his right, mouth open mid-breath while slapping hands with Mitchell)",
+  "jersey": "CLE black Statement #3, 2025-26 playoffs",
+  "concerns": "2025-26 photo (same team as 2026-27; no 2026 preseason game photo of him found on nba.com: the Cavs preseason wrap-up carries none); head ~330px, face ~210px hairline-to-chin in a 2325px publisher crop (scaled/edited nba.com copy, not the Getty original); hair sits ~65px from the image top, so the crop starts at y=0; his own left arm crosses the lower left of the crop, Mitchell is outside it",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

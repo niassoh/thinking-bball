@@ -1,0 +1,70 @@
+{
+  "player": "Jordan McLaughlin",
+  "playerId": "jordan-mclaughlin",
+  "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2277387436.jpg",
+  "downloadUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2277387436.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2277387436",
+  "license": "unknown (Getty Images via Pounding The Rock)",
+  "licenseUrl": null,
+  "author": "Alex Slitz / Getty Images",
+  "credit": null,
+  "photoDate": "2026-05-20 at OKC, Paycom Center (2026 WCF Game 2; Getty caption: dribbles against the Thunder, third quarter)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jordan-mclaughlin.jpg",
+  "selectedAt": "2026-10-24T03:22:31.229Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1100,
+    "y": 0,
+    "size": 728
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes off-camera to his left while bringing the ball up, lips parted mid-breath)",
+  "jersey": "SAS white Association #0, 2025-26 playoffs",
+  "concerns": "2025-26 playoff photo (same team as 2026-27): his 2026 preseason photos found unwatermarked are Spurs team-site shots from high angles or from behind; head sits close to the image top (crop y=0, ~20px headroom above the scalp in the stored file); 3/4 view; face ~330px in the stored file; unwatermarked Getty original on the Pounding The Rock (SB Nation) uploads host, found by Getty id, so the page is the Getty detail page",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.mavsmoneyball.com/wp-content/uploads/sites/104/2026/02/gettyimages-2259541030.jpg",
+      "note": "(2026-02-05 at DAL, black, defending Ryan Nembhard, eyes down on the ball, energy ~5.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261014_SAS_RT_PHX_72.jpg",
+      "note": "(Spurs gallery 2026-10-14 preseason vs PHX, white, high-angle dribble, face tilted down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261008_SAS_RT_ATL_91.jpg",
+      "note": "(Spurs gallery 2026-10-08 preseason vs ATL, white, talking to Keldon Johnson, seen from behind in profile)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

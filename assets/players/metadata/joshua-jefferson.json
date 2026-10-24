@@ -1,0 +1,58 @@
+{
+  "player": "Joshua Jefferson",
+  "playerId": "joshua-jefferson",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kw0p7qe844a609m3cf.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nets/01kw0p7qe844a609m3cf.jpg",
+  "sourcePage": "https://www.si.com/nba/nets/onsi/winners-and-losers-from-the-nets-summer-league-action",
+  "license": "unknown (Imagn Images via Sports Illustrated)",
+  "licenseUrl": null,
+  "author": "Imagn Images",
+  "credit": null,
+  "photoDate": "2026-03-07 Iowa State vs Arizona State, Hilton Coliseum (Imagn caption: goes to the basket, first half) — COLLEGE",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/joshua-jefferson.jpg",
+  "selectedAt": "2026-10-24T03:28:00.056Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 1230,
+    "y": 420,
+    "size": 560
+  },
+  "needsReview": "college photo (Iowa State), not BKN; no in-game NBA photo exists yet; face tilted up mid-layup",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (chin up, eyes on the rim mid-layup, lips parted)",
+  "jersey": "Iowa State white #5, college — NOT the wanted BKN",
+  "concerns": "COLLEGE photo: he missed the 2026 preseason (back) and played only three Las Vegas Summer League games; no in-game NBA photo of him was found on nba.com (SL recaps, Hornets opener gallery), NetsDaily, Roundtable or SI (only the rookie photo shoot, draft night and press conference); head tilted up toward the rim, so the face is foreshortened from below; layup arm at the left edge",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.netsdaily.com/wp-content/uploads/sites/113/2026/10/gettyimages-2285638027.jpg",
+      "note": "(Getty 2026-07-15 rookie photo shoot, BKN #9, posed black-and-white portrait, not in-game)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

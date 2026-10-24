@@ -1,0 +1,58 @@
+{
+  "player": "Mo Bamba",
+  "playerId": "mo-bamba",
+  "sourceUrl": "https://platform.slcdunk.com/wp-content/uploads/sites/145/2026/03/gettyimages-2264249153.jpg",
+  "downloadUrl": "https://platform.slcdunk.com/wp-content/uploads/sites/145/2026/03/gettyimages-2264249153.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2264249153",
+  "license": "unknown (Getty Images / NBAE via SLC Dunk)",
+  "licenseUrl": null,
+  "author": "Jesse D. Garrabrant / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2026-03-04 at PHI, Wells Fargo Center (Getty caption: looks on during the game)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/mo-bamba.jpg",
+  "selectedAt": "2026-10-24T03:21:25.319Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 504,
+    "y": 60,
+    "size": 900
+  },
+  "needsReview": "energy ~5.5, just under the 6-8 band: the only unwatermarked in-game Jazz face found; the other hosted Jazz photo is from behind (2264251888)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (sweaty, eyes raised just off-camera, lips barely parted; attentive but close to a neutral stare)",
+  "jersey": "UTA City Edition (white/purple mountains) #11, 2025-26",
+  "concerns": "energy at the low edge of the band; unwatermarked Getty original on the SLC Dunk (SB Nation) uploads host, found by Getty id, so the page is the Getty detail page; 2025-26 photo (same team as 2026-27): his 2026 preseason Getty photos are not hosted unwatermarked on nba.com or the SB Nation blogs; hair sits ~65px below the crop top",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.slcdunk.com/wp-content/uploads/sites/145/2026/03/gettyimages-2264251888.jpg",
+      "note": "(2026-03-04 at PHI, Jazz City, hands on hips seen from behind, no face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

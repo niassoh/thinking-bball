@@ -1,0 +1,64 @@
+{
+  "player": "Ebuka Okorie",
+  "playerId": "ebuka-okorie",
+  "sourceUrl": "https://platform.detroitbadboys.com/wp-content/uploads/sites/75/2026/10/gettyimages-2298913166.jpg",
+  "downloadUrl": "https://platform.detroitbadboys.com/wp-content/uploads/sites/75/2026/10/gettyimages-2298913166.jpg",
+  "sourcePage": "https://www.detroitbadboys.com/detroit-pistons-game-day/51192/pistons-vs-timberwolves-preview-getting-a-look-at-new-look-t-wolves",
+  "license": "unknown (Getty Images via Detroit Bad Boys)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-05 preseason vs PHX, Little Caesars Arena (Getty caption: plays against the Phoenix Suns)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ebuka-okorie.jpg",
+  "selectedAt": "2026-10-24T03:14:59.236Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 549,
+    "y": 240,
+    "size": 760
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (mouth open mid-breath bringing the ball up, eyes down-court just below the lens; alert, frontal)",
+  "jersey": "DET white Association #23, 2026-27 preseason",
+  "concerns": "gaze is slightly downward rather than up and off-camera; unwatermarked Getty original (2299x3449, stored 2000x3000) hosted by the SB Nation blog, license unknown; 2026 rookie, no NBA regular-season game yet",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_pistons/01m4paw5earr11hrwksk.jpg",
+      "note": "(Imagn 2026-10-05 vs PHX, white, sweaty, lips parted, but near side profile)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_pistons/01m5dav3g0nzamj6b76v.jpg",
+      "note": "(Imagn 2026-10-16 vs TOR, white, full-body dribble, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

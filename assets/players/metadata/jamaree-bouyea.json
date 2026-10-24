@@ -1,0 +1,70 @@
+{
+  "player": "Jamaree Bouyea",
+  "playerId": "jamaree-bouyea",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_suns/01m50qhszstyq0k582wm.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_suns/01m50qhszstyq0k582wm.jpg",
+  "sourcePage": "https://www.si.com/nba/suns/onsi/insider-says-one-phoenix-suns-guard-has-secured-roster-spot",
+  "license": "unknown (Imagn Images via Reuters Connect, hosted by SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Mark J. Rebilas / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-04-08 vs DAL, Mortgage Matchup Center (SI caption: against the Dallas Mavericks)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2108
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jamaree-bouyea.jpg",
+  "selectedAt": "2026-10-24T03:13:35.030Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 800,
+    "y": 150,
+    "size": 1150
+  },
+  "needsReview": "energy ~5.5, below the 6–8 band: the other Imagn frames of him are a calm free throw, arms-wide calls with a small face, and a back-turned look; picked the cleanest large face",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (eyes just over the camera, lips parted mid-breath during a stoppage; attentive but calm)",
+  "jersey": "PHX black “The Valley” City Edition #17, 2025-26",
+  "concerns": "2025-26 photo (same team as 2026-27); no 2026 preseason photo of him found on SI or the Suns-at-Pistons gallery; between-plays moment rather than an action frame; gaze is nearly at the camera",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_suns/01kbv467111qv763z4be.jpg",
+      "note": "(Imagn, 2025-11-29 vs DEN, purple, free throw looking up at the rim, calm, ball and arms above the head)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_suns/01kjjvf9c24hkf1r820d.jpg",
+      "note": "(Imagn, 2026-01-30 vs CLE, purple, arms wide calling a play, face small)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_suns/01ke2jbv439bb9wk5g7k.jpg",
+      "note": "(Imagn, 2025-11-29 vs DEN, purple, back to camera looking over his shoulder)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

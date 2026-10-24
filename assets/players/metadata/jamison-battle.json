@@ -1,0 +1,64 @@
+{
+  "player": "Jamison Battle",
+  "playerId": "jamison-battle",
+  "sourceUrl": "https://platform.raptorshq.com/wp-content/uploads/sites/130/2026/04/gettyimages-2272136826.jpg",
+  "downloadUrl": "https://platform.raptorshq.com/wp-content/uploads/sites/130/2026/04/gettyimages-2272136826.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2272136826",
+  "license": "unknown (Getty Images / NBAE via Raptors HQ)",
+  "licenseUrl": null,
+  "author": "Mark Blinch / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2026-04-23 vs CLE, Scotiabank Arena (2026 playoffs R1 G3; Getty caption: celebrates during the game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jamison-battle.jpg",
+  "selectedAt": "2026-10-24T03:24:30.959Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1340,
+    "y": 400,
+    "size": 400
+  },
+  "needsReview": "energy ~8 celebration face and face only ~210px: the only unwatermarked in-game Raptors photo with his face found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 8,
+  "energyVsMcCain": "higher (celebrating a play, brow furrowed, lips rounded mid-exclaim, eyes just off-camera; short of a scream but past the reference)",
+  "jersey": "TOR black Statement #77, 2025-26 playoffs",
+  "concerns": "celebration frame at the top edge of the band; small in a wide frame: face ~210px (head ~230px) in the stored 3000px file; slight softness; unwatermarked Getty original on the Raptors HQ (SB Nation) uploads host, found by Getty id, so the page is the Getty detail page; none of his 2026 preseason or opening-week Getty/NBAE/Toronto Star photos is hosted unwatermarked on nba.com or the SB Nation blogs",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.raptorshq.com/wp-content/uploads/sites/130/2025/11/gettyimages-2244400333.jpg",
+      "note": "(2025-10-31 at CLE NBA Cup, white, screaming celebration, energy ~10)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.blazersedge.com/wp-content/uploads/sites/34/2026/01/gettyimages-2257892382.jpg",
+      "note": "(2026-01-23 at POR, defending Jrue Holiday, overhead rim cam, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

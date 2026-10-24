@@ -1,0 +1,58 @@
+{
+  "player": "Tobe Awaka",
+  "playerId": "tobe-awaka",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_wildcats/01m5d580rznnwwbdv643.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_wildcats/01m5d580rznnwwbdv643.jpg",
+  "sourcePage": "https://www.si.com/college/arizona/basketball/where-all-16-former-arizona-basketball-stars-are-playing-in-the-nba-this-season",
+  "license": "unknown (Imagn Images via Reuters Connect / Sports Illustrated)",
+  "licenseUrl": null,
+  "author": "Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-09 preseason vs MEM, United Center (Imagn caption: during the second half)",
+  "originalSize": null,
+  "storedSize": [
+    2473,
+    1649
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tobe-awaka.jpg",
+  "selectedAt": "2026-10-24T03:25:19.152Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 890,
+    "y": 0,
+    "size": 880
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes off-camera to his left after a pass, mouth open mid-breath)",
+  "jersey": "CHI white Association #19, 2026 preseason",
+  "concerns": "not nba.com: no nba.com article or team gallery (Bulls post none; Nuggets gallery of Bulls at Nuggets lacks him) carries a photo of him; Imagn photo via SI, license unknown, 2473x1649; hair sits ~70px from the image top, so the crop starts at y=0; his passing arm and a Grizzlies player are outside the crop; 2026 undrafted two-way rookie",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_wildcats/01kg5yqrfgxk7ekngpdc.jpg",
+      "note": "(Imagn 2026-01-24, Arizona college layup, not NBA)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

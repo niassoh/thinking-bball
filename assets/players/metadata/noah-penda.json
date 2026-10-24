@@ -1,0 +1,64 @@
+{
+  "player": "Noah Penda",
+  "playerId": "noah-penda",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/the_magic_insider/01m53hrcdqy4b7r6f81x.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/the_magic_insider/01m53hrcdqy4b7r6f81x.jpg",
+  "sourcePage": "https://www.si.com/nba/magic/onsi/orlando-magic-forward-noah-penda-suffers-injury-preseason-finale-vs-heat",
+  "license": "unknown (Imagn Images via Reuters Connect, hosted by SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Ken Blaze / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-11 preseason at CLE, Rocket Arena (embedded caption: drives to the basket against Donovan Mitchell, first half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/noah-penda.jpg",
+  "selectedAt": "2026-10-24T03:03:46.330Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 800,
+    "y": 170,
+    "size": 720
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes locked up-court just left of camera, mouth open mid-breath on the drive, brows lifted; alert, not straining)",
+  "jersey": "ORL blue pinstripe Icon #93, 2026 preseason",
+  "concerns": "Mitchell’s reaching hand enters the right edge of the crop at shoulder height, clear of the face; head leans slightly forward on the drive",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/the_magic_insider/01m53kx3wvjd71n5qh8w.jpg",
+      "note": "(Imagn, Oct 2026 preseason vs CLE, white, defending Harden in a wide frame, face small)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/the_magic_insider/01m55yp1zb2xtewvqf9m.jpg",
+      "note": "(Imagn, 2026-10-11 at CLE, blue, handling against Mobley and Meleek Thomas, face smaller and in profile)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

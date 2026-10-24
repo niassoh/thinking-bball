@@ -1,0 +1,70 @@
+{
+  "player": "Devin Carter",
+  "playerId": "devin-carter",
+  "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299296635.jpg",
+  "downloadUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299296635.jpg",
+  "sourcePage": "https://www.celticsblog.com/boston-celtics-news/147313/devin-carter-celtics-cavaliers-preseason",
+  "license": "unknown (Getty Images via CelticsBlog)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-08 preseason at CLE, Rocket Arena (Getty caption: dribbles the ball around Craig Porter Jr., second quarter)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/devin-carter.jpg",
+  "selectedAt": "2026-10-24T03:15:01.290Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 832,
+    "y": 70,
+    "size": 540
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (alert, eyes down-court past his defender, lips parted mid-breath; frontal and engaged rather than reacting)",
+  "jersey": "BOS green Icon #99, 2026 preseason",
+  "concerns": "his only Celtics game so far (illness/mono since): not nba.com: the Cavs gallery of that game shows only Cavs players, uncaptioned; unwatermarked Getty original hosted by the SB Nation blog; gaze slightly downward; face ~245px hairline-to-chin in the stored image; Porter’s hand reaches in at the lower right corner of the crop, below the chin",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299560626.jpg",
+      "note": "(Getty 2026-10-08 at CLE, green, laughing with Mike Conley, eyes squeezed shut, a hand beside his head)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_celtics/01m4gd834r6s2y4vm5cp.jpg",
+      "note": "(SI, 2026-10-08 at CLE, green, reaching for a loose ball in side profile, arm across the chin)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299288127.jpg",
+      "note": "(Getty 2026-10-08 at CLE, green, jump shot with arm raised, face small in a full-length frame)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

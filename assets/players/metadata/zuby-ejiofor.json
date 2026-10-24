@@ -1,0 +1,70 @@
+{
+  "player": "Zuby Ejiofor",
+  "playerId": "zuby-ejiofor",
+  "sourceUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2284413850-scaled.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2026/07/GettyImages-2284413850-scaled.jpg",
+  "sourcePage": "https://www.nba.com/news/2026-salt-lake-city-summer-league-hawks-thunder",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-06 vs OKC, Jon M. Huntsman Center (Salt Lake City Summer League; Getty caption: looks to pass the ball)",
+  "originalSize": null,
+  "storedSize": [
+    2048,
+    2560
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/zuby-ejiofor.jpg",
+  "selectedAt": "2026-10-24T03:01:04.931Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 850,
+    "y": 460,
+    "size": 650
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes off-camera to his right reading the defense, lips parted mid-breath)",
+  "jersey": "ATL red #20, 2026 Salt Lake City Summer League",
+  "concerns": "Summer League in Hawks red, not preseason: the only 2026 preseason Getty photos of him found unwatermarked (Peachtree Hoops) are a postgame media interview and a wide low-angle layup with a tiny face, and the Hawks site posts no galleries; face ~200px hairline-to-chin, under the 250px target; uncropped -scaled original of the article image (the article uses a WordPress crop, -scaled-e1783395578247.jpg); a Thunder defender’s hand rests on his back, outside the crop; 2026 rookie (No. 23 pick)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.peachtreehoops.com/wp-content/uploads/sites/122/2026/10/gettyimages-2299422091.jpg",
+      "note": "(Getty 2026-10-12 vs OKC, white, postgame on-court interview with headset, not in-game)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.peachtreehoops.com/wp-content/uploads/sites/122/2026/10/gettyimages-2298656251.jpg",
+      "note": "(Getty 2026-10-08 preseason at SAS, red, layup from a wide low angle, face tiny)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_hawks/01m4vdnp029f9ywm3b6y.jpg",
+      "note": "(SI, 2026 preseason vs OKC, white, defending in side profile, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

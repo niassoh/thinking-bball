@@ -1,0 +1,70 @@
+{
+  "player": "Christian Anderson",
+  "playerId": "christian-anderson",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2300821881CHA_VS_BKN_GALLERY_102126_.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2300821881CHA_VS_BKN_GALLERY_102126_.jpg",
+  "sourcePage": "https://www.nba.com/hornets/photos/hornets-vs-nets-gallery-10-21-26",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Nathaniel S. Butler / NBAE via Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-21 at BKN, Barclays Center (2026-27 season opener; Getty caption: dribbles the ball)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    2399
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/christian-anderson.jpg",
+  "selectedAt": "2026-10-24T03:15:24.204Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 380,
+    "y": 60,
+    "size": 800
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes up-court off-camera to his right, mouth open mid-breath on the drive)",
+  "jersey": "CHA teal Icon #5, 2026-27 regular season (NBA debut patch)",
+  "concerns": "team-site 1920x2399 web copy, not a full Getty original; face ~230px hairline-to-chin, head with hair ~450px; 2026 rookie in his first regular-season game; his hand on the ball enters the lower right corner of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285915765CHA_VS_SAC___071726_.jpg",
+      "note": "(2026-07-17 Summer League vs SAC, white, free-throw stare at the rim, face small)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285918474CHA_VS_SAC___071726_.jpg",
+      "note": "(2026-07-17 Summer League vs SAC, white, driving with head down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2300032802.jpg",
+      "note": "(2026-10-16 preseason at MEM, teal, wide full-length frame, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

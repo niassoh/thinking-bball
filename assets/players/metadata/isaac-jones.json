@@ -1,0 +1,58 @@
+{
+  "player": "Isaac Jones",
+  "playerId": "isaac-jones",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_pistons/01ky0mjzp1vgrr8ehs18.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_pistons/01ky0mjzp1vgrr8ehs18.jpg",
+  "sourcePage": "https://www.si.com/nba/pistons/onsi/final-detroit-pistons-summer-league-grades-and-evaluations-01ky0kqz190p",
+  "license": "unknown (Imagn Images via Reuters Connect / SI)",
+  "licenseUrl": null,
+  "author": "David Reginek / Imagn Images",
+  "credit": null,
+  "photoDate": "2025-11-17 vs IND, Little Caesars Arena (Imagn caption: defends Monte Morris during the second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2001
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/isaac-jones.jpg",
+  "selectedAt": "2026-10-24T03:31:25.042Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1491,
+    "y": 20,
+    "size": 720
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (locked on the ball handler just off-camera to his right, lips barely parted; focused rather than reacting)",
+  "jersey": "DET white Association #13, 2025-26",
+  "concerns": "lower edge of the band (concentration, little mouth movement); his outstretched left arm crosses the top-right of the full frame, outside the crop; a teammate (#20) sits at the lower-right edge of the crop; 2025-26 photo (same team as 2026-27); none of his 2026 Summer League or preseason Getty photos found unwatermarked (Detroit Bad Boys, nba.com CDN), AP preseason copies are watermarked (BTA)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://deweb-519a7.b-cdn.net/post-images/be62e992-3f91-4c43-8846-4834963cca00.jpeg",
+      "note": "(Roundtable, Kings warmup shirt, smiling; fails in-game)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

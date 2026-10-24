@@ -1,0 +1,58 @@
+{
+  "player": "Ja'Kobi Gillespie",
+  "playerId": "ja-kobi-gillespie",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261008_SAS_RT_ATL_108.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261008_SAS_RT_ATL_108.jpg",
+  "sourcePage": "https://www.nba.com/spurs/photos/photos-spurs-vs-atlanta-hawks-10-08-26",
+  "license": "unknown (San Antonio Spurs team photo via NBA.com)",
+  "licenseUrl": null,
+  "author": "San Antonio Spurs",
+  "credit": null,
+  "photoDate": "2026-10-08 vs ATL, Frost Bank Center (preseason; team caption: dribbles up the floor during the fourth quarter)",
+  "originalSize": null,
+  "storedSize": [
+    2400,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ja-kobi-gillespie.jpg",
+  "selectedAt": "2026-10-24T03:18:41.378Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 738,
+    "y": 277,
+    "size": 939
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (alert, eyes up-court off to his right, lips parted while bringing the ball up)",
+  "jersey": "SAS white Association #17, 2026 preseason",
+  "concerns": "team-site photo with a dark, contrasty edit (background crushed to black); his near arm crosses the lower left of the crop below the chin; 2026 rookie, no NBA season yet",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2282952795.jpg",
+      "note": "(2026-06-25 rookie introduction, posed with jerseys, not in-game)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

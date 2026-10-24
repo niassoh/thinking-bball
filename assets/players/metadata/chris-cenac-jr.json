@@ -1,0 +1,70 @@
+{
+  "player": "Chris Cenac Jr.",
+  "playerId": "chris-cenac-jr",
+  "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/07/gettyimages-2284953394.jpg",
+  "downloadUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/07/gettyimages-2284953394.jpg",
+  "sourcePage": "https://www.celticsblog.com/celtics-scores-results/143391/summer-celtics-prevail-in-overtime-thriller-over-raptors-83-80",
+  "license": "unknown (Getty Images via CelticsBlog)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-07-10 vs TOR, Thomas & Mack Center (Las Vegas Summer League; Getty caption: handles the ball)",
+  "originalSize": null,
+  "storedSize": [
+    2399,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/chris-cenac-jr.jpg",
+  "selectedAt": "2026-10-24T03:20:23.330Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 1,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 905,
+    "y": 850,
+    "size": 340
+  },
+  "needsReview": "small (~150px) slightly soft face in a deep 3/4 view, from Summer League; the frontal alternative from the same game (alt 1) has his eyes cast down; preseason photos found are dunks only",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (eyes locked on his defender off-camera to his right, mouth open mid-breath while handling the ball)",
+  "jersey": "BOS green #12, 2026 Las Vegas Summer League",
+  "concerns": "Summer League in Celtics green, not preseason: his only 2026 preseason photos found unwatermarked are dunks (Getty 2026-10-16 at PHI, wide; SI close-up hanging on the rim), and the Celtics and Hornets preseason galleries on nba.com do not include him; head turned to a deep 3/4 view, close to profile; slightly soft; face only ~150px tall in the stored image; 2026 rookie (No. 27 pick)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/07/gettyimages-2284953147.jpg",
+      "note": "(Getty 2026-07-10 Summer League vs TOR, green, frontal and talking but eyes cast down, energy ~5.5, face ~140px)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_celtics/01m53t3ewjemedpxdynp.jpg",
+      "note": "(SI, 2026-10-16 preseason at PHI, green, hanging on the rim after a dunk, eyes down, ball over his chest)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2300034788.jpg",
+      "note": "(Getty 2026-10-16 preseason at PHI, green, dunk in a wide frame, face tiny)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

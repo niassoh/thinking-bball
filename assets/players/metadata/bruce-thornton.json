@@ -1,0 +1,51 @@
+{
+  "player": "Bruce Thornton",
+  "playerId": "bruce-thornton",
+  "sourceUrl": "https://platform.thedreamshake.com/wp-content/uploads/sites/160/2026/10/gettyimages-2299710617.jpg",
+  "downloadUrl": "https://platform.thedreamshake.com/wp-content/uploads/sites/160/2026/10/gettyimages-2299710617.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2299710617",
+  "license": "unknown (Getty Images via The Dream Shake uploads)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-11 preseason vs DAL, The Venetian Arena, Macao (NBA China Games; Getty caption: drives the ball)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/bruce-thornton.jpg",
+  "selectedAt": "2026-10-24T03:13:18.180Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1020,
+    "y": 20,
+    "size": 900
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (focused on the ball as he pushes it ahead, lips parted mid-breath, eyes down-left off-camera)",
+  "jersey": "HOU red #2, 2026 preseason (NBA China Games)",
+  "concerns": "preseason, not regular season; eyes are down on the ball rather than up; the ball sits at the left edge of the crop, clear of the face; 2026 rookie, no NBA season yet; page is the Getty detail page because The Dream Shake article embedding the unwatermarked upload was not found",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

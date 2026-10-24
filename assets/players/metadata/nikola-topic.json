@@ -1,0 +1,64 @@
+{
+  "player": "Nikola Topic",
+  "playerId": "nikola-topic",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_thunder/01kp2f3x5cvw1xvgv84r.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_thunder/01kp2f3x5cvw1xvgv84r.jpg",
+  "sourcePage": "https://www.si.com/nba/thunder/onsi/news/nikola-topic-shows-high-potential-to-end-rookie-season",
+  "license": "unknown (Imagn Images via SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Alonzo Adams / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-04-12 vs PHX, Paycom Center (SI caption: drives around Jamaree Bouyea, second half; final regular-season game)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/nikola-topic.jpg",
+  "selectedAt": "2026-10-24T03:00:48.244Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 904,
+    "y": 0,
+    "size": 852
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (eyes off-camera to his left up-court, mouth open mid-breath on the drive; focused rather than reacting)",
+  "jersey": "OKC white Association #44, 2025-26",
+  "concerns": "2025-26 photo (same team as 2026-27): he has played no 2026 Summer League or preseason (back surgery), so no newer game photo exists; 3/4 view turned to his left; hair sits ~150px below the image top, so the crop starts at y=0",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_thunder/01knx7aspz9jbzsbrg2h.jpg",
+      "note": "(Imagn, Apr 2026, OKC blue, passing with his hand up beside the face, eyes squinting)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_thunder/01kj0qz1z34bzhp66n8y.jpg",
+      "note": "(Imagn, Feb 2026 vs CHA, OKC blue, layup in a wide frame, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

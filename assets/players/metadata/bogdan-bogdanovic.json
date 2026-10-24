@@ -1,0 +1,64 @@
+{
+  "player": "Bogdan Bogdanovic",
+  "playerId": "bogdan-bogdanovic",
+  "sourceUrl": "https://platform.thedreamshake.com/wp-content/uploads/sites/160/2026/10/gettyimages-2300435852.jpg",
+  "downloadUrl": "https://platform.thedreamshake.com/wp-content/uploads/sites/160/2026/10/gettyimages-2300435852.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2300435852",
+  "license": "unknown (Getty Images via The Dream Shake uploads)",
+  "licenseUrl": null,
+  "author": "Kenneth Richmond / Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-15 preseason vs OKC, Toyota Center (Getty caption: dribbles the ball during the fourth quarter)",
+  "originalSize": null,
+  "storedSize": [
+    2000,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/bogdan-bogdanovic.jpg",
+  "selectedAt": "2026-10-24T03:13:17.912Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 660,
+    "y": 100,
+    "size": 740
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (alert, bringing the ball up, eyes off-camera to his left, lips parted mid-breath)",
+  "jersey": "HOU red #31, 2026 preseason",
+  "concerns": "preseason, not regular season; a shade calmer than McCain; 3/4 view turned to his left; page is the Getty detail page because The Dream Shake article embedding the unwatermarked upload was not found",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://media.gettyimages.com/id/2299676302/photo/x.jpg",
+      "note": "(2026-10-11 Macao vs DAL, reacts, watermarked Getty preview only)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.gettyimages.com/id/2300823691/photo/x.jpg",
+      "note": "(2026-10-21 opener vs DAL, drives, watermarked Getty preview only)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

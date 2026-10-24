@@ -1,0 +1,70 @@
+{
+  "player": "Jase Richardson",
+  "playerId": "jase-richardson",
+  "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/10/jase-cavs-2400-234234-2342423-242.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/uploads/sites/1610612753/2026/10/jase-cavs-2400-234234-2342423-242.jpg",
+  "sourcePage": "https://www.nba.com/magic/news/orlando-magic-come-up-short-in-second-preseason-game-20261011",
+  "license": "unknown (Getty Images / NBAE via NBA.com, Magic team site)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "2026-10-11 preseason at CLE, Rocket Arena (lead photo of the Magic-site recap; handling against the Cavaliers)",
+  "originalSize": null,
+  "storedSize": [
+    2400,
+    1350
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jase-richardson.jpg",
+  "selectedAt": "2026-10-24T03:06:14.349Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 2,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1076,
+    "y": 20,
+    "size": 560
+  },
+  "needsReview": "energy ~5.5, below the 6–8 band: the livelier Imagn shots of him are a lips-pursed celebration in near profile (Jan 2026 vs GSW) and a head-down scramble (Apr 2026 at CHI); no 2026 preseason Magic gallery found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (locked on the defense off-camera to his right, lips pressed while reading the play; focused, not reacting)",
+  "jersey": "ORL blue pinstripe Icon #11, 2026 preseason",
+  "concerns": "mouth closed, just under the energy band; team-site 2400px web copy (no Getty id in the filename, so no caption lookup); face ~210px brow-to-chin, head ~300px; a Cavaliers defender’s hand rests on his shoulder at the lower-left of the crop, clear of the face",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/the_magic_insider/01keb4gg5zrq6wrnppqe.jpg",
+      "note": "(Imagn, Jan 2026 vs GSW, blue, pursed-lip celebration after a three, near side profile, energy ~7.5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/the_magic_insider/01kypxgw5zhxa11pz59z.jpg",
+      "note": "(Imagn, 2026-04-10 at CHI, blue, scrambling for the ball with Yuki Kawamura, head down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/the_magic_insider/01m3z23376f2qb9tfm70.jpg",
+      "note": "(Imagn, 2026-02-19 at SAC, white, thumbs-up to the bench, calm side look, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

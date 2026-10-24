@@ -1,0 +1,118 @@
+{
+  "player": "Tarris Reed Jr.",
+  "playerId": "tarris-reed-jr",
+  "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2284564315.jpg",
+  "downloadUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2284564315.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2284564315",
+  "license": "unknown (Getty Images via Pounding The Rock)",
+  "licenseUrl": null,
+  "author": "Thearon W. Henderson / Getty Images",
+  "credit": null,
+  "photoDate": "2026-07-03 vs MIA, Chase Center (California Classic Summer League; Getty caption: dribbles the ball against the Heat, second half)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2025
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tarris-reed-jr.jpg",
+  "selectedAt": "2026-10-24T03:21:24.377Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1153,
+    "y": 25,
+    "size": 1042
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (sweaty, eyes just off-camera to his right, mouth open mid-breath while bringing the ball up)",
+  "jersey": "SAS black #10, 2026 California Classic Summer League",
+  "concerns": "Summer League (California Classic) in Spurs black, not a preseason game: his 2026 preseason photos found unwatermarked are a Spurs team-site free throw (wide-open exhale, fingers under the chin), an overhead dribble (face down) and a rebound with the ball against his chin (Pounding The Rock); unwatermarked Getty original on the Pounding The Rock (SB Nation) uploads host, found by Getty id, so the page is the Getty detail page; hair sits close to the image top (crop y=25); 2026 rookie, no NBA season yet",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/10/gettyimages-2299422362.jpg",
+      "note": "(2026-10-12 preseason at UTA, black, rebound clutching the ball, ball against his chin, energy ~7)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261014_SAS_RT_PHX_81.jpg",
+      "note": "(Spurs gallery 2026-10-14 preseason vs PHX, white, high-angle dribble, face small and tilted down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2284565053.jpg",
+      "note": "(2026-07-03 SL vs MIA, black, looking to pass, mouth closed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261008_SAS_RT_ATL_99.jpg",
+      "note": "(Spurs gallery 2026-10-08 preseason vs ATL, white, free throw looking up at the rim, mouth wide open exhaling, energy ~8, ball and fingers just under the chin; the cleaner Summer League face was preferred)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/10/gettyimages-2299422362.jpg",
+      "note": "(2026-10-12 preseason at UTA, black, rebound clutching the ball, ball against his chin, energy ~7)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261014_SAS_RT_PHX_81.jpg",
+      "note": "(Spurs gallery 2026-10-14 preseason vs PHX, white, high-angle dribble, face small and tilted down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2284565053.jpg",
+      "note": "(2026-07-03 SL vs MIA, black, looking to pass, mouth closed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261008_SAS_RT_ATL_99.jpg",
+      "note": "(Spurs gallery 2026-10-08 preseason vs ATL, white, free throw looking up at the rim, mouth wide open exhaling, energy ~8, ball and fingers just under the chin; the cleaner Summer League face was preferred)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/10/gettyimages-2299422362.jpg",
+      "note": "(2026-10-12 preseason at UTA, black, rebound clutching the ball, ball against his chin, energy ~7)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261014_SAS_RT_PHX_81.jpg",
+      "note": "(Spurs gallery 2026-10-14 preseason vs PHX, white, high-angle dribble, face small and tilted down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2284565053.jpg",
+      "note": "(2026-07-03 SL vs MIA, black, looking to pass, mouth closed, energy ~5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2284564315.jpg",
+  "supersededHistory": []
+}

@@ -1,0 +1,58 @@
+{
+  "player": "Asa Newell",
+  "playerId": "asa-newell",
+  "sourceUrl": "https://platform.peachtreehoops.com/wp-content/uploads/sites/122/2026/10/gettyimages-2299919477.jpg",
+  "downloadUrl": "https://platform.peachtreehoops.com/wp-content/uploads/sites/122/2026/10/gettyimages-2299919477.jpg",
+  "sourcePage": "https://www.peachtreehoops.com/previews/73023/atlanta-hawks-2026-27-player-preview-asa-newell",
+  "license": "unknown (Getty Images via Peachtree Hoops)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-10-12 preseason vs OKC, State Farm Arena (Getty caption: reacts against the Oklahoma City Thunder)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/asa-newell.jpg",
+  "selectedAt": "2026-10-24T02:57:56.148Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1045,
+    "y": 0,
+    "size": 864
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (sweaty, eyes off-camera to his right, lips parted mid-breath; engaged but not looking up)",
+  "jersey": "ATL white Association #14, 2026 preseason",
+  "concerns": "not nba.com: the Hawks site has posted no game galleries since 2023; unwatermarked Getty original hosted by the SB Nation blog; white headband sits across the forehead; face ~330px tall in the stored image",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://deweb-519a7.b-cdn.net/post-images/6cfdcdc4-c7a1-4987-9421-290906e5b709.jpeg",
+      "note": "(Roundtable, 2026 preseason vs MEM, white, screaming after a play, energy ~9.5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

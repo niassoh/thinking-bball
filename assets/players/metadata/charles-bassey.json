@@ -1,0 +1,70 @@
+{
+  "player": "Charles Bassey",
+  "playerId": "charles-bassey",
+  "sourceUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/07/gettyimages-2270131263.jpg",
+  "downloadUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/07/gettyimages-2270131263.jpg",
+  "sourcePage": "https://www.gettyimages.com/detail/news-photo/x/2270131263",
+  "license": "unknown (Getty Images via Golden State of Mind uploads)",
+  "licenseUrl": null,
+  "author": "Getty Images",
+  "credit": null,
+  "photoDate": "2026-04-05 vs HOU, Chase Center (Getty caption: rebounds against Kevin Durant in the first quarter)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/charles-bassey.jpg",
+  "selectedAt": "2026-10-24T03:26:30.830Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 840,
+    "y": 420,
+    "size": 700
+  },
+  "needsReview": "energy ~8 effort face with arms raised around the head on a rebound; the only usable unwatermarked Warriors game photo found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 8,
+  "energyVsMcCain": "slightly higher (teeth showing with effort while securing a rebound, eyes down-left; strained but not shouting)",
+  "jersey": "GSW white Association #28, 2025-26",
+  "concerns": "both raised arms frame the head inside the crop and a teammate’s hand shows behind his right shoulder; gaze is downward; unwatermarked Getty original (6859x4573, stored 3000x2000) found in the Golden State of Mind (SB Nation) upload folder, no embedding article found, so --page is the Getty caption page; 2025-26 photo (same team as 2026-27); none of his ~40 Oct 2026 preseason Getty photos was found unwatermarked except a wide dunk and a postgame group shot",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/10/gettyimages-2299564915.jpg",
+      "note": "(Getty Oct 2026 preseason in Las Vegas vs LAL, blue, dunk in a whole-arena frame, face tiny)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://platform.goldenstateofmind.com/wp-content/uploads/sites/89/2026/10/gettyimages-2298526551.jpg",
+      "note": "(Getty Oct 2026 at POR, postgame on-court group shot with Sidy Cissoko, smiling)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://media.nbcsportsbayarea.com/2026/07/Charles-Bassey-Warriors-Reuters.jpg",
+      "note": "(Reuters, GSW City Edition #28, layup with arm up, 1200px, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

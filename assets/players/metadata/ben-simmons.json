@@ -1,0 +1,70 @@
+{
+  "player": "Ben Simmons",
+  "playerId": "ben-simmons",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_kings/01m4nmwazhgnm3z4fs3b.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_kings/01m4nmwazhgnm3z4fs3b.jpg",
+  "sourcePage": "https://www.si.com/nba/kings/onsi/darius-acuff-jr-has-telling-reaction-to-ben-simmons-kings-debut",
+  "license": "unknown (Imagn Images via Reuters Connect, hosted by SI.com / Minute Media)",
+  "licenseUrl": null,
+  "author": "Justine Willard / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-10 preseason at GSW, Chase Center (SI caption: goes for a layup against Al Horford, first quarter; his Kings debut)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/ben-simmons.jpg",
+  "selectedAt": "2026-10-24T03:20:12.278Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 970,
+    "y": 330,
+    "size": 640
+  },
+  "needsReview": "energy ~8.5, above the 6–8 band (straining layup face): the only calm in-game alternative is a Clippers 2024-25 look-off (energy ~5, wrong team)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 8.5,
+  "energyVsMcCain": "higher (mid-layup effort: brows knit, mouth open wide, eyes up toward the rim; intense but not a scream)",
+  "jersey": "SAC black Icon #25, 2026 preseason",
+  "concerns": "energy just above the band; he played only two 2026 preseason games before tearing his Achilles (out for 2026-27), and the other photos found are a drive with eyes shut (AP, at SAS), a back-turned block attempt and a far jump shot; his ball-side arm crosses the lower-left corner of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2026/09/GettyImages-2209868140.jpg",
+      "note": "(Getty via NBA.com season preview, 2025-04-11 at SAC, LAC white, calm look over his shoulder, energy ~5, wrong team)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://img.ksl.com/slc/3205/320595/32059545.jpg",
+      "note": "(AP via KSL, 2026-10-16 preseason at SAS, SAC black, driving around Wembanyama with eyes nearly shut, head down)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_kings/01m5cst996bhf0a25abz.jpg",
+      "note": "(Imagn, 2026-10-16 preseason at SAS, SAC black, driving between Keldon Johnson and Tarris Reed Jr. in a wide frame, face small)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

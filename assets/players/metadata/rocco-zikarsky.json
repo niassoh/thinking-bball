@@ -1,0 +1,51 @@
+{
+  "player": "Rocco Zikarsky",
+  "playerId": "rocco-zikarsky",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_timberwolves/01m4xqt88mbsqrw6k4fv.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_timberwolves/01m4xqt88mbsqrw6k4fv.jpg",
+  "sourcePage": "https://www.si.com/nba/timberwolves/onsi/key-takeaways-from-minnesota-timberwolves-summer-league-joan-beringer-rocco-zikarsky-two-way-contract-questions-01ky00bcpf82",
+  "license": "unknown (Imagn/Reuters via SI)",
+  "licenseUrl": null,
+  "author": "Imagn Images / Reuters (via SI All Timberwolves)",
+  "credit": null,
+  "photoDate": "2025-26 vs CHI at Target Center (after his 2026-02-23 debut; exact game unverified; image used across SI Wolves pages)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/rocco-zikarsky.jpg",
+  "selectedAt": "2026-10-24T03:15:47.049Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1100,
+    "y": 45,
+    "size": 840
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (boxing out, eyes up tracking the shot, mouth open in an O mid-breath)",
+  "jersey": "MIN black City Edition #44, 2025-26",
+  "concerns": "2025-26 photo (same team as 2026-27; two-way); none of the Wolves 2026 preseason galleries on nba.com shows him; a Bulls player’s cheek and beard sit at the left edge of the crop; mouth is a wide O, upper edge of the band; exact game and photographer unverified",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

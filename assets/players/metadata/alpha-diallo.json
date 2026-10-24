@@ -1,0 +1,70 @@
+{
+  "player": "Alpha Diallo",
+  "playerId": "alpha-diallo",
+  "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_nuggets/01m55fg3qzfsh6fmkt5f.jpg",
+  "downloadUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_nuggets/01m55fg3qzfsh6fmkt5f.jpg",
+  "sourcePage": "https://www.si.com/nba/nuggets/onsi/3-nuggets-players-who-could-benefit-from-julian-strawther-injury-absence",
+  "license": "unknown (Imagn Images via Reuters Connect / SI)",
+  "licenseUrl": null,
+  "author": "Jon Endow / Imagn Images",
+  "credit": null,
+  "photoDate": "2026-10-16 preseason at LAL, Crypto.com Arena (Imagn caption: drives against Austin Reaves in the fourth quarter)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/alpha-diallo.jpg",
+  "selectedAt": "2026-10-24T03:32:05.724Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1140,
+    "y": 120,
+    "size": 640
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (sweaty, eyes off-camera to his left on the drive, lips parted mid-breath)",
+  "jersey": "DEN navy Icon #11, 2026-27 preseason",
+  "concerns": "Austin Reaves’s hand reaches into the lower-right corner of the crop, below the chin; Imagn/Reuters copy hosted by SI, license unknown, head ~315px; first NBA season after five years at Monaco, so only 2026 preseason photos exist",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/10/GettyImages-2299253936.jpg",
+      "note": "(Getty 2026-10-11 vs CHI, white, dribbling; 1024px gallery copy, face tiny)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://gazette.com/wp-content/uploads/2026/10/AP26280092150787.jpg",
+      "note": "(AP 2026-10-06 at UTA, white, dribbling against Ingram; 1024px, face tiny)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_nuggets/01m4278a0rqwxpz5sjfr.jpg",
+      "note": "(Imagn 2026 media day portrait)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

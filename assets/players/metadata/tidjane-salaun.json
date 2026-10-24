@@ -1,0 +1,70 @@
+{
+  "player": "Tidjane Salaun",
+  "playerId": "tidjane-salaun",
+  "sourceUrl": "https://deweb-519a7.b-cdn.net/post-images/086dc60e-eb25-42a0-86c1-20731b7ab629.jpeg",
+  "downloadUrl": "https://deweb-519a7.b-cdn.net/post-images/086dc60e-eb25-42a0-86c1-20731b7ab629.jpeg",
+  "sourcePage": "https://roundtable.io/sports/nba/hornets/news/hornets-could-move-on-from-tidjane-salaun",
+  "license": "unknown (uncredited agency photo via Roundtable)",
+  "licenseUrl": null,
+  "author": "unknown (uncredited on Roundtable)",
+  "credit": null,
+  "photoDate": "c. Oct 2026, home game at Spectrum Center (Roundtable post of 2026-10-16; braids and headband match his 2026 preseason look; exact game unverified)",
+  "originalSize": null,
+  "storedSize": [
+    1600,
+    1067
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/tidjane-salaun.jpg",
+  "selectedAt": "2026-10-24T03:16:54.429Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 680,
+    "y": 110,
+    "size": 430
+  },
+  "needsReview": "uncredited 1600px web copy with a ~210px face; the best nba.com alternative is a head-tilted-back box-out (alt 1) with a Celtic’s face at the crop edge, and the large-face Summer League free throw (alt 2) is Summer League despite his two NBA seasons, with his older curly hair",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "slightly lower (eyes off-camera to his right, mouth open mid-breath, engaged; not looking up)",
+  "jersey": "CHA white Association #31, c. 2026 preseason",
+  "concerns": "1600x1067 web copy of an uncredited agency photo, slightly soft; face ~210px headband-to-chin, under the 250px target; white headband covers the hairline; nba.com Hornets galleries carry his 2026 games but only small or awkward frames (see alts)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2299696741CHA_VS_BOS_101426_.jpg",
+      "note": "(Getty/NBAE 2026-10-14 preseason at BOS, teal, boxing out looking up with mouth open, energy ~7, but head tilted far back, face ~195px, and a Celtics player’s face at the crop edge)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285235950SUMMER_LEAGUE__GALLERY__071226_.jpg",
+      "note": "(Getty/NBAE 2026-07-12 Summer League vs BOS, teal, free throw looking up at the rim with mouth open, large face, but Summer League and his old curly hair)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/07/GettyImages-2285913252CHA_VS_SAC___071726_.jpg",
+      "note": "(2026-07-17 Summer League vs SAC, white, driving with a defender’s hand across his chest, face down)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}
