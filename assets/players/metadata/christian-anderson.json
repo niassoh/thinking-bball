@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:42.191Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/christian-anderson-ff459eda-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/christian-anderson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:45.796Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/christian-anderson.png",
+  "webp": [
+    "assets/players/webp/christian-anderson-1024.webp",
+    "assets/players/webp/christian-anderson-400.webp",
+    "assets/players/webp/christian-anderson-200.webp",
+    "assets/players/webp/christian-anderson-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612766/2026/10/GettyImages-2300821881CHA_VS_BKN_GALLERY_102126_.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:13.578Z",
+  "background": "transparent"
 }

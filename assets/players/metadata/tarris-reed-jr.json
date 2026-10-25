@@ -107,12 +107,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:11.470Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/tarris-reed-jr-a748466d-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/tarris-reed-jr/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:53.389Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/tarris-reed-jr.png",
+  "webp": [
+    "assets/players/webp/tarris-reed-jr-1024.webp",
+    "assets/players/webp/tarris-reed-jr-400.webp",
+    "assets/players/webp/tarris-reed-jr-200.webp",
+    "assets/players/webp/tarris-reed-jr-100.webp"
+  ],
+  "approved": true,
   "approvedFromSource": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2284564315.jpg",
-  "supersededHistory": []
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:59.124Z",
+  "background": "transparent"
 }

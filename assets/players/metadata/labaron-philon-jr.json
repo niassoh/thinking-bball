@@ -77,12 +77,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:57.044Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/labaron-philon-jr-d932ac6d-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/labaron-philon-jr/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:50.436Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/labaron-philon-jr.png",
+  "webp": [
+    "assets/players/webp/labaron-philon-jr-1024.webp",
+    "assets/players/webp/labaron-philon-jr-400.webp",
+    "assets/players/webp/labaron-philon-jr-200.webp",
+    "assets/players/webp/labaron-philon-jr-100.webp"
+  ],
+  "approved": true,
   "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612755/2026/10/Philon-preseason_1920x1080.jpg",
-  "supersededHistory": []
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:41.720Z",
+  "background": "transparent"
 }

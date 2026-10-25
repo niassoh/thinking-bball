@@ -47,12 +47,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:47.747Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/ja-kobi-gillespie-da82325d-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/ja-kobi-gillespie/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:48.013Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/ja-kobi-gillespie.png",
+  "webp": [
+    "assets/players/webp/ja-kobi-gillespie-1024.webp",
+    "assets/players/webp/ja-kobi-gillespie-400.webp",
+    "assets/players/webp/ja-kobi-gillespie-200.webp",
+    "assets/players/webp/ja-kobi-gillespie-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612759/2026/10/20261008_SAS_RT_ATL_108.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:28.169Z",
+  "background": "transparent"
 }

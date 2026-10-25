@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:17.027Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/tre-donaldson-47dee933-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/tre-donaldson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:53.989Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/tre-donaldson.png",
+  "webp": [
+    "assets/players/webp/tre-donaldson-1024.webp",
+    "assets/players/webp/tre-donaldson-400.webp",
+    "assets/players/webp/tre-donaldson-200.webp",
+    "assets/players/webp/tre-donaldson-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://assets.newsweek.com/wp-content/uploads/2026/07/GettyImages-2286576569.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:47:10.212Z",
+  "background": "transparent"
 }

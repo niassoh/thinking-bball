@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:49.300Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/james-wiseman-888eb9ca-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/james-wiseman/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:48.521Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/james-wiseman.png",
+  "webp": [
+    "assets/players/webp/james-wiseman-1024.webp",
+    "assets/players/webp/james-wiseman-400.webp",
+    "assets/players/webp/james-wiseman-200.webp",
+    "assets/players/webp/james-wiseman-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://platform.postingandtoasting.com/wp-content/uploads/sites/125/2026/10/gettyimages-2299551649.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:31.007Z",
+  "background": "transparent"
 }

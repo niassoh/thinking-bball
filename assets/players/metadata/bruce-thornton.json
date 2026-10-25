@@ -40,12 +40,41 @@
   "jersey": "HOU red #2, 2026 preseason (NBA China Games)",
   "concerns": "preseason, not regular season; eyes are down on the ball rather than up; the ball sits at the left edge of the crop, clear of the face; 2026 rookie, no NBA season yet; page is the Getty detail page because The Dream Shake article embedding the unwatermarked upload was not found",
   "rejectedCandidates": [],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:39.161Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/bruce-thornton-643c7348-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/bruce-thornton/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:45.214Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/bruce-thornton.png",
+  "webp": [
+    "assets/players/webp/bruce-thornton-1024.webp",
+    "assets/players/webp/bruce-thornton-400.webp",
+    "assets/players/webp/bruce-thornton-200.webp",
+    "assets/players/webp/bruce-thornton-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://platform.thedreamshake.com/wp-content/uploads/sites/160/2026/10/gettyimages-2299710617.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:10.389Z",
+  "background": "transparent"
 }

@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:16.558Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/trayce-jackson-davis-5055cd9f-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/trayce-jackson-davis/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:53.914Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/trayce-jackson-davis.png",
+  "webp": [
+    "assets/players/webp/trayce-jackson-davis-1024.webp",
+    "assets/players/webp/trayce-jackson-davis-400.webp",
+    "assets/players/webp/trayce-jackson-davis-200.webp",
+    "assets/players/webp/trayce-jackson-davis-100.webp"
+  ],
+  "approved": true,
   "approvedFromSource": "https://platform.raptorshq.com/wp-content/uploads/sites/130/2026/02/gettyimages-2260092307.jpg",
-  "supersededHistory": []
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:47:09.255Z",
+  "background": "transparent"
 }

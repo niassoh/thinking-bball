@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:14.152Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/thaddeus-young-37dd1d20-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/thaddeus-young/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:53.664Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/thaddeus-young.png",
+  "webp": [
+    "assets/players/webp/thaddeus-young-1024.webp",
+    "assets/players/webp/thaddeus-young-400.webp",
+    "assets/players/webp/thaddeus-young-200.webp",
+    "assets/players/webp/thaddeus-young-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/bulls/sites/bulls/files/210131_samsmith_thadyoung_16x9.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:47:04.572Z",
+  "background": "transparent"
 }

@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:10.725Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/sidy-cissoko-6413d9df-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/sidy-cissoko/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:53.212Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/sidy-cissoko.png",
+  "webp": [
+    "assets/players/webp/sidy-cissoko-1024.webp",
+    "assets/players/webp/sidy-cissoko-400.webp",
+    "assets/players/webp/sidy-cissoko-200.webp",
+    "assets/players/webp/sidy-cissoko-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://platform.blazersedge.com/wp-content/uploads/sites/34/2026/02/gettyimages-2262818591.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:58.114Z",
+  "background": "transparent"
 }

@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:53.480Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jordan-mclaughlin-bbb7c774-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/jordan-mclaughlin/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:49.622Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jordan-mclaughlin.png",
+  "webp": [
+    "assets/players/webp/jordan-mclaughlin-1024.webp",
+    "assets/players/webp/jordan-mclaughlin-400.webp",
+    "assets/players/webp/jordan-mclaughlin-200.webp",
+    "assets/players/webp/jordan-mclaughlin-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2026/07/gettyimages-2277387436.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:36.826Z",
+  "background": "transparent"
 }

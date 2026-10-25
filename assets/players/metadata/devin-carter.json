@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:44.485Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/devin-carter-90d5560f-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/devin-carter/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:46.978Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/devin-carter.png",
+  "webp": [
+    "assets/players/webp/devin-carter-1024.webp",
+    "assets/players/webp/devin-carter-400.webp",
+    "assets/players/webp/devin-carter-200.webp",
+    "assets/players/webp/devin-carter-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299296635.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:19.264Z",
+  "background": "transparent"
 }
