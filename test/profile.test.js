@@ -128,12 +128,15 @@ test('profile: a past season\'s rotation sets each starter by his position that 
 })
 
 test('profile: a past rotation places players without a profile by their listed position', () => {
-  // Jim McIlvaine and Larry Stewart have no profile: McIlvaine starts at center (not SF,
-  // which pushed Kemp to C), Stewart's 958 minutes count.
+  // Jim McIlvaine starts at center (not SF, which pushed Kemp to C). He and Larry Stewart
+  // have profiles only from the box score (off the historical tab; lib/historical.js), with
+  // no sheet position; Greg Graham (180 minutes) has none, placed by his listed SG.
   const rows = buildProfile('gary-payton').seasons.find(s => s.season === '1996-97').card.rotation.rows
   assert.deepStrictEqual(rows.map(r => [r.pos, r.players[0].name]), [['PG', 'Gary Payton'], ['SG', 'Hersey Hawkins'], ['SF', 'Detlef Schrempf'], ['PF', 'Shawn Kemp'], ['C', 'Jim McIlvaine']])
   const stewart = rows.flatMap(r => r.players).find(p => p.name === 'Larry Stewart')
-  assert.ok(stewart && !stewart.hasProfile)
+  assert.ok(stewart && stewart.hasProfile)
+  const graham = rows.find(r => r.pos === 'SG').players.find(p => p.name === 'Greg Graham')
+  assert.ok(graham && !graham.hasProfile)
 })
 
 test('profile: depth chart flags which players have a profile', () => {
@@ -487,14 +490,32 @@ test('both season types list the same seasons, a season without the type\'s game
 
 test('an empty season the historical tab has no row for is unsourced, one under a season tab\'s floor is not', () => {
   const at = (doc, season) => doc.seasons.find(s => s.season === season)
-  // Kobe's 1996-97: 1,103 minutes (Basketball-Reference), off the tab's ~175 players; his
-  // playoff run puts the season on the profile.
-  const kobe = buildProfile('kobe-bryant')
-  assert.deepStrictEqual([at(kobe, '1996-97').empty, at(kobe, '1996-97').unsourced], [true, true])
-  assert.ok(!at(kobe, '1997-98').empty && !at(kobe, '1997-98').unsourced)
+  // Steve Kerr's 1998-99: 734 minutes, off the tab and under the floor its missing players are
+  // worked out over; his playoff run puts the season on the profile.
+  const kerr = at(buildProfile('steve-kerr'), '1998-99')
+  assert.deepStrictEqual([kerr.empty, kerr.unsourced], [true, true])
   // Rondo's 2020-21, under the season tab's 800-minute floor.
   assert.strictEqual(at(buildProfile('rajon-rondo'), '2020-21').unsourced, undefined)
   assert.ok(buildProfile('kobe-bryant', { type: 'playoffs' }).seasons.every(s => !s.unsourced))
+})
+
+test('a season over the floor the historical tab has no row for is worked out from his box score', () => {
+  const kobe = buildProfile('kobe-bryant')
+  const i = kobe.seasons.findIndex(s => s.season === '1996-97')
+  const s = kobe.seasons[i]
+  // Kobe's 1996-97: 1,103 minutes, off the tab's ~175 players (lib/historical.js).
+  assert.deepStrictEqual([s.empty, s.mp, s.gp, s.tm], [undefined, 1103, 71, 'LAL'])
+  assert.deepStrictEqual(s.derived, ['BPM', 'ScoreVal', 'PlayVal', 'Load', 'rTS%', 'Box Creation', 'Passer Rating'])
+  assert.deepStrictEqual(s.unsourced, ['OBPM', 'AuPM / g'])
+  assert.deepStrictEqual([kobe.stats.BPM.vals[i].n, kobe.stats['rTS%'].vals[i].n, kobe.stats.OBPM.vals[i]], [-0.7, 0.8, null])
+  // Play-by-play's columns come with it, as for the tab's players.
+  assert.strictEqual(kobe.stats['Net On'].vals[i].n, 2.3)
+  assert.ok(!kobe.seasons.find(x => x.season === '1997-98').derived)
+  // On the season's Leaderboard, as the tab's players are.
+  assert.ok(leaderboard('1996-97').players.some(r => r.slug === 'kobe-bryant'))
+  // A traded player's season is his combined one.
+  const tim = buildProfile('tim-thomas').seasons.find(x => x.season === '1998-99')
+  assert.deepStrictEqual([tim.mp, tim.tm, tim.teams], [812, '2 TM', ['PHI', 'MIL']])
 })
 
 test('distribution: playoffs read the playoff runs', () => {
