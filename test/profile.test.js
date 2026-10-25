@@ -554,9 +554,10 @@ test('leaderboard: a season\'s players with each stat as their profiles show it,
   const d = leaderboard('2025-26')
   assert.deepStrictEqual(d.groups.map(g => g.id), ['impact', 'creation', 'offense', 'rim', 'shooting', 'defense', 'team', 'footprint', 'lonestar', 'lonestar-duo'])
   // Every group's stats and their sides (Lonestar's on and off), then the hidden
-  // single-season shooting columns (in no group).
+  // single-season shooting columns and Footprint's span weights (in no group).
   const hidden = d.labels.filter(l => !d.groups.some(g => g.stats.some(x => x === l || (d.stats[x].sub || []).includes(l))))
-  assert.deepStrictEqual(hidden, ['Wide Open 3s/36', 'Wide Open 3%', 'Pullup 3s/36', 'Pullup 3%', 'C&S 3s/36', 'C&S 3%', 'Def FGA <6ft /36', 'Def FGA Diff%'].map(l => `1yr ${l}`))
+  const fpStats = d.groups.find(g => g.id === 'footprint').stats
+  assert.deepStrictEqual(hidden, [...['Wide Open 3s/36', 'Wide Open 3%', 'Pullup 3s/36', 'Pullup 3%', 'C&S 3s/36', 'C&S 3%', 'Def FGA <6ft /36', 'Def FGA Diff%'].map(l => `1yr ${l}`), ...fpStats.map(l => `${l} weight`)])
   // Read the way the stat they stand for is: opponents' FG% is better lower.
   assert.strictEqual(d.stats['1yr Def FGA Diff%'].lowerBetter, d.stats['Def FGA Diff%'].lowerBetter)
   assert.ok(hidden.every(l => d.stats[l].hidden))
@@ -576,15 +577,35 @@ test('leaderboard: a season\'s players with each stat as their profiles show it,
       assert.deepStrictEqual([row.v[k], row.p[k]], v ? [v.n, v.p] : [null, null], l)
     }
   }
-  // His footprint that season: the same swings, lit where the tab lights them.
+  // His footprint that season: the same swings (to the tenth the site shows), lit where
+  // the tab lights them.
   const fp = footprintOf('jaylen-brown').views.find(v => v.id === '2025-26')
   for (const e of fp.effects) {
     const k = d.labels.indexOf(e.effect)
-    assert.strictEqual(row.v[k], e.status === 'thin' ? null : e.diff, e.effect)
+    assert.strictEqual(row.v[k] === null ? null : Number(row.v[k].toFixed(1)), e.status === 'thin' ? null : e.diff, e.effect)
     assert.strictEqual((row.lit || []).includes(k), e.status === 'notable', e.effect)
   }
   assert.strictEqual(leaderboard('2025-26', { type: 'playoffs' }).groups.some(g => g.id === 'footprint'), false)
   assert.strictEqual(leaderboard('1995-96'), null)
+})
+
+test('leaderboard: a player\'s seasons averaged by their Footprint weights are his span\'s swings, to the tenth', () => {
+  const docs = ['2023-24', '2024-25', '2025-26'].map(s => leaderboard(s))
+  const view = footprintOf('jaylen-brown').views.find(v => v.id === '2023-24..2025-26')
+  for (const e of view.effects) {
+    // As the site's lib/board.js averages a span: each season by the stat's weight column.
+    let sum = 0
+    let weight = 0
+    for (const d of docs) {
+      const row = d.players.find(x => x.slug === 'jaylen-brown')
+      const v = row.v[d.labels.indexOf(e.effect)]
+      const w = row.v[d.labels.indexOf(d.stats[e.effect].weight)]
+      if (v === null) continue
+      sum += v * w
+      weight += w
+    }
+    assert.strictEqual(weight ? Number((sum / weight).toFixed(1)) : null, e.diff, e.effect)
+  }
 })
 
 test('leaderboard: Lonestar, each player without his top star, the change with its two sides, regular season only', () => {
