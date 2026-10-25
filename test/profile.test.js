@@ -623,6 +623,16 @@ test('leaderboard: Lonestar, each player without his top star, the change with i
   assert.strictEqual(leaderboardRecent().groups.find(g => g.id === 'lonestar').na, true)
 })
 
+test('leaderboard: descriptions match the formulas where the sheet\'s glossary doesn\'t, and a 1yr column drops its window\'s span', () => {
+  const { stats } = leaderboard('2025-26')
+  assert.match(stats['FTA : Rim FGA'].desc, /^Free throw attempts per field goal attempt at the rim/)
+  assert.match(stats['Handle TOV%'].desc, /offensive load$/)
+  assert.match(stats['Non-Pass TOV%'].desc, /offensive load$/)
+  assert.match(stats['C&S 3s/36'].desc, /^3-year /)
+  assert.match(stats['1yr C&S 3s/36'].desc, /^Catch & Shoot/)
+  assert.match(stats['1yr Def FGA Diff%'].desc, /^expected difference/)
+})
+
 test('leaderboard: each row has the birth date the site works ages out from', () => {
   const doc = leaderboard('2025-26')
   const born = require('../data/birthdates.json').born
