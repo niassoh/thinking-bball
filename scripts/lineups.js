@@ -27,6 +27,7 @@ const pbp = require('../lib/pbpstats')
 const { writeArtifact } = require('../lib/artifacts')
 const { BASE_FIELDS: FIELDS, countsOf, addCounts } = require('../lib/footprint')
 const { stintsOf, chunkDates, mergeLineups } = require('../lib/stints')
+const { recentWindow } = require('../lib/window')
 
 const DATA_DIR = path.join(__dirname, '..', 'data')
 
@@ -99,11 +100,12 @@ const mergeRows = pulled => {
 
 // One team's season as chunks of dates with their lineups: in the regular season split
 // where traded players joined or left the team (lib/stints.js), so a traded player's
-// on/off can cover just his time there; one chunk in the playoffs.
-const pullTeam = async (team, teamId, season, dates, stints) => {
+// on/off can cover just his time there, and at the Last 30 Days window's start (`at`);
+// one chunk in the playoffs.
+const pullTeam = async (team, teamId, season, dates, stints, at) => {
   const calls = { n: 0 }
   const chunks = []
-  for (const part of TYPE === 'regular' ? chunkDates(dates, stints, team) : [dates]) {
+  for (const part of TYPE === 'regular' ? chunkDates(dates, stints, team, at) : [dates]) {
     chunks.push({ from: part[0], to: part[part.length - 1], lineups: mergeRows(await pullDates(teamId, season, part, calls)) })
   }
   return { chunks, calls: calls.n }
@@ -121,6 +123,9 @@ const main = async () => {
   const games = [...(await pbp.games(season, TYPE)).values()]
   const teamIds = await pbp.teamIds(season, TYPE)
   const datesOf = teamId => [...new Set(games.filter(g => g.HomeTeamId === teamId || g.AwayTeamId === teamId).map(g => g.Date))].sort()
+  // The season being played also splits where the shot map's Last 30 Days begin
+  // (scripts/shotshift.js), for possessions on either side of it.
+  const at = TYPE === 'regular' && !SEASON ? [recentWindow(await pbp.games(season, TYPE)).start] : []
   const dir = PREFIX ? `${PREFIX}/lineups` : 'lineups'
 
   // Traded players' stints (from their game logs), kept in stints.json and fetched only
@@ -147,15 +152,15 @@ const main = async () => {
 
   const pulled = {}
   for (const [team, teamId] of Object.entries(teamIds).sort()) {
-    pulled[team] = { cuts: JSON.stringify(chunkDates(datesOf(teamId), stints, team)), ...await pullTeam(team, teamId, season, datesOf(teamId), stints) }
+    pulled[team] = { cuts: JSON.stringify(chunkDates(datesOf(teamId), stints, team, at)), ...await pullTeam(team, teamId, season, datesOf(teamId), stints, at) }
   }
   // Trades this pull is the first to see split their teams' seasons anew.
   if (TYPE === 'regular') {
     await learn(Object.entries(pulled).map(([team, p]) => ({ team, lineups: mergeLineups(p.chunks.map(c => c.lineups)) })))
     for (const [team, teamId] of Object.entries(teamIds).sort()) {
-      if (JSON.stringify(chunkDates(datesOf(teamId), stints, team)) === pulled[team].cuts) continue
+      if (JSON.stringify(chunkDates(datesOf(teamId), stints, team, at)) === pulled[team].cuts) continue
       console.log(`  ${team}: new trade dates, pulled again`)
-      pulled[team] = await pullTeam(team, teamId, season, datesOf(teamId), stints)
+      pulled[team] = await pullTeam(team, teamId, season, datesOf(teamId), stints, at)
     }
   }
 
