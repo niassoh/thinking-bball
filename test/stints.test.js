@@ -23,6 +23,11 @@ test('stints: a team season splits where a traded player arrived or left', () =>
   assert.deepStrictEqual(chunkDates(dates, stints, 'DAL'), [['2024-10-24', '2025-01-08'], ['2025-01-12', '2025-02-08', '2025-02-12', '2025-04-11']])
   assert.deepStrictEqual(chunkDates(dates, stints, 'LAL'), [['2024-10-24', '2025-01-08', '2025-01-12'], ['2025-02-08', '2025-02-12', '2025-04-11']])
   assert.deepStrictEqual(chunkDates(dates, stints, 'BOS'), [dates])
+  // The Last 30 Days' start cuts at the team's first game on or after it; one before the
+  // season's first game cuts nothing.
+  assert.deepStrictEqual(chunkDates(dates, stints, 'BOS', ['2025-02-10']), [['2024-10-24', '2025-01-08', '2025-01-12', '2025-02-08'], ['2025-02-12', '2025-04-11']])
+  assert.deepStrictEqual(chunkDates(dates, stints, 'DAL', ['2025-01-12']), chunkDates(dates, stints, 'DAL'))
+  assert.deepStrictEqual(chunkDates(dates, stints, 'BOS', ['2024-09-01']), [dates])
 })
 
 test('stints: his lineups with a team are the chunks of his stint, summed by lineup', () => {

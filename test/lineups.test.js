@@ -1,6 +1,6 @@
 const test = require('node:test')
 const assert = require('node:assert')
-const { lineupProfile, teamUnits, league, poolFloor, pickRange, rankAmong, POOL_MAX } = require('../lib/lineups')
+const { lineupProfile, teamUnits, league, poolFloor, pickRange, rankAmong, possessions, POOL_MAX } = require('../lib/lineups')
 
 const L = (ids, minutes, poss, plusMinus) => ({ ids: ids.split(''), seconds: minutes * 60, offPoss: poss, defPoss: poss, plusMinus })
 const FLOORS = { 2: 100, 3: 250, 4: 100, 5: 100 }
@@ -116,4 +116,18 @@ test('lineups: a team\'s most-played unit of each size, and its best over the fl
   // No trio clears a 1000-minute floor: no best, and the most-played one has no rank.
   assert.strictEqual(u[3].best, null)
   assert.strictEqual(u[3].mostUsed.rank, null)
+})
+
+test('lineups: a player\'s possessions sum his lineups across teams, on either side of a date', () => {
+  // A traded player (A) in two teams' files; a chunked file splits at the Last 30 Days' start.
+  const docs = [
+    { lineups: [L('ABCDE', 10, 20, 0), L('FGHIJ', 10, 30, 0)] },
+    { chunks: [{ from: '2025-01-01', to: '2025-02-28', lineups: [L('AKLMN', 10, 40, 0)] }, { from: '2025-03-01', to: '2025-04-10', lineups: [L('AKLMN', 5, 6, 0), { ...L('KLMNO', 5, 8, 0), defPoss: 10 }] }] }
+  ]
+  assert.strictEqual(possessions(docs).get('A'), 66)
+  assert.strictEqual(possessions(docs).get('O'), 9)
+  const recent = possessions(docs.slice(1), c => c.from >= '2025-03-01')
+  assert.strictEqual(recent.get('A'), 6)
+  assert.strictEqual(possessions(docs.slice(1), c => c.to < '2025-03-01').get('A'), 40)
+  assert.strictEqual(recent.has('F'), false)
 })
