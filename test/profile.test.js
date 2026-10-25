@@ -485,6 +485,18 @@ test('both season types list the same seasons, a season without the type\'s game
   assert.ok(Object.values(p.stats).every(s => s.vals[i] === null && s.lg[i] === null))
 })
 
+test('an empty season the historical tab has no row for is unsourced, one under a season tab\'s floor is not', () => {
+  const at = (doc, season) => doc.seasons.find(s => s.season === season)
+  // Kobe's 1996-97: 1,103 minutes (Basketball-Reference), off the tab's ~175 players; his
+  // playoff run puts the season on the profile.
+  const kobe = buildProfile('kobe-bryant')
+  assert.deepStrictEqual([at(kobe, '1996-97').empty, at(kobe, '1996-97').unsourced], [true, true])
+  assert.ok(!at(kobe, '1997-98').empty && !at(kobe, '1997-98').unsourced)
+  // Rondo's 2020-21, under the season tab's 800-minute floor.
+  assert.strictEqual(at(buildProfile('rajon-rondo'), '2020-21').unsourced, undefined)
+  assert.ok(buildProfile('kobe-bryant', { type: 'playoffs' }).seasons.every(s => !s.unsourced))
+})
+
 test('distribution: playoffs read the playoff runs', () => {
   const { playoffSeasonKeys } = require('../lib/players')
   const key = playoffSeasonKeys().pop()
