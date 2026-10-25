@@ -40,12 +40,41 @@
   "jersey": "TOR red #8, 2026 Las Vegas Summer League",
   "concerns": "Summer League in Raptors red, not a preseason game: 2026 undrafted rookie with no NBA season yet; head turned toward a 3/4-to-profile angle (far ear visible, near cheek wide); team-site photo with a warm/desaturated edit; 5000px original stored at 3000px, face ~270px in the stored file",
   "rejectedCandidates": [],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:48.316Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jaden-bradley-7a7ab77b-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/jaden-bradley/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:48.216Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jaden-bradley.png",
+  "webp": [
+    "assets/players/webp/jaden-bradley-1024.webp",
+    "assets/players/webp/jaden-bradley-400.webp",
+    "assets/players/webp/jaden-bradley-200.webp",
+    "assets/players/webp/jaden-bradley-100.webp"
+  ],
+  "approved": true,
   "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612761/2026/09/03c1d8fe-67e8-4e7c-bf41-ca784dac36c2RAPS-SKL-SUMMERLEAGUE-vsIND-260713-01400-2.jpg",
-  "supersededHistory": []
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:29.559Z",
+  "background": "transparent"
 }

@@ -40,12 +40,41 @@
   "jersey": "CLE black Statement #3, 2025-26 playoffs",
   "concerns": "2025-26 photo (same team as 2026-27; no 2026 preseason game photo of him found on nba.com: the Cavs preseason wrap-up carries none); head ~330px, face ~210px hairline-to-chin in a 2325px publisher crop (scaled/edited nba.com copy, not the Getty original); hair sits ~65px from the image top, so the crop starts at y=0; his own left arm crosses the lower left of the crop, Mitchell is outside it",
   "rejectedCandidates": [],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:14.730Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/thomas-bryant-eca5352a-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/thomas-bryant/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:53.733Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/thomas-bryant.png",
+  "webp": [
+    "assets/players/webp/thomas-bryant-1024.webp",
+    "assets/players/webp/thomas-bryant-400.webp",
+    "assets/players/webp/thomas-bryant-200.webp",
+    "assets/players/webp/thomas-bryant-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/06/GettyImages-2274709031-scaled-e1782763383205.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:47:05.666Z",
+  "background": "transparent"
 }

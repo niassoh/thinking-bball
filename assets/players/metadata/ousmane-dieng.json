@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:07.130Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/ousmane-dieng-2d904868-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/ousmane-dieng/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:52.248Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/ousmane-dieng.png",
+  "webp": [
+    "assets/players/webp/ousmane-dieng-1024.webp",
+    "assets/players/webp/ousmane-dieng-400.webp",
+    "assets/players/webp/ousmane-dieng-200.webp",
+    "assets/players/webp/ousmane-dieng-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/02/GettyImages-22608597211.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:51.423Z",
+  "background": "transparent"
 }

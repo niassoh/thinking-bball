@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:19.421Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/tyrese-proctor-a1d1b69e-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/tyrese-proctor/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:54.259Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/tyrese-proctor.png",
+  "webp": [
+    "assets/players/webp/tyrese-proctor-1024.webp",
+    "assets/players/webp/tyrese-proctor-400.webp",
+    "assets/players/webp/tyrese-proctor-200.webp",
+    "assets/players/webp/tyrese-proctor-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m4ndtc59r12ccm15c0.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:47:14.482Z",
+  "background": "transparent"
 }

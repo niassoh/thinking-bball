@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:35.054Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/allen-graves-bd6fffef-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/allen-graves/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:43.609Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/allen-graves.png",
+  "webp": [
+    "assets/players/webp/allen-graves-1024.webp",
+    "assets/players/webp/allen-graves-400.webp",
+    "assets/players/webp/allen-graves-200.webp",
+    "assets/players/webp/allen-graves-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://www.tsn.ca/resizer/v2/L5CY7WJVIZEZHHAWFBI6QSU2PE.jpg?auth=1499030d55918011ea58ce06376fce05ad8f6ccf2cb38f5c66b1b2ab915fcd5b",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:02.299Z",
+  "background": "transparent"
 }

@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:59.665Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/mario-hezonja-9832efaf-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/mario-hezonja/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:50.863Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/mario-hezonja.png",
+  "webp": [
+    "assets/players/webp/mario-hezonja-1024.webp",
+    "assets/players/webp/mario-hezonja-400.webp",
+    "assets/players/webp/mario-hezonja-200.webp",
+    "assets/players/webp/mario-hezonja-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/cavs_insider/01m5ba2g5m85zt1nwqnw.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:44.010Z",
+  "background": "transparent"
 }

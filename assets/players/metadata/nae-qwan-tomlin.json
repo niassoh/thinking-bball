@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:04.438Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/nae-qwan-tomlin-e51e9b56-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/nae-qwan-tomlin/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:51.603Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/nae-qwan-tomlin.png",
+  "webp": [
+    "assets/players/webp/nae-qwan-tomlin-1024.webp",
+    "assets/players/webp/nae-qwan-tomlin-400.webp",
+    "assets/players/webp/nae-qwan-tomlin-200.webp",
+    "assets/players/webp/nae-qwan-tomlin-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/uploads/sites/1610612739/2026/04/DSC04300.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:48.158Z",
+  "background": "transparent"
 }

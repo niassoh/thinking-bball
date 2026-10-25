@@ -47,12 +47,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:23.512Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/zeke-nnaji-ede7ab15-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/zeke-nnaji/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:54.933Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/zeke-nnaji.png",
+  "webp": [
+    "assets/players/webp/zeke-nnaji-1024.webp",
+    "assets/players/webp/zeke-nnaji-400.webp",
+    "assets/players/webp/zeke-nnaji-200.webp",
+    "assets/players/webp/zeke-nnaji-100.webp"
+  ],
+  "approved": true,
   "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ImagnImages/mmsport/inside_the_nuggets/01kf2j3eed21hryjc5je.jpg",
-  "supersededHistory": []
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:47:18.628Z",
+  "background": "transparent"
 }

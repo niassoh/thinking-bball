@@ -47,12 +47,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:36.490Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/asa-newell-e26a4aa3-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/asa-newell/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:44.310Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/asa-newell.png",
+  "webp": [
+    "assets/players/webp/asa-newell-1024.webp",
+    "assets/players/webp/asa-newell-400.webp",
+    "assets/players/webp/asa-newell-200.webp",
+    "assets/players/webp/asa-newell-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://platform.peachtreehoops.com/wp-content/uploads/sites/122/2026/10/gettyimages-2299919477.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:06.799Z",
+  "background": "transparent"
 }

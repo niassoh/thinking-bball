@@ -40,12 +40,41 @@
   "jersey": "MIN black City Edition #44, 2025-26",
   "concerns": "2025-26 photo (same team as 2026-27; two-way); none of the Wolves 2026 preseason galleries on nba.com shows him; a Bulls player’s cheek and beard sit at the left edge of the crop; mouth is a wide O, upper edge of the band; exact game and photographer unverified",
   "rejectedCandidates": [],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:08.412Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/rocco-zikarsky-25619a1d-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/rocco-zikarsky/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:52.677Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/rocco-zikarsky.png",
+  "webp": [
+    "assets/players/webp/rocco-zikarsky-1024.webp",
+    "assets/players/webp/rocco-zikarsky-400.webp",
+    "assets/players/webp/rocco-zikarsky-200.webp",
+    "assets/players/webp/rocco-zikarsky-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/all_timberwolves/01m4xqt88mbsqrw6k4fv.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:53.926Z",
+  "background": "transparent"
 }

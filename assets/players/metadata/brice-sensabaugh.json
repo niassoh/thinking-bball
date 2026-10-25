@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:38.929Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/brice-sensabaugh-7c9e75e2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/brice-sensabaugh/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:45.133Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/brice-sensabaugh.png",
+  "webp": [
+    "assets/players/webp/brice-sensabaugh-1024.webp",
+    "assets/players/webp/brice-sensabaugh-400.webp",
+    "assets/players/webp/brice-sensabaugh-200.webp",
+    "assets/players/webp/brice-sensabaugh-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/manage/2026/01/GettyImages_Sensabaugh.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:09.958Z",
+  "background": "transparent"
 }

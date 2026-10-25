@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:38.053Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/bogdan-bogdanovic-61a77a3f-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/bogdan-bogdanovic/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:44.853Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/bogdan-bogdanovic.png",
+  "webp": [
+    "assets/players/webp/bogdan-bogdanovic-1024.webp",
+    "assets/players/webp/bogdan-bogdanovic-400.webp",
+    "assets/players/webp/bogdan-bogdanovic-200.webp",
+    "assets/players/webp/bogdan-bogdanovic-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://platform.thedreamshake.com/wp-content/uploads/sites/160/2026/10/gettyimages-2300435852.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:08.648Z",
+  "background": "transparent"
 }

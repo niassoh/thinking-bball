@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:42.880Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/corey-kispert-05ab2b86-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/corey-kispert/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:46.065Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/corey-kispert.png",
+  "webp": [
+    "assets/players/webp/corey-kispert-1024.webp",
+    "assets/players/webp/corey-kispert-400.webp",
+    "assets/players/webp/corey-kispert-200.webp",
+    "assets/players/webp/corey-kispert-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images.ajc.com/resizer/v2/2X2JQIVIP5B6ZGNMURURX7T2EY.jpg?auth=2be1e5d7d5a98622e5ff8acf1d36396bcc69cd2142b3f1bb4e720e63377be4b2&width=3000",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:14.862Z",
+  "background": "transparent"
 }

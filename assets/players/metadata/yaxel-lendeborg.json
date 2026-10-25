@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:21.763Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/yaxel-lendeborg-f45b0783-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/yaxel-lendeborg/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:54.661Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/yaxel-lendeborg.png",
+  "webp": [
+    "assets/players/webp/yaxel-lendeborg-1024.webp",
+    "assets/players/webp/yaxel-lendeborg-400.webp",
+    "assets/players/webp/yaxel-lendeborg-200.webp",
+    "assets/players/webp/yaxel-lendeborg-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://media.nbcsportsbayarea.com/2026/10/yaxel-lendeborg-GettyImages-2298989203.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:47:16.981Z",
+  "background": "transparent"
 }

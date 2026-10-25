@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:43:10.351Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/sergio-de-larrea-e3063bdf-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/sergio-de-larrea/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-10-25T19:45:53.110Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/sergio-de-larrea.png",
+  "webp": [
+    "assets/players/webp/sergio-de-larrea-1024.webp",
+    "assets/players/webp/sergio-de-larrea-400.webp",
+    "assets/players/webp/sergio-de-larrea-200.webp",
+    "assets/players/webp/sergio-de-larrea-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://platform.mavsmoneyball.com/wp-content/uploads/sites/104/2026/10/gettyimages-2299702996.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-10-25T19:46:57.634Z",
+  "background": "transparent"
 }

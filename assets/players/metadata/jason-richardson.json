@@ -53,12 +53,36 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
+  "promptVersion": "thinking-basketball-v3",
   "generationAttempt": 0,
-  "attempts": [],
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-10-25T19:42:51.278Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jason-richardson-b08f4486-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-depth/jason-richardson/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "fail",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [
+          "identity drift: the dim source became a slimmer, different face (reads as another player)"
+        ],
+        "checkedAt": "2026-10-25T19:45:43.199Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
   "masterFile": null,
   "webp": [],
   "approved": false,
   "approvedFromSource": null,
-  "supersededHistory": []
+  "supersededHistory": [],
+  "latestAttempt": 1
 }
