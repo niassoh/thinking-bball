@@ -1,7 +1,7 @@
 {
   "team": "ORL",
   "season": "2026-27",
-  "generatedAt": "2026-10-24T14:02:12.177Z",
+  "generatedAt": "2026-10-25T14:24:30.098Z",
   "rows": [
     {
       "pos": "PG",
@@ -54,10 +54,10 @@
           "status": null
         },
         {
-          "name": "Noah Penda",
-          "slug": "noah-penda",
-          "espnId": "5214637",
-          "status": "OUT"
+          "name": "Jase Richardson",
+          "slug": "jase-richardson",
+          "espnId": "5239561",
+          "status": null
         }
       ]
     },
@@ -83,10 +83,10 @@
           "status": null
         },
         {
-          "name": "Noah Penda",
-          "slug": "noah-penda",
-          "espnId": "5214637",
-          "status": "OUT"
+          "name": "Desmond Bane",
+          "slug": "desmond-bane",
+          "espnId": "4066320",
+          "status": null
         }
       ]
     },
@@ -94,27 +94,27 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Paolo Banchero",
-          "slug": "paolo-banchero",
-          "espnId": "4432573",
-          "status": "DTD"
-        },
-        {
           "name": "Tristan da Silva",
           "slug": "tristan-da-silva",
           "espnId": "4702382",
           "status": null
         },
         {
-          "name": "Noah Penda",
-          "slug": "noah-penda",
-          "espnId": "5214637",
-          "status": "OUT"
-        },
-        {
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
+          "status": null
+        },
+        {
+          "name": "Jonathan Isaac",
+          "slug": "jonathan-isaac",
+          "espnId": "4065654",
+          "status": "OUT"
+        },
+        {
+          "name": "Colin Castleton",
+          "slug": "colin-castleton",
+          "espnId": "4397204",
           "status": null
         }
       ]

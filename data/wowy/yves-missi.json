@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "NOP",
   "gp": 2,
-  "generatedAt": "2026-10-24T14:39:24.999Z",
+  "generatedAt": "2026-10-25T14:48:45.569Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,16 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NOP",
-      "minutes": 57,
-      "poss": 126,
-      "net": 8
+      "minutes": 110,
+      "poss": 241,
+      "net": 1.7
+    },
+    {
+      "label": "On, w/o Murphy III",
+      "sub": "2026–27 · NOP",
+      "minutes": 3,
+      "poss": 7,
+      "net": 107.7
     },
     {
       "label": "On, w/o Murray",
@@ -33,18 +40,11 @@
       "net": -46.2
     },
     {
-      "label": "On, w/o Murphy III",
+      "label": "Neither Missi nor Murphy III",
       "sub": "2026–27 · NOP",
-      "minutes": 3,
-      "poss": 7,
-      "net": 107.7
-    },
-    {
-      "label": "Neither Missi nor Murray",
-      "sub": "2026–27 · NOP",
-      "minutes": 30,
-      "poss": 65,
-      "net": 6.2
+      "minutes": 46,
+      "poss": 102,
+      "net": 6.9
     }
   ]
 }

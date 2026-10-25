@@ -1,29 +1,36 @@
 {
   "season": "2026-27",
   "team": "NOP",
-  "gp": 2,
-  "generatedAt": "2026-10-24T14:12:31.350Z",
+  "gp": 3,
+  "generatedAt": "2026-10-25T14:35:00.613Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · NOP",
-      "minutes": 45,
-      "poss": 93,
-      "net": -24.7
+      "minutes": 68,
+      "poss": 144,
+      "net": -10.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NOP",
-      "minutes": 51,
-      "poss": 113,
-      "net": 16.8
+      "minutes": 81,
+      "poss": 178,
+      "net": 2.8
+    },
+    {
+      "label": "On, w/o Murphy III",
+      "sub": "2026–27 · NOP",
+      "minutes": 7,
+      "poss": 14,
+      "net": 29.6
     },
     {
       "label": "On, w/o Murray",
       "sub": "2026–27 · NOP",
-      "minutes": 11,
-      "poss": 23,
-      "net": -8.7
+      "minutes": 19,
+      "poss": 38,
+      "net": 8
     },
     {
       "label": "On, w/o Williamson",
@@ -33,18 +40,11 @@
       "net": 0
     },
     {
-      "label": "On, w/o Murphy III",
+      "label": "Neither Fears nor Murphy III",
       "sub": "2026–27 · NOP",
-      "minutes": 2,
-      "poss": 4,
-      "net": -50
-    },
-    {
-      "label": "Neither Fears nor Murray",
-      "sub": "2026–27 · NOP",
-      "minutes": 20,
-      "poss": 44,
-      "net": 9.1
+      "minutes": 42,
+      "poss": 95,
+      "net": 10.6
     }
   ]
 }

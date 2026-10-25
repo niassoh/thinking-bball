@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "CLE",
-  "gp": 59,
-  "generatedAt": "2026-10-02T04:50:22.235Z",
+  "season": "2026-27",
+  "team": "PHI",
+  "gp": 1,
+  "generatedAt": "2026-10-25T14:47:12.517Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · CLE",
-      "minutes": 1318,
-      "poss": 2728.5,
-      "net": 5.534176287337365
+      "sub": "2026–27 · PHI",
+      "minutes": 28,
+      "poss": 64,
+      "net": 0
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · CLE",
-      "minutes": 2633,
-      "poss": 5508.5,
-      "net": 3.3947535626758647
+      "sub": "2026–27 · PHI",
+      "minutes": 116,
+      "poss": 256,
+      "net": 9.8
     },
     {
-      "label": "On, w/o Harden",
-      "sub": "2025–26 · CLE",
-      "minutes": 1041,
-      "poss": 2184.5,
-      "net": 5.722133211261158
+      "label": "On, w/o Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 2,
+      "poss": 5,
+      "net": -40
     },
     {
-      "label": "On, w/o Mitchell",
-      "sub": "2025–26 · CLE",
-      "minutes": 517,
-      "poss": 1063.5,
-      "net": -10.249177244945933
+      "label": "On, w/o Brown",
+      "sub": "2026–27 · PHI",
+      "minutes": 11,
+      "poss": 25,
+      "net": -36
     },
     {
-      "label": "On, w/o Mobley",
-      "sub": "2025–26 · CLE",
-      "minutes": 663,
-      "poss": 1375.5,
-      "net": 2.8353326063249726
+      "label": "On, w/o Embiid",
+      "sub": "2026–27 · PHI",
+      "minutes": 9,
+      "poss": 22,
+      "net": -37.2
     },
     {
-      "label": "Neither Wade nor Harden",
-      "sub": "2025–26 · CLE",
-      "minutes": 2031,
-      "poss": 4258,
-      "net": 3.147017379051198
+      "label": "Neither Wade nor Maxey",
+      "sub": "2026–27 · PHI",
+      "minutes": 25,
+      "poss": 55,
+      "net": -29.1
     }
   ]
 }

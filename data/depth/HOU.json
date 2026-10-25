@@ -1,7 +1,7 @@
 {
   "team": "HOU",
   "season": "2026-27",
-  "generatedAt": "2026-10-24T14:02:08.228Z",
+  "generatedAt": "2026-10-25T14:24:25.620Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,13 +10,13 @@
           "name": "Fred VanVleet",
           "slug": "fred-vanvleet",
           "espnId": "2991230",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Marcus Smart",
           "slug": "marcus-smart",
           "espnId": "2990992",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Amen Thompson",
@@ -45,13 +45,13 @@
           "name": "Reed Sheppard",
           "slug": "reed-sheppard",
           "espnId": "4711272",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Marcus Smart",
           "slug": "marcus-smart",
           "espnId": "2990992",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Bogdan Bogdanovic",
@@ -132,7 +132,7 @@
           "name": "Steven Adams",
           "slug": "steven-adams",
           "espnId": "2991235",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jabari Smith Jr.",

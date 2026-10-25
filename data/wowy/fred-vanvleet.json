@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "HOU",
   "gp": 1,
-  "generatedAt": "2026-10-22T10:09:44.419Z",
+  "generatedAt": "2026-10-25T14:36:34.545Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · HOU",
-      "minutes": 18,
-      "poss": 41,
-      "net": -2.5
+      "minutes": 66,
+      "poss": 140,
+      "net": 4.3
     },
     {
       "label": "On, w/o Durant",
@@ -26,13 +26,6 @@
       "net": null
     },
     {
-      "label": "On, w/o Smith Jr.",
-      "sub": "2026–27 · HOU",
-      "minutes": 4,
-      "poss": 8,
-      "net": 133.3
-    },
-    {
       "label": "On, w/o Thompson",
       "sub": "2026–27 · HOU",
       "minutes": 10,
@@ -40,11 +33,18 @@
       "net": 46.2
     },
     {
+      "label": "On, w/o Smith Jr.",
+      "sub": "2026–27 · HOU",
+      "minutes": 4,
+      "poss": 8,
+      "net": 133.3
+    },
+    {
       "label": "Neither VanVleet nor Durant",
       "sub": "2026–27 · HOU",
-      "minutes": 10,
-      "poss": 24,
-      "net": 16.7
+      "minutes": 22,
+      "poss": 45,
+      "net": -17.8
     }
   ]
 }

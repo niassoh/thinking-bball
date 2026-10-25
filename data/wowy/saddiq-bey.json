@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "NOP",
-  "gp": 2,
-  "generatedAt": "2026-10-24T14:21:19.946Z",
+  "gp": 3,
+  "generatedAt": "2026-10-25T14:43:39.605Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · NOP",
-      "minutes": 46,
-      "poss": 97,
-      "net": 5.2
+      "minutes": 71,
+      "poss": 154,
+      "net": 1.9
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NOP",
-      "minutes": 50,
-      "poss": 109,
-      "net": -8.3
-    },
-    {
-      "label": "On, w/o Murray",
-      "sub": "2026–27 · NOP",
-      "minutes": 23,
-      "poss": 50,
-      "net": 12
-    },
-    {
-      "label": "On, w/o Williamson",
-      "sub": "2026–27 · NOP",
-      "minutes": 25,
-      "poss": 54,
-      "net": -9.3
+      "minutes": 78,
+      "poss": 167,
+      "net": -7.8
     },
     {
       "label": "On, w/o Murphy III",
       "sub": "2026–27 · NOP",
-      "minutes": 28,
-      "poss": 60,
-      "net": -13.4
+      "minutes": 44,
+      "poss": 95,
+      "net": 3.2
     },
     {
-      "label": "Neither Bey nor Murray",
+      "label": "On, w/o Murray",
       "sub": "2026–27 · NOP",
-      "minutes": 8,
-      "poss": 17,
-      "net": -23.5
+      "minutes": 42,
+      "poss": 90,
+      "net": 17.8
+    },
+    {
+      "label": "On, w/o Williamson",
+      "sub": "2026–27 · NOP",
+      "minutes": 36,
+      "poss": 80,
+      "net": 0
+    },
+    {
+      "label": "Neither Bey nor Murphy III",
+      "sub": "2026–27 · NOP",
+      "minutes": 5,
+      "poss": 14,
+      "net": 81.5
     }
   ]
 }

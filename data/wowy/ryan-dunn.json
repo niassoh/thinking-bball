@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "PHX",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:18:09.373Z",
+  "gp": 2,
+  "generatedAt": "2026-10-25T14:45:08.208Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHX",
-      "minutes": 14,
-      "poss": 29,
-      "net": -27.6
+      "minutes": 27,
+      "poss": 54,
+      "net": 7.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHX",
-      "minutes": 34,
-      "poss": 69,
-      "net": -48.2
+      "minutes": 69,
+      "poss": 144,
+      "net": -25
     },
     {
       "label": "On, w/o Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 12,
-      "poss": 24,
-      "net": 0
+      "minutes": 20,
+      "poss": 40,
+      "net": 2.5
     },
     {
       "label": "On, w/o Bridges",
       "sub": "2026–27 · PHX",
-      "minutes": 9,
-      "poss": 19,
-      "net": -21.6
+      "minutes": 13,
+      "poss": 27,
+      "net": 26.4
     },
     {
       "label": "On, w/o Brooks",
       "sub": "2026–27 · PHX",
-      "minutes": 7,
-      "poss": 15,
-      "net": -40
+      "minutes": 16,
+      "poss": 30,
+      "net": 3.4
     },
     {
       "label": "Neither Dunn nor Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 7,
-      "poss": 16,
-      "net": 12.5
+      "minutes": 10,
+      "poss": 22,
+      "net": 36.4
     }
   ]
 }

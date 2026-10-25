@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "WAS",
-  "gp": 2,
-  "generatedAt": "2026-10-24T14:14:32.701Z",
+  "gp": 3,
+  "generatedAt": "2026-10-25T14:37:05.211Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · WAS",
-      "minutes": 30,
-      "poss": 63,
-      "net": 0
+      "minutes": 50,
+      "poss": 107,
+      "net": 6.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · WAS",
-      "minutes": 66,
-      "poss": 146,
-      "net": 1.4
+      "minutes": 94,
+      "poss": 207,
+      "net": -0.5
     },
     {
       "label": "On, w/o Young",
       "sub": "2026–27 · WAS",
-      "minutes": 12,
-      "poss": 27,
-      "net": -15.1
+      "minutes": 21,
+      "poss": 45,
+      "net": 24.7
     },
     {
       "label": "On, w/o Davis",
       "sub": "2026–27 · WAS",
-      "minutes": 10,
-      "poss": 20,
-      "net": 0
+      "minutes": 21,
+      "poss": 45,
+      "net": 2.2
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · WAS",
-      "minutes": 16,
-      "poss": 34,
-      "net": 11.8
+      "minutes": 27,
+      "poss": 59,
+      "net": -10.3
     },
     {
       "label": "Neither Carrington nor Young",
       "sub": "2026–27 · WAS",
-      "minutes": 9,
-      "poss": 19,
-      "net": -5.4
+      "minutes": 13,
+      "poss": 28,
+      "net": -7.1
     }
   ]
 }
