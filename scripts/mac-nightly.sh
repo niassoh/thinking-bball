@@ -2,20 +2,37 @@
 # The nightly's NBA.com half, which stats.nba.com won't serve to GitHub's runners: new
 # games' play-by-play into git (the cloud run builds Footprint and Lonestar from it), the
 # Last 30 Days windows' touches into git (Time of Poss % there), and the season's tracking
-# files into the bucket the stats sheet reads. launchd runs it at 7 am, before the
-# cloud run; SITE_DATA is a site_Data clone (docs/daily-pipeline-requirements.md).
+# files into the bucket the stats sheet reads. launchd runs it at 7 am; it then starts the
+# cloud run itself (GitHub's own schedule is hours late or skipped, so it's only the
+# fallback). SITE_DATA is a site_Data clone (docs/daily-pipeline-requirements.md).
+# A failed step, or no cloud run finishing in 26 hours, posts a macOS notification.
 cd "${0:A:h}/.." || exit 1
 echo "== $(date)"
-git pull -q --rebase || exit 1
-failed=0
-node scripts/pbp-fetch.js || failed=1
-node scripts/touches-window.js || failed=1
+REPO=niassoh/thinking-bball
+notify() {
+  echo "ALERT: $1"
+  osascript -e "display notification \"$1\" with title \"thinking-bball nightly\" sound name \"Basso\""
+}
+failed=()
+
+# A cloud run that never started (or never finished) says nothing on its own.
+last=$(gh run list -R $REPO -w nightly.yml --json createdAt,conclusion -q '[.[] | select(.conclusion != "" and .conclusion != "cancelled")][0].createdAt')
+if [[ -z $last ]] || (( $(date +%s) - $(TZ=UTC date -j -f %Y-%m-%dT%H:%M:%SZ "$last" +%s) > 26 * 3600 )); then
+  notify "No cloud nightly has finished since ${last:-ever}: the site's data is stale."
+fi
+
+git pull -q --rebase || { notify "git pull failed; nothing ran."; exit 1 }
+node scripts/pbp-fetch.js || failed+=(play-by-play)
+node scripts/touches-window.js || failed+=(touches)
 git add data/pbp data/recent-touches.json
 if ! git diff --cached --quiet; then
-  git commit -q -m "Data: play-by-play and touches $(date -u +%F)" && git push -q || failed=1
+  git commit -q -m "Data: play-by-play and touches $(date -u +%F)" && git push -q || failed+=(push)
 fi
 season=$(ls data/pbp | tail -1)
 end=$(( ${season:0:4} + 1 ))
 out=data/sources/tracking-nightly
-python3 scripts/playoff-tracking-pull.py "$SITE_DATA" $out $end $end --regular && node scripts/tracking-upload.js $end $out/$end || failed=1
-exit $failed
+python3 scripts/playoff-tracking-pull.py "$SITE_DATA" $out $end $end --regular && node scripts/tracking-upload.js $end $out/$end || failed+=(tracking)
+# After the push and the upload: the cloud run reads both.
+gh workflow run nightly.yml -R $REPO || failed+=(start-cloud-run)
+(( $#failed )) && notify "Failed: ${(j:, :)failed}. See ~/Library/Logs/thinking-bball-nightly.log"
+exit $(( $#failed > 0 ))

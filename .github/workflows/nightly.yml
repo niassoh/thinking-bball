@@ -1,14 +1,18 @@
 # The nightly data run (docs/daily-pipeline-requirements.md): each pull is its own step, and
 # one failing keeps yesterday's files for that source without stopping the rest. Then the
 # checks; if they pass, data/ is committed and the site's deploy (niassoh/tbball) builds
-# from it. A failed pull fails the run at the end, which emails the repo's owner.
+# from it. A failed pull, or pbpstats missing a game or its score (scripts/games-check.js),
+# fails the run at the end, which emails the repo's owner.
 name: nightly
 
 on:
-  # Meant to follow the Mac's NBA.com job (7 am Pacific), which it does as GitHub has been
-  # starting it, about five hours late (docs/daily-pipeline-requirements.md).
+  # The Mac's NBA.com job (scripts/mac-nightly.sh, 7 am Pacific) starts the run once it has
+  # pushed the night's play-by-play. The schedule is the fallback for a morning it doesn't
+  # (the laptop asleep or off): GitHub starts a scheduled run hours late or not at all, so
+  # it is set for 10:17 am Pacific and stands down (`gate`) if a run started in the last
+  # 20 hours.
   schedule:
-    - cron: '17 10 * * *'
+    - cron: '17 17 * * *'
   workflow_dispatch:
 
 # Never two at once (both would drive the production sheet), and never cancelled mid-run:
@@ -21,7 +25,29 @@ permissions:
   contents: write
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          started=0
+          if [ "$EVENT" = schedule ]; then
+            since=$(date -u -d '-20 hours' +%FT%TZ)
+            started=$(gh run list -R "$GITHUB_REPOSITORY" -w nightly.yml --json databaseId,createdAt,conclusion \
+              -q "[.[] | select(.databaseId != $GITHUB_RUN_ID and .createdAt > \"$since\" and .conclusion != \"cancelled\")] | length")
+          fi
+          echo "run=$([ "$started" = 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
   nightly:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 150
     env:
@@ -132,6 +158,12 @@ jobs:
         continue-on-error: true
         env:
           PBP_PYTHON: python
+
+      # Not fatal: the data still ships, but a missing or misscored game fails the run.
+      - id: games-check
+        run: node scripts/games-check.js "$SEASON"
+        timeout-minutes: 10
+        continue-on-error: true
 
       # Fatal: a short pull keeps yesterday's data and site. The node tests aren't run: they
       # assume a full latest season (they failed on 2026-27's first night) and footprint's
