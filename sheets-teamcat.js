@@ -9,8 +9,13 @@ const auth = new google.auth.GoogleAuth({
 
 const total = 10
 
-// node sheets-teamcat.js --season=2026-27 caches the team sheet as teamcat-27.
+// node sheets-teamcat.js --season=2026-27 caches the team sheet as teamcat-27. --sheet=<id>
+// reads another copy of it instead of the production sheet: the backfill of past seasons
+// uses one so the production sheet stays on the season being played.
 const season = (process.argv.find(a => a.startsWith('--season=')) || '').slice('--season='.length)
+const SHEET = (process.argv.find(a => a.startsWith('--sheet=')) || '').slice('--sheet='.length) || '1_MOhMxiijKUt31qscH08z2aCMnb0uE18pJLEp6NWJIg'
+// --settle (the backfill): read only once every import has loaded (see settle below).
+const SETTLE = process.argv.includes('--settle')
 if (!/^\d{4}-\d{2}$/.test(season)) throw new Error('give the season the team sheet holds: --season=2026-27')
 const KEY = 'teamcat-' + season.slice(5)
 
@@ -187,7 +192,7 @@ process.on('SIGTERM', () => {
 const pullSheet = attempt => {
   console.log('Starting attempt #' + attempt + '...')
 
-  const spreadsheetId = '1_MOhMxiijKUt31qscH08z2aCMnb0uE18pJLEp6NWJIg'
+  const spreadsheetId = SHEET
   const sheetName = 'Format'
   const sheets = google.sheets('v4')
 
@@ -341,7 +346,7 @@ const pullSheet = attempt => {
 // the stats sheet's), each time waiting for Format's records to change; then it's read.
 const nudge = async () => {
   const sheets = google.sheets({ version: 'v4', auth: await auth.getClient() })
-  const spreadsheetId = '1_MOhMxiijKUt31qscH08z2aCMnb0uE18pJLEp6NWJIg'
+  const spreadsheetId = SHEET
   const setYear = year => sheets.spreadsheets.values.update({ spreadsheetId, range: 'Instructions!A13', valueInputOption: 'RAW', requestBody: { values: [[year]] } })
   const records = async () => ((await sheets.spreadsheets.values.get({ spreadsheetId, range: 'Format!A6:H36' })).data.values || []).map(r => r.join(':')).join('|')
   const change = async before => {
@@ -389,4 +394,49 @@ const standings = async (sheets, spreadsheetId) => {
   console.error("Team sheet's Basketball-Reference standings still trail its records; SRS and the win pace read stale")
 }
 
-nudge().catch(e => console.error('Team sheet nudge failed:', e.message)).then(() => pullSheet(1))
+// A past season's imports (play types, opponents' shots, the season's games) load minutes
+// after its records do, and the pull's own check sees only the first row: read early, whole
+// columns come out blank (2015-16's play types, win pace and Adj rDRTG, the first backfill).
+// So wait until no team row has a loading or error cell, but in the "last month" columns (a
+// past season has no last month), and Format reads the same twice; never, and nothing is
+// cached. Google's IMPORTDATA can stall on "Loading..." for good (2015-16's play types, 15
+// minutes, the file fine), and pbpstats turns some of the sheet's dozen-odd simultaneous
+// ImportJSON calls away with a 503 that nothing retries (2023-24's after-stop splits): still
+// loading at 3 and 6.5 minutes, every import cell still loading or in error is entered
+// again (the same formula), which refetches it.
+const settle = async () => {
+  const sheets = google.sheets({ version: 'v4', auth: await auth.getClient() })
+  const read = async () => (await sheets.spreadsheets.values.get({ spreadsheetId: SHEET, range: 'Format!A5:CZ36' })).data.values || []
+  const pending = v => v.slice(1).flatMap(r => r.map((c, k) => (/Loading|#N\/A|#REF|#VALUE|#ERROR|#DIV|#NAME/.test(c) && !/last month/.test(v[0][k] || '') ? v[0][k] || k : null))).filter(x => x !== null)
+  const reenter = async () => {
+    const tabs = (await sheets.spreadsheets.get({ spreadsheetId: SHEET, fields: 'sheets.properties.title' })).data.sheets.map(t => `'${t.properties.title}'!A1:Z500`)
+    const get = async render => (await sheets.spreadsheets.values.batchGet({ spreadsheetId: SHEET, ranges: tabs, valueRenderOption: render })).data.valueRanges
+    const [formulas, values] = [await get('FORMULA'), await get('FORMATTED_VALUE')]
+    const data = []
+    formulas.forEach(({ values: f = [] }, t) => f.forEach((r, i) => r.forEach((c, k) => {
+      const v = (values[t].values?.[i] || [])[k] || ''
+      if (/^=(IMPORTDATA|ImportJSON)\(/i.test(c) && /Loading|#ERROR|#N\/A|#REF/.test(v)) {
+        data.push({ range: `${tabs[t].split('!')[0]}!${String.fromCharCode(65 + k)}${i + 1}`, values: [[c]] })
+      }
+    })))
+    if (data.length) await sheets.spreadsheets.values.batchUpdate({ spreadsheetId: SHEET, requestBody: { valueInputOption: 'USER_ENTERED', data } })
+    console.log(`Team sheet imports entered again: ${data.map(d => d.range).join(', ') || 'none stuck'}`)
+  }
+  let last = null
+  for (let i = 0; i < 40; i++) {
+    if (i === 12 || i === 26) await reenter()
+    await new Promise(resolve => setTimeout(resolve, 15000))
+    const v = await read()
+    const now = JSON.stringify(v)
+    if (!pending(v).length && now === last) return
+    last = now
+  }
+  throw new Error(`Team sheet still loading after 10 minutes (${[...new Set(pending(await read()))].join(', ')}); ${KEY} not updated`)
+}
+
+nudge().catch(e => console.error('Team sheet nudge failed:', e.message))
+  .then(() => SETTLE && settle())
+  .then(() => pullSheet(1), e => {
+    console.error(e.message)
+    process.exitCode = 1
+  })
