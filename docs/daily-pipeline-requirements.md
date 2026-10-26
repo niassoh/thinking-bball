@@ -170,9 +170,9 @@ and pushing the frontend by hand.
 - **The repo variable** `SEASON` → the new season.
 - **The bucket:** the Mac job's first run after opening night writes the new
   `<end year>/` tracking files; the season pull won't settle without them.
-- **One-token bumps,** once the new keys exist: `lib/teamboard.js` `SEASONS`,
-  `scripts/tracking-seasons.js` `LAST_END_YEAR`, and the frontend's `src/TeamBoard.jsx`
-  `SEASON`.
+- **One-token bumps,** once the new keys exist: `lib/teamboard.js` `SEASONS` (its length)
+  and `scripts/tracking-seasons.js` `LAST_END_YEAR`. The frontend's Team board reads its
+  seasons from `api/teamboard/index.json`.
 - **Before the first lineup pull of the new season:** the finished season's lineups go into
   `data/history/[playoffs/]lineups/<season>/` (copy `data/lineups/` and
   `data/playoffs/lineups/`), then `node scripts/history-players.js`.

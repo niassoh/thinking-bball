@@ -5,7 +5,7 @@
 //                                      and the history's: profiles show past seasons)
 //   <out>/api/profile/<slug>.json      every player, plus old slug spellings
 //   <out>/api/leaderboard/{index,<season>}.json  the Leaderboard page's seasons, and each one
-//   <out>/api/teamboard/<season>.json  the Team board: every team's season (lib/teamboard.js)
+//   <out>/api/teamboard/{index,<season>}.json  the Team board's seasons, and every team's season in each (lib/teamboard.js)
 //   <out>/api/teamunits/<season>.json  each team's most-played and best units (the team card)
 //   <out>/api/playoffs/leaderboard/delta/<season>.json  playoffs minus regular season
 //   <out>/api/footprint/<slug>.json    the Footprint tab's views, for a player who has them
@@ -50,12 +50,17 @@ const exportStatic = out => {
   write('teams.json', teamList())
   fs.mkdirSync(path.join(api, 'teamboard'), { recursive: true })
   fs.mkdirSync(path.join(api, 'teamunits'), { recursive: true })
+  const boards = []
   for (const season of TEAMBOARD_SEASONS) {
     const board = teamboard(season)
-    if (board) write(`teamboard/${season}.json`, board)
+    if (board) {
+      write(`teamboard/${season}.json`, board)
+      boards.push(season)
+    }
     const units = teamUnitsDoc(season)
     if (units) write(`teamunits/${season}.json`, units)
   }
+  write('teamboard/index.json', { seasons: boards })
 
   const keys = new Map()
   for (const { label } of ALL_STATS) {
