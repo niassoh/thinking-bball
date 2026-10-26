@@ -415,7 +415,7 @@ const settle = async () => {
     const data = []
     formulas.forEach(({ values: f = [] }, t) => f.forEach((r, i) => r.forEach((c, k) => {
       const v = (values[t].values?.[i] || [])[k] || ''
-      if (/^=(IMPORTDATA|ImportJSON)\(/i.test(c) && /Loading|#ERROR|#N\/A|#REF/.test(v)) {
+      if (/(IMPORTDATA|ImportJSON|IMPORTHTML)\(/i.test(c) && /Loading|#ERROR|#N\/A|#REF/.test(v)) {
         data.push({ range: `${tabs[t].split('!')[0]}!${String.fromCharCode(65 + k)}${i + 1}`, values: [[c]] })
       }
     })))
