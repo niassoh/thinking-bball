@@ -1,7 +1,7 @@
 {
   "team": "NOP",
   "season": "2026-27",
-  "generatedAt": "2026-10-25T14:24:28.869Z",
+  "generatedAt": "2026-10-26T16:35:02.305Z",
   "rows": [
     {
       "pos": "PG",
@@ -129,6 +129,12 @@
           "status": "OUT"
         },
         {
+          "name": "DeAndre Jordan",
+          "slug": "deandre-jordan",
+          "espnId": "3442",
+          "status": null
+        },
+        {
           "name": "Karlo Matkovic",
           "slug": "karlo-matkovic",
           "espnId": "4997538",
@@ -138,12 +144,6 @@
           "name": "Derik Queen",
           "slug": "derik-queen",
           "espnId": "4869780",
-          "status": null
-        },
-        {
-          "name": "DeAndre Jordan",
-          "slug": "deandre-jordan",
-          "espnId": "3442",
           "status": null
         }
       ]

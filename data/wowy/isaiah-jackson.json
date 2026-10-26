@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "LAC",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:19:36.174Z",
+  "gp": 3,
+  "generatedAt": "2026-10-26T16:57:41.471Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · LAC",
-      "minutes": 15,
-      "poss": 31,
-      "net": 16.1
+      "minutes": 67,
+      "poss": 140,
+      "net": -2.1
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · LAC",
-      "minutes": 33,
-      "poss": 73,
-      "net": 27.4
+      "minutes": 77,
+      "poss": 168,
+      "net": 7.8
     },
     {
       "label": "On, w/o Garland",
       "sub": "2026–27 · LAC",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "minutes": 1,
+      "poss": 2,
+      "net": 50
+    },
+    {
+      "label": "On, w/o Dunn",
+      "sub": "2026–27 · LAC",
+      "minutes": 17,
+      "poss": 37,
+      "net": -5.5
     },
     {
       "label": "On, w/o Hachimura",
       "sub": "2026–27 · LAC",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
-    },
-    {
-      "label": "On, w/o Wagler",
-      "sub": "2026–27 · LAC",
-      "minutes": 12,
-      "poss": 24,
-      "net": 33.3
+      "minutes": 4,
+      "poss": 8,
+      "net": 0
     },
     {
       "label": "Neither Jackson nor Garland",
       "sub": "2026–27 · LAC",
-      "minutes": 16,
-      "poss": 34,
-      "net": 29.4
+      "minutes": 39,
+      "poss": 85,
+      "net": 35.3
     }
   ]
 }

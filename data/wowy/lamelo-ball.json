@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIN",
-  "gp": 2,
-  "generatedAt": "2026-10-24T14:14:59.941Z",
+  "gp": 3,
+  "generatedAt": "2026-10-26T16:47:16.228Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIN",
-      "minutes": 52,
-      "poss": 115,
-      "net": 30.4
+      "minutes": 68,
+      "poss": 150,
+      "net": 45.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIN",
-      "minutes": 44,
-      "poss": 91,
-      "net": 13.3
+      "minutes": 76,
+      "poss": 153,
+      "net": 1.3
     },
     {
       "label": "On, w/o Edwards",
       "sub": "2026–27 · MIN",
-      "minutes": 21,
-      "poss": 47,
-      "net": 17
+      "minutes": 26,
+      "poss": 59,
+      "net": 32.2
     },
     {
       "label": "On, w/o Gobert",
       "sub": "2026–27 · MIN",
-      "minutes": 6,
-      "poss": 18,
+      "minutes": 10,
+      "poss": 25,
       "net": 40
     },
     {
       "label": "On, w/o McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 17,
-      "poss": 38,
-      "net": 21.1
+      "minutes": 18,
+      "poss": 40,
+      "net": 22.5
     },
     {
       "label": "Neither Ball nor Edwards",
       "sub": "2026–27 · MIN",
-      "minutes": 9,
-      "poss": 18,
-      "net": -28.6
+      "minutes": 24,
+      "poss": 49,
+      "net": -4.1
     }
   ]
 }

@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "BKN",
   "gp": 2,
-  "generatedAt": "2026-10-25T14:52:03.081Z",
+  "generatedAt": "2026-10-26T17:03:53.406Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BKN",
-      "minutes": 56,
-      "poss": 123,
-      "net": -1.6
+      "minutes": 104,
+      "poss": 227,
+      "net": -12.8
     },
     {
       "label": "On, w/o Randle",
@@ -33,18 +33,18 @@
       "net": -15.5
     },
     {
-      "label": "On, w/o Dëmin",
+      "label": "On, w/o Ellis",
       "sub": "2026–27 · BKN",
-      "minutes": 36,
-      "poss": 76,
-      "net": -18.4
+      "minutes": 30,
+      "poss": 65,
+      "net": 1.6
     },
     {
       "label": "Neither Brown Jr. nor Randle",
       "sub": "2026–27 · BKN",
-      "minutes": 8,
-      "poss": 18,
-      "net": -55.6
+      "minutes": 32,
+      "poss": 68,
+      "net": -32.4
     }
   ]
 }

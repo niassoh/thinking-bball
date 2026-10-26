@@ -1,7 +1,7 @@
 {
   "team": "DAL",
   "season": "2026-27",
-  "generatedAt": "2026-10-25T14:24:23.994Z",
+  "generatedAt": "2026-10-26T16:34:57.077Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Kyrie Irving",
           "slug": "kyrie-irving",
           "espnId": "6442",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Marcus Sasser",
@@ -22,7 +22,7 @@
           "name": "Cooper Flagg",
           "slug": "cooper-flagg",
           "espnId": "5041939",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Sergio de Larrea",
@@ -68,13 +68,13 @@
           "name": "Cooper Flagg",
           "slug": "cooper-flagg",
           "espnId": "5041939",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Naji Marshall",
           "slug": "naji-marshall",
           "espnId": "4278594",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Zaccharie Risacher",

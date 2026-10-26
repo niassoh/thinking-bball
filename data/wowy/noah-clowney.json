@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "BKN",
-  "gp": 2,
-  "generatedAt": "2026-10-25T14:47:58.924Z",
+  "gp": 3,
+  "generatedAt": "2026-10-26T16:59:31.778Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BKN",
-      "minutes": 41,
-      "poss": 91,
-      "net": -4.4
+      "minutes": 61,
+      "poss": 132,
+      "net": -12.2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BKN",
-      "minutes": 55,
-      "poss": 116,
-      "net": -6
+      "minutes": 83,
+      "poss": 179,
+      "net": -12.3
     },
     {
       "label": "On, w/o Randle",
       "sub": "2026–27 · BKN",
-      "minutes": 16,
-      "poss": 35,
-      "net": -11.6
+      "minutes": 34,
+      "poss": 73,
+      "net": -23.4
     },
     {
       "label": "On, w/o Porter Jr.",
       "sub": "2026–27 · BKN",
-      "minutes": 29,
-      "poss": 61,
+      "minutes": 48,
+      "poss": 100,
       "net": -28.1
     },
     {
-      "label": "On, w/o Dëmin",
+      "label": "On, w/o Ellis",
       "sub": "2026–27 · BKN",
-      "minutes": 34,
-      "poss": 73,
-      "net": -19.2
+      "minutes": 50,
+      "poss": 108,
+      "net": -8.3
     },
     {
       "label": "Neither Clowney nor Randle",
       "sub": "2026–27 · BKN",
-      "minutes": 7,
-      "poss": 15,
-      "net": -89.7
+      "minutes": 13,
+      "poss": 27,
+      "net": -45.3
     }
   ]
 }

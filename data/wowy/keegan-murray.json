@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "SAC",
   "gp": 2,
-  "generatedAt": "2026-10-24T14:21:06.225Z",
+  "generatedAt": "2026-10-26T16:53:50.336Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAC",
-      "minutes": 42,
-      "poss": 88,
-      "net": -27.3
+      "minutes": 90,
+      "poss": 188,
+      "net": -18.7
     },
     {
       "label": "On, w/o LaVine",
@@ -26,13 +26,6 @@
       "net": 40
     },
     {
-      "label": "On, w/o Sabonis",
-      "sub": "2026–27 · SAC",
-      "minutes": 1,
-      "poss": 1,
-      "net": 0
-    },
-    {
       "label": "On, w/o Acuff Jr.",
       "sub": "2026–27 · SAC",
       "minutes": 5,
@@ -40,11 +33,18 @@
       "net": -10
     },
     {
+      "label": "On, w/o Sabonis",
+      "sub": "2026–27 · SAC",
+      "minutes": 1,
+      "poss": 1,
+      "net": 0
+    },
+    {
       "label": "Neither Murray nor LaVine",
       "sub": "2026–27 · SAC",
-      "minutes": 17,
-      "poss": 34,
-      "net": -59.7
+      "minutes": 25,
+      "poss": 49,
+      "net": -20.6
     }
   ]
 }

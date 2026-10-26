@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "BKN",
-  "gp": 2,
-  "generatedAt": "2026-10-25T14:52:00.400Z",
+  "gp": 3,
+  "generatedAt": "2026-10-26T17:03:35.446Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BKN",
-      "minutes": 58,
-      "poss": 124,
-      "net": 8.1
+      "minutes": 77,
+      "poss": 169,
+      "net": -5.9
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BKN",
-      "minutes": 38,
-      "poss": 83,
-      "net": -25.5
+      "minutes": 67,
+      "poss": 142,
+      "net": -19.8
     },
     {
       "label": "On, w/o Randle",
@@ -42,9 +42,9 @@
     {
       "label": "Neither Dëmin nor Randle",
       "sub": "2026–27 · BKN",
-      "minutes": 16,
-      "poss": 36,
-      "net": -22.5
+      "minutes": 40,
+      "poss": 86,
+      "net": -23.4
     }
   ]
 }
