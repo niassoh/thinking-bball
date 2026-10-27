@@ -188,6 +188,15 @@ process.on('SIGTERM', () => {
   process.exit(0);
 });
 
+// A team with a rating but no games in its record: the sheet is mid-reload (Wins and Losses
+// read 0 and the win pace #DIV/0! for every team on 2026-10-27, its ratings already back),
+// so it's read again, and never cached so.
+const unplayed = values => {
+  const head = values[4] || []
+  const [o, w, l] = ['ORTG', 'Wins', 'Losses'].map(c => head.indexOf(c))
+  return values.slice(5).some(r => /^[A-Z]{3}$/.test(r[0]) && isFinite(parseFloat(r[o])) && !(+r[w] + +r[l]))
+}
+
 // Fetch data from TB daily stat sheet, with a 10 second buffer between attempts to allow sheet to process
 const pullSheet = attempt => {
   console.log('Starting attempt #' + attempt + '...')
@@ -217,7 +226,8 @@ const pullSheet = attempt => {
           !json ||
           typeof json === 'undefined' ||
           json.values[7][0] === '#N/A' ||
-          !json.values[7][0].length
+          !json.values[7][0].length ||
+          unplayed(json.values)
         ) {
           setTimeout(() => pullSheet(attempt + 1), 10000)
         } else {
