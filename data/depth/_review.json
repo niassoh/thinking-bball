@@ -1,5 +1,11 @@
 [
   {
+    "slug": "mouhamed-gueye",
+    "status": "OUT",
+    "team": "Atlanta Hawks",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "henri-veesaar",
     "status": "OUT",
     "team": "Atlanta Hawks",
@@ -12,7 +18,13 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "noa-essengue",
+    "slug": "grant-williams",
+    "status": "OUT",
+    "team": "Charlotte Hornets",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "patrick-williams",
     "status": "DTD",
     "team": "Chicago Bulls",
     "reason": "injured but not on a depth chart"
@@ -60,15 +72,21 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "cameron-carr",
-    "status": "OUT",
-    "team": "Los Angeles Lakers",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "donte-divincenzo",
     "status": "OUT",
     "team": "Minnesota Timberwolves",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "jalen-williams",
+    "status": "OUT",
+    "team": "Oklahoma City Thunder",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "cason-wallace",
+    "status": "OUT",
+    "team": "Oklahoma City Thunder",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -115,6 +133,12 @@
   },
   {
     "slug": "chris-youngblood",
+    "status": "OUT",
+    "team": "Portland Trail Blazers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "branden-carlson",
     "status": "DTD",
     "team": "Portland Trail Blazers",
     "reason": "injured but not on a depth chart"

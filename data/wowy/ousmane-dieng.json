@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "MIL",
-  "gp": 2,
-  "generatedAt": "2026-10-25T14:42:51.836Z",
+  "gp": 3,
+  "generatedAt": "2026-10-27T14:24:52.284Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIL",
-      "minutes": 37,
-      "poss": 77,
+      "minutes": 40,
+      "poss": 82,
       "net": -18.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIL",
-      "minutes": 107,
-      "poss": 245,
-      "net": -6.5
+      "minutes": 152,
+      "poss": 343,
+      "net": -2
     },
     {
       "label": "On, w/o Herro",
@@ -26,6 +26,13 @@
       "net": 16.7
     },
     {
+      "label": "On, w/o Kuzma",
+      "sub": "2026–27 · MIL",
+      "minutes": 37,
+      "poss": 76,
+      "net": -11.8
+    },
+    {
       "label": "On, w/o Jaquez Jr.",
       "sub": "2026–27 · MIL",
       "minutes": 24,
@@ -33,18 +40,11 @@
       "net": -28.6
     },
     {
-      "label": "On, w/o Kuzma",
-      "sub": "2026–27 · MIL",
-      "minutes": 35,
-      "poss": 71,
-      "net": -11.3
-    },
-    {
       "label": "Neither Dieng nor Herro",
       "sub": "2026–27 · MIL",
-      "minutes": 38,
-      "poss": 83,
-      "net": -16.9
+      "minutes": 53,
+      "poss": 117,
+      "net": -6
     }
   ]
 }

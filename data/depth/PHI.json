@@ -1,7 +1,7 @@
 {
   "team": "PHI",
   "season": "2026-27",
-  "generatedAt": "2026-10-26T16:35:03.994Z",
+  "generatedAt": "2026-10-27T14:02:59.342Z",
   "rows": [
     {
       "pos": "PG",
@@ -77,16 +77,16 @@
           "status": null
         },
         {
-          "name": "Justin Edwards",
-          "slug": "justin-edwards",
-          "espnId": "4711297",
-          "status": null
-        },
-        {
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
           "status": "DTD"
+        },
+        {
+          "name": "Dean Wade",
+          "slug": "dean-wade",
+          "espnId": "3912848",
+          "status": null
         }
       ]
     },
@@ -112,10 +112,10 @@
           "status": "OUT"
         },
         {
-          "name": "Justin Edwards",
-          "slug": "justin-edwards",
-          "espnId": "4711297",
-          "status": null
+          "name": "Jabari Walker",
+          "slug": "jabari-walker",
+          "espnId": "4432446",
+          "status": "DTD"
         }
       ]
     },

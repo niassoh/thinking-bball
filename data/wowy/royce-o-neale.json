@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CHA",
-  "gp": 3,
-  "generatedAt": "2026-10-25T14:44:24.258Z",
+  "gp": 4,
+  "generatedAt": "2026-10-27T14:26:38.837Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CHA",
-      "minutes": 45,
-      "poss": 96,
-      "net": 2.1
+      "minutes": 53,
+      "poss": 112,
+      "net": 0.9
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHA",
-      "minutes": 99,
-      "poss": 204,
-      "net": -18.2
-    },
-    {
-      "label": "On, w/o Reid",
-      "sub": "2026–27 · CHA",
-      "minutes": 27,
-      "poss": 55,
-      "net": 10.9
+      "minutes": 139,
+      "poss": 284,
+      "net": -10.2
     },
     {
       "label": "On, w/o Miller",
       "sub": "2026–27 · CHA",
-      "minutes": 25,
-      "poss": 52,
-      "net": 0
+      "minutes": 28,
+      "poss": 59,
+      "net": -6.8
     },
     {
       "label": "On, w/o Schröder",
       "sub": "2026–27 · CHA",
-      "minutes": 29,
-      "poss": 60,
-      "net": 21.8
+      "minutes": 30,
+      "poss": 63,
+      "net": 14.3
     },
     {
-      "label": "Neither O'Neale nor Reid",
+      "label": "On, w/o Reid",
       "sub": "2026–27 · CHA",
-      "minutes": 23,
-      "poss": 44,
-      "net": -32.2
+      "minutes": 31,
+      "poss": 64,
+      "net": 14.1
+    },
+    {
+      "label": "Neither O'Neale nor Miller",
+      "sub": "2026–27 · CHA",
+      "minutes": 33,
+      "poss": 67,
+      "net": -28.6
     }
   ]
 }

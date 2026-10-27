@@ -1,21 +1,44 @@
 {
   "team": "BKN",
   "season": "2026-27",
-  "generatedAt": "2026-10-26T16:34:54.990Z",
+  "generatedAt": "2026-10-27T14:02:50.765Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
         {
+          "name": "Egor Demin",
+          "slug": "egor-demin",
+          "espnId": "5175643",
+          "status": null
+        },
+        {
           "name": "Mikel Brown Jr.",
           "slug": "mikel-brown-jr",
           "espnId": "5101761",
-          "status": "DTD"
+          "status": null
         },
         {
-          "name": "Ben Saraf",
-          "slug": "ben-saraf",
-          "espnId": "5242502",
+          "name": "Nolan Traore",
+          "slug": "nolan-traore",
+          "espnId": "5279130",
+          "status": null
+        },
+        {
+          "name": "Keon Ellis",
+          "slug": "keon-ellis",
+          "espnId": "4702177",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Keon Ellis",
+          "slug": "keon-ellis",
+          "espnId": "4702177",
           "status": null
         },
         {
@@ -29,35 +52,12 @@
           "slug": "egor-demin",
           "espnId": "5175643",
           "status": null
-        }
-      ]
-    },
-    {
-      "pos": "SG",
-      "players": [
-        {
-          "name": "Egor Demin",
-          "slug": "egor-demin",
-          "espnId": "5175643",
-          "status": null
-        },
-        {
-          "name": "Drake Powell",
-          "slug": "drake-powell",
-          "espnId": "5037873",
-          "status": null
-        },
-        {
-          "name": "Keon Ellis",
-          "slug": "keon-ellis",
-          "espnId": "4702177",
-          "status": null
         },
         {
           "name": "Mikel Brown Jr.",
           "slug": "mikel-brown-jr",
           "espnId": "5101761",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -71,6 +71,12 @@
           "status": null
         },
         {
+          "name": "Chaney Johnson",
+          "slug": "chaney-johnson",
+          "espnId": "5174655",
+          "status": null
+        },
+        {
           "name": "Keon Ellis",
           "slug": "keon-ellis",
           "espnId": "4702177",
@@ -80,12 +86,6 @@
           "name": "Noah Clowney",
           "slug": "noah-clowney",
           "espnId": "4712896",
-          "status": null
-        },
-        {
-          "name": "Josh Minott",
-          "slug": "josh-minott",
-          "espnId": "4687718",
           "status": null
         }
       ]
@@ -106,9 +106,9 @@
           "status": null
         },
         {
-          "name": "Joshua Jefferson",
-          "slug": "joshua-jefferson",
-          "espnId": "4870564",
+          "name": "Josh Minott",
+          "slug": "josh-minott",
+          "espnId": "4687718",
           "status": null
         },
         {

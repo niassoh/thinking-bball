@@ -1,7 +1,7 @@
 {
   "team": "DET",
   "season": "2026-27",
-  "generatedAt": "2026-10-26T16:34:57.919Z",
+  "generatedAt": "2026-10-27T14:02:53.672Z",
   "rows": [
     {
       "pos": "PG",
@@ -42,16 +42,16 @@
           "status": null
         },
         {
-          "name": "Isaiah Joe",
-          "slug": "isaiah-joe",
-          "espnId": "4395702",
-          "status": "DTD"
-        },
-        {
           "name": "Kevin Huerter",
           "slug": "kevin-huerter",
           "espnId": "4066372",
           "status": null
+        },
+        {
+          "name": "Isaiah Joe",
+          "slug": "isaiah-joe",
+          "espnId": "4395702",
+          "status": "DTD"
         },
         {
           "name": "Daniss Jenkins",
@@ -71,12 +71,6 @@
           "status": "DTD"
         },
         {
-          "name": "Duncan Robinson",
-          "slug": "duncan-robinson",
-          "espnId": "3157465",
-          "status": null
-        },
-        {
           "name": "Isaiah Joe",
           "slug": "isaiah-joe",
           "espnId": "4395702",
@@ -86,6 +80,12 @@
           "name": "Kevin Huerter",
           "slug": "kevin-huerter",
           "espnId": "4066372",
+          "status": null
+        },
+        {
+          "name": "Duncan Robinson",
+          "slug": "duncan-robinson",
+          "espnId": "3157465",
           "status": null
         }
       ]
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Taurean Prince",
-          "slug": "taurean-prince",
-          "espnId": "2990962",
+          "name": "Javonte Green",
+          "slug": "javonte-green",
+          "espnId": "2596112",
           "status": null
         },
         {
-          "name": "Isaac Jones",
-          "slug": "isaac-jones",
-          "espnId": "5107818",
+          "name": "Taurean Prince",
+          "slug": "taurean-prince",
+          "espnId": "2990962",
           "status": null
         }
       ]

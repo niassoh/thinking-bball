@@ -1,7 +1,7 @@
 {
   "team": "POR",
   "season": "2026-27",
-  "generatedAt": "2026-10-24T14:02:13.228Z",
+  "generatedAt": "2026-10-27T14:03:00.146Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,7 +16,7 @@
           "name": "Scoot Henderson",
           "slug": "scoot-henderson",
           "espnId": "4683678",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Damian Lillard",
@@ -57,7 +57,7 @@
           "name": "Scoot Henderson",
           "slug": "scoot-henderson",
           "espnId": "4683678",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -71,6 +71,12 @@
           "status": null
         },
         {
+          "name": "Sidy Cissoko",
+          "slug": "sidy-cissoko",
+          "espnId": "5081727",
+          "status": null
+        },
+        {
           "name": "Vit Krejci",
           "slug": "vit-krejci",
           "espnId": "4578893",
@@ -80,12 +86,6 @@
           "name": "Jrue Holiday",
           "slug": "jrue-holiday",
           "espnId": "3995",
-          "status": null
-        },
-        {
-          "name": "Deni Avdija",
-          "slug": "deni-avdija",
-          "espnId": "4683021",
           "status": null
         }
       ]
@@ -141,10 +141,10 @@
           "status": null
         },
         {
-          "name": "Branden Carlson",
-          "slug": "branden-carlson",
-          "espnId": "4592435",
-          "status": "DTD"
+          "name": "Yang Hansen",
+          "slug": "yang-hansen",
+          "espnId": "5217746",
+          "status": null
         }
       ]
     }

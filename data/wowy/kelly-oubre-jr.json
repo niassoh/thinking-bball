@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "IND",
-  "gp": 3,
-  "generatedAt": "2026-10-26T16:55:06.006Z",
+  "gp": 4,
+  "generatedAt": "2026-10-27T14:26:24.833Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · IND",
-      "minutes": 67,
-      "poss": 142,
-      "net": -3.5
+      "minutes": 90,
+      "poss": 192,
+      "net": -8.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · IND",
-      "minutes": 77,
-      "poss": 166,
-      "net": 11.5
+      "minutes": 102,
+      "poss": 219,
+      "net": 10
     },
     {
       "label": "On, w/o Haliburton",
       "sub": "2026–27 · IND",
-      "minutes": 28,
-      "poss": 61,
-      "net": 3.3
-    },
-    {
-      "label": "On, w/o Nembhard",
-      "sub": "2026–27 · IND",
-      "minutes": 31,
-      "poss": 62,
-      "net": -13
+      "minutes": 30,
+      "poss": 67,
+      "net": 1.5
     },
     {
       "label": "On, w/o Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 27,
-      "poss": 57,
-      "net": -23
+      "minutes": 34,
+      "poss": 74,
+      "net": -20.4
+    },
+    {
+      "label": "On, w/o Nembhard",
+      "sub": "2026–27 · IND",
+      "minutes": 54,
+      "poss": 112,
+      "net": -17
     },
     {
       "label": "Neither Oubre Jr. nor Haliburton",
       "sub": "2026–27 · IND",
-      "minutes": 19,
-      "poss": 39,
-      "net": -33.3
+      "minutes": 29,
+      "poss": 62,
+      "net": -22.8
     }
   ]
 }

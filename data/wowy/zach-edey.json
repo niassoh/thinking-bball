@@ -1,29 +1,29 @@
 {
   "season": "2026-27",
   "team": "MEM",
-  "gp": 2,
-  "generatedAt": "2026-10-26T17:00:31.290Z",
+  "gp": 3,
+  "generatedAt": "2026-10-27T14:31:27.515Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MEM",
-      "minutes": 44,
-      "poss": 88,
-      "net": 47.7
+      "minutes": 64,
+      "poss": 129,
+      "net": 29.6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MEM",
-      "minutes": 100,
-      "poss": 212,
-      "net": -4.7
+      "minutes": 127,
+      "poss": 271,
+      "net": -0.4
     },
     {
       "label": "On, w/o Boozer",
       "sub": "2026–27 · MEM",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "minutes": 7,
+      "poss": 15,
+      "net": 6.9
     },
     {
       "label": "On, w/o Jerome",
@@ -35,16 +35,16 @@
     {
       "label": "On, w/o Wells",
       "sub": "2026–27 · MEM",
-      "minutes": 5,
-      "poss": 12,
-      "net": -16.7
+      "minutes": 10,
+      "poss": 23,
+      "net": -8.9
     },
     {
       "label": "Neither Edey nor Boozer",
       "sub": "2026–27 · MEM",
-      "minutes": 42,
-      "poss": 89,
-      "net": -12.4
+      "minutes": 53,
+      "poss": 113,
+      "net": 1.8
     }
   ]
 }

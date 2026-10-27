@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIL",
-  "gp": 3,
-  "generatedAt": "2026-10-25T14:41:53.024Z",
+  "gp": 4,
+  "generatedAt": "2026-10-27T14:23:40.592Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIL",
-      "minutes": 51,
-      "poss": 113,
-      "net": -19.6
+      "minutes": 72,
+      "poss": 155,
+      "net": -11
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIL",
-      "minutes": 93,
-      "poss": 209,
-      "net": -3.8
+      "minutes": 120,
+      "poss": 270,
+      "net": -1.9
     },
     {
       "label": "On, w/o Herro",
       "sub": "2026–27 · MIL",
-      "minutes": 36,
-      "poss": 81,
-      "net": -7.5
-    },
-    {
-      "label": "On, w/o Jaquez Jr.",
-      "sub": "2026–27 · MIL",
-      "minutes": 47,
-      "poss": 99,
-      "net": -16.2
+      "minutes": 51,
+      "poss": 113,
+      "net": 2.7
     },
     {
       "label": "On, w/o Kuzma",
       "sub": "2026–27 · MIL",
-      "minutes": 32,
-      "poss": 66,
-      "net": -24.2
+      "minutes": 46,
+      "poss": 97,
+      "net": -4.1
+    },
+    {
+      "label": "On, w/o Jaquez Jr.",
+      "sub": "2026–27 · MIL",
+      "minutes": 67,
+      "poss": 141,
+      "net": -6.4
     },
     {
       "label": "Neither Green nor Herro",
       "sub": "2026–27 · MIL",
       "minutes": 13,
-      "poss": 27,
-      "net": -15.1
+      "poss": 28,
+      "net": -21.8
     }
   ]
 }

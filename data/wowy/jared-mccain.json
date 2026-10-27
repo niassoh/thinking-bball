@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "OKC",
-  "gp": 3,
-  "generatedAt": "2026-10-26T16:46:59.505Z",
+  "gp": 4,
+  "generatedAt": "2026-10-27T14:18:52.071Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · OKC",
-      "minutes": 61,
-      "poss": 125,
-      "net": 13.6
+      "minutes": 91,
+      "poss": 185,
+      "net": 12.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · OKC",
-      "minutes": 83,
-      "poss": 171,
-      "net": 8.2
+      "minutes": 101,
+      "poss": 208,
+      "net": 9.1
     },
     {
       "label": "On, w/o Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 19,
-      "poss": 40,
-      "net": -22.8
+      "minutes": 30,
+      "poss": 62,
+      "net": -14.5
+    },
+    {
+      "label": "On, w/o Mitchell",
+      "sub": "2026–27 · OKC",
+      "minutes": 38,
+      "poss": 76,
+      "net": 5.3
     },
     {
       "label": "On, w/o Williams",
       "sub": "2026–27 · OKC",
-      "minutes": 34,
-      "poss": 71,
-      "net": 25.4
-    },
-    {
-      "label": "On, w/o Holmgren",
-      "sub": "2026–27 · OKC",
-      "minutes": 40,
-      "poss": 83,
-      "net": 13.3
+      "minutes": 63,
+      "poss": 131,
+      "net": 18.3
     },
     {
       "label": "Neither McCain nor Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 18,
-      "poss": 37,
-      "net": -10.8
+      "minutes": 24,
+      "poss": 51,
+      "net": -5.9
     }
   ]
 }

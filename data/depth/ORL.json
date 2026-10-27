@@ -1,7 +1,7 @@
 {
   "team": "ORL",
   "season": "2026-27",
-  "generatedAt": "2026-10-26T16:35:03.575Z",
+  "generatedAt": "2026-10-27T14:02:58.938Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,13 @@
           "name": "Jalen Suggs",
           "slug": "jalen-suggs",
           "espnId": "4432165",
-          "status": "DTD"
+          "status": "OUT"
+        },
+        {
+          "name": "Jase Richardson",
+          "slug": "jase-richardson",
+          "espnId": "5239561",
+          "status": null
         },
         {
           "name": "Anthony Black",
@@ -22,12 +28,6 @@
           "name": "Jevon Carter",
           "slug": "jevon-carter",
           "espnId": "3133635",
-          "status": null
-        },
-        {
-          "name": "Jase Richardson",
-          "slug": "jase-richardson",
-          "espnId": "5239561",
           "status": null
         }
       ]
@@ -48,15 +48,15 @@
           "status": null
         },
         {
-          "name": "Jamal Cain",
-          "slug": "jamal-cain",
-          "espnId": "4278572",
-          "status": null
-        },
-        {
           "name": "Jase Richardson",
           "slug": "jase-richardson",
           "espnId": "5239561",
+          "status": null
+        },
+        {
+          "name": "Jamal Cain",
+          "slug": "jamal-cain",
+          "espnId": "4278572",
           "status": null
         }
       ]

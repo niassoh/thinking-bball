@@ -1,7 +1,7 @@
 {
   "team": "CLE",
   "season": "2026-27",
-  "generatedAt": "2026-10-23T15:05:50.622Z",
+  "generatedAt": "2026-10-27T14:02:52.378Z",
   "rows": [
     {
       "pos": "PG",
@@ -42,15 +42,15 @@
           "status": null
         },
         {
-          "name": "Tyrese Proctor",
-          "slug": "tyrese-proctor",
-          "espnId": "5023693",
-          "status": null
-        },
-        {
           "name": "Jaylon Tyson",
           "slug": "jaylon-tyson",
           "espnId": "4683747",
+          "status": null
+        },
+        {
+          "name": "Tyrese Proctor",
+          "slug": "tyrese-proctor",
+          "espnId": "5023693",
           "status": null
         }
       ]
@@ -71,15 +71,15 @@
           "status": null
         },
         {
-          "name": "Sam Merrill",
-          "slug": "sam-merrill",
-          "espnId": "4066757",
-          "status": null
-        },
-        {
           "name": "Mario Hezonja",
           "slug": "mario-hezonja",
           "espnId": "2995706",
+          "status": null
+        },
+        {
+          "name": "Sam Merrill",
+          "slug": "sam-merrill",
+          "espnId": "4066757",
           "status": null
         }
       ]

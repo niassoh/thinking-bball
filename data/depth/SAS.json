@@ -1,7 +1,7 @@
 {
   "team": "SAS",
   "season": "2026-27",
-  "generatedAt": "2026-10-25T14:24:32.106Z",
+  "generatedAt": "2026-10-27T14:03:01.051Z",
   "rows": [
     {
       "pos": "PG",
@@ -42,15 +42,15 @@
           "status": null
         },
         {
-          "name": "Dylan Harper",
-          "slug": "dylan-harper",
-          "espnId": "5037871",
-          "status": null
-        },
-        {
           "name": "Julian Champagnie",
           "slug": "julian-champagnie",
           "espnId": "4592479",
+          "status": null
+        },
+        {
+          "name": "Dylan Harper",
+          "slug": "dylan-harper",
+          "espnId": "5037871",
           "status": null
         },
         {
@@ -65,6 +65,18 @@
       "pos": "SF",
       "players": [
         {
+          "name": "Dylan Harper",
+          "slug": "dylan-harper",
+          "espnId": "5037871",
+          "status": null
+        },
+        {
+          "name": "Keldon Johnson",
+          "slug": "keldon-johnson",
+          "espnId": "4395723",
+          "status": null
+        },
+        {
           "name": "Devin Vassell",
           "slug": "devin-vassell",
           "espnId": "4395630",
@@ -75,24 +87,18 @@
           "slug": "carter-bryant",
           "espnId": "5061568",
           "status": null
-        },
-        {
-          "name": "Keldon Johnson",
-          "slug": "keldon-johnson",
-          "espnId": "4395723",
-          "status": null
-        },
-        {
-          "name": "Julian Champagnie",
-          "slug": "julian-champagnie",
-          "espnId": "4592479",
-          "status": null
         }
       ]
     },
     {
       "pos": "PF",
       "players": [
+        {
+          "name": "Devin Vassell",
+          "slug": "devin-vassell",
+          "espnId": "4395630",
+          "status": null
+        },
         {
           "name": "Tobias Harris",
           "slug": "tobias-harris",
@@ -109,12 +115,6 @@
           "name": "Keldon Johnson",
           "slug": "keldon-johnson",
           "espnId": "4395723",
-          "status": null
-        },
-        {
-          "name": "Harrison Barnes",
-          "slug": "harrison-barnes",
-          "espnId": "6578",
           "status": null
         }
       ]

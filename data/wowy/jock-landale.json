@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "ATL",
-  "gp": 3,
-  "generatedAt": "2026-10-25T14:50:01.061Z",
+  "gp": 4,
+  "generatedAt": "2026-10-27T14:32:42.069Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · ATL",
-      "minutes": 55,
-      "poss": 121,
-      "net": 7.4
+      "minutes": 73,
+      "poss": 160,
+      "net": -5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · ATL",
-      "minutes": 89,
-      "poss": 187,
-      "net": 20.3
+      "minutes": 119,
+      "poss": 253,
+      "net": 17.8
     },
     {
       "label": "On, w/o Johnson",
       "sub": "2026–27 · ATL",
-      "minutes": 35,
-      "poss": 83,
-      "net": 3.6
+      "minutes": 46,
+      "poss": 106,
+      "net": -4.7
     },
     {
       "label": "On, w/o Alexander-Walker",
       "sub": "2026–27 · ATL",
-      "minutes": 22,
-      "poss": 46,
-      "net": -8.8
+      "minutes": 25,
+      "poss": 54,
+      "net": -29.9
     },
     {
       "label": "On, w/o Daniels",
       "sub": "2026–27 · ATL",
-      "minutes": 46,
-      "poss": 98,
-      "net": 5.1
+      "minutes": 64,
+      "poss": 136,
+      "net": -8.1
     },
     {
       "label": "Neither Landale nor Johnson",
       "sub": "2026–27 · ATL",
-      "minutes": 14,
-      "poss": 28,
-      "net": 25.5
+      "minutes": 16,
+      "poss": 31,
+      "net": 45.9
     }
   ]
 }

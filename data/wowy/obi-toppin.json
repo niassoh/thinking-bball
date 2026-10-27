@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "IND",
-  "gp": 3,
-  "generatedAt": "2026-10-26T16:58:26.746Z",
+  "gp": 4,
+  "generatedAt": "2026-10-27T14:29:24.035Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · IND",
-      "minutes": 70,
-      "poss": 151,
-      "net": 4
+      "minutes": 93,
+      "poss": 202,
+      "net": 2.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · IND",
-      "minutes": 74,
-      "poss": 157,
-      "net": 5.1
+      "minutes": 99,
+      "poss": 210,
+      "net": 0.5
     },
     {
       "label": "On, w/o Haliburton",
       "sub": "2026–27 · IND",
-      "minutes": 35,
-      "poss": 76,
-      "net": -18.4
-    },
-    {
-      "label": "On, w/o Nembhard",
-      "sub": "2026–27 · IND",
-      "minutes": 23,
-      "poss": 47,
-      "net": 0
+      "minutes": 39,
+      "poss": 86,
+      "net": -11.7
     },
     {
       "label": "On, w/o Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 49,
-      "poss": 106,
-      "net": -0.9
+      "minutes": 60,
+      "poss": 130,
+      "net": 0
+    },
+    {
+      "label": "On, w/o Nembhard",
+      "sub": "2026–27 · IND",
+      "minutes": 46,
+      "poss": 98,
+      "net": -1
     },
     {
       "label": "Neither Toppin nor Haliburton",
       "sub": "2026–27 · IND",
-      "minutes": 12,
-      "poss": 24,
-      "net": 12.8
+      "minutes": 21,
+      "poss": 43,
+      "net": -7.1
     }
   ]
 }

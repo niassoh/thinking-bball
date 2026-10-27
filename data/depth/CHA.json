@@ -1,7 +1,7 @@
 {
   "team": "CHA",
   "season": "2026-27",
-  "generatedAt": "2026-10-26T16:34:55.825Z",
+  "generatedAt": "2026-10-27T14:02:51.569Z",
   "rows": [
     {
       "pos": "PG",
@@ -42,15 +42,15 @@
           "status": "OUT"
         },
         {
-          "name": "Grayson Allen",
-          "slug": "grayson-allen",
-          "espnId": "3135045",
-          "status": null
-        },
-        {
           "name": "Sion James",
           "slug": "sion-james",
           "espnId": "4602025",
+          "status": null
+        },
+        {
+          "name": "Grayson Allen",
+          "slug": "grayson-allen",
+          "espnId": "3135045",
           "status": null
         },
         {
@@ -71,15 +71,15 @@
           "status": null
         },
         {
-          "name": "Sion James",
-          "slug": "sion-james",
-          "espnId": "4602025",
-          "status": null
-        },
-        {
           "name": "Grayson Allen",
           "slug": "grayson-allen",
           "espnId": "3135045",
+          "status": null
+        },
+        {
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
           "status": null
         },
         {
@@ -97,7 +97,7 @@
           "name": "Naz Reid",
           "slug": "naz-reid",
           "espnId": "4396971",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Royce O'Neale",
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Grant Williams",
-          "slug": "grant-williams",
-          "espnId": "4066218",
-          "status": "OUT"
-        },
-        {
           "name": "Tidjane Salaun",
           "slug": "tidjane-salaun",
           "espnId": "5211176",
+          "status": null
+        },
+        {
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
           "status": null
         }
       ]
@@ -129,12 +129,6 @@
           "status": null
         },
         {
-          "name": "Hannes Steinbach",
-          "slug": "hannes-steinbach",
-          "espnId": "5281370",
-          "status": null
-        },
-        {
           "name": "Ryan Kalkbrenner",
           "slug": "ryan-kalkbrenner",
           "espnId": "4576060",
@@ -144,7 +138,13 @@
           "name": "Naz Reid",
           "slug": "naz-reid",
           "espnId": "4396971",
-          "status": "DTD"
+          "status": null
+        },
+        {
+          "name": "Hannes Steinbach",
+          "slug": "hannes-steinbach",
+          "espnId": "5281370",
+          "status": null
         }
       ]
     }

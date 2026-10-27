@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "HOU",
-  "gp": 78,
-  "generatedAt": "2026-10-02T03:50:13.458Z",
+  "season": "2026-27",
+  "team": "UTA",
+  "gp": 3,
+  "generatedAt": "2026-10-27T14:21:53.800Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · HOU",
-      "minutes": 1354,
-      "poss": 2689.5,
-      "net": 2.5655326268823204
+      "sub": "2026–27 · UTA",
+      "minutes": 38,
+      "poss": 76,
+      "net": -9.3
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · HOU",
-      "minutes": 2627,
-      "poss": 5291.5,
-      "net": 6.7844656524614955
+      "sub": "2026–27 · UTA",
+      "minutes": 154,
+      "poss": 332,
+      "net": -7.8
     },
     {
-      "label": "On, w/o Thompson",
-      "sub": "2025–26 · HOU",
-      "minutes": 511,
-      "poss": 1012.5,
-      "net": -1.0864197530864197
+      "label": "On, w/o George",
+      "sub": "2026–27 · UTA",
+      "minutes": 21,
+      "poss": 43,
+      "net": -32.9
     },
     {
-      "label": "On, w/o Durant",
-      "sub": "2025–26 · HOU",
-      "minutes": 383,
-      "poss": 761,
-      "net": -1.8396846254927726
+      "label": "On, w/o Peterson",
+      "sub": "2026–27 · UTA",
+      "minutes": 20,
+      "poss": 43,
+      "net": -30.2
     },
     {
-      "label": "On, w/o Smith Jr.",
-      "sub": "2025–26 · HOU",
-      "minutes": 479,
-      "poss": 952.5,
-      "net": 5.669291338582677
+      "label": "On, w/o Markkanen",
+      "sub": "2026–27 · UTA",
+      "minutes": 29,
+      "poss": 59,
+      "net": -13.7
     },
     {
-      "label": "Neither Okogie nor Thompson",
-      "sub": "2025–26 · HOU",
-      "minutes": 516,
-      "poss": 1052.5,
-      "net": 6.7458432304038
+      "label": "Neither Okogie nor George",
+      "sub": "2026–27 · UTA",
+      "minutes": 44,
+      "poss": 102,
+      "net": -6.9
     }
   ]
 }

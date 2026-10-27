@@ -1,7 +1,7 @@
 {
   "team": "GSW",
   "season": "2026-27",
-  "generatedAt": "2026-10-26T16:34:58.327Z",
+  "generatedAt": "2026-10-27T14:02:54.078Z",
   "rows": [
     {
       "pos": "PG",
@@ -25,10 +25,10 @@
           "status": null
         },
         {
-          "name": "Brandon Williams",
-          "slug": "brandon-williams",
-          "espnId": "4397040",
-          "status": "DTD"
+          "name": "Will Richard",
+          "slug": "will-richard",
+          "espnId": "4897262",
+          "status": null
         }
       ]
     },
@@ -42,6 +42,12 @@
           "status": null
         },
         {
+          "name": "Gary Payton II",
+          "slug": "gary-payton-ii",
+          "espnId": "3134903",
+          "status": null
+        },
+        {
           "name": "De'Anthony Melton",
           "slug": "de-anthony-melton",
           "espnId": "4066436",
@@ -51,12 +57,6 @@
           "name": "Will Richard",
           "slug": "will-richard",
           "espnId": "4897262",
-          "status": null
-        },
-        {
-          "name": "Gary Payton II",
-          "slug": "gary-payton-ii",
-          "espnId": "3134903",
           "status": null
         }
       ]
@@ -71,6 +71,12 @@
           "status": null
         },
         {
+          "name": "Will Richard",
+          "slug": "will-richard",
+          "espnId": "4897262",
+          "status": null
+        },
+        {
           "name": "Gary Payton II",
           "slug": "gary-payton-ii",
           "espnId": "3134903",
@@ -80,12 +86,6 @@
           "name": "Gui Santos",
           "slug": "gui-santos",
           "espnId": "4997536",
-          "status": "DTD"
-        },
-        {
-          "name": "Will Richard",
-          "slug": "will-richard",
-          "espnId": "4897262",
           "status": null
         }
       ]
@@ -97,7 +97,7 @@
           "name": "Gui Santos",
           "slug": "gui-santos",
           "espnId": "4997536",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Georges Niang",
@@ -135,15 +135,15 @@
           "status": null
         },
         {
-          "name": "Charles Bassey",
-          "slug": "charles-bassey",
-          "espnId": "4397886",
-          "status": "DTD"
-        },
-        {
           "name": "Graham Ike",
           "slug": "graham-ike",
           "espnId": "4703396",
+          "status": null
+        },
+        {
+          "name": "Charles Bassey",
+          "slug": "charles-bassey",
+          "espnId": "4397886",
           "status": null
         }
       ]

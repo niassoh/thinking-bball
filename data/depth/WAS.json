@@ -1,7 +1,7 @@
 {
   "team": "WAS",
   "season": "2026-27",
-  "generatedAt": "2026-10-25T14:24:33.362Z",
+  "generatedAt": "2026-10-27T14:03:02.260Z",
   "rows": [
     {
       "pos": "PG",
@@ -77,15 +77,15 @@
           "status": null
         },
         {
-          "name": "Will Riley",
-          "slug": "will-riley",
-          "espnId": "5144126",
-          "status": null
+          "name": "Justin Champagnie",
+          "slug": "justin-champagnie",
+          "espnId": "4432907",
+          "status": "DTD"
         },
         {
-          "name": "Khris Middleton",
-          "slug": "khris-middleton",
-          "espnId": "6609",
+          "name": "Tre Johnson",
+          "slug": "tre-johnson",
+          "espnId": "5238230",
           "status": null
         }
       ]
@@ -100,15 +100,15 @@
           "status": null
         },
         {
-          "name": "Khris Middleton",
-          "slug": "khris-middleton",
-          "espnId": "6609",
-          "status": null
-        },
-        {
           "name": "Justin Champagnie",
           "slug": "justin-champagnie",
           "espnId": "4432907",
+          "status": "DTD"
+        },
+        {
+          "name": "Khris Middleton",
+          "slug": "khris-middleton",
+          "espnId": "6609",
           "status": null
         },
         {

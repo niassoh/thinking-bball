@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-10-26T16:35:03.153Z",
+  "generatedAt": "2026-10-27T14:02:58.530Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,12 +36,6 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Cason Wallace",
-          "slug": "cason-wallace",
-          "espnId": "4683692",
-          "status": "DTD"
-        },
-        {
           "name": "Jared McCain",
           "slug": "jared-mccain",
           "espnId": "4683778",
@@ -58,6 +52,12 @@
           "slug": "bennett-stirtz",
           "espnId": "5241364",
           "status": null
+        },
+        {
+          "name": "Alex Caruso",
+          "slug": "alex-caruso",
+          "espnId": "2991350",
+          "status": "DTD"
         }
       ]
     },
@@ -65,27 +65,27 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Jalen Williams",
-          "slug": "jalen-williams",
-          "espnId": "4593803",
-          "status": "OUT"
-        },
-        {
-          "name": "Cason Wallace",
-          "slug": "cason-wallace",
-          "espnId": "4683692",
-          "status": "DTD"
-        },
-        {
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Kenrich Williams",
           "slug": "kenrich-williams",
           "espnId": "3133626",
+          "status": null
+        },
+        {
+          "name": "Brooks Barnhizer",
+          "slug": "brooks-barnhizer",
+          "espnId": "4684208",
+          "status": null
+        },
+        {
+          "name": "Josh Dix",
+          "slug": "josh-dix",
+          "espnId": "5105800",
           "status": null
         }
       ]
@@ -97,13 +97,7 @@
           "name": "Chet Holmgren",
           "slug": "chet-holmgren",
           "espnId": "4433255",
-          "status": null
-        },
-        {
-          "name": "Alex Caruso",
-          "slug": "alex-caruso",
-          "espnId": "2991350",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Kenrich Williams",
@@ -112,10 +106,16 @@
           "status": null
         },
         {
+          "name": "Alex Caruso",
+          "slug": "alex-caruso",
+          "espnId": "2991350",
+          "status": "DTD"
+        },
+        {
           "name": "Jaylin Williams",
           "slug": "jaylin-williams",
           "espnId": "4432823",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -132,7 +132,7 @@
           "name": "Jaylin Williams",
           "slug": "jaylin-williams",
           "espnId": "4432823",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Aday Mara",

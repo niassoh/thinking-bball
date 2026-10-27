@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIL",
-  "gp": 3,
-  "generatedAt": "2026-10-25T14:52:28.873Z",
+  "gp": 4,
+  "generatedAt": "2026-10-27T14:34:41.513Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIL",
-      "minutes": 41,
-      "poss": 85,
-      "net": -14.1
+      "minutes": 57,
+      "poss": 120,
+      "net": -5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIL",
-      "minutes": 103,
-      "poss": 236,
-      "net": -7.6
+      "minutes": 135,
+      "poss": 305,
+      "net": -5.2
     },
     {
       "label": "On, w/o Herro",
       "sub": "2026–27 · MIL",
-      "minutes": 39,
-      "poss": 82,
-      "net": -14.7
-    },
-    {
-      "label": "On, w/o Jaquez Jr.",
-      "sub": "2026–27 · MIL",
-      "minutes": 33,
-      "poss": 72,
-      "net": -5.6
+      "minutes": 54,
+      "poss": 113,
+      "net": -0.9
     },
     {
       "label": "On, w/o Kuzma",
       "sub": "2026–27 · MIL",
-      "minutes": 18,
-      "poss": 38,
-      "net": 0
+      "minutes": 30,
+      "poss": 64,
+      "net": 11
+    },
+    {
+      "label": "On, w/o Jaquez Jr.",
+      "sub": "2026–27 · MIL",
+      "minutes": 48,
+      "poss": 104,
+      "net": 6.8
     },
     {
       "label": "Neither Burries nor Herro",
       "sub": "2026–27 · MIL",
-      "minutes": 10,
-      "poss": 26,
-      "net": 7.8
+      "minutes": 11,
+      "poss": 28,
+      "net": -7.3
     }
   ]
 }

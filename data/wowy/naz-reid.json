@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CHA",
-  "gp": 3,
-  "generatedAt": "2026-10-25T14:49:27.698Z",
+  "gp": 4,
+  "generatedAt": "2026-10-27T14:31:55.979Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CHA",
-      "minutes": 95,
-      "poss": 201,
-      "net": -13.4
+      "minutes": 123,
+      "poss": 259,
+      "net": -12
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHA",
-      "minutes": 49,
-      "poss": 99,
-      "net": -8.1
+      "minutes": 69,
+      "poss": 137,
+      "net": 2.2
     },
     {
       "label": "On, w/o Miller",
       "sub": "2026–27 · CHA",
-      "minutes": 24,
-      "poss": 50,
-      "net": 0
+      "minutes": 36,
+      "poss": 74,
+      "net": -12.2
     },
     {
       "label": "On, w/o Schröder",
       "sub": "2026–27 · CHA",
-      "minutes": 16,
-      "poss": 35,
-      "net": -14.5
+      "minutes": 21,
+      "poss": 48,
+      "net": -14.6
     },
     {
       "label": "On, w/o Allen",
       "sub": "2026–27 · CHA",
-      "minutes": 41,
-      "poss": 84,
-      "net": -31
+      "minutes": 54,
+      "poss": 109,
+      "net": -24.9
     },
     {
       "label": "Neither Reid nor Miller",
       "sub": "2026–27 · CHA",
       "minutes": 25,
-      "poss": 51,
-      "net": -27.5
+      "poss": 52,
+      "net": -26.9
     }
   ]
 }

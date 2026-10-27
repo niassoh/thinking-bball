@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIA",
-  "gp": 3,
-  "generatedAt": "2026-10-25T14:52:17.382Z",
+  "gp": 4,
+  "generatedAt": "2026-10-27T14:34:28.744Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIA",
-      "minutes": 73,
-      "poss": 155,
-      "net": 5.2
+      "minutes": 97,
+      "poss": 207,
+      "net": 7.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIA",
-      "minutes": 71,
-      "poss": 152,
-      "net": -36.2
+      "minutes": 95,
+      "poss": 202,
+      "net": -33.2
     },
     {
       "label": "On, w/o Mitchell",
       "sub": "2026–27 · MIA",
-      "minutes": 30,
-      "poss": 65,
-      "net": -9.3
+      "minutes": 45,
+      "poss": 96,
+      "net": 0
     },
     {
-      "label": "On, w/o Adebayo",
+      "label": "On, w/o Antetokounmpo",
       "sub": "2026–27 · MIA",
-      "minutes": 40,
-      "poss": 86,
-      "net": -12.9
+      "minutes": 46,
+      "poss": 99,
+      "net": 22.3
     },
     {
       "label": "On, w/o Larsson",
       "sub": "2026–27 · MIA",
-      "minutes": 16,
-      "poss": 33,
-      "net": -15.4
+      "minutes": 18,
+      "poss": 37,
+      "net": -18.9
     },
     {
       "label": "Neither Portis Jr. nor Mitchell",
       "sub": "2026–27 · MIA",
       "minutes": 11,
-      "poss": 21,
-      "net": 14.3
+      "poss": 22,
+      "net": 14
     }
   ]
 }

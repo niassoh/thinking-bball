@@ -1,7 +1,7 @@
 {
   "team": "PHX",
   "season": "2026-27",
-  "generatedAt": "2026-10-25T14:24:30.893Z",
+  "generatedAt": "2026-10-27T14:02:59.745Z",
   "rows": [
     {
       "pos": "PG",
@@ -135,15 +135,15 @@
           "status": "DTD"
         },
         {
-          "name": "Drew Timme",
-          "slug": "drew-timme",
-          "espnId": "4431695",
-          "status": null
-        },
-        {
           "name": "Duop Reath",
           "slug": "duop-reath",
           "espnId": "4066268",
+          "status": null
+        },
+        {
+          "name": "Drew Timme",
+          "slug": "drew-timme",
+          "espnId": "4431695",
           "status": null
         }
       ]

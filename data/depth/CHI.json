@@ -1,7 +1,7 @@
 {
   "team": "CHI",
   "season": "2026-27",
-  "generatedAt": "2026-10-25T14:24:23.197Z",
+  "generatedAt": "2026-10-27T14:02:51.969Z",
   "rows": [
     {
       "pos": "PG",
@@ -17,6 +17,12 @@
           "slug": "tre-jones",
           "espnId": "4395626",
           "status": null
+        },
+        {
+          "name": "Jaylin Sellers",
+          "slug": "jaylin-sellers",
+          "espnId": "4898010",
+          "status": null
         }
       ]
     },
@@ -30,6 +36,12 @@
           "status": null
         },
         {
+          "name": "Buddy Hield",
+          "slug": "buddy-hield",
+          "espnId": "2990984",
+          "status": null
+        },
+        {
           "name": "Isaac Okoro",
           "slug": "isaac-okoro",
           "espnId": "4432822",
@@ -39,12 +51,6 @@
           "name": "Tre Jones",
           "slug": "tre-jones",
           "espnId": "4395626",
-          "status": null
-        },
-        {
-          "name": "Buddy Hield",
-          "slug": "buddy-hield",
-          "espnId": "2990984",
           "status": null
         }
       ]
@@ -59,12 +65,6 @@
           "status": null
         },
         {
-          "name": "Dailyn Swain",
-          "slug": "dailyn-swain",
-          "espnId": "4848625",
-          "status": null
-        },
-        {
           "name": "Isaac Okoro",
           "slug": "isaac-okoro",
           "espnId": "4432822",
@@ -74,6 +74,12 @@
           "name": "Norman Powell",
           "slug": "norman-powell",
           "espnId": "2595516",
+          "status": null
+        },
+        {
+          "name": "Caleb Wilson",
+          "slug": "caleb-wilson",
+          "espnId": "5095151",
           "status": null
         }
       ]
@@ -88,15 +94,15 @@
           "status": null
         },
         {
-          "name": "Patrick Williams",
-          "slug": "patrick-williams",
-          "espnId": "4431687",
-          "status": "DTD"
+          "name": "Leonard Miller",
+          "slug": "leonard-miller",
+          "espnId": "5044385",
+          "status": null
         },
         {
-          "name": "Dailyn Swain",
-          "slug": "dailyn-swain",
-          "espnId": "4848625",
+          "name": "Noa Essengue",
+          "slug": "noa-essengue",
+          "espnId": "5242496",
           "status": null
         },
         {
