@@ -7,7 +7,8 @@ const auth = new google.auth.GoogleAuth({
   scopes: ['https://www.googleapis.com/auth/spreadsheets']
 })
 
-const total = 10
+// Reads of the team sheet, 15 seconds apart, before it's left as it was (see short below).
+const total = 24
 
 // node sheets-teamcat.js --season=2026-27 caches the team sheet as teamcat-27. --sheet=<id>
 // reads another copy of it instead of the production sheet: the backfill of past seasons
@@ -188,16 +189,29 @@ process.on('SIGTERM', () => {
   process.exit(0);
 });
 
-// A team with a rating but no games in its record: the sheet is mid-reload (Wins and Losses
-// read 0 and the win pace #DIV/0! for every team on 2026-10-27, its ratings already back),
-// so it's read again, and never cached so.
-const unplayed = values => {
-  const head = values[4] || []
+// What a read of the sheet lacks that it can't: a team with a rating but no games in its
+// record, or a column most teams had in the last cached read that most now lack. Either is
+// the sheet mid-reload (on 2026-10-27 the ratings were back but every record read 0-0, the
+// win pace #DIV/0! and the play types "Loading..."), so it's read again, and never cached so.
+const filled = c => isFinite(parseFloat(c))
+const short = values => {
+  const head = (values[4] || []).map(c => c.replace('%', '')) // cached without it (below)
+  const teams = values.slice(5).filter(r => /^[A-Z]{3}$/.test(r[0]))
   const [o, w, l] = ['ORTG', 'Wins', 'Losses'].map(c => head.indexOf(c))
-  return values.slice(5).some(r => /^[A-Z]{3}$/.test(r[0]) && isFinite(parseFloat(r[o])) && !(+r[w] + +r[l]))
+  const out = teams.some(r => filled(r[o]) && !(+r[w] + +r[l])) ? ['records 0-0'] : []
+  if (!dataStore[KEY]) return out
+  const [cols, , ...was] = decompress(dataStore[KEY]).values
+  for (const [k, c] of cols.entries()) {
+    const before = was.filter(r => filled(r[k])).length
+    const i = head.indexOf(c)
+    if (k && before >= 20 && i > 0 && teams.filter(r => filled(r[i])).length < before / 2) out.push(c)
+  }
+  return out
 }
 
-// Fetch data from TB daily stat sheet, with a 10 second buffer between attempts to allow sheet to process
+// What the last read lacked (short), for the error when it never settles.
+let lacking = ['its first team']
+// Fetch data from TB daily stat sheet, with a 15 second buffer between attempts to allow sheet to process
 const pullSheet = attempt => {
   console.log('Starting attempt #' + attempt + '...')
 
@@ -206,7 +220,7 @@ const pullSheet = attempt => {
   const sheets = google.sheets('v4')
 
   if (attempt > total) {
-    console.error(`Team sheet still loading after ${total} attempts; ${KEY} not updated`)
+    console.error(`Team sheet still short after ${total} reads (${lacking.join(', ')}); ${KEY} not updated`)
     process.exitCode = 1
     return
   }
@@ -227,9 +241,9 @@ const pullSheet = attempt => {
           typeof json === 'undefined' ||
           json.values[7][0] === '#N/A' ||
           !json.values[7][0].length ||
-          unplayed(json.values)
+          (lacking = short(json.values)).length
         ) {
-          setTimeout(() => pullSheet(attempt + 1), 10000)
+          setTimeout(() => pullSheet(attempt + 1), 15000)
         } else {
           json.values = json.values.filter(j => j[0].length)
           console.log(json.values[19])
