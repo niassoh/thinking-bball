@@ -2,7 +2,8 @@
 # one failing keeps yesterday's files for that source without stopping the rest. Then the
 # checks; if they pass, data/ is committed and the site's deploy (niassoh/tbball) builds
 # from it. A failed pull, or pbpstats missing a game or its score (scripts/games-check.js),
-# fails the run at the end, which emails the repo's owner.
+# fails the run at the end, which emails the repo's owner; a failed team pull is tried
+# again an hour later (team-retry.yml).
 name: nightly
 
 on:
@@ -50,6 +51,9 @@ jobs:
     if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 150
+    permissions:
+      contents: write
+      actions: write
     env:
       SEASON: ${{ vars.SEASON }}
       PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: '1'
@@ -184,6 +188,13 @@ jobs:
         run: gh workflow run pages.yml -R niassoh/tbball
         env:
           GH_TOKEN: ${{ secrets.TBBALL_DISPATCH }}
+
+      # The team sheet read short (mid-reload): yesterday's team data stands, and the sheet
+      # gets another try in an hour (team-retry.yml).
+      - if: steps.team.outcome == 'failure'
+        run: gh workflow run team-retry.yml -R "$GITHUB_REPOSITORY"
+        env:
+          GH_TOKEN: ${{ github.token }}
 
       - if: contains(steps.*.outcome, 'failure')
         run: exit 1
