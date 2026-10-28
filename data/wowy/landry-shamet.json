@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "NYK",
-  "gp": 3,
-  "generatedAt": "2026-10-26T16:50:51.653Z",
+  "gp": 4,
+  "generatedAt": "2026-10-28T14:48:57.374Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · NYK",
-      "minutes": 68,
-      "poss": 143,
-      "net": 11.9
+      "minutes": 96,
+      "poss": 200,
+      "net": 7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NYK",
-      "minutes": 76,
-      "poss": 151,
-      "net": -23.8
+      "minutes": 96,
+      "poss": 190,
+      "net": -10
     },
     {
       "label": "On, w/o Brunson",
       "sub": "2026–27 · NYK",
-      "minutes": 27,
-      "poss": 57,
-      "net": 3.5
-    },
-    {
-      "label": "On, w/o Hart",
-      "sub": "2026–27 · NYK",
-      "minutes": 25,
-      "poss": 54,
-      "net": -9.3
+      "minutes": 36,
+      "poss": 75,
+      "net": -1.3
     },
     {
       "label": "On, w/o Anunoby",
       "sub": "2026–27 · NYK",
+      "minutes": 54,
+      "poss": 115,
+      "net": 19.2
+    },
+    {
+      "label": "On, w/o Hart",
+      "sub": "2026–27 · NYK",
       "minutes": 43,
-      "poss": 92,
-      "net": 25.1
+      "poss": 90,
+      "net": -14.5
     },
     {
       "label": "Neither Shamet nor Brunson",
       "sub": "2026–27 · NYK",
-      "minutes": 13,
-      "poss": 23,
-      "net": -56.5
+      "minutes": 16,
+      "poss": 30,
+      "net": -33.3
     }
   ]
 }

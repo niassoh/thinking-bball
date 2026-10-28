@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAC",
-  "gp": 3,
-  "generatedAt": "2026-10-26T16:51:02.305Z",
+  "gp": 4,
+  "generatedAt": "2026-10-28T14:49:29.169Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAC",
-      "minutes": 114,
-      "poss": 248,
-      "net": -15.7
+      "minutes": 144,
+      "poss": 311,
+      "net": -19
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAC",
-      "minutes": 30,
-      "poss": 61,
-      "net": -8.2
-    },
-    {
-      "label": "On, w/o Acuff Jr.",
-      "sub": "2026–27 · SAC",
-      "minutes": 23,
-      "poss": 52,
-      "net": 0
+      "minutes": 48,
+      "poss": 97,
+      "net": -12.4
     },
     {
       "label": "On, w/o Sabonis",
       "sub": "2026–27 · SAC",
-      "minutes": 18,
-      "poss": 42,
-      "net": -16.9
+      "minutes": 20,
+      "poss": 46,
+      "net": -26.4
+    },
+    {
+      "label": "On, w/o Acuff Jr.",
+      "sub": "2026–27 · SAC",
+      "minutes": 30,
+      "poss": 66,
+      "net": -16.7
     },
     {
       "label": "On, w/o Achiuwa",
       "sub": "2026–27 · SAC",
-      "minutes": 50,
-      "poss": 107,
-      "net": -16.8
+      "minutes": 68,
+      "poss": 145,
+      "net": -17.3
     },
     {
-      "label": "Neither LaVine nor Acuff Jr.",
+      "label": "Neither LaVine nor Sabonis",
       "sub": "2026–27 · SAC",
-      "minutes": 13,
-      "poss": 26,
-      "net": -42.3
+      "minutes": 28,
+      "poss": 55,
+      "net": -38.5
     }
   ]
 }

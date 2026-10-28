@@ -1,7 +1,7 @@
 {
   "team": "PHI",
   "season": "2026-27",
-  "generatedAt": "2026-10-27T14:02:59.342Z",
+  "generatedAt": "2026-10-28T14:05:23.360Z",
   "rows": [
     {
       "pos": "PG",
@@ -22,7 +22,7 @@
           "name": "VJ Edgecombe",
           "slug": "vj-edgecombe",
           "espnId": "5124612",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Labaron Philon Jr.",
@@ -39,7 +39,7 @@
           "name": "VJ Edgecombe",
           "slug": "vj-edgecombe",
           "espnId": "5124612",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Kentavious Caldwell-Pope",
@@ -80,7 +80,7 @@
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Dean Wade",
@@ -115,7 +115,7 @@
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     },
@@ -126,7 +126,7 @@
           "name": "Joel Embiid",
           "slug": "joel-embiid",
           "espnId": "3059318",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Adem Bona",
@@ -144,7 +144,7 @@
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     }

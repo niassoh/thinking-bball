@@ -1,13 +1,25 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-10-27T14:26:23.566Z",
+  "generatedAt": "2026-10-28T14:53:04.299Z",
   "recent": {
-    "start": "2026-09-27",
-    "end": "2026-10-26",
-    "games": 3,
-    "seasonGames": 3
+    "start": "2026-09-28",
+    "end": "2026-10-27",
+    "games": 4,
+    "seasonGames": 4
   },
   "games": [
+    {
+      "date": "2026-10-27",
+      "gameId": "0022600129",
+      "opp": "DET",
+      "home": true,
+      "result": "W",
+      "pts": 12,
+      "reb": 3,
+      "ast": 4,
+      "ts": 54.5,
+      "oppRank": 4
+    },
     {
       "date": "2026-10-25",
       "gameId": "0022600114",

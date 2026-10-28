@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAC",
-  "gp": 3,
-  "generatedAt": "2026-10-26T17:02:35.283Z",
+  "gp": 4,
+  "generatedAt": "2026-10-28T15:02:07.059Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAC",
-      "minutes": 46,
-      "poss": 98,
-      "net": -13.3
+      "minutes": 66,
+      "poss": 142,
+      "net": -15.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAC",
-      "minutes": 98,
-      "poss": 211,
-      "net": -14.7
+      "minutes": 126,
+      "poss": 267,
+      "net": -18.4
     },
     {
       "label": "On, w/o LaVine",
       "sub": "2026–27 · SAC",
-      "minutes": 30,
-      "poss": 61,
-      "net": -8.2
-    },
-    {
-      "label": "On, w/o Acuff Jr.",
-      "sub": "2026–27 · SAC",
-      "minutes": 20,
-      "poss": 41,
-      "net": -42
+      "minutes": 45,
+      "poss": 93,
+      "net": -10.8
     },
     {
       "label": "On, w/o Sabonis",
       "sub": "2026–27 · SAC",
-      "minutes": 24,
-      "poss": 50,
-      "net": -42
+      "minutes": 35,
+      "poss": 73,
+      "net": -45.5
+    },
+    {
+      "label": "On, w/o Acuff Jr.",
+      "sub": "2026–27 · SAC",
+      "minutes": 30,
+      "poss": 62,
+      "net": -38.7
     },
     {
       "label": "Neither Sharp nor LaVine",
       "sub": "2026–27 · SAC",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "minutes": 2,
+      "poss": 4,
+      "net": -50
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "ORL",
-  "generatedAt": "2026-10-27T14:35:58.585Z",
+  "generatedAt": "2026-10-28T15:04:30.773Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -25,29 +25,29 @@
     {
       "id": "1631094",
       "load": 42.1,
-      "obpm": 4.1,
-      "score": 257,
+      "obpm": 4,
+      "score": 253,
       "minutes": 67.58
     },
     {
       "id": "1630532",
       "load": 46.3,
-      "obpm": 0.3,
-      "score": 106,
+      "obpm": 0.2,
+      "score": 102,
       "minutes": 99.8
     },
     {
       "id": "1628976",
       "load": 18,
-      "obpm": 3,
-      "score": 90,
+      "obpm": 2.9,
+      "score": 88,
       "minutes": 92.29
     },
     {
       "id": "1641783",
       "load": 23.4,
-      "obpm": -0.4,
-      "score": 37,
+      "obpm": -0.5,
+      "score": 35,
       "minutes": 84.23
     }
   ],

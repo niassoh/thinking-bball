@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DET",
-  "gp": 3,
-  "generatedAt": "2026-10-26T16:51:16.660Z",
+  "gp": 4,
+  "generatedAt": "2026-10-28T14:49:32.221Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DET",
-      "minutes": 53,
-      "poss": 105,
-      "net": 14.3
+      "minutes": 69,
+      "poss": 139,
+      "net": 4.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DET",
-      "minutes": 91,
-      "poss": 191,
-      "net": 12
+      "minutes": 123,
+      "poss": 254,
+      "net": 7.1
     },
     {
       "label": "On, w/o Cunningham",
       "sub": "2026–27 · DET",
-      "minutes": 21,
-      "poss": 43,
-      "net": 11.8
-    },
-    {
-      "label": "On, w/o Collins",
-      "sub": "2026–27 · DET",
-      "minutes": 32,
-      "poss": 65,
-      "net": 21.5
+      "minutes": 27,
+      "poss": 55,
+      "net": 14.7
     },
     {
       "label": "On, w/o Robinson",
       "sub": "2026–27 · DET",
-      "minutes": 20,
-      "poss": 43,
-      "net": -11.8
+      "minutes": 32,
+      "poss": 67,
+      "net": -13.5
+    },
+    {
+      "label": "On, w/o Collins",
+      "sub": "2026–27 · DET",
+      "minutes": 41,
+      "poss": 84,
+      "net": 19.2
     },
     {
       "label": "Neither Green nor Cunningham",
       "sub": "2026–27 · DET",
-      "minutes": 25,
-      "poss": 53,
-      "net": 9.4
+      "minutes": 31,
+      "poss": 65,
+      "net": 4.7
     }
   ]
 }
