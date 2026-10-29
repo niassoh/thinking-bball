@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "LAL",
-  "gp": 4,
-  "generatedAt": "2026-10-28T15:00:19.977Z",
+  "gp": 5,
+  "generatedAt": "2026-10-29T14:33:05.157Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · LAL",
-      "minutes": 91,
-      "poss": 194,
-      "net": 3.6
+      "minutes": 121,
+      "poss": 253,
+      "net": 11.1
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · LAL",
-      "minutes": 101,
-      "poss": 213,
-      "net": 11.8
+      "minutes": 119,
+      "poss": 251,
+      "net": 8
     },
     {
       "label": "On, w/o Reaves",
       "sub": "2026–27 · LAL",
-      "minutes": 41,
-      "poss": 91,
-      "net": -18.8
-    },
-    {
-      "label": "On, w/o Dončić",
-      "sub": "2026–27 · LAL",
-      "minutes": 12,
-      "poss": 24,
-      "net": -55.3
+      "minutes": 54,
+      "poss": 118,
+      "net": -1.7
     },
     {
       "label": "On, w/o Kessler",
       "sub": "2026–27 · LAL",
-      "minutes": 58,
-      "poss": 132,
-      "net": -2.3
+      "minutes": 80,
+      "poss": 175,
+      "net": 13.2
+    },
+    {
+      "label": "On, w/o Dončić",
+      "sub": "2026–27 · LAL",
+      "minutes": 42,
+      "poss": 83,
+      "net": 9.7
     },
     {
       "label": "Neither Mamukelashvili nor Reaves",
       "sub": "2026–27 · LAL",
-      "minutes": 6,
-      "poss": 13,
-      "net": -30.8
+      "minutes": 10,
+      "poss": 23,
+      "net": -43.5
     }
   ]
 }

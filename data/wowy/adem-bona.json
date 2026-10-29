@@ -1,29 +1,29 @@
 {
   "season": "2026-27",
   "team": "PHI",
-  "gp": 4,
-  "generatedAt": "2026-10-26T16:57:24.054Z",
+  "gp": 5,
+  "generatedAt": "2026-10-29T14:29:20.382Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHI",
-      "minutes": 58,
-      "poss": 118,
-      "net": -19.6
+      "minutes": 62,
+      "poss": 126,
+      "net": -18.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHI",
-      "minutes": 134,
-      "poss": 297,
-      "net": 11.8
+      "minutes": 178,
+      "poss": 391,
+      "net": 10.2
     },
     {
       "label": "On, w/o Maxey",
       "sub": "2026–27 · PHI",
-      "minutes": 13,
-      "poss": 28,
-      "net": -21.8
+      "minutes": 17,
+      "poss": 35,
+      "net": -14.3
     },
     {
       "label": "On, w/o Brown",
@@ -33,18 +33,18 @@
       "net": -32.3
     },
     {
-      "label": "On, w/o Caldwell-Pope",
+      "label": "On, w/o Embiid",
       "sub": "2026–27 · PHI",
-      "minutes": 23,
-      "poss": 48,
-      "net": -23.2
+      "minutes": 62,
+      "poss": 126,
+      "net": -18.3
     },
     {
       "label": "Neither Bona nor Maxey",
       "sub": "2026–27 · PHI",
-      "minutes": 28,
-      "poss": 64,
-      "net": -25
+      "minutes": 36,
+      "poss": 83,
+      "net": -21.8
     }
   ]
 }

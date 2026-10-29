@@ -1,7 +1,7 @@
 {
   "team": "UTA",
   "season": "2026-27",
-  "generatedAt": "2026-10-28T14:05:25.856Z",
+  "generatedAt": "2026-10-29T14:04:56.497Z",
   "rows": [
     {
       "pos": "PG",
@@ -100,10 +100,10 @@
           "status": "DTD"
         },
         {
-          "name": "Jaren Jackson Jr.",
-          "slug": "jaren-jackson-jr",
-          "espnId": "4277961",
-          "status": "OUT"
+          "name": "Kyle Filipowski",
+          "slug": "kyle-filipowski",
+          "espnId": "4684793",
+          "status": null
         },
         {
           "name": "Ace Bailey",
@@ -112,9 +112,9 @@
           "status": null
         },
         {
-          "name": "Kyle Filipowski",
-          "slug": "kyle-filipowski",
-          "espnId": "4684793",
+          "name": "Brice Sensabaugh",
+          "slug": "brice-sensabaugh",
+          "espnId": "5105839",
           "status": null
         }
       ]
@@ -123,16 +123,16 @@
       "pos": "C",
       "players": [
         {
-          "name": "Jaren Jackson Jr.",
-          "slug": "jaren-jackson-jr",
-          "espnId": "4277961",
-          "status": "OUT"
-        },
-        {
           "name": "Jaxson Hayes",
           "slug": "jaxson-hayes",
           "espnId": "4397077",
-          "status": "DTD"
+          "status": null
+        },
+        {
+          "name": "Mo Bamba",
+          "slug": "mo-bamba",
+          "espnId": "4277919",
+          "status": null
         },
         {
           "name": "Kyle Filipowski",
@@ -141,9 +141,9 @@
           "status": null
         },
         {
-          "name": "Mo Bamba",
-          "slug": "mo-bamba",
-          "espnId": "4277919",
+          "name": "Tony Bradley",
+          "slug": "tony-bradley",
+          "espnId": "4065673",
           "status": null
         }
       ]

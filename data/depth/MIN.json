@@ -1,7 +1,7 @@
 {
   "team": "MIN",
   "season": "2026-27",
-  "generatedAt": "2026-10-28T14:05:21.307Z",
+  "generatedAt": "2026-10-29T14:04:51.729Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,12 +36,6 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Anthony Edwards",
-          "slug": "anthony-edwards",
-          "espnId": "4594268",
-          "status": "OUT"
-        },
-        {
           "name": "Ayo Dosunmu",
           "slug": "ayo-dosunmu",
           "espnId": "4397002",
@@ -57,6 +51,12 @@
           "name": "Isaiah Evans",
           "slug": "isaiah-evans",
           "espnId": "5061585",
+          "status": null
+        },
+        {
+          "name": "Bones Hyland",
+          "slug": "bones-hyland",
+          "espnId": "4592492",
           "status": null
         }
       ]

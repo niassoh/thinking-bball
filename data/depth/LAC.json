@@ -1,7 +1,7 @@
 {
   "team": "LAC",
   "season": "2026-27",
-  "generatedAt": "2026-10-28T14:05:19.271Z",
+  "generatedAt": "2026-10-29T14:04:49.578Z",
   "rows": [
     {
       "pos": "PG",
@@ -71,6 +71,12 @@
           "status": null
         },
         {
+          "name": "Gradey Dick",
+          "slug": "gradey-dick",
+          "espnId": "5106258",
+          "status": null
+        },
+        {
           "name": "Kobe Sanders",
           "slug": "kobe-sanders",
           "espnId": "4702352",
@@ -80,13 +86,7 @@
           "name": "Rui Hachimura",
           "slug": "rui-hachimura",
           "espnId": "4066648",
-          "status": "OUT"
-        },
-        {
-          "name": "Gradey Dick",
-          "slug": "gradey-dick",
-          "espnId": "5106258",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -97,7 +97,13 @@
           "name": "Rui Hachimura",
           "slug": "rui-hachimura",
           "espnId": "4066648",
-          "status": "OUT"
+          "status": "DTD"
+        },
+        {
+          "name": "Kobe Sanders",
+          "slug": "kobe-sanders",
+          "espnId": "4702352",
+          "status": null
         },
         {
           "name": "Gradey Dick",
@@ -110,12 +116,6 @@
           "slug": "derrick-jones-jr",
           "espnId": "3936099",
           "status": null
-        },
-        {
-          "name": "Max Strus",
-          "slug": "max-strus",
-          "espnId": "4065778",
-          "status": "OUT"
         }
       ]
     },

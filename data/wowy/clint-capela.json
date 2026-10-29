@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "HOU",
-  "gp": 75,
-  "generatedAt": "2026-10-02T05:14:50.199Z",
+  "gp": 4,
+  "generatedAt": "2026-10-29T14:33:57.854Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · HOU",
-      "minutes": 926,
-      "poss": 1852.5,
-      "net": 8.74493927125506
+      "sub": "2026–27 · HOU",
+      "minutes": 45,
+      "poss": 95,
+      "net": 13.7
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · HOU",
-      "minutes": 3055,
-      "poss": 6128.5,
-      "net": 4.340376927470017
-    },
-    {
-      "label": "On, w/o Thompson",
-      "sub": "2025–26 · HOU",
-      "minutes": 398,
-      "poss": 799.5,
-      "net": 11.507191994996873
-    },
-    {
-      "label": "On, w/o Durant",
-      "sub": "2025–26 · HOU",
-      "minutes": 372,
-      "poss": 738.5,
-      "net": 3.1144211238997968
+      "sub": "2026–27 · HOU",
+      "minutes": 205,
+      "poss": 409,
+      "net": 14.2
     },
     {
       "label": "On, w/o Smith Jr.",
-      "sub": "2025–26 · HOU",
-      "minutes": 511,
-      "poss": 1022,
-      "net": 13.79647749510763
+      "sub": "2026–27 · HOU",
+      "minutes": 15,
+      "poss": 30,
+      "net": -27.1
     },
     {
-      "label": "Neither Capela nor Thompson",
-      "sub": "2025–26 · HOU",
-      "minutes": 630,
-      "poss": 1265.5,
-      "net": -2.528644804425128
+      "label": "On, w/o Durant",
+      "sub": "2026–27 · HOU",
+      "minutes": 30,
+      "poss": 65,
+      "net": 14
+    },
+    {
+      "label": "On, w/o Thompson",
+      "sub": "2026–27 · HOU",
+      "minutes": 12,
+      "poss": 26,
+      "net": 70.6
+    },
+    {
+      "label": "Neither Capela nor Smith Jr.",
+      "sub": "2026–27 · HOU",
+      "minutes": 54,
+      "poss": 118,
+      "net": 13.6
     }
   ]
 }

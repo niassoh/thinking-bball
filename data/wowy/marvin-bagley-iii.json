@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "DAL",
-  "gp": 60,
-  "generatedAt": "2026-10-02T04:55:46.120Z",
+  "season": "2026-27",
+  "team": "DEN",
+  "gp": 4,
+  "generatedAt": "2026-10-29T14:31:34.029Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · DAL",
-      "minutes": 470,
-      "poss": 991.5,
-      "net": -11.497730711043873
+      "sub": "2026–27 · DEN",
+      "minutes": 50,
+      "poss": 101,
+      "net": -10
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · DAL",
-      "minutes": 3501,
-      "poss": 7436.5,
-      "net": -4.545148927586903
+      "sub": "2026–27 · DEN",
+      "minutes": 147,
+      "poss": 304,
+      "net": -1
     },
     {
-      "label": "On, w/o Flagg",
-      "sub": "2025–26 · DAL",
-      "minutes": 233,
-      "poss": 492.5,
-      "net": -13.401015228426397
+      "label": "On, w/o Murray",
+      "sub": "2026–27 · DEN",
+      "minutes": 23,
+      "poss": 51,
+      "net": 5.9
     },
     {
-      "label": "On, w/o Christie",
-      "sub": "2025–26 · DAL",
-      "minutes": 221,
-      "poss": 463.5,
-      "net": -7.982740021574973
+      "label": "On, w/o Jokić",
+      "sub": "2026–27 · DEN",
+      "minutes": 43,
+      "poss": 86,
+      "net": -10.5
     },
     {
-      "label": "On, w/o Marshall",
-      "sub": "2025–26 · DAL",
-      "minutes": 221,
-      "poss": 462,
-      "net": -22.294372294372295
+      "label": "On, w/o Braun",
+      "sub": "2026–27 · DEN",
+      "minutes": 30,
+      "poss": 64,
+      "net": -4.7
     },
     {
-      "label": "Neither Bagley III nor Flagg",
-      "sub": "2025–26 · DAL",
-      "minutes": 1394,
-      "poss": 3001,
-      "net": -3.9986671109630127
+      "label": "Neither Bagley III nor Murray",
+      "sub": "2026–27 · DEN",
+      "minutes": 20,
+      "poss": 45,
+      "net": -46.7
     }
   ]
 }

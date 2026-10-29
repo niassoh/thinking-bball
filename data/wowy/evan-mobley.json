@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CLE",
-  "gp": 3,
-  "generatedAt": "2026-10-27T14:30:55.283Z",
+  "gp": 4,
+  "generatedAt": "2026-10-29T14:31:51.062Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CLE",
-      "minutes": 108,
-      "poss": 236,
-      "net": -10.2
+      "minutes": 139,
+      "poss": 297,
+      "net": -8.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CLE",
-      "minutes": 41,
-      "poss": 91,
-      "net": 24.2
-    },
-    {
-      "label": "On, w/o Mitchell",
-      "sub": "2026–27 · CLE",
-      "minutes": 23,
-      "poss": 47,
-      "net": -12.9
+      "minutes": 58,
+      "poss": 124,
+      "net": 26.7
     },
     {
       "label": "On, w/o Harden",
       "sub": "2026–27 · CLE",
-      "minutes": 20,
-      "poss": 42,
-      "net": -2.4
+      "minutes": 28,
+      "poss": 57,
+      "net": 1.8
+    },
+    {
+      "label": "On, w/o Mitchell",
+      "sub": "2026–27 · CLE",
+      "minutes": 30,
+      "poss": 60,
+      "net": -10.1
     },
     {
       "label": "On, w/o Watson",
       "sub": "2026–27 · CLE",
-      "minutes": 28,
-      "poss": 62,
-      "net": 19.5
+      "minutes": 40,
+      "poss": 84,
+      "net": 18
     },
     {
-      "label": "Neither Mobley nor Mitchell",
+      "label": "Neither Mobley nor Harden",
       "sub": "2026–27 · CLE",
-      "minutes": 17,
-      "poss": 38,
-      "net": 24
+      "minutes": 29,
+      "poss": 66,
+      "net": 33.6
     }
   ]
 }

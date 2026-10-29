@@ -1,36 +1,29 @@
 {
   "season": "2026-27",
   "team": "ORL",
-  "gp": 3,
-  "generatedAt": "2026-10-26T16:44:54.689Z",
+  "gp": 4,
+  "generatedAt": "2026-10-29T14:17:33.613Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · ORL",
-      "minutes": 46,
-      "poss": 100,
-      "net": -35
+      "minutes": 60,
+      "poss": 128,
+      "net": -31.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · ORL",
-      "minutes": 98,
-      "poss": 210,
-      "net": 7.1
-    },
-    {
-      "label": "On, w/o Suggs",
-      "sub": "2026–27 · ORL",
-      "minutes": 30,
-      "poss": 69,
-      "net": -10.2
+      "minutes": 132,
+      "poss": 285,
+      "net": -3.5
     },
     {
       "label": "On, w/o Wagner",
       "sub": "2026–27 · ORL",
-      "minutes": 18,
-      "poss": 40,
-      "net": -30
+      "minutes": 20,
+      "poss": 44,
+      "net": -36.8
     },
     {
       "label": "On, w/o Bane",
@@ -40,11 +33,18 @@
       "net": -16.7
     },
     {
-      "label": "Neither Richardson nor Suggs",
+      "label": "On, w/o Carter Jr.",
       "sub": "2026–27 · ORL",
-      "minutes": 14,
-      "poss": 29,
-      "net": 20.7
+      "minutes": 31,
+      "poss": 68,
+      "net": -13.2
+    },
+    {
+      "label": "Neither Richardson nor Wagner",
+      "sub": "2026–27 · ORL",
+      "minutes": 38,
+      "poss": 81,
+      "net": -7.5
     }
   ]
 }

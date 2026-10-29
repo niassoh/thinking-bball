@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAS",
-  "gp": 3,
-  "generatedAt": "2026-10-28T15:01:09.054Z",
+  "gp": 5,
+  "generatedAt": "2026-10-29T14:33:44.878Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAS",
-      "minutes": 43,
-      "poss": 91,
-      "net": -30.8
+      "minutes": 73,
+      "poss": 155,
+      "net": -27.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAS",
-      "minutes": 101,
-      "poss": 213,
-      "net": 27.8
-    },
-    {
-      "label": "On, w/o Harper",
-      "sub": "2026–27 · SAS",
-      "minutes": 25,
-      "poss": 53,
-      "net": -55.2
+      "minutes": 181,
+      "poss": 356,
+      "net": 21.4
     },
     {
       "label": "On, w/o Wembanyama",
       "sub": "2026–27 · SAS",
-      "minutes": 43,
-      "poss": 91,
-      "net": -30.8
+      "minutes": 73,
+      "poss": 155,
+      "net": -27.7
     },
     {
-      "label": "On, w/o Vassell",
+      "label": "On, w/o Fox",
       "sub": "2026–27 · SAS",
-      "minutes": 22,
-      "poss": 44,
-      "net": -27.3
+      "minutes": 37,
+      "poss": 79,
+      "net": -13.9
     },
     {
-      "label": "Neither Kornet nor Harper",
+      "label": "On, w/o Castle",
       "sub": "2026–27 · SAS",
-      "minutes": 28,
-      "poss": 58,
-      "net": 43.1
+      "minutes": 36,
+      "poss": 74,
+      "net": -51.7
+    },
+    {
+      "label": "Neither Kornet nor Wembanyama",
+      "sub": "2026–27 · SAS",
+      "minutes": 11,
+      "poss": 22,
+      "net": 32.6
     }
   ]
 }

@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "LAL",
   "gp": 4,
-  "generatedAt": "2026-10-28T14:51:50.914Z",
+  "generatedAt": "2026-10-29T14:26:07.003Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · LAL",
-      "minutes": 78,
-      "poss": 171,
-      "net": 1.8
+      "minutes": 126,
+      "poss": 268,
+      "net": 7.1
     },
     {
       "label": "On, w/o Reaves",
@@ -26,13 +26,6 @@
       "net": -15.8
     },
     {
-      "label": "On, w/o Dončić",
-      "sub": "2026–27 · LAL",
-      "minutes": 23,
-      "poss": 50,
-      "net": -12.1
-    },
-    {
       "label": "On, w/o Kessler",
       "sub": "2026–27 · LAL",
       "minutes": 25,
@@ -40,11 +33,18 @@
       "net": -19
     },
     {
+      "label": "On, w/o Dončić",
+      "sub": "2026–27 · LAL",
+      "minutes": 23,
+      "poss": 50,
+      "net": -12.1
+    },
+    {
       "label": "Neither Williams nor Reaves",
       "sub": "2026–27 · LAL",
-      "minutes": 28,
-      "poss": 66,
-      "net": -22.9
+      "minutes": 46,
+      "poss": 103,
+      "net": -5.9
     }
   ]
 }

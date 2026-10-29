@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "ORL",
-  "gp": 3,
-  "generatedAt": "2026-10-26T16:56:08.067Z",
+  "gp": 4,
+  "generatedAt": "2026-10-29T14:27:44.208Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · ORL",
-      "minutes": 84,
-      "poss": 185,
-      "net": 2.2
+      "minutes": 115,
+      "poss": 254,
+      "net": -4.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · ORL",
-      "minutes": 60,
-      "poss": 125,
-      "net": -19.2
-    },
-    {
-      "label": "On, w/o Suggs",
-      "sub": "2026–27 · ORL",
-      "minutes": 36,
-      "poss": 80,
-      "net": 7.5
+      "minutes": 77,
+      "poss": 159,
+      "net": -24
     },
     {
       "label": "On, w/o Wagner",
       "sub": "2026–27 · ORL",
-      "minutes": 39,
-      "poss": 84,
-      "net": 1.2
+      "minutes": 46,
+      "poss": 99,
+      "net": -10.2
     },
     {
       "label": "On, w/o Bane",
       "sub": "2026–27 · ORL",
-      "minutes": 44,
-      "poss": 91,
-      "net": -19.8
+      "minutes": 51,
+      "poss": 109,
+      "net": -29.5
     },
     {
-      "label": "Neither da Silva nor Suggs",
+      "label": "On, w/o Carter Jr.",
       "sub": "2026–27 · ORL",
-      "minutes": 8,
-      "poss": 18,
-      "net": -38.9
+      "minutes": 54,
+      "poss": 114,
+      "net": -18.4
+    },
+    {
+      "label": "Neither da Silva nor Wagner",
+      "sub": "2026–27 · ORL",
+      "minutes": 12,
+      "poss": 26,
+      "net": -47.1
     }
   ]
 }

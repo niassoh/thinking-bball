@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "UTA",
-  "gp": 3,
-  "generatedAt": "2026-10-27T14:31:44.426Z",
+  "gp": 4,
+  "generatedAt": "2026-10-29T14:33:02.193Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · UTA",
-      "minutes": 71,
-      "poss": 151,
-      "net": -14.6
+      "minutes": 109,
+      "poss": 225,
+      "net": -14.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · UTA",
-      "minutes": 121,
-      "poss": 256,
-      "net": -4.3
+      "minutes": 136,
+      "poss": 290,
+      "net": -2.1
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · UTA",
-      "minutes": 28,
-      "poss": 62,
-      "net": -6.5
+      "minutes": 41,
+      "poss": 86,
+      "net": -14
+    },
+    {
+      "label": "On, w/o Bailey",
+      "sub": "2026–27 · UTA",
+      "minutes": 61,
+      "poss": 127,
+      "net": -16.6
     },
     {
       "label": "On, w/o Peterson",
       "sub": "2026–27 · UTA",
-      "minutes": 31,
-      "poss": 67,
-      "net": -13.4
-    },
-    {
-      "label": "On, w/o Markkanen",
-      "sub": "2026–27 · UTA",
-      "minutes": 33,
-      "poss": 71,
-      "net": -15.5
+      "minutes": 44,
+      "poss": 94,
+      "net": -14.9
     },
     {
       "label": "Neither Hayes nor George",
       "sub": "2026–27 · UTA",
-      "minutes": 37,
-      "poss": 83,
-      "net": -20.6
+      "minutes": 40,
+      "poss": 89,
+      "net": -11.3
     }
   ]
 }

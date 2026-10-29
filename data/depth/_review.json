@@ -25,7 +25,7 @@
   },
   {
     "slug": "patrick-williams",
-    "status": "DTD",
+    "status": "OUT",
     "team": "Chicago Bulls",
     "reason": "injured but not on a depth chart"
   },
@@ -51,6 +51,12 @@
     "slug": "jimmy-butler-iii",
     "status": "OUT",
     "team": "Golden State Warriors",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "max-strus",
+    "status": "OUT",
+    "team": "LA Clippers",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -84,6 +90,12 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "anthony-edwards",
+    "status": "OUT",
+    "team": "Minnesota Timberwolves",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "donte-divincenzo",
     "status": "OUT",
     "team": "Minnesota Timberwolves",
@@ -96,13 +108,13 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "cason-wallace",
+    "slug": "nikola-topic",
     "status": "OUT",
     "team": "Oklahoma City Thunder",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "otega-oweh",
+    "slug": "cason-wallace",
     "status": "OUT",
     "team": "Oklahoma City Thunder",
     "reason": "injured but not on a depth chart"
@@ -159,6 +171,18 @@
     "slug": "nate-bittle",
     "status": "OUT",
     "team": "Toronto Raptors",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "kawhi-leonard",
+    "status": "OUT",
+    "team": "Toronto Raptors",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "jaren-jackson-jr",
+    "status": "OUT",
+    "team": "Utah Jazz",
     "reason": "injured but not on a depth chart"
   },
   {

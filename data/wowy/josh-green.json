@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "CHA",
-  "gp": 58,
-  "generatedAt": "2026-10-02T03:36:26.178Z",
+  "season": "2026-27",
+  "team": "UTA",
+  "gp": 3,
+  "generatedAt": "2026-10-29T14:21:52.245Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · CHA",
-      "minutes": 908,
-      "poss": 1812,
-      "net": 11.42384105960265
+      "sub": "2026–27 · UTA",
+      "minutes": 52,
+      "poss": 108,
+      "net": 13
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · CHA",
-      "minutes": 3043,
-      "poss": 6176.5,
-      "net": 3.059985428640816
+      "sub": "2026–27 · UTA",
+      "minutes": 193,
+      "poss": 407,
+      "net": -13
     },
     {
-      "label": "On, w/o Knueppel",
-      "sub": "2025–26 · CHA",
-      "minutes": 570,
-      "poss": 1142,
-      "net": 7.005253940455342
+      "label": "On, w/o George",
+      "sub": "2026–27 · UTA",
+      "minutes": 12,
+      "poss": 25,
+      "net": 8.2
     },
     {
-      "label": "On, w/o Bridges",
-      "sub": "2025–26 · CHA",
-      "minutes": 563,
-      "poss": 1122,
-      "net": 13.101604278074866
+      "label": "On, w/o Bailey",
+      "sub": "2026–27 · UTA",
+      "minutes": 14,
+      "poss": 29,
+      "net": 0
     },
     {
-      "label": "On, w/o Ball",
-      "sub": "2025–26 · CHA",
-      "minutes": 606,
-      "poss": 1198.5,
-      "net": 12.265331664580724
+      "label": "On, w/o Peterson",
+      "sub": "2026–27 · UTA",
+      "minutes": 22,
+      "poss": 46,
+      "net": 39.6
     },
     {
-      "label": "Neither Green nor Knueppel",
-      "sub": "2025–26 · CHA",
-      "minutes": 830,
-      "poss": 1639.5,
-      "net": -0.36596523330283626
+      "label": "Neither Green nor George",
+      "sub": "2026–27 · UTA",
+      "minutes": 69,
+      "poss": 150,
+      "net": -16.1
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "DEN",
   "season": "2026-27",
-  "generatedAt": "2026-10-28T14:05:17.031Z",
+  "generatedAt": "2026-10-29T14:04:47.478Z",
   "rows": [
     {
       "pos": "PG",
@@ -56,7 +56,13 @@
           "name": "Cameron Johnson",
           "slug": "cameron-johnson",
           "espnId": "3138196",
-          "status": "DTD"
+          "status": "OUT"
+        },
+        {
+          "name": "Bryce Hopkins",
+          "slug": "bryce-hopkins",
+          "espnId": "4565698",
+          "status": null
         },
         {
           "name": "DeMar DeRozan",
@@ -68,12 +74,6 @@
           "name": "Julian Strawther",
           "slug": "julian-strawther",
           "espnId": "4432181",
-          "status": "OUT"
-        },
-        {
-          "name": "Alpha Diallo",
-          "slug": "alpha-diallo",
-          "espnId": "4065813",
           "status": "OUT"
         }
       ]

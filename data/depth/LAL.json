@@ -1,7 +1,7 @@
 {
   "team": "LAL",
   "season": "2026-27",
-  "generatedAt": "2026-10-25T14:24:26.830Z",
+  "generatedAt": "2026-10-29T14:04:49.996Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Luka Doncic",
           "slug": "luka-doncic",
           "espnId": "3945274",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Collin Sexton",
@@ -57,7 +57,7 @@
           "name": "Ziaire Williams",
           "slug": "ziaire-williams",
           "espnId": "4433137",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -68,7 +68,7 @@
           "name": "Ziaire Williams",
           "slug": "ziaire-williams",
           "espnId": "4433137",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jake LaRavia",
@@ -138,6 +138,12 @@
           "name": "Sandro Mamukelashvili",
           "slug": "sandro-mamukelashvili",
           "espnId": "4278580",
+          "status": null
+        },
+        {
+          "name": "Lawson Lovering",
+          "slug": "lawson-lovering",
+          "espnId": "4596528",
           "status": null
         }
       ]
