@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "NOP",
   "gp": 4,
-  "generatedAt": "2026-10-29T14:22:35.610Z",
+  "generatedAt": "2026-10-30T14:28:53.919Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NOP",
-      "minutes": 133,
-      "poss": 281,
-      "net": -16.7
+      "minutes": 181,
+      "poss": 392,
+      "net": -8.9
     },
     {
       "label": "On, w/o Murphy III",
@@ -26,13 +26,6 @@
       "net": 26.6
     },
     {
-      "label": "On, w/o Murray",
-      "sub": "2026–27 · NOP",
-      "minutes": 38,
-      "poss": 83,
-      "net": 7.3
-    },
-    {
       "label": "On, w/o Williamson",
       "sub": "2026–27 · NOP",
       "minutes": 41,
@@ -40,11 +33,18 @@
       "net": -4.6
     },
     {
+      "label": "On, w/o Murray",
+      "sub": "2026–27 · NOP",
+      "minutes": 38,
+      "poss": 83,
+      "net": 7.3
+    },
+    {
       "label": "Neither Poole nor Murphy III",
       "sub": "2026–27 · NOP",
-      "minutes": 32,
-      "poss": 67,
-      "net": -12
+      "minutes": 48,
+      "poss": 102,
+      "net": 0
     }
   ]
 }

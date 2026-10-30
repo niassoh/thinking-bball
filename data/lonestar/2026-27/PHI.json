@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "PHI",
-  "generatedAt": "2026-10-29T14:38:23.607Z",
+  "generatedAt": "2026-10-30T15:03:31.748Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -32,22 +32,22 @@
     {
       "id": "203954",
       "load": 37.8,
-      "obpm": 1,
-      "score": 113,
+      "obpm": 0.9,
+      "score": 110,
       "minutes": 142.57
     },
     {
       "id": "2544",
       "load": 37.2,
-      "obpm": 0.5,
-      "score": 93,
+      "obpm": 0.4,
+      "score": 89,
       "minutes": 133.17
     },
     {
       "id": "1627759",
       "load": 35.5,
-      "obpm": 0.5,
-      "score": 89,
+      "obpm": 0.4,
+      "score": 85,
       "minutes": 181.62
     }
   ],

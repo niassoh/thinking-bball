@@ -1,7 +1,7 @@
 {
   "team": "CLE",
   "season": "2026-27",
-  "generatedAt": "2026-10-29T14:04:46.638Z",
+  "generatedAt": "2026-10-30T14:04:25.574Z",
   "rows": [
     {
       "pos": "PG",
@@ -51,7 +51,7 @@
           "name": "Meleek Thomas",
           "slug": "meleek-thomas",
           "espnId": "5041951",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -132,6 +132,12 @@
           "name": "Thomas Bryant",
           "slug": "thomas-bryant",
           "espnId": "3934723",
+          "status": null
+        },
+        {
+          "name": "Ernest Udeh Jr.",
+          "slug": "ernest-udeh-jr",
+          "espnId": "5106261",
           "status": null
         }
       ]

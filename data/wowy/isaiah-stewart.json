@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MEM",
-  "gp": 3,
-  "generatedAt": "2026-10-27T14:31:41.597Z",
+  "gp": 4,
+  "generatedAt": "2026-10-30T14:49:20.830Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MEM",
-      "minutes": 54,
-      "poss": 114,
-      "net": 0
+      "minutes": 70,
+      "poss": 150,
+      "net": 12
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MEM",
-      "minutes": 137,
-      "poss": 286,
-      "net": 12.9
+      "minutes": 169,
+      "poss": 351,
+      "net": 11.4
     },
     {
       "label": "On, w/o Boozer",
       "sub": "2026–27 · MEM",
-      "minutes": 15,
-      "poss": 31,
-      "net": -9.7
+      "minutes": 23,
+      "poss": 49,
+      "net": -2
     },
     {
       "label": "On, w/o Jerome",
       "sub": "2026–27 · MEM",
-      "minutes": 31,
-      "poss": 64,
-      "net": -32.8
+      "minutes": 46,
+      "poss": 98,
+      "net": -3.1
     },
     {
       "label": "On, w/o Wells",
       "sub": "2026–27 · MEM",
-      "minutes": 24,
-      "poss": 52,
-      "net": -19.4
+      "minutes": 32,
+      "poss": 70,
+      "net": -11.5
     },
     {
       "label": "Neither Stewart nor Boozer",
       "sub": "2026–27 · MEM",
-      "minutes": 45,
-      "poss": 96,
-      "net": 6.3
+      "minutes": 57,
+      "poss": 118,
+      "net": 4.3
     }
   ]
 }
