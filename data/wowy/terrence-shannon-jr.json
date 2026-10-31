@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIN",
-  "gp": 5,
-  "generatedAt": "2026-10-29T14:35:26.270Z",
+  "gp": 6,
+  "generatedAt": "2026-10-31T14:42:10.546Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIN",
-      "minutes": 116,
-      "poss": 245,
-      "net": 6.1
+      "minutes": 136,
+      "poss": 285,
+      "net": 8.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIN",
-      "minutes": 129,
-      "poss": 277,
-      "net": 17.3
+      "minutes": 157,
+      "poss": 337,
+      "net": 19
     },
     {
       "label": "On, w/o McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 68,
-      "poss": 145,
-      "net": 4.1
-    },
-    {
-      "label": "On, w/o Kuminga",
-      "sub": "2026–27 · MIN",
-      "minutes": 75,
-      "poss": 165,
-      "net": 9.1
+      "minutes": 81,
+      "poss": 174,
+      "net": 4
     },
     {
       "label": "On, w/o Gobert",
       "sub": "2026–27 · MIN",
-      "minutes": 69,
-      "poss": 152,
-      "net": 11.2
+      "minutes": 79,
+      "poss": 172,
+      "net": 14.5
+    },
+    {
+      "label": "On, w/o Kuminga",
+      "sub": "2026–27 · MIN",
+      "minutes": 92,
+      "poss": 200,
+      "net": 10
     },
     {
       "label": "Neither Shannon Jr nor McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 16,
-      "poss": 35,
-      "net": -14.3
+      "minutes": 17,
+      "poss": 38,
+      "net": -5.3
     }
   ]
 }

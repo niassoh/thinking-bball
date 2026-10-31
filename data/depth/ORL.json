@@ -1,17 +1,11 @@
 {
   "team": "ORL",
   "season": "2026-27",
-  "generatedAt": "2026-10-27T14:02:58.938Z",
+  "generatedAt": "2026-10-31T14:05:27.864Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
-        {
-          "name": "Jalen Suggs",
-          "slug": "jalen-suggs",
-          "espnId": "4432165",
-          "status": "OUT"
-        },
         {
           "name": "Jase Richardson",
           "slug": "jase-richardson",
@@ -29,6 +23,12 @@
           "slug": "jevon-carter",
           "espnId": "3133635",
           "status": null
+        },
+        {
+          "name": "Alex Morales",
+          "slug": "alex-morales",
+          "espnId": "4593034",
+          "status": null
         }
       ]
     },
@@ -36,15 +36,15 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Desmond Bane",
-          "slug": "desmond-bane",
-          "espnId": "4066320",
-          "status": null
-        },
-        {
           "name": "Anthony Black",
           "slug": "anthony-black",
           "espnId": "4712849",
+          "status": null
+        },
+        {
+          "name": "Desmond Bane",
+          "slug": "desmond-bane",
+          "espnId": "4066320",
           "status": null
         },
         {
@@ -65,9 +65,9 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Franz Wagner",
-          "slug": "franz-wagner",
-          "espnId": "4566434",
+          "name": "Desmond Bane",
+          "slug": "desmond-bane",
+          "espnId": "4066320",
           "status": null
         },
         {
@@ -77,15 +77,15 @@
           "status": null
         },
         {
-          "name": "Tristan da Silva",
-          "slug": "tristan-da-silva",
-          "espnId": "4702382",
+          "name": "Franz Wagner",
+          "slug": "franz-wagner",
+          "espnId": "4566434",
           "status": null
         },
         {
-          "name": "Desmond Bane",
-          "slug": "desmond-bane",
-          "espnId": "4066320",
+          "name": "Tristan da Silva",
+          "slug": "tristan-da-silva",
+          "espnId": "4702382",
           "status": null
         }
       ]
@@ -93,6 +93,12 @@
     {
       "pos": "PF",
       "players": [
+        {
+          "name": "Franz Wagner",
+          "slug": "franz-wagner",
+          "espnId": "4566434",
+          "status": null
+        },
         {
           "name": "Tristan da Silva",
           "slug": "tristan-da-silva",
@@ -110,12 +116,6 @@
           "slug": "jonathan-isaac",
           "espnId": "4065654",
           "status": "OUT"
-        },
-        {
-          "name": "Colin Castleton",
-          "slug": "colin-castleton",
-          "espnId": "4397204",
-          "status": null
         }
       ]
     },

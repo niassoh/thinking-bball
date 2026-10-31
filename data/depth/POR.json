@@ -1,16 +1,16 @@
 {
   "team": "POR",
   "season": "2026-27",
-  "generatedAt": "2026-10-30T14:04:33.290Z",
+  "generatedAt": "2026-10-31T14:05:29.072Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
         {
-          "name": "Ja Morant",
-          "slug": "ja-morant",
-          "espnId": "4279888",
-          "status": "DTD"
+          "name": "Damian Lillard",
+          "slug": "damian-lillard",
+          "espnId": "6606",
+          "status": null
         },
         {
           "name": "Scoot Henderson",
@@ -19,15 +19,15 @@
           "status": null
         },
         {
-          "name": "Damian Lillard",
-          "slug": "damian-lillard",
-          "espnId": "6606",
-          "status": null
-        },
-        {
           "name": "Jrue Holiday",
           "slug": "jrue-holiday",
           "espnId": "3995",
+          "status": null
+        },
+        {
+          "name": "Deni Avdija",
+          "slug": "deni-avdija",
+          "espnId": "4683021",
           "status": null
         }
       ]
@@ -36,22 +36,22 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Damian Lillard",
-          "slug": "damian-lillard",
-          "espnId": "6606",
-          "status": null
-        },
-        {
           "name": "Jrue Holiday",
           "slug": "jrue-holiday",
           "espnId": "3995",
           "status": null
         },
         {
-          "name": "Ja Morant",
-          "slug": "ja-morant",
-          "espnId": "4279888",
-          "status": "DTD"
+          "name": "Vit Krejci",
+          "slug": "vit-krejci",
+          "espnId": "4578893",
+          "status": null
+        },
+        {
+          "name": "Damian Lillard",
+          "slug": "damian-lillard",
+          "espnId": "6606",
+          "status": null
         },
         {
           "name": "Scoot Henderson",

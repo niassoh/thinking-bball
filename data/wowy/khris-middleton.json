@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "WAS",
-  "gp": 4,
-  "generatedAt": "2026-10-29T14:27:31.269Z",
+  "gp": 5,
+  "generatedAt": "2026-10-31T14:34:11.109Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · WAS",
-      "minutes": 64,
-      "poss": 133,
-      "net": -17.3
+      "minutes": 69,
+      "poss": 140,
+      "net": -14.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · WAS",
-      "minutes": 176,
-      "poss": 370,
-      "net": 3.2
+      "minutes": 219,
+      "poss": 458,
+      "net": 5.5
     },
     {
       "label": "On, w/o Young",
@@ -28,23 +28,23 @@
     {
       "label": "On, w/o Davis",
       "sub": "2026–27 · WAS",
-      "minutes": 31,
-      "poss": 64,
-      "net": -9.4
+      "minutes": 34,
+      "poss": 69,
+      "net": -8.8
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · WAS",
-      "minutes": 42,
-      "poss": 91,
-      "net": -8.8
+      "minutes": 47,
+      "poss": 98,
+      "net": -5.1
     },
     {
       "label": "Neither Middleton nor Young",
       "sub": "2026–27 · WAS",
-      "minutes": 35,
-      "poss": 72,
-      "net": 13.9
+      "minutes": 45,
+      "poss": 91,
+      "net": 14.3
     }
   ]
 }

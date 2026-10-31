@@ -1,7 +1,7 @@
 {
   "team": "MEM",
   "season": "2026-27",
-  "generatedAt": "2026-10-30T14:04:29.272Z",
+  "generatedAt": "2026-10-31T14:05:25.300Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,19 +10,19 @@
           "name": "Ty Jerome",
           "slug": "ty-jerome",
           "espnId": "4065733",
-          "status": null
-        },
-        {
-          "name": "Scotty Pippen Jr.",
-          "slug": "scotty-pippen-jr",
-          "espnId": "4431785",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Cam Spencer",
           "slug": "cam-spencer",
           "espnId": "4433083",
           "status": null
+        },
+        {
+          "name": "Scotty Pippen Jr.",
+          "slug": "scotty-pippen-jr",
+          "espnId": "4431785",
+          "status": "DTD"
         },
         {
           "name": "Javon Small",
@@ -51,7 +51,7 @@
           "name": "Ty Jerome",
           "slug": "ty-jerome",
           "espnId": "4065733",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jahmai Mashack",

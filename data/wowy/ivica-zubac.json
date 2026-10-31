@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "IND",
   "gp": 3,
-  "generatedAt": "2026-10-29T14:33:27.248Z",
+  "generatedAt": "2026-10-31T14:40:30.821Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · IND",
-      "minutes": 176,
-      "poss": 376,
-      "net": 1.9
+      "minutes": 224,
+      "poss": 480,
+      "net": -2.7
     },
     {
       "label": "On, w/o Siakam",
@@ -26,13 +26,6 @@
       "net": -31.3
     },
     {
-      "label": "On, w/o Haliburton",
-      "sub": "2026–27 · IND",
-      "minutes": 12,
-      "poss": 26,
-      "net": 11.5
-    },
-    {
       "label": "On, w/o Nembhard",
       "sub": "2026–27 · IND",
       "minutes": 15,
@@ -40,11 +33,18 @@
       "net": -29
     },
     {
+      "label": "On, w/o Oubre Jr.",
+      "sub": "2026–27 · IND",
+      "minutes": 31,
+      "poss": 66,
+      "net": -9.2
+    },
+    {
       "label": "Neither Zubac nor Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 59,
-      "poss": 127,
-      "net": 6.3
+      "minutes": 79,
+      "poss": 170,
+      "net": 7.6
     }
   ]
 }

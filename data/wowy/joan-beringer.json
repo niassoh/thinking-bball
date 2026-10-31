@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIN",
-  "gp": 5,
-  "generatedAt": "2026-10-29T14:34:17.860Z",
+  "gp": 6,
+  "generatedAt": "2026-10-31T14:41:34.916Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIN",
-      "minutes": 78,
-      "poss": 165,
-      "net": 3
+      "minutes": 96,
+      "poss": 205,
+      "net": 6.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIN",
-      "minutes": 167,
-      "poss": 357,
-      "net": 16.3
+      "minutes": 197,
+      "poss": 417,
+      "net": 18.2
     },
     {
       "label": "On, w/o McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 50,
-      "poss": 106,
-      "net": 8.5
-    },
-    {
-      "label": "On, w/o Kuminga",
-      "sub": "2026–27 · MIN",
-      "minutes": 58,
-      "poss": 124,
-      "net": -1.6
+      "minutes": 57,
+      "poss": 122,
+      "net": 11.5
     },
     {
       "label": "On, w/o Gobert",
       "sub": "2026–27 · MIN",
-      "minutes": 78,
-      "poss": 165,
-      "net": 3
+      "minutes": 96,
+      "poss": 205,
+      "net": 6.4
+    },
+    {
+      "label": "On, w/o Kuminga",
+      "sub": "2026–27 · MIN",
+      "minutes": 70,
+      "poss": 151,
+      "net": 5.3
     },
     {
       "label": "Neither Beringer nor McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 34,
-      "poss": 75,
-      "net": -10.7
+      "minutes": 41,
+      "poss": 90,
+      "net": -10
     }
   ]
 }

@@ -1,29 +1,29 @@
 {
   "season": "2026-27",
   "team": "NYK",
-  "gp": 3,
-  "generatedAt": "2026-10-29T14:19:26.272Z",
+  "gp": 4,
+  "generatedAt": "2026-10-31T14:26:08.408Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · NYK",
-      "minutes": 45,
-      "poss": 94,
-      "net": 9.6
+      "minutes": 57,
+      "poss": 117,
+      "net": 9.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NYK",
-      "minutes": 195,
-      "poss": 399,
-      "net": -2
+      "minutes": 231,
+      "poss": 466,
+      "net": -3.2
     },
     {
       "label": "On, w/o Brunson",
       "sub": "2026–27 · NYK",
-      "minutes": 39,
-      "poss": 83,
-      "net": -1.2
+      "minutes": 52,
+      "poss": 106,
+      "net": 0.9
     },
     {
       "label": "On, w/o Anunoby",
@@ -35,16 +35,16 @@
     {
       "label": "On, w/o Hart",
       "sub": "2026–27 · NYK",
-      "minutes": 35,
-      "poss": 75,
-      "net": 2.7
+      "minutes": 48,
+      "poss": 98,
+      "net": 4.1
     },
     {
       "label": "Neither Kolek nor Brunson",
       "sub": "2026–27 · NYK",
       "minutes": 25,
       "poss": 51,
-      "net": -13.9
+      "net": -17.6
     }
   ]
 }

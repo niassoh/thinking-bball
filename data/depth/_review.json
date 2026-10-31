@@ -24,8 +24,8 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "patrick-williams",
-    "status": "OUT",
+    "slug": "dailyn-swain",
+    "status": "DTD",
     "team": "Chicago Bulls",
     "reason": "injured but not on a depth chart"
   },
@@ -72,21 +72,9 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "cameron-carr",
-    "status": "OUT",
-    "team": "Los Angeles Lakers",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "adou-thiero",
     "status": "OUT",
     "team": "Los Angeles Lakers",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "simone-fontecchio",
-    "status": "DTD",
-    "team": "Miami Heat",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -102,6 +90,18 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "cason-wallace",
+    "status": "OUT",
+    "team": "Oklahoma City Thunder",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "chet-holmgren",
+    "status": "OUT",
+    "team": "Oklahoma City Thunder",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "jalen-williams",
     "status": "OUT",
     "team": "Oklahoma City Thunder",
@@ -114,9 +114,9 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "cason-wallace",
+    "slug": "jalen-suggs",
     "status": "OUT",
-    "team": "Oklahoma City Thunder",
+    "team": "Orlando Magic",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -157,6 +157,12 @@
   },
   {
     "slug": "chris-youngblood",
+    "status": "OUT",
+    "team": "Portland Trail Blazers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "ja-morant",
     "status": "OUT",
     "team": "Portland Trail Blazers",
     "reason": "injured but not on a depth chart"
