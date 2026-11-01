@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MEM",
-  "gp": 5,
-  "generatedAt": "2026-10-30T14:45:38.860Z",
+  "gp": 6,
+  "generatedAt": "2026-11-01T15:34:37.036Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MEM",
-      "minutes": 123,
-      "poss": 263,
-      "net": 4.2
+      "minutes": 146,
+      "poss": 316,
+      "net": 7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MEM",
-      "minutes": 117,
-      "poss": 238,
-      "net": 19.8
+      "minutes": 142,
+      "poss": 289,
+      "net": 23.2
     },
     {
       "label": "On, w/o Boozer",
       "sub": "2026–27 · MEM",
-      "minutes": 77,
-      "poss": 162,
-      "net": 3.1
-    },
-    {
-      "label": "On, w/o Jerome",
-      "sub": "2026–27 · MEM",
-      "minutes": 56,
-      "poss": 122,
-      "net": 6.6
+      "minutes": 91,
+      "poss": 194,
+      "net": 12.9
     },
     {
       "label": "On, w/o Wells",
       "sub": "2026–27 · MEM",
-      "minutes": 82,
-      "poss": 174,
-      "net": -5.2
+      "minutes": 100,
+      "poss": 215,
+      "net": 5.1
+    },
+    {
+      "label": "On, w/o Jerome",
+      "sub": "2026–27 · MEM",
+      "minutes": 79,
+      "poss": 175,
+      "net": 10.9
     },
     {
       "label": "Neither Grant nor Boozer",
       "sub": "2026–27 · MEM",
-      "minutes": 3,
-      "poss": 5,
-      "net": -20
+      "minutes": 10,
+      "poss": 23,
+      "net": 82.6
     }
   ]
 }

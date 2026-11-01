@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "MEM",
   "gp": 5,
-  "generatedAt": "2026-10-30T14:24:30.312Z",
+  "generatedAt": "2026-11-01T15:21:55.662Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MEM",
-      "minutes": 160,
-      "poss": 334,
-      "net": 16.2
+      "minutes": 208,
+      "poss": 438,
+      "net": 19.4
     },
     {
       "label": "On, w/o Boozer",
@@ -26,13 +26,6 @@
       "net": -3.5
     },
     {
-      "label": "On, w/o Jerome",
-      "sub": "2026–27 · MEM",
-      "minutes": 40,
-      "poss": 86,
-      "net": -4.7
-    },
-    {
       "label": "On, w/o Wells",
       "sub": "2026–27 · MEM",
       "minutes": 60,
@@ -40,11 +33,18 @@
       "net": -4.1
     },
     {
+      "label": "On, w/o Jerome",
+      "sub": "2026–27 · MEM",
+      "minutes": 40,
+      "poss": 86,
+      "net": -4.7
+    },
+    {
       "label": "Neither Pippen Jr. nor Boozer",
       "sub": "2026–27 · MEM",
-      "minutes": 25,
-      "poss": 53,
-      "net": 15.2
+      "minutes": 47,
+      "poss": 103,
+      "net": 46.8
     }
   ]
 }

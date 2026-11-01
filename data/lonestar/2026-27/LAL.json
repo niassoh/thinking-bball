@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "LAL",
-  "generatedAt": "2026-10-31T14:44:28.168Z",
+  "generatedAt": "2026-11-01T15:41:01.832Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -25,29 +25,29 @@
     {
       "id": "1629029",
       "load": 64.5,
-      "obpm": 5.1,
-      "score": 458,
+      "obpm": 5,
+      "score": 452,
       "minutes": 179.32
     },
     {
       "id": "1630559",
       "load": 42.2,
-      "obpm": 2.7,
-      "score": 198,
+      "obpm": 2.6,
+      "score": 194,
       "minutes": 213.41
     },
     {
       "id": "1629012",
       "load": 39.4,
-      "obpm": 0.1,
-      "score": 83,
+      "obpm": 0,
+      "score": 79,
       "minutes": 86.87
     },
     {
       "id": "1630533",
       "load": 18.2,
-      "obpm": 3.5,
-      "score": 100,
+      "obpm": 3.4,
+      "score": 98,
       "minutes": 113.59
     }
   ],

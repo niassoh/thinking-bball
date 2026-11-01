@@ -1,13 +1,25 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-10-31T14:27:17.439Z",
+  "generatedAt": "2026-11-01T15:24:28.726Z",
   "recent": {
-    "start": "2026-10-01",
-    "end": "2026-10-30",
-    "games": 3,
-    "seasonGames": 3
+    "start": "2026-10-02",
+    "end": "2026-10-31",
+    "games": 4,
+    "seasonGames": 4
   },
   "games": [
+    {
+      "date": "2026-10-31",
+      "gameId": "0022600153",
+      "opp": "OKC",
+      "home": true,
+      "result": "W",
+      "pts": 24,
+      "reb": 5,
+      "ast": 3,
+      "ts": 109.1,
+      "oppRank": 19
+    },
     {
       "date": "2026-10-30",
       "gameId": "0022600021",

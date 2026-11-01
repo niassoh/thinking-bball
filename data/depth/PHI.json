@@ -1,7 +1,7 @@
 {
   "team": "PHI",
   "season": "2026-27",
-  "generatedAt": "2026-10-31T14:05:28.229Z",
+  "generatedAt": "2026-11-01T15:04:33.824Z",
   "rows": [
     {
       "pos": "PG",
@@ -68,7 +68,7 @@
           "name": "Jaylen Brown",
           "slug": "jaylen-brown",
           "espnId": "3917376",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Kentavious Caldwell-Pope",
@@ -80,7 +80,7 @@
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Dean Wade",
@@ -115,7 +115,7 @@
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
-          "status": "OUT"
+          "status": null
         }
       ]
     },
@@ -144,7 +144,7 @@
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
-          "status": "OUT"
+          "status": null
         }
       ]
     }

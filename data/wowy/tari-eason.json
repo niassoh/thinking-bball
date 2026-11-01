@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "HOU",
-  "gp": 6,
-  "generatedAt": "2026-10-31T14:36:50.929Z",
+  "gp": 7,
+  "generatedAt": "2026-11-01T15:33:30.662Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · HOU",
-      "minutes": 150,
-      "poss": 317,
-      "net": 3.8
+      "minutes": 169,
+      "poss": 356,
+      "net": 6.2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · HOU",
-      "minutes": 148,
-      "poss": 287,
-      "net": 18.8
-    },
-    {
-      "label": "On, w/o Durant",
-      "sub": "2026–27 · HOU",
-      "minutes": 48,
-      "poss": 98,
-      "net": -1
+      "minutes": 177,
+      "poss": 342,
+      "net": 19
     },
     {
       "label": "On, w/o Smith Jr.",
       "sub": "2026–27 · HOU",
-      "minutes": 61,
-      "poss": 132,
-      "net": 13.6
+      "minutes": 70,
+      "poss": 150,
+      "net": 6
+    },
+    {
+      "label": "On, w/o Durant",
+      "sub": "2026–27 · HOU",
+      "minutes": 52,
+      "poss": 106,
+      "net": 1.9
     },
     {
       "label": "On, w/o Thompson",
       "sub": "2026–27 · HOU",
-      "minutes": 55,
-      "poss": 118,
-      "net": 41.5
+      "minutes": 62,
+      "poss": 134,
+      "net": 44.9
     },
     {
-      "label": "Neither Eason nor Durant",
+      "label": "Neither Eason nor Smith Jr.",
       "sub": "2026–27 · HOU",
-      "minutes": 32,
-      "poss": 71,
-      "net": 7.1
+      "minutes": 26,
+      "poss": 55,
+      "net": -16.4
     }
   ]
 }

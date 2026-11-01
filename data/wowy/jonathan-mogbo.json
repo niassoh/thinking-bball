@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAC",
-  "gp": 3,
-  "generatedAt": "2026-10-28T14:56:26.349Z",
+  "gp": 4,
+  "generatedAt": "2026-11-01T15:33:29.065Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAC",
-      "minutes": 45,
-      "poss": 94,
-      "net": -12.8
+      "minutes": 69,
+      "poss": 148,
+      "net": -2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAC",
-      "minutes": 147,
-      "poss": 315,
-      "net": -18.8
-    },
-    {
-      "label": "On, w/o LaVine",
-      "sub": "2026–27 · SAC",
-      "minutes": 25,
-      "poss": 51,
-      "net": -17.6
+      "minutes": 219,
+      "poss": 476,
+      "net": -23.3
     },
     {
       "label": "On, w/o Sabonis",
       "sub": "2026–27 · SAC",
-      "minutes": 28,
-      "poss": 60,
-      "net": -26.7
+      "minutes": 37,
+      "poss": 80,
+      "net": -36.2
     },
     {
       "label": "On, w/o Acuff Jr.",
       "sub": "2026–27 · SAC",
-      "minutes": 23,
-      "poss": 51,
-      "net": -17.6
+      "minutes": 30,
+      "poss": 68,
+      "net": -26.5
     },
     {
-      "label": "Neither Mogbo nor LaVine",
+      "label": "On, w/o LaVine",
       "sub": "2026–27 · SAC",
-      "minutes": 23,
-      "poss": 46,
-      "net": -6.5
+      "minutes": 46,
+      "poss": 97,
+      "net": -1
+    },
+    {
+      "label": "Neither Mogbo nor Sabonis",
+      "sub": "2026–27 · SAC",
+      "minutes": 29,
+      "poss": 63,
+      "net": -38.4
     }
   ]
 }

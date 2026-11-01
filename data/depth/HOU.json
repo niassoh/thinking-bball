@@ -1,7 +1,7 @@
 {
   "team": "HOU",
   "season": "2026-27",
-  "generatedAt": "2026-10-31T14:05:23.677Z",
+  "generatedAt": "2026-11-01T15:04:29.142Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Fred VanVleet",
           "slug": "fred-vanvleet",
           "espnId": "2991230",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Marcus Smart",
@@ -115,7 +115,7 @@
           "name": "Alperen Sengun",
           "slug": "alperen-sengun",
           "espnId": "4871144",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -126,7 +126,7 @@
           "name": "Alperen Sengun",
           "slug": "alperen-sengun",
           "espnId": "4871144",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Steven Adams",
