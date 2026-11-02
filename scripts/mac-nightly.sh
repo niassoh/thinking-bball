@@ -31,7 +31,11 @@ fi
 season=$(ls data/pbp | tail -1)
 end=$(( ${season:0:4} + 1 ))
 out=data/sources/tracking-nightly
-python3 scripts/playoff-tracking-pull.py "$SITE_DATA" $out $end $end --regular && node scripts/tracking-upload.js $end $out/$end || failed+=(tracking)
+# The files that did pull go up even when one didn't.
+tracking=ok
+python3 scripts/playoff-tracking-pull.py "$SITE_DATA" $out $end $end --regular || tracking=
+node scripts/tracking-upload.js $end $out/$end || tracking=
+[[ -n $tracking ]] || failed+=(tracking)
 # After the push and the upload: the cloud run reads both.
 gh workflow run nightly.yml -R $REPO || failed+=(start-cloud-run)
 (( $#failed )) && notify "Failed: ${(j:, :)failed}. See ~/Library/Logs/thinking-bball-nightly.log"

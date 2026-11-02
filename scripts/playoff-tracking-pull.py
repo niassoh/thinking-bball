@@ -7,21 +7,24 @@
 # site_data's own prep functions, read from its player_level.py (only the function
 # definitions; the module runs a pull when imported). wide_open follows its
 # stat_scrape.get_playershots and close_6 the leaguedashptdefend layout of audit #71
-# (PLAYER_ID as the 13th column). Requests use nba_api's headers: site_data's own get
-# stalled by stats.nba.com (audit #67).
+# (PLAYER_ID as the 13th column). Requests go through scripts/nba-get.js: stats.nba.com
+# stalls Python's requests (site_data's own get, audit #67; nba_api's headers too from
+# 2026-10-29) but answers Node's fetch.
 #
 # Usage: python3 scripts/playoff-tracking-pull.py <site_Data dir> <out dir> [first last] [--regular]
 #   writes <out>/<end year>/playoffs/{player_tracking,player_shooting}/*.csv
 #   (--regular: the regular season instead, to <out>/<end year>/..., for checking the
-#   layouts against the files already in the bucket)
+#   layouts against the files already in the bucket; the Mac's nightly uploads them)
+# A file whose pull fails is left out (any old copy removed) and the others are still
+# written; the script then exits 1.
 import ast
+import json
+import subprocess
 import sys
 import time
 from pathlib import Path
 
 import pandas as pd
-import requests
-from nba_api.stats.library.http import NBAStatsHTTP
 
 site, out = Path(sys.argv[1]), Path(sys.argv[2])
 args = [a for a in sys.argv[3:] if not a.startswith('--')]
@@ -36,7 +39,7 @@ keep = {'format_drives', 'prep_touches', 'prep_cs', 'prep_pullup'}
 scope = {'pd': pd}
 exec(compile(ast.Module([n for n in tree.body if isinstance(n, ast.FunctionDef) and n.name in keep], []), 'player_level.py', 'exec'), scope)
 
-HEADERS = NBAStatsHTTP.headers
+NBA_GET = Path(__file__).with_name('nba-get.js')
 COMMON = {'College': '', 'Conference': '', 'Country': '', 'DateFrom': '', 'DateTo': '', 'Division': '', 'DraftPick': '', 'DraftYear': '',
           'GameScope': '', 'Height': '', 'LastNGames': 0, 'LeagueID': '00', 'Location': '', 'Month': 0, 'OpponentTeamID': 0, 'Outcome': '',
           'PORound': 0, 'PerMode': 'Totals', 'PlayerExperience': '', 'PlayerPosition': '', 'SeasonSegment': '', 'SeasonType': stype,
@@ -44,18 +47,12 @@ COMMON = {'College': '', 'Conference': '', 'Country': '', 'DateFrom': '', 'DateT
 
 
 def get(endpoint, params):
-    for attempt in range(4):
-        try:
-            r = requests.get(f'https://stats.nba.com/stats/{endpoint}', params={**COMMON, **params}, headers=HEADERS, timeout=60)
-            r.raise_for_status()
-            rs = r.json()['resultSets']
-            rs = rs[0] if isinstance(rs, list) else rs
-            time.sleep(1.5)
-            return pd.DataFrame.from_records(rs['rowSet'], columns=rs['headers'])
-        except Exception as e:  # stats.nba.com drops connections now and then
-            print(f'  retry {endpoint} {params}: {e}')
-            time.sleep(10 * (attempt + 1))
-    raise RuntimeError(f'{endpoint} {params} failed')
+    r = subprocess.run(['node', NBA_GET, endpoint, json.dumps({**COMMON, **params})], capture_output=True, text=True)
+    if r.returncode:
+        raise RuntimeError(f'{endpoint} {params} failed: {r.stderr.strip()}')
+    rs = json.loads(r.stdout)
+    time.sleep(1.5)
+    return pd.DataFrame.from_records(rs['rowSet'], columns=rs['headers'])
 
 
 def tracking(season, measure):
@@ -85,19 +82,31 @@ def close_6(season):
                          'DFG%': pct('LT_06_PCT'), 'FG%': pct('NS_LT_06_PCT'), 'Diff%': pct('PLUSMINUS'), 'PLAYER_ID': df['CLOSE_DEF_PERSON_ID']})
 
 
+failed = []
 for end in range(first, last + 1):
     season = f'{end - 1}-{str(end)[-2:]}'
     base = out / str(end) / trail if trail else out / str(end)
     (base / 'player_tracking').mkdir(parents=True, exist_ok=True)
     (base / 'player_shooting').mkdir(parents=True, exist_ok=True)
-    files = {
-        'player_tracking/drives.csv': scope['format_drives'](tracking(season, 'Drives')),
-        'player_tracking/cs.csv': scope['prep_cs'](tracking(season, 'CatchShoot')),
-        'player_tracking/touches.csv': scope['prep_touches'](tracking(season, 'Possessions')),
-        'player_tracking/pullup.csv': scope['prep_pullup'](tracking(season, 'PullUpShot')),
-        'player_tracking/close_6.csv': close_6(season),
-        'player_shooting/wide_open.csv': wide_open(season),
+    pulls = {
+        'player_tracking/drives.csv': lambda: scope['format_drives'](tracking(season, 'Drives')),
+        'player_tracking/cs.csv': lambda: scope['prep_cs'](tracking(season, 'CatchShoot')),
+        'player_tracking/touches.csv': lambda: scope['prep_touches'](tracking(season, 'Possessions')),
+        'player_tracking/pullup.csv': lambda: scope['prep_pullup'](tracking(season, 'PullUpShot')),
+        'player_tracking/close_6.csv': lambda: close_6(season),
+        'player_shooting/wide_open.csv': lambda: wide_open(season),
     }
-    for name, df in files.items():
+    done = []
+    for name, pull in pulls.items():
+        (base / name).unlink(missing_ok=True)
+        try:
+            df = pull()
+        except Exception as e:
+            print(f'  {season} {Path(name).stem}: {e}', flush=True)
+            failed.append(f'{season} {Path(name).stem}')
+            continue
         df.to_csv(base / name, index=False)
-    print(f'{season} {stype}: ' + ', '.join(f'{Path(n).stem} {len(df)}' for n, df in files.items()), flush=True)
+        done.append(f'{Path(name).stem} {len(df)}')
+    print(f'{season} {stype}: ' + ', '.join(done), flush=True)
+if failed:
+    sys.exit(f'failed: {", ".join(failed)}')

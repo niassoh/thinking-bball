@@ -5,7 +5,8 @@
 // Lonestar from these. Kept in git (about 10 KB a game) as the durable copy the old
 // archive wasn't. A night costs two calls a new game: games already saved are skipped.
 // A game whose play-by-play doesn't end on pbpstats' final score isn't saved and is tried
-// again the next run; one still off two days later fails the run.
+// again the next run; one still off two days later fails the run, unless it's on
+// lib/pbpstats' KNOWN_BAD list.
 //   node scripts/pbp-fetch.js
 const fs = require('fs')
 const path = require('path')
@@ -32,7 +33,7 @@ const main = async () => {
     const final = side => Math.max(0, ...actions.map(a => Number(a[side]) || 0))
     if (final('scoreHome') !== g.HomePoints || final('scoreAway') !== g.AwayPoints) {
       console.warn(`${g.GameId} (${g.Date}): play-by-play ends ${final('scoreHome')}-${final('scoreAway')}, pbpstats has ${g.HomePoints}-${g.AwayPoints}; not saved`)
-      if (g.Date < stale) process.exitCode = 1
+      if (g.Date < stale && !pbp.KNOWN_BAD[g.GameId]) process.exitCode = 1
       continue
     }
     const starters = [...box.homeTeam.players, ...box.awayTeam.players].filter(p => p.position).map(p => String(p.personId))

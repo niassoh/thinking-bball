@@ -3,7 +3,8 @@
 // 2026-10-23 for two days) or has the wrong final for (MEM-GSW that night, 108-109 for
 // 111-108) is short in every stat built from it. Each such game is listed (and in the
 // run's summary) and the script exits 1, so the nightly fails at its end, after its data is
-// committed and deployed, and GitHub emails the repo's owner.
+// committed and deployed, and GitHub emails the repo's owner. Games on lib/pbpstats'
+// KNOWN_BAD list are only logged.
 //
 // node scripts/games-check.js 2026-27
 const fs = require('fs')
@@ -32,7 +33,9 @@ const main = async () => {
       const key = `${etDate(e.date)} ${abbr(away)}@${abbr(home)}`
       const g = byGame.get(key)
       if (!g) problems.push(`${key} (final ${away.score}-${home.score}): not on pbpstats`)
-      else if (g.HomePoints !== +home.score || g.AwayPoints !== +away.score) {
+      else if ((g.HomePoints !== +home.score || g.AwayPoints !== +away.score) && pbp.KNOWN_BAD[g.GameId]) {
+        console.log(`  known: ${pbp.KNOWN_BAD[g.GameId]}`)
+      } else if (g.HomePoints !== +home.score || g.AwayPoints !== +away.score) {
         problems.push(`${key} ${g.GameId}: pbpstats has ${g.AwayPoints}-${g.HomePoints}, the final was ${away.score}-${home.score}`)
       }
     }
