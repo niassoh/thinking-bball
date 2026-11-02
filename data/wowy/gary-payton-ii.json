@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "GSW",
-  "gp": 6,
-  "generatedAt": "2026-10-31T14:27:21.473Z",
+  "gp": 7,
+  "generatedAt": "2026-11-02T15:32:09.092Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · GSW",
-      "minutes": 76,
-      "poss": 156,
-      "net": -16
+      "minutes": 91,
+      "poss": 183,
+      "net": -12
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · GSW",
-      "minutes": 212,
-      "poss": 438,
-      "net": 8
+      "minutes": 245,
+      "poss": 510,
+      "net": 8.6
     },
     {
       "label": "On, w/o Lendeborg",
       "sub": "2026–27 · GSW",
-      "minutes": 59,
-      "poss": 117,
-      "net": -12.8
+      "minutes": 62,
+      "poss": 121,
+      "net": -10.7
     },
     {
-      "label": "On, w/o Green",
+      "label": "On, w/o Podziemski",
       "sub": "2026–27 · GSW",
-      "minutes": 25,
-      "poss": 53,
-      "net": -15.2
+      "minutes": 68,
+      "poss": 135,
+      "net": -28.1
     },
     {
-      "label": "On, w/o Curry",
+      "label": "On, w/o Melton",
       "sub": "2026–27 · GSW",
-      "minutes": 23,
-      "poss": 50,
-      "net": -34.3
+      "minutes": 41,
+      "poss": 83,
+      "net": 4.8
     },
     {
       "label": "Neither Payton II nor Lendeborg",
       "sub": "2026–27 · GSW",
-      "minutes": 36,
-      "poss": 75,
-      "net": 52.3
+      "minutes": 48,
+      "poss": 102,
+      "net": 42.4
     }
   ]
 }

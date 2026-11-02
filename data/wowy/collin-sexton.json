@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "LAL",
-  "gp": 5,
-  "generatedAt": "2026-10-31T14:25:09.221Z",
+  "gp": 6,
+  "generatedAt": "2026-11-02T15:29:04.859Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · LAL",
-      "minutes": 87,
-      "poss": 183,
-      "net": -6.6
+      "minutes": 106,
+      "poss": 225,
+      "net": -9.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · LAL",
-      "minutes": 201,
-      "poss": 413,
-      "net": 10.4
+      "minutes": 230,
+      "poss": 477,
+      "net": 12.2
     },
     {
       "label": "On, w/o Reaves",
       "sub": "2026–27 · LAL",
-      "minutes": 42,
-      "poss": 94,
-      "net": -10.7
-    },
-    {
-      "label": "On, w/o Kessler",
-      "sub": "2026–27 · LAL",
-      "minutes": 54,
-      "poss": 120,
-      "net": -4.2
+      "minutes": 49,
+      "poss": 110,
+      "net": -7.3
     },
     {
       "label": "On, w/o Dončić",
       "sub": "2026–27 · LAL",
-      "minutes": 54,
-      "poss": 110,
-      "net": 3.7
+      "minutes": 64,
+      "poss": 129,
+      "net": -3.1
+    },
+    {
+      "label": "On, w/o Kessler",
+      "sub": "2026–27 · LAL",
+      "minutes": 63,
+      "poss": 141,
+      "net": -7.1
     },
     {
       "label": "Neither Sexton nor Reaves",
       "sub": "2026–27 · LAL",
-      "minutes": 33,
-      "poss": 69,
-      "net": -8.8
+      "minutes": 35,
+      "poss": 77,
+      "net": -20.9
     }
   ]
 }

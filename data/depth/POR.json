@@ -1,7 +1,7 @@
 {
   "team": "POR",
   "season": "2026-27",
-  "generatedAt": "2026-11-01T15:04:34.573Z",
+  "generatedAt": "2026-11-02T15:05:18.925Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,12 +10,6 @@
           "name": "Damian Lillard",
           "slug": "damian-lillard",
           "espnId": "6606",
-          "status": null
-        },
-        {
-          "name": "Scoot Henderson",
-          "slug": "scoot-henderson",
-          "espnId": "4683678",
           "status": null
         },
         {
@@ -29,6 +23,12 @@
           "slug": "deni-avdija",
           "espnId": "4683021",
           "status": null
+        },
+        {
+          "name": "Scoot Henderson",
+          "slug": "scoot-henderson",
+          "espnId": "4683678",
+          "status": null
         }
       ]
     },
@@ -36,9 +36,9 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Jrue Holiday",
-          "slug": "jrue-holiday",
-          "espnId": "3995",
+          "name": "Scoot Henderson",
+          "slug": "scoot-henderson",
+          "espnId": "4683678",
           "status": null
         },
         {
@@ -54,9 +54,9 @@
           "status": null
         },
         {
-          "name": "Scoot Henderson",
-          "slug": "scoot-henderson",
-          "espnId": "4683678",
+          "name": "Jrue Holiday",
+          "slug": "jrue-holiday",
+          "espnId": "3995",
           "status": null
         }
       ]

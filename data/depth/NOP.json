@@ -1,7 +1,7 @@
 {
   "team": "NOP",
   "season": "2026-27",
-  "generatedAt": "2026-11-01T15:04:32.268Z",
+  "generatedAt": "2026-11-02T15:05:16.153Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,13 +10,13 @@
           "name": "Dejounte Murray",
           "slug": "dejounte-murray",
           "espnId": "3907497",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Jordan Poole",
           "slug": "jordan-poole",
           "espnId": "4277956",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Jeremiah Fears",
@@ -51,7 +51,7 @@
           "name": "Trey Murphy III",
           "slug": "trey-murphy-iii",
           "espnId": "4397688",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jaron Pierre Jr.",
@@ -68,7 +68,7 @@
           "name": "Trey Murphy III",
           "slug": "trey-murphy-iii",
           "espnId": "4397688",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Saddiq Bey",
@@ -129,6 +129,12 @@
           "status": "OUT"
         },
         {
+          "name": "Karlo Matkovic",
+          "slug": "karlo-matkovic",
+          "espnId": "4997538",
+          "status": null
+        },
+        {
           "name": "DeAndre Jordan",
           "slug": "deandre-jordan",
           "espnId": "3442",
@@ -138,12 +144,6 @@
           "name": "Derik Queen",
           "slug": "derik-queen",
           "espnId": "4869780",
-          "status": null
-        },
-        {
-          "name": "Karlo Matkovic",
-          "slug": "karlo-matkovic",
-          "espnId": "4997538",
           "status": null
         }
       ]

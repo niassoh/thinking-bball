@@ -1,7 +1,7 @@
 {
   "team": "HOU",
   "season": "2026-27",
-  "generatedAt": "2026-11-01T15:04:29.142Z",
+  "generatedAt": "2026-11-02T15:05:12.326Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Fred VanVleet",
           "slug": "fred-vanvleet",
           "espnId": "2991230",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Marcus Smart",
@@ -144,7 +144,7 @@
           "name": "Clint Capela",
           "slug": "clint-capela",
           "espnId": "3102529",
-          "status": null
+          "status": "DTD"
         }
       ]
     }

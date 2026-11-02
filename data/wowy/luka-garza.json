@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "BOS",
-  "gp": 1,
-  "generatedAt": "2026-10-21T17:56:31.409Z",
+  "gp": 6,
+  "generatedAt": "2026-11-02T15:52:19.375Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BOS",
-      "minutes": 8,
-      "poss": 16,
-      "net": -58.1
+      "minutes": 65,
+      "poss": 129,
+      "net": 23.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BOS",
-      "minutes": 40,
-      "poss": 84,
-      "net": 1.2
+      "minutes": 228,
+      "poss": 472,
+      "net": 5.7
     },
     {
       "label": "On, w/o Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 3,
-      "poss": 5,
-      "net": -22.2
-    },
-    {
-      "label": "On, w/o White",
-      "sub": "2026–27 · BOS",
-      "minutes": 5,
-      "poss": 9,
-      "net": -35.3
+      "minutes": 31,
+      "poss": 61,
+      "net": 34.7
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · BOS",
-      "minutes": 5,
-      "poss": 10,
-      "net": -80
+      "minutes": 32,
+      "poss": 66,
+      "net": 19.8
+    },
+    {
+      "label": "On, w/o White",
+      "sub": "2026–27 · BOS",
+      "minutes": 35,
+      "poss": 71,
+      "net": 21.1
     },
     {
       "label": "Neither Garza nor Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 7,
-      "poss": 14,
-      "net": -14.3
+      "minutes": 49,
+      "poss": 102,
+      "net": 4.9
     }
   ]
 }
