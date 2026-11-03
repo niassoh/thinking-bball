@@ -1,0 +1,3619 @@
+{
+ "source": "stats.nba.com leaguegamelog (Playoffs, teams)",
+ "seasons": {
+  "2013-14": {
+   "ATL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "IND",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "BKN": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "TOR",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "MIA",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "CHA": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIA",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "CHI": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "WAS",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DAL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "SAS",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "GSW": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "HOU": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "POR",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "IND": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ATL",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "WAS",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "MIA",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "GSW",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "OKC",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MEM": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "OKC",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "MIA": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CHA",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "BKN",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "IND",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 4,
+      "opp": "SAS",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "OKC": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MEM",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "LAC",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "SAS",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "POR": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "HOU",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "SAS",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "SAS": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DAL",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "POR",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "OKC",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 4,
+      "opp": "MIA",
+      "w": 4,
+      "l": 1
+     }
+    ]
+   },
+   "TOR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BKN",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "WAS": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CHI",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "IND",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2014-15": {
+   "ATL": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BKN",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "WAS",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "CLE",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "BKN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ATL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "BOS": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CLE",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "CHI": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "CLE",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "CLE": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "CHI",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "ATL",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 4,
+      "opp": "GSW",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "DAL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "HOU",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "GSW": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "NOP",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "MEM",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "HOU",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 4,
+      "opp": "CLE",
+      "w": 4,
+      "l": 2
+     }
+    ]
+   },
+   "HOU": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DAL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "LAC",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "GSW",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "SAS",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "HOU",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "MEM": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "POR",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "GSW",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CHI",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "NOP": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "GSW",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "POR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MEM",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "SAS": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "TOR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "WAS",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "WAS": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "TOR",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "ATL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2015-16": {
+   "ATL": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "CLE",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "BOS": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ATL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "CHA": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIA",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "CLE": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DET",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "ATL",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 3,
+      "opp": "TOR",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 4,
+      "opp": "GSW",
+      "w": 4,
+      "l": 3
+     }
+    ]
+   },
+   "DAL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "OKC",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DET": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CLE",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "GSW": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "HOU",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "POR",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "OKC",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 4,
+      "opp": "CLE",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "HOU": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "GSW",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "IND": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "TOR",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "POR",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MEM": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "SAS",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "MIA": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CHA",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "TOR",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "OKC": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DAL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "SAS",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "GSW",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "POR": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "GSW",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "SAS": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MEM",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "OKC",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "TOR": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "IND",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "MIA",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "CLE",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2016-17": {
+   "ATL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "WAS",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "BOS": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CHI",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "WAS",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "CLE",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "CHI": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "CLE": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "IND",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "TOR",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 3,
+      "opp": "BOS",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 4,
+      "opp": "GSW",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "GSW": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "POR",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "UTA",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 3,
+      "opp": "SAS",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 4,
+      "opp": "CLE",
+      "w": 4,
+      "l": 1
+     }
+    ]
+   },
+   "HOU": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "OKC",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "SAS",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "IND": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CLE",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "UTA",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "MEM": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "SAS",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "TOR",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "OKC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "HOU",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "POR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "GSW",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "SAS": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MEM",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "HOU",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "GSW",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "TOR": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "CLE",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "UTA": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "GSW",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "WAS": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ATL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "BOS",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2017-18": {
+   "BOS": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "PHI",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "CLE",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "CLE": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "IND",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "TOR",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 3,
+      "opp": "BOS",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 4,
+      "opp": "GSW",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "GSW": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "SAS",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "NOP",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "HOU",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 4,
+      "opp": "CLE",
+      "w": 4,
+      "l": 0
+     }
+    ]
+   },
+   "HOU": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIN",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "UTA",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "GSW",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "IND": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CLE",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "MIA": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHI",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "MIN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "HOU",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "NOP": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "POR",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "GSW",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "OKC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "UTA",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "PHI": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIA",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "BOS",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "POR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "NOP",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "SAS": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "GSW",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "TOR": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "WAS",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "CLE",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "UTA": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "OKC",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "HOU",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "WAS": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "TOR",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2018-19": {
+   "BKN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHI",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "BOS": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "IND",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "MIL",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DEN": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "SAS",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "POR",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "DET": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "GSW": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "HOU",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "POR",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 4,
+      "opp": "TOR",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "HOU": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "UTA",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "GSW",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "IND": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "GSW",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DET",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "BOS",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "TOR",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "OKC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "POR",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "ORL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "TOR",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "PHI": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BKN",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "TOR",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "POR": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "OKC",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "DEN",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "GSW",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "SAS": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DEN",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "TOR": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ORL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "PHI",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "MIL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 4,
+      "opp": "GSW",
+      "w": 4,
+      "l": 2
+     }
+    ]
+   },
+   "UTA": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "HOU",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2019-20": {
+   "BKN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "TOR",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "BOS": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHI",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "TOR",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "MIA",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "DAL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "DEN": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "UTA",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "LAC",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "LAL",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "HOU": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "OKC",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "LAL",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "IND": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIA",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DAL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "DEN",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "LAL": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "POR",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "HOU",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "DEN",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 4,
+      "opp": "MIA",
+      "w": 4,
+      "l": 2
+     }
+    ]
+   },
+   "MIA": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "IND",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "MIL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "BOS",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 4,
+      "opp": "LAL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ORL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "MIA",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "OKC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "HOU",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "ORL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "PHI": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "POR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAL",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "TOR": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BKN",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "BOS",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "UTA": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DEN",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2020-21": {
+   "ATL": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "NYK",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "PHI",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "MIL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "BKN": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "MIL",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "BOS": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BKN",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DAL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "DEN": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "POR",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "PHX",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DAL",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "UTA",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "PHX",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "LAL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHX",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MEM": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "UTA",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "MIA": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIA",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "BKN",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "ATL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 4,
+      "opp": "PHX",
+      "w": 4,
+      "l": 2
+     }
+    ]
+   },
+   "NYK": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ATL",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "PHI": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "WAS",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "ATL",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "PHX": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "DEN",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 3,
+      "opp": "LAC",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 4,
+      "opp": "MIL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "POR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DEN",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "UTA": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MEM",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "LAC",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "WAS": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHI",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2021-22": {
+   "ATL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIA",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "BKN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "BOS": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BKN",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "MIL",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "MIA",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 4,
+      "opp": "GSW",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "CHI": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DAL": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "UTA",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "PHX",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "GSW",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DEN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "GSW",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "GSW": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DEN",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "MEM",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "DAL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 4,
+      "opp": "BOS",
+      "w": 4,
+      "l": 2
+     }
+    ]
+   },
+   "MEM": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIN",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "GSW",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MIA": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ATL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "PHI",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "BOS",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CHI",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "BOS",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "MIN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MEM",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "NOP": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHX",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "PHI": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "TOR",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "MIA",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "PHX": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "NOP",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "DAL",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "TOR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHI",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "UTA": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DAL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2022-23": {
+   "ATL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "BKN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHI",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "BOS": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ATL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "PHI",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "MIA",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "CLE": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "NYK",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DEN": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIN",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "PHX",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "LAL",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 4,
+      "opp": "MIA",
+      "w": 4,
+      "l": 1
+     }
+    ]
+   },
+   "GSW": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "SAC",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "LAL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHX",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "LAL": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MEM",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "GSW",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "DEN",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "MEM": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MIA": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "NYK",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "BOS",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 4,
+      "opp": "DEN",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIA",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "MIN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DEN",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "NYK": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CLE",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "MIA",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "PHI": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BKN",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "BOS",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "PHX": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "DEN",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "SAC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "GSW",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2023-24": {
+   "BOS": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIA",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "CLE",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "IND",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 4,
+      "opp": "DAL",
+      "w": 4,
+      "l": 1
+     }
+    ]
+   },
+   "CLE": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ORL",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "BOS",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DAL": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "OKC",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "MIN",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 4,
+      "opp": "BOS",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DEN": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "MIN",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "IND": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "NYK",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "BOS",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DAL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "LAL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DEN",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "MIA": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "IND",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "MIN": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHX",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "DEN",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "DAL",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "NOP": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "OKC",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "NYK": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHI",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "IND",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "OKC": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "NOP",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "DAL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "ORL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CLE",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "PHI": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "NYK",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "PHX": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIN",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2024-25": {
+   "BOS": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ORL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "NYK",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "CLE": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIA",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "IND",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "DEN": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAC",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "OKC",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "DET": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "NYK",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "GSW": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "HOU",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "MIN",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "HOU": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "GSW",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "IND": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "CLE",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "NYK",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 4,
+      "opp": "OKC",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "LAC": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DEN",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "LAL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIN",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "MEM": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "OKC",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "MIA": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CLE",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "MIL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "IND",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "MIN": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAL",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "GSW",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 3,
+      "opp": "OKC",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "NYK": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DET",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "BOS",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "IND",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "OKC": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MEM",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "DEN",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "MIN",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 4,
+      "opp": "IND",
+      "w": 4,
+      "l": 3
+     }
+    ]
+   },
+   "ORL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   }
+  },
+  "2025-26": {
+   "ATL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "NYK",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "BOS": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHI",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "CLE": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "TOR",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "DET",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 3,
+      "opp": "NYK",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "DEN": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "MIN",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "DET": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ORL",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "CLE",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "HOU": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "LAL",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "LAL": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "HOU",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "OKC",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "MIN": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DEN",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "SAS",
+      "w": 2,
+      "l": 4
+     }
+    ]
+   },
+   "NYK": {
+    "round": 4,
+    "champion": true,
+    "series": [
+     {
+      "round": 1,
+      "opp": "ATL",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 2,
+      "opp": "PHI",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 3,
+      "opp": "CLE",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 4,
+      "opp": "SAS",
+      "w": 4,
+      "l": 1
+     }
+    ]
+   },
+   "OKC": {
+    "round": 3,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "PHX",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 2,
+      "opp": "LAL",
+      "w": 4,
+      "l": 0
+     },
+     {
+      "round": 3,
+      "opp": "SAS",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "ORL": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "DET",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   },
+   "PHI": {
+    "round": 2,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "BOS",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 2,
+      "opp": "NYK",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "PHX": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "OKC",
+      "w": 0,
+      "l": 4
+     }
+    ]
+   },
+   "POR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "SAS",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "SAS": {
+    "round": 4,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "POR",
+      "w": 4,
+      "l": 1
+     },
+     {
+      "round": 2,
+      "opp": "MIN",
+      "w": 4,
+      "l": 2
+     },
+     {
+      "round": 3,
+      "opp": "OKC",
+      "w": 4,
+      "l": 3
+     },
+     {
+      "round": 4,
+      "opp": "NYK",
+      "w": 1,
+      "l": 4
+     }
+    ]
+   },
+   "TOR": {
+    "round": 1,
+    "champion": false,
+    "series": [
+     {
+      "round": 1,
+      "opp": "CLE",
+      "w": 3,
+      "l": 4
+     }
+    ]
+   }
+  }
+ }
+}

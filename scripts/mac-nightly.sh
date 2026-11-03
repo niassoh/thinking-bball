@@ -1,7 +1,8 @@
 #!/bin/zsh
 # The nightly's NBA.com half, which stats.nba.com won't serve to GitHub's runners: new
 # games' play-by-play into git (the cloud run builds Footprint and Lonestar from it), the
-# Last 30 Days windows' touches into git (Time of Poss % there), and the season's tracking
+# Last 30 Days windows' touches into git (Time of Poss % there), the season's playoff runs
+# into git (the team card's trophies), and the season's tracking
 # files into the bucket the stats sheet reads. launchd runs it at 7 am; it then starts the
 # cloud run itself (GitHub's own schedule is hours late or skipped, so it's only the
 # fallback). SITE_DATA is a site_Data clone (docs/daily-pipeline-requirements.md).
@@ -24,7 +25,8 @@ fi
 git pull -q --rebase || { notify "git pull failed; nothing ran."; exit 1 }
 node scripts/pbp-fetch.js || failed+=(play-by-play)
 node scripts/touches-window.js || failed+=(touches)
-git add data/pbp data/recent-touches.json
+node scripts/team-playoffs.js $(ls data/pbp | tail -1) || failed+=(team-playoffs)
+git add data/pbp data/recent-touches.json data/team-playoffs.json
 if ! git diff --cached --quiet; then
   git commit -q -m "Data: play-by-play and touches $(date -u +%F)" && git push -q || failed+=(push)
 fi
