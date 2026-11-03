@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "DAL",
-  "gp": 6,
-  "generatedAt": "2026-10-31T14:27:54.085Z",
+  "gp": 7,
+  "generatedAt": "2026-11-03T19:00:23.305Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DAL",
-      "minutes": 158,
-      "poss": 330,
-      "net": -9.1
+      "minutes": 166,
+      "poss": 344,
+      "net": -7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DAL",
-      "minutes": 130,
-      "poss": 271,
-      "net": 16.6
+      "minutes": 171,
+      "poss": 352,
+      "net": 6.8
     },
     {
       "label": "On, w/o Washington",
@@ -26,13 +26,6 @@
       "net": 26.3
     },
     {
-      "label": "On, w/o Risacher",
-      "sub": "2026–27 · DAL",
-      "minutes": 92,
-      "poss": 183,
-      "net": -10.4
-    },
-    {
       "label": "On, w/o Flagg",
       "sub": "2026–27 · DAL",
       "minutes": 71,
@@ -40,11 +33,18 @@
       "net": -28.8
     },
     {
+      "label": "On, w/o Risacher",
+      "sub": "2026–27 · DAL",
+      "minutes": 100,
+      "poss": 198,
+      "net": -6.6
+    },
+    {
       "label": "Neither Christie nor Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 60,
-      "poss": 122,
-      "net": 33.6
+      "minutes": 70,
+      "poss": 143,
+      "net": 27.4
     }
   ]
 }

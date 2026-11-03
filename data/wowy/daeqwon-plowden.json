@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAC",
-  "gp": 5,
-  "generatedAt": "2026-11-01T15:28:08.925Z",
+  "gp": 6,
+  "generatedAt": "2026-11-03T19:03:22.868Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAC",
-      "minutes": 70,
-      "poss": 146,
-      "net": -30.8
+      "minutes": 73,
+      "poss": 153,
+      "net": -28.9
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAC",
-      "minutes": 218,
-      "poss": 478,
-      "net": -14.5
-    },
-    {
-      "label": "On, w/o Sabonis",
-      "sub": "2026–27 · SAC",
-      "minutes": 30,
-      "poss": 62,
-      "net": -50
+      "minutes": 263,
+      "poss": 567,
+      "net": -9.7
     },
     {
       "label": "On, w/o Acuff Jr.",
       "sub": "2026–27 · SAC",
-      "minutes": 39,
-      "poss": 82,
-      "net": -30.5
+      "minutes": 42,
+      "poss": 89,
+      "net": -27.1
+    },
+    {
+      "label": "On, w/o Sabonis",
+      "sub": "2026–27 · SAC",
+      "minutes": 33,
+      "poss": 69,
+      "net": -43.8
     },
     {
       "label": "On, w/o LaVine",
       "sub": "2026–27 · SAC",
-      "minutes": 24,
-      "poss": 48,
-      "net": -37.5
+      "minutes": 27,
+      "poss": 55,
+      "net": -31.2
     },
     {
-      "label": "Neither Plowden nor Sabonis",
+      "label": "Neither Plowden nor Acuff Jr.",
       "sub": "2026–27 · SAC",
-      "minutes": 36,
-      "poss": 81,
-      "net": -27.3
+      "minutes": 39,
+      "poss": 85,
+      "net": -16.6
     }
   ]
 }

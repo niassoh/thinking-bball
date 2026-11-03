@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAC",
-  "gp": 5,
-  "generatedAt": "2026-11-01T15:27:00.148Z",
+  "gp": 6,
+  "generatedAt": "2026-11-03T19:02:09.630Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAC",
-      "minutes": 59,
-      "poss": 131,
-      "net": -32.8
+      "minutes": 89,
+      "poss": 191,
+      "net": -8.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAC",
-      "minutes": 229,
-      "poss": 493,
-      "net": -14.4
-    },
-    {
-      "label": "On, w/o Sabonis",
-      "sub": "2026–27 · SAC",
-      "minutes": 29,
-      "poss": 65,
-      "net": -38.5
+      "minutes": 247,
+      "poss": 529,
+      "net": -15.7
     },
     {
       "label": "On, w/o Acuff Jr.",
       "sub": "2026–27 · SAC",
-      "minutes": 47,
-      "poss": 105,
-      "net": -31.6
+      "minutes": 59,
+      "poss": 126,
+      "net": -15.1
+    },
+    {
+      "label": "On, w/o Sabonis",
+      "sub": "2026–27 · SAC",
+      "minutes": 44,
+      "poss": 93,
+      "net": -6.5
     },
     {
       "label": "On, w/o LaVine",
       "sub": "2026–27 · SAC",
-      "minutes": 18,
-      "poss": 38,
-      "net": -37.3
+      "minutes": 33,
+      "poss": 69,
+      "net": -7.2
     },
     {
-      "label": "Neither Monk nor Sabonis",
+      "label": "Neither Monk nor Acuff Jr.",
       "sub": "2026–27 · SAC",
-      "minutes": 37,
-      "poss": 78,
-      "net": -36.1
+      "minutes": 22,
+      "poss": 48,
+      "net": -40
     }
   ]
 }

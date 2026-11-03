@@ -1,36 +1,36 @@
 {
   "season": "2026-27",
   "team": "MIA",
-  "gp": 6,
-  "generatedAt": "2026-10-31T14:30:43.214Z",
+  "gp": 7,
+  "generatedAt": "2026-11-03T19:03:09.695Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIA",
-      "minutes": 126,
-      "poss": 269,
-      "net": -13
+      "minutes": 153,
+      "poss": 326,
+      "net": -17.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIA",
-      "minutes": 162,
-      "poss": 350,
-      "net": 4.6
+      "minutes": 183,
+      "poss": 395,
+      "net": 4.3
     },
     {
       "label": "On, w/o Mitchell",
       "sub": "2026–27 · MIA",
-      "minutes": 15,
-      "poss": 29,
-      "net": -13.8
+      "minutes": 18,
+      "poss": 39,
+      "net": -23.4
     },
     {
       "label": "On, w/o Antetokounmpo",
       "sub": "2026–27 · MIA",
-      "minutes": 38,
-      "poss": 82,
-      "net": -24.4
+      "minutes": 47,
+      "poss": 102,
+      "net": -32.5
     },
     {
       "label": "On, w/o Adebayo",
@@ -42,9 +42,9 @@
     {
       "label": "Neither Thompson nor Mitchell",
       "sub": "2026–27 · MIA",
-      "minutes": 68,
-      "poss": 151,
-      "net": -0.7
+      "minutes": 83,
+      "poss": 183,
+      "net": -2.2
     }
   ]
 }

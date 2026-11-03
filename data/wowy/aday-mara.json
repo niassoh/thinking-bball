@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "OKC",
-  "gp": 6,
-  "generatedAt": "2026-11-01T15:39:59.769Z",
+  "gp": 7,
+  "generatedAt": "2026-11-03T19:15:44.686Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · OKC",
-      "minutes": 107,
-      "poss": 217,
-      "net": 0.9
+      "minutes": 127,
+      "poss": 257,
+      "net": 3.9
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · OKC",
-      "minutes": 181,
-      "poss": 368,
-      "net": -1.4
+      "minutes": 209,
+      "poss": 424,
+      "net": -1.9
     },
     {
       "label": "On, w/o Gilgeous-Alexander",
@@ -28,23 +28,23 @@
     {
       "label": "On, w/o Mitchell",
       "sub": "2026–27 · OKC",
-      "minutes": 58,
-      "poss": 114,
-      "net": -10.6
+      "minutes": 68,
+      "poss": 134,
+      "net": -3.7
     },
     {
       "label": "On, w/o McCain",
       "sub": "2026–27 · OKC",
-      "minutes": 47,
-      "poss": 95,
-      "net": -2.1
+      "minutes": 56,
+      "poss": 112,
+      "net": 2.7
     },
     {
       "label": "Neither Mara nor Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 45,
-      "poss": 92,
-      "net": -16.3
+      "minutes": 55,
+      "poss": 110,
+      "net": -15.5
     }
   ]
 }

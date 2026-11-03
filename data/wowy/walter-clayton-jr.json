@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DAL",
-  "gp": 5,
-  "generatedAt": "2026-10-31T14:42:26.218Z",
+  "gp": 6,
+  "generatedAt": "2026-11-03T19:15:10.773Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DAL",
-      "minutes": 56,
-      "poss": 115,
-      "net": 31.3
+      "minutes": 79,
+      "poss": 165,
+      "net": 17.6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DAL",
-      "minutes": 233,
-      "poss": 485,
-      "net": -4.3
+      "minutes": 257,
+      "poss": 531,
+      "net": -5.5
     },
     {
       "label": "On, w/o Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 25,
-      "poss": 51,
-      "net": 39.2
-    },
-    {
-      "label": "On, w/o Risacher",
-      "sub": "2026–27 · DAL",
-      "minutes": 13,
-      "poss": 25,
-      "net": 4.1
+      "minutes": 34,
+      "poss": 69,
+      "net": 26.1
     },
     {
       "label": "On, w/o Flagg",
       "sub": "2026–27 · DAL",
-      "minutes": 25,
-      "poss": 45,
-      "net": 6.7
+      "minutes": 31,
+      "poss": 60,
+      "net": 8.4
+    },
+    {
+      "label": "On, w/o Risacher",
+      "sub": "2026–27 · DAL",
+      "minutes": 29,
+      "poss": 60,
+      "net": -1.7
     },
     {
       "label": "Neither Clayton Jr. nor Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 62,
-      "poss": 128,
-      "net": 28.1
+      "minutes": 64,
+      "poss": 131,
+      "net": 27.6
     }
   ]
 }

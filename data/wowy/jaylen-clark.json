@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "MIN",
-  "gp": 68,
-  "generatedAt": "2026-10-02T05:29:39.701Z",
+  "gp": 7,
+  "generatedAt": "2026-11-03T19:03:28.258Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · MIN",
-      "minutes": 888,
-      "poss": 1862,
-      "net": 3.920515574650913
+      "sub": "2026–27 · MIN",
+      "minutes": 77,
+      "poss": 161,
+      "net": 11.2
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · MIN",
-      "minutes": 3068,
-      "poss": 6445,
-      "net": 3.134212567882079
+      "sub": "2026–27 · MIN",
+      "minutes": 312,
+      "poss": 658,
+      "net": 11.1
     },
     {
-      "label": "On, w/o Randle",
-      "sub": "2025–26 · MIN",
-      "minutes": 457,
-      "poss": 974.5,
-      "net": 1.6418676244227808
+      "label": "On, w/o McDaniels",
+      "sub": "2026–27 · MIN",
+      "minutes": 37,
+      "poss": 81,
+      "net": -6.2
     },
     {
-      "label": "On, w/o DiVincenzo",
-      "sub": "2025–26 · MIN",
-      "minutes": 609,
-      "poss": 1272.5,
-      "net": 2.907662082514735
+      "label": "On, w/o Kuminga",
+      "sub": "2026–27 · MIN",
+      "minutes": 50,
+      "poss": 108,
+      "net": 10.2
     },
     {
-      "label": "On, w/o Gobert",
-      "sub": "2025–26 · MIN",
-      "minutes": 556,
-      "poss": 1170,
-      "net": 3.9316239316239314
+      "label": "On, w/o Dosunmu",
+      "sub": "2026–27 · MIN",
+      "minutes": 37,
+      "poss": 77,
+      "net": -9.1
     },
     {
-      "label": "Neither Clark nor Randle",
-      "sub": "2025–26 · MIN",
-      "minutes": 889,
-      "poss": 1866.5,
-      "net": 1.4465577283686044
+      "label": "Neither Clark nor McDaniels",
+      "sub": "2026–27 · MIN",
+      "minutes": 89,
+      "poss": 191,
+      "net": -2.1
     }
   ]
 }

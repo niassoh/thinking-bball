@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "UTA",
-  "gp": 5,
-  "generatedAt": "2026-11-01T15:26:53.666Z",
+  "gp": 6,
+  "generatedAt": "2026-11-03T19:01:53.327Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · UTA",
-      "minutes": 80,
-      "poss": 163,
-      "net": -11.7
+      "minutes": 99,
+      "poss": 201,
+      "net": -6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · UTA",
-      "minutes": 213,
-      "poss": 454,
-      "net": -9.3
+      "minutes": 242,
+      "poss": 517,
+      "net": -13.7
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · UTA",
-      "minutes": 38,
-      "poss": 78,
-      "net": -11.5
-    },
-    {
-      "label": "On, w/o Bailey",
-      "sub": "2026–27 · UTA",
-      "minutes": 37,
-      "poss": 78,
-      "net": -21.9
+      "minutes": 53,
+      "poss": 108,
+      "net": -0.9
     },
     {
       "label": "On, w/o Peterson",
       "sub": "2026–27 · UTA",
-      "minutes": 48,
-      "poss": 103,
-      "net": -29.1
+      "minutes": 54,
+      "poss": 119,
+      "net": -25.3
+    },
+    {
+      "label": "On, w/o Bailey",
+      "sub": "2026–27 · UTA",
+      "minutes": 51,
+      "poss": 104,
+      "net": -12.5
     },
     {
       "label": "Neither Okogie nor George",
       "sub": "2026–27 · UTA",
-      "minutes": 62,
-      "poss": 139,
-      "net": -18
+      "minutes": 72,
+      "poss": 161,
+      "net": -15.6
     }
   ]
 }

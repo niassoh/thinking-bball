@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "PHI",
-  "gp": 5,
-  "generatedAt": "2026-11-01T15:34:17.745Z",
+  "gp": 6,
+  "generatedAt": "2026-11-03T19:09:45.994Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHI",
-      "minutes": 139,
-      "poss": 281,
-      "net": -0.7
+      "minutes": 162,
+      "poss": 326,
+      "net": 5.2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHI",
-      "minutes": 197,
-      "poss": 416,
-      "net": 7
+      "minutes": 222,
+      "poss": 470,
+      "net": 6.2
     },
     {
       "label": "On, w/o Maxey",
       "sub": "2026–27 · PHI",
-      "minutes": 30,
-      "poss": 65,
-      "net": -12.4
+      "minutes": 39,
+      "poss": 83,
+      "net": 4.8
     },
     {
       "label": "On, w/o Brown",
       "sub": "2026–27 · PHI",
-      "minutes": 52,
-      "poss": 102,
-      "net": -13.8
+      "minutes": 63,
+      "poss": 126,
+      "net": 0
     },
     {
       "label": "On, w/o Edgecombe",
       "sub": "2026–27 · PHI",
-      "minutes": 72,
-      "poss": 146,
-      "net": 11
+      "minutes": 78,
+      "poss": 157,
+      "net": 8.3
     },
     {
       "label": "Neither Wade nor Maxey",
       "sub": "2026–27 · PHI",
-      "minutes": 43,
-      "poss": 93,
-      "net": -19.5
+      "minutes": 45,
+      "poss": 98,
+      "net": -21.4
     }
   ]
 }

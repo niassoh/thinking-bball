@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DET",
-  "gp": 6,
-  "generatedAt": "2026-10-31T14:29:31.930Z",
+  "gp": 7,
+  "generatedAt": "2026-11-03T19:01:55.036Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DET",
-      "minutes": 124,
-      "poss": 256,
-      "net": -2
+      "minutes": 144,
+      "poss": 297,
+      "net": 5.1
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DET",
-      "minutes": 164,
-      "poss": 332,
-      "net": 16
+      "minutes": 192,
+      "poss": 388,
+      "net": 17
     },
     {
       "label": "On, w/o Cunningham",
       "sub": "2026–27 · DET",
-      "minutes": 63,
-      "poss": 131,
-      "net": 9.2
+      "minutes": 74,
+      "poss": 154,
+      "net": 17.5
     },
     {
       "label": "On, w/o Robinson",
       "sub": "2026–27 · DET",
-      "minutes": 86,
-      "poss": 180,
-      "net": -0.6
+      "minutes": 96,
+      "poss": 201,
+      "net": 1
     },
     {
       "label": "On, w/o Reed",
       "sub": "2026–27 · DET",
-      "minutes": 65,
-      "poss": 134,
-      "net": -18.7
+      "minutes": 77,
+      "poss": 158,
+      "net": -14
     },
     {
       "label": "Neither Huerter nor Cunningham",
       "sub": "2026–27 · DET",
-      "minutes": 25,
-      "poss": 53,
-      "net": 24.8
+      "minutes": 35,
+      "poss": 74,
+      "net": 16.2
     }
   ]
 }

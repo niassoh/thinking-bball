@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-11-01T15:04:33.004Z",
+  "generatedAt": "2026-11-03T18:40:48.592Z",
   "rows": [
     {
       "pos": "PG",
@@ -19,15 +19,15 @@
           "status": null
         },
         {
-          "name": "Bennett Stirtz",
-          "slug": "bennett-stirtz",
-          "espnId": "5241364",
-          "status": null
-        },
-        {
           "name": "Jared McCain",
           "slug": "jared-mccain",
           "espnId": "4683778",
+          "status": null
+        },
+        {
+          "name": "Bennett Stirtz",
+          "slug": "bennett-stirtz",
+          "espnId": "5241364",
           "status": null
         }
       ]
@@ -36,15 +36,15 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Jared McCain",
-          "slug": "jared-mccain",
-          "espnId": "4683778",
-          "status": null
-        },
-        {
           "name": "Ajay Mitchell",
           "slug": "ajay-mitchell",
           "espnId": "4900671",
+          "status": null
+        },
+        {
+          "name": "Jared McCain",
+          "slug": "jared-mccain",
+          "espnId": "4683778",
           "status": null
         },
         {
@@ -65,9 +65,9 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Ajay Mitchell",
-          "slug": "ajay-mitchell",
-          "espnId": "4900671",
+          "name": "Kenrich Williams",
+          "slug": "kenrich-williams",
+          "espnId": "3133626",
           "status": null
         },
         {
@@ -77,9 +77,9 @@
           "status": "OUT"
         },
         {
-          "name": "Kenrich Williams",
-          "slug": "kenrich-williams",
-          "espnId": "3133626",
+          "name": "Ajay Mitchell",
+          "slug": "ajay-mitchell",
+          "espnId": "4900671",
           "status": null
         },
         {
@@ -94,6 +94,12 @@
       "pos": "PF",
       "players": [
         {
+          "name": "Jaylin Williams",
+          "slug": "jaylin-williams",
+          "espnId": "4432823",
+          "status": null
+        },
+        {
           "name": "Kenrich Williams",
           "slug": "kenrich-williams",
           "espnId": "3133626",
@@ -104,12 +110,6 @@
           "slug": "alex-caruso",
           "espnId": "2991350",
           "status": "OUT"
-        },
-        {
-          "name": "Jaylin Williams",
-          "slug": "jaylin-williams",
-          "espnId": "4432823",
-          "status": null
         },
         {
           "name": "Brooks Barnhizer",

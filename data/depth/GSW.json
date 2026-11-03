@@ -1,7 +1,7 @@
 {
   "team": "GSW",
   "season": "2026-27",
-  "generatedAt": "2026-11-02T15:05:11.837Z",
+  "generatedAt": "2026-11-03T18:40:44.461Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Stephen Curry",
           "slug": "stephen-curry",
           "espnId": "3975",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "De'Anthony Melton",
@@ -86,7 +86,7 @@
           "name": "Gui Santos",
           "slug": "gui-santos",
           "espnId": "4997536",
-          "status": "OUT"
+          "status": "DTD"
         }
       ]
     },
@@ -97,7 +97,7 @@
           "name": "Gui Santos",
           "slug": "gui-santos",
           "espnId": "4997536",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Georges Niang",
@@ -109,7 +109,7 @@
           "name": "Draymond Green",
           "slug": "draymond-green",
           "espnId": "6589",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Yaxel Lendeborg",
@@ -126,13 +126,13 @@
           "name": "Draymond Green",
           "slug": "draymond-green",
           "espnId": "6589",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Al Horford",
           "slug": "al-horford",
           "espnId": "3213",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Graham Ike",

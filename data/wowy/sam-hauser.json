@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "BOS",
-  "gp": 6,
-  "generatedAt": "2026-11-02T15:43:14.419Z",
+  "gp": 7,
+  "generatedAt": "2026-11-03T19:04:03.820Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BOS",
-      "minutes": 121,
-      "poss": 251,
-      "net": 28.7
+      "minutes": 140,
+      "poss": 286,
+      "net": 23.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BOS",
-      "minutes": 172,
-      "poss": 350,
-      "net": -4.3
+      "minutes": 201,
+      "poss": 403,
+      "net": -6.5
     },
     {
       "label": "On, w/o Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 31,
-      "poss": 67,
-      "net": 36.1
-    },
-    {
-      "label": "On, w/o George",
-      "sub": "2026–27 · BOS",
-      "minutes": 79,
-      "poss": 167,
-      "net": 19.8
+      "minutes": 40,
+      "poss": 80,
+      "net": 16.3
     },
     {
       "label": "On, w/o White",
       "sub": "2026–27 · BOS",
-      "minutes": 81,
-      "poss": 170,
-      "net": 27.1
+      "minutes": 92,
+      "poss": 192,
+      "net": 24.5
+    },
+    {
+      "label": "On, w/o Pritchard",
+      "sub": "2026–27 · BOS",
+      "minutes": 31,
+      "poss": 62,
+      "net": 24.4
     },
     {
       "label": "Neither Hauser nor Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 48,
-      "poss": 96,
-      "net": 2.1
+      "minutes": 55,
+      "poss": 108,
+      "net": -3.7
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "HOU",
   "season": "2026-27",
-  "generatedAt": "2026-11-02T20:03:38.566Z",
+  "generatedAt": "2026-11-03T18:40:44.835Z",
   "rows": [
     {
       "pos": "PG",
@@ -45,7 +45,7 @@
           "name": "Reed Sheppard",
           "slug": "reed-sheppard",
           "espnId": "4711272",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Marcus Smart",
@@ -144,7 +144,7 @@
           "name": "Clint Capela",
           "slug": "clint-capela",
           "espnId": "3102529",
-          "status": "OUT"
+          "status": "DTD"
         }
       ]
     }

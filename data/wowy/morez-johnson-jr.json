@@ -1,36 +1,29 @@
 {
   "season": "2026-27",
   "team": "DAL",
-  "gp": 6,
-  "generatedAt": "2026-10-31T14:42:54.820Z",
+  "gp": 7,
+  "generatedAt": "2026-11-03T19:15:41.957Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DAL",
-      "minutes": 93,
-      "poss": 194,
-      "net": 1
+      "minutes": 110,
+      "poss": 228,
+      "net": -1.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DAL",
-      "minutes": 195,
-      "poss": 407,
-      "net": 3.2
+      "minutes": 226,
+      "poss": 469,
+      "net": 0.6
     },
     {
       "label": "On, w/o Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 33,
-      "poss": 70,
-      "net": 34.3
-    },
-    {
-      "label": "On, w/o Risacher",
-      "sub": "2026–27 · DAL",
-      "minutes": 29,
-      "poss": 58,
-      "net": -44.8
+      "minutes": 36,
+      "poss": 76,
+      "net": 28.9
     },
     {
       "label": "On, w/o Flagg",
@@ -40,11 +33,18 @@
       "net": -17.3
     },
     {
+      "label": "On, w/o Risacher",
+      "sub": "2026–27 · DAL",
+      "minutes": 39,
+      "poss": 78,
+      "net": -33.5
+    },
+    {
       "label": "Neither Johnson Jr. nor Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 54,
-      "poss": 109,
-      "net": 29.4
+      "minutes": 61,
+      "poss": 124,
+      "net": 25.9
     }
   ]
 }

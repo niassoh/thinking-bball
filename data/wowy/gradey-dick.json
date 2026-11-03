@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "LAC",
-  "gp": 6,
-  "generatedAt": "2026-11-02T15:33:02.095Z",
+  "gp": 7,
+  "generatedAt": "2026-11-03T19:00:01.819Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · LAC",
-      "minutes": 83,
-      "poss": 181,
-      "net": -2.8
+      "minutes": 111,
+      "poss": 239,
+      "net": -3.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · LAC",
-      "minutes": 205,
-      "poss": 422,
-      "net": -9.3
+      "minutes": 225,
+      "poss": 465,
+      "net": -9.2
     },
     {
       "label": "On, w/o Garland",
       "sub": "2026–27 · LAC",
-      "minutes": 63,
-      "poss": 139,
-      "net": 12.2
+      "minutes": 67,
+      "poss": 146,
+      "net": 11
     },
     {
       "label": "On, w/o Dunn",
       "sub": "2026–27 · LAC",
-      "minutes": 28,
-      "poss": 65,
-      "net": -31
+      "minutes": 37,
+      "poss": 82,
+      "net": -28.2
     },
     {
-      "label": "On, w/o Jones Jr.",
+      "label": "On, w/o Sanders",
       "sub": "2026–27 · LAC",
-      "minutes": 77,
-      "poss": 168,
-      "net": 0
+      "minutes": 25,
+      "poss": 52,
+      "net": -25.2
     },
     {
       "label": "Neither Dick nor Garland",
       "sub": "2026–27 · LAC",
-      "minutes": 30,
-      "poss": 62,
-      "net": 11.3
+      "minutes": 39,
+      "poss": 81,
+      "net": 21.1
     }
   ]
 }

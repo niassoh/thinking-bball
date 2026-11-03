@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "ATL",
-  "gp": 7,
-  "generatedAt": "2026-11-01T15:26:45.767Z",
+  "gp": 8,
+  "generatedAt": "2026-11-03T19:01:40.040Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · ATL",
-      "minutes": 179,
-      "poss": 393,
-      "net": 1
+      "minutes": 203,
+      "poss": 442,
+      "net": 2.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · ATL",
-      "minutes": 157,
-      "poss": 327,
-      "net": 0.6
-    },
-    {
-      "label": "On, w/o Johnson",
-      "sub": "2026–27 · ATL",
-      "minutes": 87,
-      "poss": 195,
-      "net": 7.7
+      "minutes": 181,
+      "poss": 378,
+      "net": -0.3
     },
     {
       "label": "On, w/o Alexander-Walker",
       "sub": "2026–27 · ATL",
-      "minutes": 90,
-      "poss": 195,
-      "net": -19
+      "minutes": 106,
+      "poss": 228,
+      "net": -17.1
     },
     {
       "label": "On, w/o Daniels",
       "sub": "2026–27 · ATL",
-      "minutes": 114,
-      "poss": 248,
-      "net": -3.2
+      "minutes": 130,
+      "poss": 281,
+      "net": 1.4
     },
     {
-      "label": "Neither Wiggins nor Johnson",
+      "label": "On, w/o Okongwu",
       "sub": "2026–27 · ATL",
-      "minutes": 20,
-      "poss": 39,
-      "net": 23.4
+      "minutes": 134,
+      "poss": 289,
+      "net": -2.1
+    },
+    {
+      "label": "Neither Wiggins nor Alexander-Walker",
+      "sub": "2026–27 · ATL",
+      "minutes": 36,
+      "poss": 74,
+      "net": 12.2
     }
   ]
 }

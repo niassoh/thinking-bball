@@ -1,7 +1,7 @@
 {
   "team": "BOS",
   "season": "2026-27",
-  "generatedAt": "2026-11-02T20:03:35.452Z",
+  "generatedAt": "2026-11-03T18:40:41.805Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,10 +36,10 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Paul George",
-          "slug": "paul-george",
-          "espnId": "4251",
-          "status": "OUT"
+          "name": "Hugo Gonzalez",
+          "slug": "hugo-gonzalez",
+          "espnId": "5175647",
+          "status": null
         },
         {
           "name": "Baylor Scheierman",
@@ -54,9 +54,9 @@
           "status": null
         },
         {
-          "name": "Hugo Gonzalez",
-          "slug": "hugo-gonzalez",
-          "espnId": "5175647",
+          "name": "Derrick White",
+          "slug": "derrick-white",
+          "espnId": "3078576",
           "status": null
         }
       ]
@@ -80,7 +80,7 @@
           "name": "Paul George",
           "slug": "paul-george",
           "espnId": "4251",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Baylor Scheierman",
@@ -94,6 +94,12 @@
       "pos": "PF",
       "players": [
         {
+          "name": "Paul George",
+          "slug": "paul-george",
+          "espnId": "4251",
+          "status": "DTD"
+        },
+        {
           "name": "Jordan Walsh",
           "slug": "jordan-walsh",
           "espnId": "4683689",
@@ -104,12 +110,6 @@
           "slug": "jayson-tatum",
           "espnId": "4065648",
           "status": null
-        },
-        {
-          "name": "Paul George",
-          "slug": "paul-george",
-          "espnId": "4251",
-          "status": "OUT"
         },
         {
           "name": "Sam Hauser",
@@ -123,15 +123,15 @@
       "pos": "C",
       "players": [
         {
-          "name": "Mitchell Robinson",
-          "slug": "mitchell-robinson",
-          "espnId": "4351852",
-          "status": null
-        },
-        {
           "name": "Neemias Queta",
           "slug": "neemias-queta",
           "espnId": "4397424",
+          "status": null
+        },
+        {
+          "name": "Mitchell Robinson",
+          "slug": "mitchell-robinson",
+          "espnId": "4351852",
           "status": null
         },
         {
