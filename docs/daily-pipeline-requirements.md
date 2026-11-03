@@ -44,7 +44,7 @@ that fails keeps yesterday's files and the rest still run.
 | 15 | Footprint (if 13 and 14 succeeded) | `python analysis/footprint/footprint_pbp.py $SEASON` | `data/footprint/<season>/`: profiles take the season's Footprint from here (with rim free throws and teammate counts) instead of 6's files |
 | 16 | Lonestar (if 3 and 14 succeeded) | `node scripts/lonestar.js --source=pbp --season=$SEASON --refresh` | `data/lonestar/<season>/`, `league.json`; the season being played picks its stars with no minutes floor (audit #189) |
 | 16b | Games check (not fatal) | `node scripts/games-check.js $SEASON` | nothing; every finished regular-season game on ESPN's scoreboard against pbpstats' list. A game pbpstats lacks or has the wrong final for is listed in the summary and fails the run at its end (after the commit and deploy), so GitHub emails the owner |
-| 17 | Checks (fatal) | `node scripts/nightly-check.js` and `analysis/footprint`'s Python tests (not the node tests: they assume a full latest season, and footprint's runs out of the runner's 7 GB) | nothing; if they fail, nothing is committed and the site keeps yesterday's data |
+| 17 | Checks (fatal) | `node scripts/nightly-check.js` and `analysis/footprint`'s Python tests (not the node tests: they assume a full latest season, and footprint's runs out of the runner's 7 GB) | nothing; if they fail, nothing is committed and the site keeps yesterday's data, and the whole run starts again 45 minutes later, once (`-f retry=true`: a retry starts no other) |
 | 18 | Commit | `git add data` (never `git add .`) | `Data: nightly <date>`, pushed |
 | 19 | Deploy | `gh workflow run pages.yml -R niassoh/tbball` | the site, a few minutes later |
 

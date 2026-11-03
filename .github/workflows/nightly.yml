@@ -3,7 +3,8 @@
 # checks; if they pass, data/ is committed and the site's deploy (niassoh/tbball) builds
 # from it. A failed pull, or pbpstats missing a game or its score (scripts/games-check.js),
 # fails the run at the end, which emails the repo's owner; a failed team pull is tried
-# again an hour later (team-retry.yml).
+# again an hour later (team-retry.yml). Failed checks (a sheet read mid-reload) start the
+# whole run once more after `wait` minutes; that retry doesn't start another.
 name: nightly
 
 on:
@@ -15,12 +16,14 @@ on:
   schedule:
     - cron: '17 17 * * *'
   workflow_dispatch:
-
-# Never two at once (both would drive the production sheet), and never cancelled mid-run:
-# a killed sheet step can't restore Instructions!A13 / E13:F13.
-concurrency:
-  group: nightly
-  cancel-in-progress: false
+    inputs:
+      wait:
+        description: Minutes before the run starts
+        default: '0'
+      retry:
+        description: A retry of failed checks (starts no further retry)
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -37,7 +40,9 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           EVENT: ${{ github.event_name }}
+          WAIT: ${{ inputs.wait || 0 }}
         run: |
+          sleep $(( WAIT * 60 ))
           started=0
           if [ "$EVENT" = schedule ]; then
             since=$(date -u -d '-20 hours' +%FT%TZ)
@@ -51,6 +56,12 @@ jobs:
     if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 150
+    # Never two at once (both would drive the production sheet), and never cancelled mid-run:
+    # a killed sheet step can't restore Instructions!A13 / E13:F13. On the job, not the
+    # workflow, so a retry's wait (gate) holds nothing up.
+    concurrency:
+      group: nightly
+      cancel-in-progress: false
     permissions:
       contents: write
       actions: write
@@ -172,7 +183,8 @@ jobs:
       # Fatal: a short pull keeps yesterday's data and site. The node tests aren't run: they
       # assume a full latest season (they failed on 2026-27's first night) and footprint's
       # runs out of memory here; the deploy's export is the end-to-end check.
-      - run: node scripts/nightly-check.js && python -m unittest discover -s analysis/footprint
+      - id: check
+        run: node scripts/nightly-check.js && python -m unittest discover -s analysis/footprint
       - id: commit
         run: |
           git config user.name 'github-actions[bot]'
@@ -193,6 +205,13 @@ jobs:
       # gets another try in an hour (team-retry.yml).
       - if: steps.team.outcome == 'failure'
         run: gh workflow run team-retry.yml -R "$GITHUB_REPOSITORY"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      # The checks failed (on 2026-11-03 the season sheet read with nine columns blank):
+      # yesterday's data stands, and the whole run goes again in 45 minutes, once.
+      - if: failure() && steps.check.outcome == 'failure' && !inputs.retry
+        run: gh workflow run nightly.yml -R "$GITHUB_REPOSITORY" -f wait=45 -f retry=true
         env:
           GH_TOKEN: ${{ github.token }}
 
