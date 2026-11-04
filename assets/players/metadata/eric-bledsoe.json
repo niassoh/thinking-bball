@@ -1,0 +1,58 @@
+{
+  "player": "Eric Bledsoe",
+  "playerId": "eric-bledsoe",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bradley_Beal%2C_Eric_Bledsoe_%2827935025389%29.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bradley_Beal%2C_Eric_Bledsoe_%2827935025389%29.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Bradley_Beal,_Eric_Bledsoe_(27935025389).jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2018-01-15 (Bucks at Wizards, Capital One Arena)",
+  "originalSize": null,
+  "storedSize": [
+    2613,
+    1823
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/eric-bledsoe.jpg",
+  "selectedAt": "2026-11-04T18:02:55.500Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1300,
+    "y": 150,
+    "size": 850
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (pushing the ball upcourt, eyes off-camera, mouth open mid-breath)",
+  "jersey": "MIL white Association #6, 2017-18 (same team, one season before the wanted 2018-19)",
+  "concerns": "Bradley Beal tattooed arm at the far left edge of the crop; slight high-ISO noise; face ~370px",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Eric_Bledsoe_Suns.jpg",
+      "note": "(Jan 12 2017 in Mexico City, PHX, only 688x781, not MIL)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,0 +1,64 @@
+{
+  "player": "Victor Oladipo",
+  "playerId": "victor-oladipo",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Victor_Oladipo_%2839060269840%29.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Victor_Oladipo_%2839060269840%29.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Victor_Oladipo_(39060269840).jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2018-03-17 (Pacers at Wizards, Capital One Arena)",
+  "originalSize": null,
+  "storedSize": [
+    2345,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/victor-oladipo.jpg",
+  "selectedAt": "2026-11-04T18:02:26.674Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 660,
+    "y": 970,
+    "size": 760
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up on the ball at the end of a layup, mouth open mid-breath)",
+  "jersey": "IND gold Statement #4, 2017-18",
+  "concerns": "his raised shooting arm runs up the left side of the crop with hand and ball in the top-left corner; head tilted up; face ~250px in the stored 3000px image",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Victor_Oladipo_%2840829042322%29.jpg",
+      "note": "(same game, gold, mouth wide and brow knit gathering for a layup, energy ~8.5, hand and ball beside the face)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Victor_Oladipo_%2839060706270%29.jpg",
+      "note": "(same game, gold, free throw, large sharp face but calm closed-mouth focus, energy ~5.5, ball and hand at right)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

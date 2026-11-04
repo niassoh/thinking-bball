@@ -1,0 +1,58 @@
+{
+  "player": "Joe Johnson",
+  "playerId": "joe-johnson",
+  "sourceUrl": "https://assets-cms.thescore.com/uploads/image/file/116845/REUA_048527.jpg",
+  "downloadUrl": "https://assets-cms.thescore.com/uploads/image/file/116845/REUA_048527.jpg",
+  "sourcePage": "https://www.thescore.com/nba/news/768396",
+  "license": "unknown (Reuters via theScore)",
+  "licenseUrl": null,
+  "author": "Reuters",
+  "credit": null,
+  "photoDate": "undated, c. 2002-05 (Suns at Grizzlies, FedExForum era)",
+  "originalSize": null,
+  "storedSize": [
+    2200,
+    1647
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/joe-johnson.jpg",
+  "selectedAt": "2026-11-04T18:08:35.520Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 3,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 760,
+    "y": 0,
+    "size": 780
+  },
+  "needsReview": "energy ~8 squinting complaint face, soft/grainy, undated; the only sizable in-game PHX photo found (Commons has no Suns-era Johnson; Suns legacy galleries are 500px)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 8,
+  "energyVsMcCain": "higher (arguing a call with arms spread, squinting, mouth twisted open)",
+  "jersey": "PHX purple road #2, c. 2002-05 (exact season unverified)",
+  "concerns": "FLAG: complaint face with a squint, at the top edge of the band; high-ISO grain and soft focus; exact date unknown (Reuters file, no caption found); spread arms and a Grizzlies player are outside the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Joe_Johnson_Mar-2012.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, Mar 24 2012, ATL red road, rebounding with mouth wide open, energy ~8.5, raised arm across the left of the crop, not PHX)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

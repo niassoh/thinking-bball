@@ -1,0 +1,64 @@
+{
+  "player": "Richard Jefferson",
+  "playerId": "richard-jefferson",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nets/sites/nets/files/bkn_1819_sc_top25_8-jefferson_910x575.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nets/sites/nets/files/bkn_1819_sc_top25_8-jefferson_910x575.jpg",
+  "sourcePage": "https://www.nba.com/nets/news/2018/09/04/nets-all-time-top-25-no-8-richard-jefferson",
+  "license": "unknown (NBA.com / Brooklyn Nets graphic; Getty Images / NBAE photo)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE (Brooklyn Nets graphic)",
+  "credit": null,
+  "photoDate": "c. 2002-05 (NJN white home, Continental Airlines Arena, undated; used in the Nets All-Time Top 25 No. 8 feature)",
+  "originalSize": null,
+  "storedSize": [
+    910,
+    575
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/richard-jefferson.jpg",
+  "selectedAt": "2026-11-04T18:11:32.138Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 395,
+    "y": 0,
+    "size": 345
+  },
+  "needsReview": "publisher graphic, face ~190px",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (driving with the ball, eyes down-left on the play, lips parted mid-breath)",
+  "jersey": "NJN white home #24, c. 2002-05",
+  "concerns": "publisher graphic (Nets Top 25 card; text panel on the left, outside the crop); face ~190px in a 910px file, light grain; eyes look down rather than up; date unverified",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2018/10/richard-jefferson.jpg",
+      "note": "(renamed nba.com, CLE white c. 2016, at the free-throw line looking up, lips parted, energy 6.5, sharp ~450px face, but Cavaliers and late career)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nets/sites/nets/files/3gettyimages-74078642.jpg",
+      "note": "(NJN white, 2007 R1 G6 vs TOR, mid-drive, tiny face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

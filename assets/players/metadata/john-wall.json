@@ -1,0 +1,64 @@
+{
+  "player": "John Wall",
+  "playerId": "john-wall",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/John_Wall_%2831692313715%29.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/John_Wall_%2831692313715%29.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:John_Wall_(31692313715).jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2016-12-16 (Pistons at Wizards, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2905
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/john-wall.jpg",
+  "selectedAt": "2026-11-04T18:01:14.499Z",
+  "sourceSelectionScore": 15,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1070,
+    "y": 830,
+    "size": 760
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (eyes up on the ball at the end of a layup, mouth open mid-breath)",
+  "jersey": "WAS navy road \"Washington\" 2016-17",
+  "concerns": "his own shooting hand at the bottom edge of the crop; mid-layup so head tilted slightly up; face ~340px",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/John_Wall_%2832487068492%29.jpg",
+      "note": "(Jan 31 2017 vs NYK, white home, mouth open looking up mid-layup, energy ~7.5, arm extended across frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/John_Wall_2017_%28cropped%29.jpg",
+      "note": "(2017 white home, dribbling, looking off with mouth closed, energy ~5.5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

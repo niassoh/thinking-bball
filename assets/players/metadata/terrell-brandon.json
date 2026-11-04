@@ -1,0 +1,51 @@
+{
+  "player": "Terrell Brandon",
+  "playerId": "terrell-brandon",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-1387213to.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-1387213to.jpg",
+  "sourcePage": "https://www.nba.com/news/nba-birthdays-players-born-on-may-20",
+  "license": "unknown (Getty Images via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images (Allsport)",
+  "credit": null,
+  "photoDate": "c. 1996-97 (at Washington Bullets, US Air Arena; Bullets won 106-95)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/terrell-brandon.jpg",
+  "selectedAt": "2026-11-04T18:05:31.455Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 2,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 485,
+    "y": 0,
+    "size": 560
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (bringing the ball up, eyes ahead on his defender, tongue between parted lips)",
+  "jersey": "CLE black/blue road #1 (1994-97 design), c. 1996-97",
+  "concerns": "face ~235px, film grain and slightly soft; tongue showing between lips; Chris Whitney (WAS #12) in the right foreground of the full frame, outside crop; exact date not on the cached Getty caption (1387213), only that it was a Bullets home win 106-95 at US Air Arena (1996-97 was the last Bullets season)",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": "https://cdn.nba.com/manage/2025/05/GettyImages-1387213to.jpg",
+  "supersededHistory": []
+}

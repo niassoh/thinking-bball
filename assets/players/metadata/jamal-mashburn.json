@@ -1,0 +1,58 @@
+{
+  "player": "Jamal Mashburn",
+  "playerId": "jamal-mashburn",
+  "sourceUrl": "https://legacymedia.sportsplatform.io/images_root/slides/photos/000/821/568/1848925_original.jpg",
+  "downloadUrl": "https://legacymedia.sportsplatform.io/images_root/slides/photos/000/821/568/1848925_original.jpg",
+  "sourcePage": "https://bleacherreport.com/articles/649173-nba-power-rankings-lebron-james-larry-bird-and-the-50-greatest-small-forwards",
+  "license": "unknown (NBAE / Getty Images via Bleacher Report)",
+  "licenseUrl": null,
+  "author": "NBAE / Getty Images",
+  "credit": null,
+  "photoDate": "2003-03-03 (at LAC, Staples Center; Hornets won 111-108)",
+  "originalSize": null,
+  "storedSize": [
+    2006,
+    3000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jamal-mashburn.jpg",
+  "selectedAt": "2026-11-04T18:12:39.690Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 731,
+    "y": 124,
+    "size": 668
+  },
+  "needsReview": "wrong team (NOH 2002-03, not MIA); no usable Heat in-game photo found on nba.com, Bleacher Report slideshows, Hot Hot Hoops or Heat Nation",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (moving upcourt, looking off-camera, mouth open mid-breath)",
+  "jersey": "NOH teal road #24, 2002-03 — NOT the wanted MIA",
+  "concerns": "FLAG: Hornets 2002-03, not the wanted MIA 1996-97; only MIA in-game photo found (Getty 72525960, MIA black #24 at WAS c. 1999-2000, via heatnation.com) is a 630px web copy with a ~60px face",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://heatnation.com/wp-content/uploads/2015/01/hi-res-72525960_crop_north.jpg",
+      "note": "(MIA black #24 at WAS c. 1999-2000, defensive stance, energy ~6.5, but only 630x420 with a ~60px face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

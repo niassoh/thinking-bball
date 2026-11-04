@@ -1,0 +1,64 @@
+{
+  "player": "Larry Hughes",
+  "playerId": "larry-hughes",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/09/GettyImages-13720058721.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/09/GettyImages-13720058721.jpg",
+  "sourcePage": "https://www.nba.com/news/washington-wizards-single-season-steals-per-game-leaders",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "c. 2002-05 (WAS at LAC, Staples Center; article caption \"Larry Hughes is the SPG leader for the Wizards\"; Getty caption unreadable: gettyimages.com 403)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/larry-hughes.jpg",
+  "selectedAt": "2026-11-04T18:07:38.892Z",
+  "sourceSelectionScore": 14,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 930,
+    "y": 0,
+    "size": 560
+  },
+  "needsReview": "face ~200px, under the 250px bar",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (crouched in a defensive stance, eyes up and off-camera, lips parted mid-breath)",
+  "jersey": "WAS light-blue road #20, c. 2002-05",
+  "concerns": "face ~200px (1920px web copy), slightly soft; body leans into the left of the crop; head band; exact date unverified",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Larry_Hughes_Apr_2007.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, CLE navy road Apr 2007, full-body dribble, face ~120px, neutral, energy ~4, not WAS)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Larry_Hughes_Bulls.jpg",
+      "note": "(CC BY-SA 2.0, CHI white 2008, tiny face at a free-throw lane, not WAS)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

@@ -1,44 +1,44 @@
 {
   "player": "Christian Laettner",
   "playerId": "christian-laettner",
-  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christian_Laettner_at_Yahoo_event.jpg",
-  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christian_Laettner_at_Yahoo_event.jpg",
-  "sourcePage": "https://commons.wikimedia.org/wiki/File:Christian_Laettner_at_Yahoo_event.jpg",
-  "license": "CC BY 2.0",
+  "sourceUrl": "https://cdn.bleacherreport.net/images_root/slides/photos/000/694/379/261279_original.jpg",
+  "downloadUrl": "https://cdn.bleacherreport.net/images_root/slides/photos/000/694/379/261279_original.jpg",
+  "sourcePage": "https://bleacherreport.com/articles/596635-one-and-done-10-peculiar-one-time-nba-all-stars-in-the-9000s",
+  "license": "unknown (Allsport / Getty Images via Bleacher Report)",
   "licenseUrl": null,
-  "author": "Steven Buyansky",
+  "author": "Stephen Dunn/Allsport",
   "credit": null,
-  "photoDate": "2014-03-21 (Yahoo March Madness event, post-career)",
+  "photoDate": "1997-12-02 (at DAL, Reunion Arena; Hawks won 112-79)",
   "originalSize": null,
   "storedSize": [
-    891,
-    1056
+    1992,
+    3000
   ],
   "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
   "sourceFile": "assets/player-sources/christian-laettner.jpg",
-  "selectedAt": "2026-10-17T05:44:02.320Z",
-  "sourceSelectionScore": 11,
+  "selectedAt": "2026-11-04T18:12:39.299Z",
+  "sourceSelectionScore": 14,
   "sourceSelectionBreakdown": {
     "faceClarity": 2,
     "faceSize": 3,
     "expression": 2,
     "minimalOcclusion": 2,
     "headAngle": 2,
-    "recentAppearance": 0,
-    "currentJersey": 0
+    "recentAppearance": 2,
+    "currentJersey": 1
   },
   "crop": {
-    "x": 0,
-    "y": 0,
-    "size": 891
+    "x": 430,
+    "y": 234,
+    "size": 781
   },
-  "needsReview": "No in-game Hawks photo of Laettner found anywhere usable. Searched nba.com (1996-97 season review, 1997 All-Star recap, 1990s top moments, Hawks retired-numbers / leaders pages, Timberwolves all-time leaders pages, Getty caption caches) and Commons (Category:Christian Laettner: Duke, high-school yearbooks, post-career only); web-search budget ran out mid-search. This street-clothes photo is a placeholder: needs an ATL 1996-99 in-game source.",
+  "needsReview": null,
   "notes": null,
   "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
   "energy": 6,
-  "energyVsMcCain": "slightly lower (talking mid-sentence, eyes off to his left, relaxed)",
-  "jersey": "none: street clothes (striped shirt), NOT the wanted ATL",
-  "concerns": "FLAG: not in-game, no uniform, post-career (age ~44), Yahoo backdrop; hair touches the top edge so the head sits high in the crop (chin ~66%)",
+  "energyVsMcCain": "slightly lower (holding the ball on the perimeter, eyes up and ahead, tongue on his lower lip)",
+  "jersey": "ATL red/black road #32, 1997-98",
+  "concerns": "tongue on lower lip may read oddly; film grain; 1997-98 rather than the listed 1996-97, same uniform",
   "rejectedCandidates": [
     {
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Laettner_Winning_Shot_1992.jpg",
@@ -51,6 +51,20 @@
       "note": "(2011 post-career, 260x344, too small)",
       "license": "unknown",
       "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christian_Laettner_at_Yahoo_event.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Christian_Laettner_at_Yahoo_event.jpg",
+      "license": "CC BY 2.0",
+      "score": 11,
+      "reason": "post-career street-clothes placeholder",
+      "previousPick": true
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christian_Laettner_at_Yahoo_event.jpg",
+      "note": "(previous placeholder, CC BY 2.0, post-career street clothes)",
+      "license": "unknown",
+      "round": 2
     }
   ],
   "promptVersion": null,
@@ -59,9 +73,24 @@
   "masterFile": null,
   "webp": [],
   "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": [],
-  "promptAdditions": [
-    "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today."
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christian_Laettner_at_Yahoo_event.jpg",
+  "supersededHistory": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christian_Laettner_at_Yahoo_event.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Christian_Laettner_at_Yahoo_event.jpg",
+      "sourceFile": "assets/player-sources/christian-laettner.jpg",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "size": 891
+      },
+      "promptVersion": null,
+      "generationAttempt": 0,
+      "attempts": [],
+      "approved": false,
+      "masterFile": null,
+      "supersededReason": "post-career street-clothes placeholder",
+      "supersededFiles": []
+    }
   ]
 }

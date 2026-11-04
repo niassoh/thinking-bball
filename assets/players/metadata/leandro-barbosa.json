@@ -1,0 +1,64 @@
+{
+  "player": "Leandro Barbosa",
+  "playerId": "leandro-barbosa",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Leonardo_barbosa_free.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Leonardo_barbosa_free.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Leonardo_barbosa_free.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2007-12-08 (Suns road game, 2007-08 season)",
+  "originalSize": null,
+  "storedSize": [
+    1519,
+    2388
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/leandro-barbosa.jpg",
+  "selectedAt": "2026-11-04T18:04:56.723Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 1,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 330,
+    "y": 680,
+    "size": 780
+  },
+  "needsReview": "energy ~5.5 with a pursed-lips free-throw face; best sharp in-game PHX source found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5.5,
+  "energyVsMcCain": "lower (at the free-throw line, eyes up at the rim, lips pushed out blowing out a breath)",
+  "jersey": "PHX purple road #10, 2007-08 (one season after the wanted 2006-07)",
+  "concerns": "FLAG: pursed-lips exhale reads oddly and sits below the 6-8 band; both shooting arms frame the head (black sleeve on the right edge); no sharper in-band PHX game photo found on Commons or nba.com (Suns legacy galleries only carry 500px copies)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lbarbosa.jpg",
+      "note": "(PD, Apr 6 2008, PHX white home, dribbling and looking off, energy ~5, face ~245px, grainy and blown-out color)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/legacy/photos/r2g3_barbosa_06playoffs.jpg",
+      "note": "(2006 West semis G3 at LAC, PHX purple, driving, energy ~6.5, but a 415x500 web copy with a ~60px face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

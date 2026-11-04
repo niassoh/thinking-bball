@@ -1,0 +1,58 @@
+{
+  "player": "Kelly Olynyk",
+  "playerId": "kelly-olynyk",
+  "sourceUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/sltrib/RFXKLZ2HCJEAJBVE6QKWGM74EI.jpg",
+  "downloadUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/sltrib/RFXKLZ2HCJEAJBVE6QKWGM74EI.jpg",
+  "sourcePage": "https://www.sltrib.com/sports/jazz/2023/11/12/nba-foodies-like-jazzs-kelly/",
+  "license": "unknown (The Salt Lake Tribune)",
+  "licenseUrl": null,
+  "author": "Trent Nelson / The Salt Lake Tribune",
+  "credit": null,
+  "photoDate": "2023-10-27 (Clippers at Jazz, Delta Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2000
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kelly-olynyk.jpg",
+  "selectedAt": "2026-11-04T18:06:46.143Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 1380,
+    "y": 120,
+    "size": 1250
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7.5,
+  "energyVsMcCain": "slightly higher (passing the ball, looking off-camera, mouth open with teeth showing mid-call)",
+  "jersey": "UTA black Icon #41, 2023-24",
+  "concerns": "mouth open wide enough to show both rows of teeth, at the top of the band; headband; his passing arm crosses the lower left of the crop (ball outside it)",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2024/02/USATSI_22346863-scaled-e1707410961195.jpg",
+      "note": "(USA Today via nba.com trade story, UTA black 2023-24 at HOU, big open-mouth laugh jogging upcourt, energy ~8.5)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

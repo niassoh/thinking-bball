@@ -1,0 +1,64 @@
+{
+  "player": "Kirk Hinrich",
+  "playerId": "kirk-hinrich",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kirk_Hinrich-crop.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kirk_Hinrich-crop.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Kirk_Hinrich-crop.jpg",
+  "license": "CC BY-SA 4.0 / GFDL",
+  "licenseUrl": null,
+  "author": "Jauerback",
+  "credit": null,
+  "photoDate": "2008-01-25 (2007-08 season, United Center; extracted from File:Kirk_Hinrich_(2).jpg)",
+  "originalSize": null,
+  "storedSize": [
+    811,
+    1264
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kirk-hinrich.jpg",
+  "selectedAt": "2026-11-04T18:01:39.172Z",
+  "sourceSelectionScore": 13,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 3,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 125,
+    "y": 0,
+    "size": 560
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (standing on court during a stop, looking off-camera, mouth open mid-reaction)",
+  "jersey": "CHI white home #12, 2007-08 (one season after the wanted 2006-07)",
+  "concerns": "face ~270px but soft (2008 consumer DSLR, native-resolution extract); lower lip curled showing teeth, slightly quizzical; a courtside fan face at the left edge of the crop",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kirk_Hinrich.jpg",
+      "note": "(Feb 27 2009 at WAS, CHI red road, driving, face ~150px, Noah and Wizards defender in frame)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Kirk_Hinrich_vs_Bucks.jpg",
+      "note": "(Feb 18 2009 at MIL, CHI black alternate, passing, small face, looking down, energy ~4)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

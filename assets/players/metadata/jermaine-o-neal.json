@@ -1,0 +1,64 @@
+{
+  "player": "Jermaine O'Neal",
+  "playerId": "jermaine-o-neal",
+  "sourceUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-2820782jo.jpg",
+  "downloadUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-2820782jo.jpg",
+  "sourcePage": "https://www.nba.com/news/most-rebounds-in-a-playoff-game-indiana-pacers",
+  "license": "unknown (Getty Images / NBAE via NBA.com)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE",
+  "credit": null,
+  "photoDate": "c. 2002-04 (IND at PHX, America West Arena; Getty id 2820782, caption unreadable: gettyimages.com 403)",
+  "originalSize": null,
+  "storedSize": [
+    1920,
+    1080
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/jermaine-o-neal.jpg",
+  "selectedAt": "2026-11-04T18:01:13.721Z",
+  "sourceSelectionScore": 16,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 512,
+    "y": 0,
+    "size": 640
+  },
+  "needsReview": null,
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6.5,
+  "energyVsMcCain": "matches (standing on court during a stop, eyes up off-camera, lips parted, sweaty)",
+  "jersey": "IND navy pinstripe road #7, c. 2002-04",
+  "concerns": "renamed nba.com file (jo suffix), no Getty caption check, but clearly O'Neal in IND #7; exact date unverified; yellow headband; hair touches top of frame",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://cdn.nba.com/manage/2025/05/GettyImages-78535523jo.jpg",
+      "note": "(IND navy road c. 2007-08 at NYK, full-body, face ~110px, neutral, energy ~4)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Jermaine_O%27Neal_cropped.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, BOS green 2011, looking down, energy ~4, not IND)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

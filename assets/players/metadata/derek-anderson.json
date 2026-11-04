@@ -1,0 +1,51 @@
+{
+  "player": "Derek Anderson",
+  "playerId": "derek-anderson",
+  "sourceUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/chorus/uploads/chorus_asset/file/9230953/920x920.jpg?quality=90&strip=all",
+  "downloadUrl": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/chorus/uploads/chorus_asset/file/9230953/920x920.jpg?quality=90&strip=all",
+  "sourcePage": "https://www.poundingtherock.com/2017/9/12/16295474/the-spurs-most-memorable-one-and-done-players-part-1",
+  "license": "unknown (uncredited photo via Pounding The Rock)",
+  "licenseUrl": null,
+  "author": "unknown",
+  "credit": null,
+  "photoDate": "2000-01 season (vs POR, Spurs home; Scottie Pippen defending)",
+  "originalSize": null,
+  "storedSize": [
+    920,
+    751
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/derek-anderson.jpg",
+  "selectedAt": "2026-11-04T18:12:39.831Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 2,
+    "faceSize": 2,
+    "expression": 2,
+    "minimalOcclusion": 1,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 310,
+    "y": 10,
+    "size": 420
+  },
+  "needsReview": "small face (~190px) and Pippen's face in the corner of the crop; best 2000-01 Spurs in-game photo found",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 6,
+  "energyVsMcCain": "slightly lower (protecting the ball from Pippen, eyes down and off to his left, lips parted)",
+  "jersey": "SAS white home #1, 2000-01",
+  "concerns": "face ~190px (crop 420px, will be upscaled), JPEG-soft; Scottie Pippen's face in the lower-right corner of the crop and the ball above-left outside it; uncredited web copy",
+  "rejectedCandidates": [],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

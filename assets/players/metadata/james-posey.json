@@ -1,0 +1,64 @@
+{
+  "player": "James Posey",
+  "playerId": "james-posey",
+  "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Darius_Songaila_and_James_Posey.jpg",
+  "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Darius_Songaila_and_James_Posey.jpg",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Darius_Songaila_and_James_Posey.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": null,
+  "author": "Keith Allison",
+  "credit": null,
+  "photoDate": "2008-01-13 (Celtics at Wizards, Verizon Center)",
+  "originalSize": null,
+  "storedSize": [
+    3000,
+    2097
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/james-posey.jpg",
+  "selectedAt": "2026-11-04T18:13:39.798Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 3,
+    "faceSize": 3,
+    "expression": 1,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 1,
+    "currentJersey": 0
+  },
+  "crop": {
+    "x": 1385,
+    "y": 330,
+    "size": 1080
+  },
+  "needsReview": "BOS not MEM; energy 5 (below band)",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 5,
+  "energyVsMcCain": "lower (side-eye glance off-camera, brow set, lips pressed together)",
+  "jersey": "BOS green road #41, 2007-08 — NOT the wanted MEM",
+  "concerns": "FLAG: Celtics, not MEM (no in-game Grizzlies photo of Posey found on Commons, Openverse or nba.com; the only MEM frame is a tiny far-court jump ball); energy 5, mouth closed; Darius Songaila stands just left of the crop; head sits left of centre",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/James_Posey_Hornets.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, NOH 2009, ~300px face, but squinting mouthguard grin while pointing, eyes nearly shut)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lakers_Grizzlies_200304.jpg",
+      "note": "(CC BY-SA 2.0, MEM navy road Nov 23 2003 at LAL, jump ball from the stands, face ~15px)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}

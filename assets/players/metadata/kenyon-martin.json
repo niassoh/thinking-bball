@@ -1,0 +1,64 @@
+{
+  "player": "Kenyon Martin",
+  "playerId": "kenyon-martin",
+  "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nets/sites/nets/files/bkn_1819_sc_top25_11-martin_910x575.jpg",
+  "downloadUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nets/sites/nets/files/bkn_1819_sc_top25_11-martin_910x575.jpg",
+  "sourcePage": "https://www.nba.com/nets/news/2018/08/28/nets-all-time-top-25-no-11-kenyon-martin",
+  "license": "unknown (NBA.com / Brooklyn Nets graphic; Getty Images / NBAE photo)",
+  "licenseUrl": null,
+  "author": "Getty Images / NBAE (Brooklyn Nets graphic)",
+  "credit": null,
+  "photoDate": "c. 2002-04 (NJN navy road, undated; used in the Nets All-Time Top 25 No. 11 feature)",
+  "originalSize": null,
+  "storedSize": [
+    910,
+    575
+  ],
+  "processing": "EXIF-rotated, fit within 3000px, flattened on #808080, JPEG q92",
+  "sourceFile": "assets/player-sources/kenyon-martin.jpg",
+  "selectedAt": "2026-11-04T18:10:39.865Z",
+  "sourceSelectionScore": 12,
+  "sourceSelectionBreakdown": {
+    "faceClarity": 1,
+    "faceSize": 1,
+    "expression": 3,
+    "minimalOcclusion": 2,
+    "headAngle": 2,
+    "recentAppearance": 2,
+    "currentJersey": 1
+  },
+  "crop": {
+    "x": 575,
+    "y": 0,
+    "size": 335
+  },
+  "needsReview": "publisher graphic, face ~145px and soft; sharper DEN 2011 Commons alt exists",
+  "notes": null,
+  "selectionRules": "SOURCE_SELECTION.md + scripts/portraits/SOURCE_RULES.md",
+  "energy": 7,
+  "energyVsMcCain": "matches (ball held high at his shoulder, eyes locked off-camera, lips pushed out in concentration)",
+  "jersey": "NJN navy road #6, c. 2002-04",
+  "concerns": "publisher graphic (Nets Top 25 card; text panel on the left, outside the crop); face ~145px in a 910px file, soft and compressed; wristband and raised arm fill the lower crop; date unverified. The earlier depth-and-career round left him unrecorded for lack of an NJN photo; the DEN alt is far sharper if the jersey can give",
+  "rejectedCandidates": [
+    {
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kenyon_Martin_Nuggets.jpg",
+      "note": "(CC BY-SA 2.0 Keith Allison, Jan 25 2011 DEN at WAS, light-blue road #4, ~900px face, looking off-camera with lips parted, energy 6, sharp, but Nuggets not NJN; crop 0,0,1600)",
+      "license": "unknown",
+      "round": 2
+    },
+    {
+      "sourceUrl": "https://cdn.nba.com/teams/legacy/www.nba.com/nets/sites/nets/files/1gettyimages-632348.jpg",
+      "note": "(NJN white 2002 R1 G5 vs IND, celebrating with arms up, tiny face)",
+      "license": "unknown",
+      "round": 2
+    }
+  ],
+  "promptVersion": null,
+  "generationAttempt": 0,
+  "attempts": [],
+  "masterFile": null,
+  "webp": [],
+  "approved": false,
+  "approvedFromSource": null,
+  "supersededHistory": []
+}
