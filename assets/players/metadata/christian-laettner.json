@@ -67,13 +67,39 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christian_Laettner_at_Yahoo_event.jpg",
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:36.861Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/christian-laettner-ca0f25cc-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/christian-laettner/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:25.715Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/christian-laettner.png",
+  "webp": [
+    "assets/players/webp/christian-laettner-1024.webp",
+    "assets/players/webp/christian-laettner-400.webp",
+    "assets/players/webp/christian-laettner-200.webp",
+    "assets/players/webp/christian-laettner-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.bleacherreport.net/images_root/slides/photos/000/694/379/261279_original.jpg",
   "supersededHistory": [
     {
       "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christian_Laettner_at_Yahoo_event.jpg",
@@ -92,5 +118,8 @@
       "supersededReason": "post-career street-clothes placeholder",
       "supersededFiles": []
     }
-  ]
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:25.989Z",
+  "background": "transparent"
 }

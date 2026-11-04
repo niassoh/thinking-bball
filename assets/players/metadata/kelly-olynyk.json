@@ -47,12 +47,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:38.193Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kelly-olynyk-b38eb3d2-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/kelly-olynyk/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:30.558Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kelly-olynyk.png",
+  "webp": [
+    "assets/players/webp/kelly-olynyk-1024.webp",
+    "assets/players/webp/kelly-olynyk-400.webp",
+    "assets/players/webp/kelly-olynyk-200.webp",
+    "assets/players/webp/kelly-olynyk-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cloudfront-us-east-1.images.arcpublishing.com/sltrib/RFXKLZ2HCJEAJBVE6QKWGM74EI.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:30.901Z",
+  "background": "transparent"
 }

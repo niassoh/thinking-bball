@@ -1687,3 +1687,64 @@ Every external source contacted and every file written by the portrait pipeline 
 | 1648 | 11:30 | OUTPUT | `data/portrait-targets.json` (batch `hist-bpm-3.5`, 38 slugs, 21 new targets) | Every player with an 800+ minute season at 3.5+ BPM (the library's ALL-TIME tile bar) and no illustrated portrait: 25 had only the NBA.com fallback, 13 nothing. Team = his best such season's. | revert the batch |
 | 1649 | 11:30 | READ | Commons, nba.com (~64 page requests, one at a time, no 403s), Bleacher Report, SB Nation team blogs, theScore, Salt Lake Tribune; gettyimages.com answered 403 (no caption checks) | Three sourcing groups (`selections-hist35-g1..g3.sh`) recorded 19 new picks; Laettner's street-clothes placeholder superseded by a 1997 ATL in-game photo. Unrecorded, nothing usable found: vin-baker, bryon-russell, donyell-marshall, andrew-declercq, robert-traylor, jamaal-tinsley, raef-lafrentz, brian-cardinal. | revert the metadata |
 | 1650 | 11:30 | QUEUE | `~/thinking-bball-profile/codex-queue-hist35` (30) | The 19 new picks plus 11 players whose earlier flagged pick was accepted (sam-cassell, steve-francis, ben-simmons, elton-brand, vlade-divac, clyde-drexler, detlef-schrempf, doug-christie, luol-deng, andrew-bynum, clint-capela): attempt 1, transparent. No Codex or OpenAI run. | delete the folder |
+| 1651 | 11:08 | OUTPUT | `assets/players/attempts/christian-laettner-ca0f25cc-1.png` | christian-laettner attempt 1 imported from Codex (`christian-laettner/out.png`), extras: none; awaiting QA | n/a |
+| 1652 | 11:08 | OUTPUT | `assets/players/attempts/eric-bledsoe-258544f0-1.png` | eric-bledsoe attempt 1 imported from Codex (`eric-bledsoe/out.png`), extras: none; awaiting QA | n/a |
+| 1653 | 11:08 | OUTPUT | `assets/players/attempts/jermaine-o-neal-f0b8198a-1.png` | jermaine-o-neal attempt 1 imported from Codex (`jermaine-o-neal/out.png`), extras: none; awaiting QA | n/a |
+| 1654 | 11:08 | OUTPUT | `assets/players/attempts/john-wall-0c6e5125-1.png` | john-wall attempt 1 imported from Codex (`john-wall/out.png`), extras: none; awaiting QA | n/a |
+| 1655 | 11:08 | OUTPUT | `assets/players/attempts/kelly-olynyk-b38eb3d2-1.png` | kelly-olynyk attempt 1 imported from Codex (`kelly-olynyk/out.png`), extras: none; awaiting QA | n/a |
+| 1656 | 11:08 | OUTPUT | `assets/players/attempts/kirk-hinrich-701fb707-1.png` | kirk-hinrich attempt 1 imported from Codex (`kirk-hinrich/out.png`), extras: none; awaiting QA | n/a |
+| 1657 | 11:08 | OUTPUT | `assets/players/attempts/otto-porter-jr-31e93632-1.png` | otto-porter-jr attempt 1 imported from Codex (`otto-porter-jr/out.png`), extras: none; awaiting QA | n/a |
+| 1658 | 11:08 | OUTPUT | `assets/players/attempts/terrell-brandon-5338495b-1.png` | terrell-brandon attempt 1 imported from Codex (`terrell-brandon/out.png`), extras: none; awaiting QA | n/a |
+| 1659 | 11:08 | OUTPUT | `assets/players/attempts/victor-oladipo-88f60300-1.png` | victor-oladipo attempt 1 imported from Codex (`victor-oladipo/out.png`), extras: none; awaiting QA | n/a |
+| 1660 | 11:08 | OUTPUT | `assets/players/attempts/andrew-bynum-b9a5a20a-1.png` | andrew-bynum attempt 1 imported from Codex (`andrew-bynum/out-rejected-1793819316553.png`), extras: none; awaiting QA | n/a |
+| 1661 | 11:08 | OUTPUT | `assets/players/attempts/antonio-mcdyess-49fc1266-1.png` | antonio-mcdyess attempt 1 imported from Codex (`antonio-mcdyess/out-rejected-1793819316628.png`), extras: none; awaiting QA | n/a |
+| 1662 | 11:08 | OUTPUT | `assets/players/attempts/ben-simmons-e61426e0-1.png` | ben-simmons attempt 1 imported from Codex (`ben-simmons/out-rejected-1793819316691.png`), extras: none; awaiting QA | n/a |
+| 1663 | 11:08 | OUTPUT | `assets/players/attempts/clint-capela-095f5c67-1.png` | clint-capela attempt 1 imported from Codex (`clint-capela/out-rejected-1793819316963.png`), extras: none; awaiting QA | n/a |
+| 1664 | 11:08 | OUTPUT | `assets/players/attempts/clyde-drexler-fcd861dd-1.png` | clyde-drexler attempt 1 imported from Codex (`clyde-drexler/out-rejected-1793819317016.png`), extras: none; awaiting QA | n/a |
+| 1665 | 11:08 | OUTPUT | `assets/players/attempts/derek-anderson-ce47bfaf-1.png` | derek-anderson attempt 1 imported from Codex (`derek-anderson/out-rejected-1793819317071.png`), extras: none; awaiting QA | n/a |
+| 1666 | 11:08 | OUTPUT | `assets/players/attempts/detlef-schrempf-13cca13c-1.png` | detlef-schrempf attempt 1 imported from Codex (`detlef-schrempf/out-rejected-1793819317124.png`), extras: none; awaiting QA | n/a |
+| 1667 | 11:08 | OUTPUT | `assets/players/attempts/doug-christie-5a870706-1.png` | doug-christie attempt 1 imported from Codex (`doug-christie/out-rejected-1793819317184.png`), extras: none; awaiting QA | n/a |
+| 1668 | 11:08 | OUTPUT | `assets/players/attempts/elton-brand-c32de9bc-1.png` | elton-brand attempt 1 imported from Codex (`elton-brand/out-rejected-1793819317240.png`), extras: none; awaiting QA | n/a |
+| 1669 | 11:08 | OUTPUT | `assets/players/attempts/jamal-mashburn-1ba5fe04-1.png` | jamal-mashburn attempt 1 imported from Codex (`jamal-mashburn/out-rejected-1793819317453.png`), extras: none; awaiting QA | n/a |
+| 1670 | 11:08 | OUTPUT | `assets/players/attempts/james-posey-c91d0abd-1.png` | james-posey attempt 1 imported from Codex (`james-posey/out-rejected-1793819317506.png`), extras: none; awaiting QA | n/a |
+| 1671 | 11:08 | OUTPUT | `assets/players/attempts/joe-johnson-e52e2715-1.png` | joe-johnson attempt 1 imported from Codex (`joe-johnson/out-rejected-1793819317776.png`), extras: none; awaiting QA | n/a |
+| 1672 | 11:08 | OUTPUT | `assets/players/attempts/kenny-anderson-0fb1f51c-1.png` | kenny-anderson attempt 1 imported from Codex (`kenny-anderson/out-rejected-1793819318267.png`), extras: none; awaiting QA | n/a |
+| 1673 | 11:08 | OUTPUT | `assets/players/attempts/kenyon-martin-be35940b-1.png` | kenyon-martin attempt 1 imported from Codex (`kenyon-martin/out-rejected-1793819318326.png`), extras: none; awaiting QA | n/a |
+| 1674 | 11:08 | OUTPUT | `assets/players/attempts/larry-hughes-5525846c-1.png` | larry-hughes attempt 1 imported from Codex (`larry-hughes/out-rejected-1793819318611.png`), extras: none; awaiting QA | n/a |
+| 1675 | 11:08 | OUTPUT | `assets/players/attempts/leandro-barbosa-7322dad7-1.png` | leandro-barbosa attempt 1 imported from Codex (`leandro-barbosa/out-rejected-1793819318674.png`), extras: none; awaiting QA | n/a |
+| 1676 | 11:08 | OUTPUT | `assets/players/attempts/luol-deng-4338da00-1.png` | luol-deng attempt 1 imported from Codex (`luol-deng/out-rejected-1793819318733.png`), extras: none; awaiting QA | n/a |
+| 1677 | 11:08 | OUTPUT | `assets/players/attempts/richard-jefferson-a06537c1-1.png` | richard-jefferson attempt 1 imported from Codex (`richard-jefferson/out-rejected-1793819318969.png`), extras: none; awaiting QA | n/a |
+| 1678 | 11:08 | OUTPUT | `assets/players/attempts/sam-cassell-ad996f9f-1.png` | sam-cassell attempt 1 imported from Codex (`sam-cassell/out-rejected-1793819319032.png`), extras: none; awaiting QA | n/a |
+| 1679 | 11:08 | OUTPUT | `assets/players/attempts/steve-francis-efbda054-1.png` | steve-francis attempt 1 imported from Codex (`steve-francis/out-rejected-1793819319084.png`), extras: none; awaiting QA | n/a |
+| 1680 | 11:08 | OUTPUT | `assets/players/attempts/vlade-divac-c1d4d8c6-1.png` | vlade-divac attempt 1 imported from Codex (`vlade-divac/out-rejected-1793819319471.png`), extras: none; awaiting QA | n/a |
+| 1681 | 11:09 | OUTPUT | `assets/players/andrew-bynum.png` + 4 WebPs | andrew-bynum approved from attempt 1 | n/a |
+| 1682 | 11:09 | OUTPUT | `assets/players/antonio-mcdyess.png` + 4 WebPs | antonio-mcdyess approved from attempt 1 | n/a |
+| 1683 | 11:09 | OUTPUT | `assets/players/ben-simmons.png` + 4 WebPs | ben-simmons approved from attempt 1 | n/a |
+| 1684 | 11:09 | OUTPUT | `assets/players/christian-laettner.png` + 4 WebPs | christian-laettner approved from attempt 1 | n/a |
+| 1685 | 11:09 | OUTPUT | `assets/players/clyde-drexler.png` + 4 WebPs | clyde-drexler approved from attempt 1 | n/a |
+| 1686 | 11:09 | OUTPUT | `assets/players/derek-anderson.png` + 4 WebPs | derek-anderson approved from attempt 1 | n/a |
+| 1687 | 11:09 | OUTPUT | `assets/players/detlef-schrempf.png` + 4 WebPs | detlef-schrempf approved from attempt 1 | n/a |
+| 1688 | 11:09 | OUTPUT | `assets/players/doug-christie.png` + 4 WebPs | doug-christie approved from attempt 1 | n/a |
+| 1689 | 11:09 | OUTPUT | `assets/players/elton-brand.png` + 4 WebPs | elton-brand approved from attempt 1 | n/a |
+| 1690 | 11:09 | OUTPUT | `assets/players/eric-bledsoe.png` + 4 WebPs | eric-bledsoe approved from attempt 1 | n/a |
+| 1691 | 11:09 | OUTPUT | `assets/players/jamal-mashburn.png` + 4 WebPs | jamal-mashburn approved from attempt 1 | n/a |
+| 1692 | 11:09 | OUTPUT | `assets/players/james-posey.png` + 4 WebPs | james-posey approved from attempt 1 | n/a |
+| 1693 | 11:09 | OUTPUT | `assets/players/jermaine-o-neal.png` + 4 WebPs | jermaine-o-neal approved from attempt 1 | n/a |
+| 1694 | 11:09 | OUTPUT | `assets/players/joe-johnson.png` + 4 WebPs | joe-johnson approved from attempt 1 | n/a |
+| 1695 | 11:09 | OUTPUT | `assets/players/john-wall.png` + 4 WebPs | john-wall approved from attempt 1 | n/a |
+| 1696 | 11:09 | OUTPUT | `assets/players/kelly-olynyk.png` + 4 WebPs | kelly-olynyk approved from attempt 1 | n/a |
+| 1697 | 11:09 | OUTPUT | `assets/players/kenny-anderson.png` + 4 WebPs | kenny-anderson approved from attempt 1 | n/a |
+| 1698 | 11:09 | OUTPUT | `assets/players/kenyon-martin.png` + 4 WebPs | kenyon-martin approved from attempt 1 | n/a |
+| 1699 | 11:09 | OUTPUT | `assets/players/kirk-hinrich.png` + 4 WebPs | kirk-hinrich approved from attempt 1 | n/a |
+| 1700 | 11:09 | OUTPUT | `assets/players/larry-hughes.png` + 4 WebPs | larry-hughes approved from attempt 1 | n/a |
+| 1701 | 11:09 | OUTPUT | `assets/players/leandro-barbosa.png` + 4 WebPs | leandro-barbosa approved from attempt 1 | n/a |
+| 1702 | 11:09 | OUTPUT | `assets/players/otto-porter-jr.png` + 4 WebPs | otto-porter-jr approved from attempt 1 | n/a |
+| 1703 | 11:09 | OUTPUT | `assets/players/richard-jefferson.png` + 4 WebPs | richard-jefferson approved from attempt 1 | n/a |
+| 1704 | 11:09 | OUTPUT | `assets/players/sam-cassell.png` + 4 WebPs | sam-cassell approved from attempt 1 | n/a |
+| 1705 | 11:09 | OUTPUT | `assets/players/steve-francis.png` + 4 WebPs | steve-francis approved from attempt 1 | n/a |
+| 1706 | 11:09 | OUTPUT | `assets/players/terrell-brandon.png` + 4 WebPs | terrell-brandon approved from attempt 1 | n/a |
+| 1707 | 11:09 | OUTPUT | `assets/players/victor-oladipo.png` + 4 WebPs | victor-oladipo approved from attempt 1 | n/a |
+| 1708 | 11:09 | OUTPUT | `assets/players/vlade-divac.png` + 4 WebPs | vlade-divac approved from attempt 1 | n/a |
+| 1651 | 11:15 | OUTPUT | `assets/players/attempts/<slug>-*-1.png` (30); `codex-queue-hist35/` → `codex-queue-hist35-done/` | Codex made all 30 (1024 px, real alpha). 9 imported with `codex-queue.js --import`; the 21 flagged sources (needsReview, each seen on the #1650 contact sheet) imported one by one with `generate.js --import --confirm-review`. | revert the metadata |
+| 1652 | 11:20 | QA | the 30 attempts | Source crop beside the attempt at 200 px. 28 pass; clint-capela and luol-deng fail on likeness (the face reads as someone else at site size). The 28 finalized: master PNG + 1024/400/200/100 WebPs, approved. | revert the WebPs and metadata |
+| 1653 | 11:20 | QUEUE | `~/thinking-bball-profile/codex-queue-hist35-retry` (2) | clint-capela and luol-deng attempt 2, transparent, `--fix identity --fix expression`. No Codex or OpenAI run. | delete the folder |

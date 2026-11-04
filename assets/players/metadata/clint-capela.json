@@ -59,12 +59,36 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
+  "promptVersion": "thinking-basketball-v3",
   "generationAttempt": 0,
-  "attempts": [],
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:53.829Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/clint-capela-095f5c67-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/clint-capela//out-rejected-1793819316963.png",
+      "usage": null,
+      "qa": {
+        "verdict": "fail",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [
+          "likeness: face reads as a different person at site size"
+        ],
+        "checkedAt": "2026-11-04T19:09:36.127Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
   "masterFile": null,
   "webp": [],
   "approved": false,
   "approvedFromSource": null,
-  "supersededHistory": []
+  "supersededHistory": [],
+  "latestAttempt": 1
 }

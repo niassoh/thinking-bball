@@ -59,12 +59,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:53.626Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/ben-simmons-e61426e0-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/ben-simmons//out-rejected-1793819316691.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:25.300Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/ben-simmons.png",
+  "webp": [
+    "assets/players/webp/ben-simmons-1024.webp",
+    "assets/players/webp/ben-simmons-400.webp",
+    "assets/players/webp/ben-simmons-200.webp",
+    "assets/players/webp/ben-simmons-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://images2.minutemediacdn.com/image/upload/c_limit,w_3000,f_jpg,q_92/images/ReutersImages/mmsport/inside_the_kings/01m4nmwazhgnm3z4fs3b.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:25.650Z",
+  "background": "transparent"
 }

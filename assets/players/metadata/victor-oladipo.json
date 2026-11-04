@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:39.401Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/victor-oladipo-88f60300-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/victor-oladipo/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:35.238Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/victor-oladipo.png",
+  "webp": [
+    "assets/players/webp/victor-oladipo-1024.webp",
+    "assets/players/webp/victor-oladipo-400.webp",
+    "assets/players/webp/victor-oladipo-200.webp",
+    "assets/players/webp/victor-oladipo-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Victor_Oladipo_%2839060269840%29.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:35.604Z",
+  "background": "transparent"
 }

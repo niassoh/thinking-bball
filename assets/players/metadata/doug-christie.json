@@ -53,17 +53,50 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:54.614Z",
+      "promptAdditions": [
+        "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
+        "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
+        "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
+      ],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/doug-christie-5a870706-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/doug-christie//out-rejected-1793819317184.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:27.281Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/doug-christie.png",
+  "webp": [
+    "assets/players/webp/doug-christie-1024.webp",
+    "assets/players/webp/doug-christie-400.webp",
+    "assets/players/webp/doug-christie-200.webp",
+    "assets/players/webp/doug-christie-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/kings/sites/kings/files/dc_defensive.jpg",
   "supersededHistory": [],
   "promptAdditions": [
     "The source is a 1996–2013 game photo: it may be low resolution, scanned from film, or lit by a broadcast or flash. Do not carry its grain, JPEG blocking, motion blur, flash glare or colour cast into the illustration; finish it exactly like the style references.",
     "Show the player as he looks in the source photo, at that age, with that era's hair, facial hair and accessories (headband, cornrows, braids, arm sleeve, goggles). Do not age him, modernise him or restyle him toward how he looks today.",
     "Keep the era jersey's real cut and trim: its wider shoulder straps and its collar or V-neck shape, with the collar and armhole binding where the source has them."
-  ]
+  ],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:27.622Z",
+  "background": "transparent"
 }

@@ -40,12 +40,41 @@
   "jersey": "SAS white home #1, 2000-01",
   "concerns": "face ~190px (crop 420px, will be upscaled), JPEG-soft; Scottie Pippen's face in the lower-right corner of the crop and the ball above-left outside it; uncredited web copy",
   "rejectedCandidates": [],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:54.195Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/derek-anderson-ce47bfaf-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/derek-anderson//out-rejected-1793819317071.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:26.458Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/derek-anderson.png",
+  "webp": [
+    "assets/players/webp/derek-anderson-1024.webp",
+    "assets/players/webp/derek-anderson-400.webp",
+    "assets/players/webp/derek-anderson-200.webp",
+    "assets/players/webp/derek-anderson-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/chorus/uploads/chorus_asset/file/9230953/920x920.jpg?quality=90&strip=all",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:26.806Z",
+  "background": "transparent"
 }

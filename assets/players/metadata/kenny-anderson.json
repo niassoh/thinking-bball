@@ -40,12 +40,41 @@
   "jersey": "POR black road #7, 1996-98",
   "concerns": "Knicks defender's face and arm fill the left third of the crop; teammate Gary Trent in the full frame above-left; game date not verified (Getty id 909668206 from the filename, caption not fetchable)",
   "rejectedCandidates": [],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:55.679Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kenny-anderson-0fb1f51c-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/kenny-anderson//out-rejected-1793819318267.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:30.975Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kenny-anderson.png",
+  "webp": [
+    "assets/players/webp/kenny-anderson-1024.webp",
+    "assets/players/webp/kenny-anderson-400.webp",
+    "assets/players/webp/kenny-anderson-200.webp",
+    "assets/players/webp/kenny-anderson-100.webp"
+  ],
+  "approved": true,
   "approvedFromSource": "https://platform.blazersedge.com/wp-content/uploads/sites/34/chorus/uploads/chorus_asset/file/19913915/909668206.jpg.jpg?quality=90&strip=all",
-  "supersededHistory": []
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:31.231Z",
+  "background": "transparent"
 }

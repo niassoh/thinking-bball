@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:55.910Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/kenyon-martin-be35940b-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/kenyon-martin//out-rejected-1793819318326.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:31.314Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/kenyon-martin.png",
+  "webp": [
+    "assets/players/webp/kenyon-martin-1024.webp",
+    "assets/players/webp/kenyon-martin-400.webp",
+    "assets/players/webp/kenyon-martin-200.webp",
+    "assets/players/webp/kenyon-martin-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://cdn.nba.com/teams/legacy/www.nba.com/nets/sites/nets/files/bkn_1819_sc_top25_11-martin_910x575.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:31.646Z",
+  "background": "transparent"
 }

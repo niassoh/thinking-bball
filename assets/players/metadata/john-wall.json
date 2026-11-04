@@ -53,12 +53,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:37.989Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/john-wall-0c6e5125-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/john-wall/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:30.146Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/john-wall.png",
+  "webp": [
+    "assets/players/webp/john-wall-1024.webp",
+    "assets/players/webp/john-wall-400.webp",
+    "assets/players/webp/john-wall-200.webp",
+    "assets/players/webp/john-wall-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://upload.wikimedia.org/wikipedia/commons/9/96/John_Wall_%2831692313715%29.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:30.486Z",
+  "background": "transparent"
 }

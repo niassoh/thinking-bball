@@ -40,12 +40,41 @@
   "jersey": "CLE black/blue road #1 (1994-97 design), c. 1996-97",
   "concerns": "face ~235px, film grain and slightly soft; tongue showing between lips; Chris Whitney (WAS #12) in the right foreground of the full frame, outside crop; exact date not on the cached Getty caption (1387213), only that it was a Bullets home win 106-95 at US Air Arena (1996-97 was the last Bullets season)",
   "rejectedCandidates": [],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:39.221Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/terrell-brandon-5338495b-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/terrell-brandon/out.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:34.792Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/terrell-brandon.png",
+  "webp": [
+    "assets/players/webp/terrell-brandon-1024.webp",
+    "assets/players/webp/terrell-brandon-400.webp",
+    "assets/players/webp/terrell-brandon-200.webp",
+    "assets/players/webp/terrell-brandon-100.webp"
+  ],
+  "approved": true,
   "approvedFromSource": "https://cdn.nba.com/manage/2025/05/GettyImages-1387213to.jpg",
-  "supersededHistory": []
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:35.160Z",
+  "background": "transparent"
 }

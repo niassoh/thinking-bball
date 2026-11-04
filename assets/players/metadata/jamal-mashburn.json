@@ -47,12 +47,41 @@
       "round": 2
     }
   ],
-  "promptVersion": null,
-  "generationAttempt": 0,
-  "attempts": [],
-  "masterFile": null,
-  "webp": [],
-  "approved": false,
-  "approvedFromSource": null,
-  "supersededHistory": []
+  "promptVersion": "thinking-basketball-v3",
+  "generationAttempt": 1,
+  "attempts": [
+    {
+      "attempt": 1,
+      "round": 1,
+      "model": "codex (ChatGPT image tool)",
+      "startedAt": "2026-11-04T19:08:54.997Z",
+      "promptAdditions": [],
+      "extras": [],
+      "background": "transparent",
+      "file": "assets/players/attempts/jamal-mashburn-1ba5fe04-1.png",
+      "importedFrom": "/Users/pzh/thinking-bball-profile/codex-queue-hist35/jamal-mashburn//out-rejected-1793819317453.png",
+      "usage": null,
+      "qa": {
+        "verdict": "pass",
+        "checklist": null,
+        "extraChecks": null,
+        "failed": [],
+        "checkedAt": "2026-11-04T19:09:28.564Z",
+        "checklistFile": "QA_CHECKLIST.md"
+      }
+    }
+  ],
+  "masterFile": "assets/players/jamal-mashburn.png",
+  "webp": [
+    "assets/players/webp/jamal-mashburn-1024.webp",
+    "assets/players/webp/jamal-mashburn-400.webp",
+    "assets/players/webp/jamal-mashburn-200.webp",
+    "assets/players/webp/jamal-mashburn-100.webp"
+  ],
+  "approved": true,
+  "approvedFromSource": "https://legacymedia.sportsplatform.io/images_root/slides/photos/000/821/568/1848925_original.jpg",
+  "supersededHistory": [],
+  "latestAttempt": 1,
+  "approvedAt": "2026-11-04T19:09:28.889Z",
+  "background": "transparent"
 }
