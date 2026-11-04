@@ -17,6 +17,9 @@ const season = (process.argv.find(a => a.startsWith('--season=')) || '').slice('
 const SHEET = (process.argv.find(a => a.startsWith('--sheet=')) || '').slice('--sheet='.length) || '1_MOhMxiijKUt31qscH08z2aCMnb0uE18pJLEp6NWJIg'
 // --settle (the backfill): read only once every import has loaded (see settle below).
 const SETTLE = process.argv.includes('--settle')
+// --no-nudge: read the sheet as it stands, for a sheet already loaded (the nudge refetches
+// every import, and Google can leave some stuck for hours).
+const NUDGE = !process.argv.includes('--no-nudge')
 if (!/^\d{4}-\d{2}$/.test(season)) throw new Error('give the season the team sheet holds: --season=2026-27')
 const KEY = 'teamcat-' + season.slice(5)
 
@@ -458,7 +461,7 @@ const settle = async () => {
   throw new Error(`Team sheet still loading after 10 minutes (${[...new Set(pending(await read()))].join(', ')}); ${KEY} not updated`)
 }
 
-nudge().catch(e => console.error('Team sheet nudge failed:', e.message))
+(NUDGE ? nudge() : Promise.resolve()).catch(e => console.error('Team sheet nudge failed:', e.message))
   .then(() => SETTLE && settle())
   .then(() => pullSheet(1), e => {
     console.error(e.message)
