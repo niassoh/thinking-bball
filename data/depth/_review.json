@@ -72,6 +72,12 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "myron-gardner",
+    "status": "DTD",
+    "team": "Miami Heat",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "anthony-edwards",
     "status": "OUT",
     "team": "Minnesota Timberwolves",
@@ -81,6 +87,12 @@
     "slug": "donte-divincenzo",
     "status": "OUT",
     "team": "Minnesota Timberwolves",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "nikola-topic",
+    "status": "OUT",
+    "team": "Oklahoma City Thunder",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -97,12 +109,6 @@
   },
   {
     "slug": "jalen-williams",
-    "status": "OUT",
-    "team": "Oklahoma City Thunder",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "nikola-topic",
     "status": "OUT",
     "team": "Oklahoma City Thunder",
     "reason": "injured but not on a depth chart"
@@ -156,25 +162,25 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "nate-bittle",
-    "status": "OUT",
-    "team": "Toronto Raptors",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "kawhi-leonard",
     "status": "OUT",
     "team": "Toronto Raptors",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "jaren-jackson-jr",
+    "slug": "nate-bittle",
+    "status": "OUT",
+    "team": "Toronto Raptors",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "jusuf-nurkic",
     "status": "OUT",
     "team": "Utah Jazz",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "jusuf-nurkic",
+    "slug": "jaren-jackson-jr",
     "status": "OUT",
     "team": "Utah Jazz",
     "reason": "injured but not on a depth chart"

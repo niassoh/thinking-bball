@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "HOU",
-  "generatedAt": "2026-11-03T19:16:40.469Z",
+  "generatedAt": "2026-11-04T15:32:36.266Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -25,8 +25,8 @@
     {
       "id": "1630578",
       "load": 47,
-      "obpm": 5.5,
-      "score": 353,
+      "obpm": 5.4,
+      "score": 348,
       "minutes": 206.45
     },
     {
@@ -39,15 +39,15 @@
     {
       "id": "1627832",
       "load": 36.8,
-      "obpm": 2.1,
-      "score": 151,
+      "obpm": 2,
+      "score": 147,
       "minutes": 179.08
     },
     {
       "id": "1631095",
       "load": 26.5,
-      "obpm": 3,
-      "score": 133,
+      "obpm": 2.9,
+      "score": 130,
       "minutes": 276.42
     }
   ],

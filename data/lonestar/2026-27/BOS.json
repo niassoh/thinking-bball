@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "BOS",
-  "generatedAt": "2026-11-03T19:16:40.450Z",
+  "generatedAt": "2026-11-04T15:32:36.234Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -25,15 +25,15 @@
     {
       "id": "1628369",
       "load": 55.4,
-      "obpm": 4.1,
-      "score": 338,
+      "obpm": 4,
+      "score": 332,
       "minutes": 245.88
     },
     {
       "id": "202331",
       "load": 44.4,
-      "obpm": 2.7,
-      "score": 209,
+      "obpm": 2.6,
+      "score": 204,
       "minutes": 185.72
     },
     {
@@ -46,8 +46,8 @@
     {
       "id": "1630202",
       "load": 31.4,
-      "obpm": 0.8,
-      "score": 88,
+      "obpm": 0.7,
+      "score": 85,
       "minutes": 196.31
     }
   ],
