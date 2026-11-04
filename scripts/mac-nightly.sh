@@ -3,7 +3,8 @@
 # games' play-by-play into git (the cloud run builds Footprint and Lonestar from it), the
 # Last 30 Days windows' touches into git (Time of Poss % there), the season's playoff runs
 # into git (the team card's trophies), and the season's tracking
-# files into the bucket the stats sheet reads. launchd runs it at 7 am; it then starts the
+# files into the bucket the stats sheet reads, the Teams sheet's team files too
+# (team_tracking/, playtype/, opp_shooting/; docs/team-tracking.md). launchd runs it at 7 am; it then starts the
 # cloud run itself (GitHub's own schedule is hours late or skipped, so it's only the
 # fallback). SITE_DATA is a site_Data clone (docs/daily-pipeline-requirements.md).
 # A failed step, or no cloud run finishing in 26 hours, posts a macOS notification.
@@ -38,6 +39,7 @@ tracking=ok
 python3 scripts/playoff-tracking-pull.py "$SITE_DATA" $out $end $end --regular || tracking=
 node scripts/tracking-upload.js $end $out/$end || tracking=
 [[ -n $tracking ]] || failed+=(tracking)
+node scripts/team-tracking.js --from=$end --to=$end --refresh --upload || failed+=(team-tracking)
 # After the push and the upload: the cloud run reads both.
 gh workflow run nightly.yml -R $REPO || failed+=(start-cloud-run)
 (( $#failed )) && notify "Failed: ${(j:, :)failed}. See ~/Library/Logs/thinking-bball-nightly.log"
