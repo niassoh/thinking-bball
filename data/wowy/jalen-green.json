@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "PHX",
-  "gp": 5,
-  "generatedAt": "2026-11-03T18:59:09.324Z",
+  "gp": 6,
+  "generatedAt": "2026-11-05T15:20:27.018Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHX",
-      "minutes": 142,
-      "poss": 291,
-      "net": -18.9
+      "minutes": 174,
+      "poss": 362,
+      "net": -19.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHX",
-      "minutes": 98,
-      "poss": 199,
-      "net": 1
+      "minutes": 114,
+      "poss": 232,
+      "net": 1.7
     },
     {
       "label": "On, w/o Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 25,
-      "poss": 54,
-      "net": 26.2
+      "minutes": 35,
+      "poss": 75,
+      "net": 4
     },
     {
       "label": "On, w/o Bridges",
       "sub": "2026–27 · PHX",
-      "minutes": 33,
-      "poss": 69,
-      "net": 8.8
+      "minutes": 39,
+      "poss": 81,
+      "net": -7.5
     },
     {
       "label": "On, w/o Brooks",
       "sub": "2026–27 · PHX",
-      "minutes": 28,
-      "poss": 59,
-      "net": -15.3
+      "minutes": 35,
+      "poss": 75,
+      "net": -20
     },
     {
       "label": "Neither Green nor Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 41,
-      "poss": 81,
-      "net": 22.4
+      "minutes": 46,
+      "poss": 90,
+      "net": 25.6
     }
   ]
 }

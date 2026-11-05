@@ -1,7 +1,7 @@
 {
   "team": "NOP",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:02:04.928Z",
+  "generatedAt": "2026-11-05T15:02:24.062Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,7 +16,7 @@
           "name": "Jordan Poole",
           "slug": "jordan-poole",
           "espnId": "4277956",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Jeremiah Fears",
@@ -51,12 +51,12 @@
           "name": "Trey Murphy III",
           "slug": "trey-murphy-iii",
           "espnId": "4397688",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
-          "name": "Jaron Pierre Jr.",
-          "slug": "jaron-pierre-jr",
-          "espnId": "4703115",
+          "name": "Jordan Poole",
+          "slug": "jordan-poole",
+          "espnId": "4277956",
           "status": null
         }
       ]
@@ -68,7 +68,7 @@
           "name": "Trey Murphy III",
           "slug": "trey-murphy-iii",
           "espnId": "4397688",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Saddiq Bey",
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Saddiq Bey",
-          "slug": "saddiq-bey",
-          "espnId": "4397136",
-          "status": null
-        },
-        {
           "name": "Herbert Jones",
           "slug": "herbert-jones",
           "espnId": "4277813",
+          "status": null
+        },
+        {
+          "name": "Saddiq Bey",
+          "slug": "saddiq-bey",
+          "espnId": "4397136",
           "status": null
         }
       ]
@@ -135,15 +135,15 @@
           "status": null
         },
         {
-          "name": "DeAndre Jordan",
-          "slug": "deandre-jordan",
-          "espnId": "3442",
-          "status": null
-        },
-        {
           "name": "Derik Queen",
           "slug": "derik-queen",
           "espnId": "4869780",
+          "status": null
+        },
+        {
+          "name": "Trendon Watford",
+          "slug": "trendon-watford",
+          "espnId": "4431675",
           "status": null
         }
       ]

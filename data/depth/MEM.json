@@ -1,7 +1,7 @@
 {
   "team": "MEM",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:02:03.505Z",
+  "generatedAt": "2026-11-05T15:02:22.238Z",
   "rows": [
     {
       "pos": "PG",
@@ -13,16 +13,16 @@
           "status": null
         },
         {
-          "name": "Cam Spencer",
-          "slug": "cam-spencer",
-          "espnId": "4433083",
-          "status": null
-        },
-        {
           "name": "Scotty Pippen Jr.",
           "slug": "scotty-pippen-jr",
           "espnId": "4431785",
           "status": "OUT"
+        },
+        {
+          "name": "Cam Spencer",
+          "slug": "cam-spencer",
+          "espnId": "4433083",
+          "status": null
         },
         {
           "name": "Javon Small",
@@ -83,9 +83,9 @@
           "status": null
         },
         {
-          "name": "Karim Lopez",
-          "slug": "karim-lopez",
-          "espnId": "5231919",
+          "name": "Cam Spencer",
+          "slug": "cam-spencer",
+          "espnId": "4433083",
           "status": null
         }
       ]
@@ -109,7 +109,7 @@
           "name": "Isaiah Stewart",
           "slug": "isaiah-stewart",
           "espnId": "4432810",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jerami Grant",
@@ -132,13 +132,13 @@
           "name": "Isaiah Stewart",
           "slug": "isaiah-stewart",
           "espnId": "4432810",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Quinten Post",
           "slug": "quinten-post",
           "espnId": "4593016",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Taylor Hendricks",

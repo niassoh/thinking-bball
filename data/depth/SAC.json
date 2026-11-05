@@ -1,7 +1,7 @@
 {
   "team": "SAC",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:02:07.415Z",
+  "generatedAt": "2026-11-05T15:02:27.161Z",
   "rows": [
     {
       "pos": "PG",
@@ -71,12 +71,6 @@
           "status": null
         },
         {
-          "name": "Daeqwon Plowden",
-          "slug": "daeqwon-plowden",
-          "espnId": "4279318",
-          "status": null
-        },
-        {
           "name": "Zach LaVine",
           "slug": "zach-lavine",
           "espnId": "3064440",
@@ -87,6 +81,12 @@
           "slug": "malik-monk",
           "espnId": "4066262",
           "status": null
+        },
+        {
+          "name": "Keegan Murray",
+          "slug": "keegan-murray",
+          "espnId": "4594327",
+          "status": "OUT"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "name": "Precious Achiuwa",
           "slug": "precious-achiuwa",
           "espnId": "4431679",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "De'Andre Hunter",
@@ -129,22 +129,22 @@
           "status": null
         },
         {
-          "name": "Maxime Raynaud",
-          "slug": "maxime-raynaud",
-          "espnId": "4898371",
-          "status": "OUT"
-        },
-        {
           "name": "Dylan Cardwell",
           "slug": "dylan-cardwell",
           "espnId": "4433174",
           "status": null
         },
         {
+          "name": "Jonathan Mogbo",
+          "slug": "jonathan-mogbo",
+          "espnId": "5107897",
+          "status": null
+        },
+        {
           "name": "Precious Achiuwa",
           "slug": "precious-achiuwa",
           "espnId": "4431679",
-          "status": "DTD"
+          "status": null
         }
       ]
     }

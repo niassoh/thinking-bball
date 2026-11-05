@@ -1,7 +1,7 @@
 {
   "team": "CHA",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:01:58.716Z",
+  "generatedAt": "2026-11-05T15:02:17.522Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Coby White",
           "slug": "coby-white",
           "espnId": "4395651",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Dennis Schroder",
@@ -42,12 +42,6 @@
           "status": "OUT"
         },
         {
-          "name": "Sion James",
-          "slug": "sion-james",
-          "espnId": "4602025",
-          "status": null
-        },
-        {
           "name": "Grayson Allen",
           "slug": "grayson-allen",
           "espnId": "3135045",
@@ -57,7 +51,13 @@
           "name": "Coby White",
           "slug": "coby-white",
           "espnId": "4395651",
-          "status": "DTD"
+          "status": null
+        },
+        {
+          "name": "Dennis Schroder",
+          "slug": "dennis-schroder",
+          "espnId": "3032979",
+          "status": null
         }
       ]
     },
@@ -71,15 +71,15 @@
           "status": null
         },
         {
-          "name": "Grayson Allen",
-          "slug": "grayson-allen",
-          "espnId": "3135045",
-          "status": null
-        },
-        {
           "name": "Sion James",
           "slug": "sion-james",
           "espnId": "4602025",
+          "status": null
+        },
+        {
+          "name": "Grayson Allen",
+          "slug": "grayson-allen",
+          "espnId": "3135045",
           "status": null
         },
         {

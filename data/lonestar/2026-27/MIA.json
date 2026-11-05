@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "MIA",
-  "generatedAt": "2026-11-04T15:32:36.277Z",
+  "generatedAt": "2026-11-05T15:38:14.391Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -25,15 +25,15 @@
     {
       "id": "203507",
       "load": 51.4,
-      "obpm": 4.1,
-      "score": 314,
+      "obpm": 4,
+      "score": 308,
       "minutes": 222.73
     },
     {
       "id": "1630558",
       "load": 36.4,
-      "obpm": 1.7,
-      "score": 135,
+      "obpm": 1.6,
+      "score": 131,
       "minutes": 234.29
     },
     {
@@ -46,8 +46,8 @@
     {
       "id": "202691",
       "load": 27,
-      "obpm": 0.7,
-      "score": 73,
+      "obpm": 0.6,
+      "score": 70,
       "minutes": 152.61
     }
   ],

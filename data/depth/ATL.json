@@ -1,7 +1,7 @@
 {
   "team": "ATL",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:01:57.620Z",
+  "generatedAt": "2026-11-05T15:02:16.253Z",
   "rows": [
     {
       "pos": "PG",
@@ -97,13 +97,7 @@
           "name": "Jalen Johnson",
           "slug": "jalen-johnson",
           "espnId": "4701230",
-          "status": "DTD"
-        },
-        {
-          "name": "Aaron Wiggins",
-          "slug": "aaron-wiggins",
-          "espnId": "4397183",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Luguentz Dort",
@@ -115,6 +109,12 @@
           "name": "Asa Newell",
           "slug": "asa-newell",
           "espnId": "4873201",
+          "status": "DTD"
+        },
+        {
+          "name": "Aaron Wiggins",
+          "slug": "aaron-wiggins",
+          "espnId": "4397183",
           "status": null
         }
       ]
@@ -135,15 +135,15 @@
           "status": "OUT"
         },
         {
-          "name": "Zuby Ejiofor",
-          "slug": "zuby-ejiofor",
-          "espnId": "5106262",
-          "status": null
-        },
-        {
           "name": "Asa Newell",
           "slug": "asa-newell",
           "espnId": "4873201",
+          "status": "DTD"
+        },
+        {
+          "name": "Zuby Ejiofor",
+          "slug": "zuby-ejiofor",
+          "espnId": "5106262",
           "status": null
         }
       ]

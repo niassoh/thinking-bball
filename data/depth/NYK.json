@@ -1,7 +1,7 @@
 {
   "team": "NYK",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:02:05.308Z",
+  "generatedAt": "2026-11-05T15:02:24.495Z",
   "rows": [
     {
       "pos": "PG",
@@ -19,15 +19,15 @@
           "status": null
         },
         {
-          "name": "Miles McBride",
-          "slug": "miles-mcbride",
-          "espnId": "4431823",
-          "status": null
-        },
-        {
           "name": "Tyler Kolek",
           "slug": "tyler-kolek",
           "espnId": "4433225",
+          "status": null
+        },
+        {
+          "name": "Jordan Clarkson",
+          "slug": "jordan-clarkson",
+          "espnId": "2528426",
           "status": null
         }
       ]
@@ -39,7 +39,7 @@
           "name": "Josh Hart",
           "slug": "josh-hart",
           "espnId": "3062679",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Miles McBride",
@@ -71,6 +71,12 @@
           "status": null
         },
         {
+          "name": "Jordan Clarkson",
+          "slug": "jordan-clarkson",
+          "espnId": "2528426",
+          "status": null
+        },
+        {
           "name": "Landry Shamet",
           "slug": "landry-shamet",
           "espnId": "3914044",
@@ -80,13 +86,7 @@
           "name": "Josh Hart",
           "slug": "josh-hart",
           "espnId": "3062679",
-          "status": "DTD"
-        },
-        {
-          "name": "Jordan Clarkson",
-          "slug": "jordan-clarkson",
-          "espnId": "2528426",
-          "status": null
+          "status": "OUT"
         }
       ]
     },
@@ -100,6 +100,12 @@
           "status": null
         },
         {
+          "name": "Landry Shamet",
+          "slug": "landry-shamet",
+          "espnId": "3914044",
+          "status": null
+        },
+        {
           "name": "Karl-Anthony Towns",
           "slug": "karl-anthony-towns",
           "espnId": "3136195",
@@ -109,13 +115,7 @@
           "name": "Josh Hart",
           "slug": "josh-hart",
           "espnId": "3062679",
-          "status": "DTD"
-        },
-        {
-          "name": "Mohamed Diawara",
-          "slug": "mohamed-diawara",
-          "espnId": "5289900",
-          "status": null
+          "status": "OUT"
         }
       ]
     },

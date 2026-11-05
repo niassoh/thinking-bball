@@ -1,7 +1,7 @@
 {
   "team": "MIN",
   "season": "2026-27",
-  "generatedAt": "2026-11-03T18:40:47.437Z",
+  "generatedAt": "2026-11-05T15:02:23.591Z",
   "rows": [
     {
       "pos": "PG",
@@ -45,7 +45,7 @@
           "name": "Terrence Shannon Jr.",
           "slug": "terrence-shannon-jr",
           "espnId": "4432847",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Isaiah Evans",
@@ -71,21 +71,21 @@
           "status": null
         },
         {
+          "name": "Jaylen Clark",
+          "slug": "jaylen-clark",
+          "espnId": "4432247",
+          "status": null
+        },
+        {
           "name": "Terrence Shannon Jr.",
           "slug": "terrence-shannon-jr",
           "espnId": "4432847",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Ayo Dosunmu",
           "slug": "ayo-dosunmu",
           "espnId": "4397002",
-          "status": null
-        },
-        {
-          "name": "Jaylen Clark",
-          "slug": "jaylen-clark",
-          "espnId": "4432247",
           "status": null
         }
       ]
@@ -115,7 +115,7 @@
           "name": "Terrence Shannon Jr.",
           "slug": "terrence-shannon-jr",
           "espnId": "4432847",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     },
@@ -135,15 +135,15 @@
           "status": null
         },
         {
-          "name": "Rocco Zikarsky",
-          "slug": "rocco-zikarsky",
-          "espnId": "5157587",
-          "status": null
-        },
-        {
           "name": "Trey Lyles",
           "slug": "trey-lyles",
           "espnId": "3136196",
+          "status": null
+        },
+        {
+          "name": "Rocco Zikarsky",
+          "slug": "rocco-zikarsky",
+          "espnId": "5157587",
           "status": null
         }
       ]

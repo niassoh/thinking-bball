@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:02:05.659Z",
+  "generatedAt": "2026-11-05T15:02:24.916Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,6 +10,12 @@
           "name": "Shai Gilgeous-Alexander",
           "slug": "shai-gilgeous-alexander",
           "espnId": "4278073",
+          "status": null
+        },
+        {
+          "name": "Bennett Stirtz",
+          "slug": "bennett-stirtz",
+          "espnId": "5241364",
           "status": null
         },
         {
@@ -22,12 +28,6 @@
           "name": "Jared McCain",
           "slug": "jared-mccain",
           "espnId": "4683778",
-          "status": null
-        },
-        {
-          "name": "Bennett Stirtz",
-          "slug": "bennett-stirtz",
-          "espnId": "5241364",
           "status": null
         }
       ]
@@ -65,27 +65,27 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Kenrich Williams",
-          "slug": "kenrich-williams",
-          "espnId": "3133626",
-          "status": null
-        },
-        {
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
           "status": null
         },
         {
-          "name": "Ajay Mitchell",
-          "slug": "ajay-mitchell",
-          "espnId": "4900671",
+          "name": "Kenrich Williams",
+          "slug": "kenrich-williams",
+          "espnId": "3133626",
           "status": null
         },
         {
           "name": "Josh Dix",
           "slug": "josh-dix",
           "espnId": "5105800",
+          "status": null
+        },
+        {
+          "name": "Brooks Barnhizer",
+          "slug": "brooks-barnhizer",
+          "espnId": "4684208",
           "status": null
         }
       ]
@@ -97,7 +97,7 @@
           "name": "Jaylin Williams",
           "slug": "jaylin-williams",
           "espnId": "4432823",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Kenrich Williams",
@@ -129,16 +129,16 @@
           "status": null
         },
         {
-          "name": "Jaylin Williams",
-          "slug": "jaylin-williams",
-          "espnId": "4432823",
-          "status": "DTD"
-        },
-        {
           "name": "Aday Mara",
           "slug": "aday-mara",
           "espnId": "5174983",
           "status": null
+        },
+        {
+          "name": "Jaylin Williams",
+          "slug": "jaylin-williams",
+          "espnId": "4432823",
+          "status": "OUT"
         },
         {
           "name": "Thomas Sorber",

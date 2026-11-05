@@ -1,7 +1,7 @@
 {
   "team": "HOU",
   "season": "2026-27",
-  "generatedAt": "2026-11-03T18:40:44.835Z",
+  "generatedAt": "2026-11-05T15:02:20.547Z",
   "rows": [
     {
       "pos": "PG",
@@ -135,16 +135,16 @@
           "status": "OUT"
         },
         {
+          "name": "Clint Capela",
+          "slug": "clint-capela",
+          "espnId": "3102529",
+          "status": "OUT"
+        },
+        {
           "name": "Jabari Smith Jr.",
           "slug": "jabari-smith-jr",
           "espnId": "4432639",
           "status": null
-        },
-        {
-          "name": "Clint Capela",
-          "slug": "clint-capela",
-          "espnId": "3102529",
-          "status": "DTD"
         }
       ]
     }

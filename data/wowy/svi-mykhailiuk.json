@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "UTA",
-  "gp": 7,
-  "generatedAt": "2026-11-03T19:04:17.122Z",
+  "gp": 8,
+  "generatedAt": "2026-11-05T15:25:54.343Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · UTA",
-      "minutes": 115,
-      "poss": 254,
-      "net": -17.8
+      "minutes": 132,
+      "poss": 291,
+      "net": -11.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · UTA",
-      "minutes": 226,
-      "poss": 464,
-      "net": -8.2
+      "minutes": 262,
+      "poss": 535,
+      "net": -10.7
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · UTA",
-      "minutes": 81,
-      "poss": 180,
-      "net": -14.5
-    },
-    {
-      "label": "On, w/o Peterson",
-      "sub": "2026–27 · UTA",
-      "minutes": 82,
-      "poss": 183,
-      "net": -23.6
+      "minutes": 84,
+      "poss": 187,
+      "net": -13.4
     },
     {
       "label": "On, w/o Bailey",
       "sub": "2026–27 · UTA",
-      "minutes": 75,
-      "poss": 161,
-      "net": -13.7
+      "minutes": 83,
+      "poss": 178,
+      "net": -7.9
+    },
+    {
+      "label": "On, w/o Peterson",
+      "sub": "2026–27 · UTA",
+      "minutes": 96,
+      "poss": 213,
+      "net": -15.1
     },
     {
       "label": "Neither Mykhailiuk nor George",
       "sub": "2026–27 · UTA",
-      "minutes": 45,
-      "poss": 89,
-      "net": 0
+      "minutes": 51,
+      "poss": 102,
+      "net": -7.9
     }
   ]
 }

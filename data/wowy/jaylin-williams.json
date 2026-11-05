@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "OKC",
   "gp": 7,
-  "generatedAt": "2026-11-03T19:08:38.888Z",
+  "generatedAt": "2026-11-05T15:31:09.772Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · OKC",
-      "minutes": 207,
-      "poss": 422,
-      "net": 5
+      "minutes": 255,
+      "poss": 524,
+      "net": 5.5
     },
     {
       "label": "On, w/o Gilgeous-Alexander",
@@ -42,9 +42,9 @@
     {
       "label": "Neither Williams nor Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 48,
-      "poss": 95,
-      "net": -28.4
+      "minutes": 61,
+      "poss": 120,
+      "net": -20.1
     }
   ]
 }

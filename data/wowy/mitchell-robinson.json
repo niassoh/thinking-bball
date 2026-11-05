@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "BOS",
-  "gp": 6,
-  "generatedAt": "2026-11-03T19:12:44.716Z",
+  "gp": 7,
+  "generatedAt": "2026-11-05T15:35:16.706Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BOS",
-      "minutes": 116,
-      "poss": 228,
-      "net": -18.4
+      "minutes": 135,
+      "poss": 265,
+      "net": -14
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BOS",
-      "minutes": 225,
-      "poss": 461,
-      "net": 18
+      "minutes": 254,
+      "poss": 518,
+      "net": 16.4
     },
     {
       "label": "On, w/o Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 29,
-      "poss": 56,
-      "net": -18
+      "minutes": 48,
+      "poss": 93,
+      "net": -5.4
     },
     {
       "label": "On, w/o White",
       "sub": "2026–27 · BOS",
-      "minutes": 28,
-      "poss": 58,
-      "net": -51.7
+      "minutes": 38,
+      "poss": 78,
+      "net": -40
     },
     {
-      "label": "On, w/o Pritchard",
+      "label": "On, w/o George",
       "sub": "2026–27 · BOS",
-      "minutes": 59,
-      "poss": 119,
-      "net": -3.4
+      "minutes": 37,
+      "poss": 72,
+      "net": -40.6
     },
     {
       "label": "Neither Robinson nor Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 66,
-      "poss": 133,
-      "net": 14.3
+      "minutes": 95,
+      "poss": 190,
+      "net": 11.1
     }
   ]
 }
