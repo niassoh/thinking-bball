@@ -1,21 +1,21 @@
 {
   "team": "ATL",
   "season": "2026-27",
-  "generatedAt": "2026-11-05T15:02:16.253Z",
+  "generatedAt": "2026-11-06T15:03:59.469Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
         {
-          "name": "CJ McCollum",
-          "slug": "cj-mccollum",
-          "espnId": "2490149",
-          "status": null
-        },
-        {
           "name": "Kingston Flemings",
           "slug": "kingston-flemings",
           "espnId": "5149077",
+          "status": null
+        },
+        {
+          "name": "CJ McCollum",
+          "slug": "cj-mccollum",
+          "espnId": "2490149",
           "status": null
         },
         {
@@ -97,7 +97,7 @@
           "name": "Jalen Johnson",
           "slug": "jalen-johnson",
           "espnId": "4701230",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Luguentz Dort",
@@ -109,7 +109,7 @@
           "name": "Asa Newell",
           "slug": "asa-newell",
           "espnId": "4873201",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Aaron Wiggins",
@@ -138,7 +138,7 @@
           "name": "Asa Newell",
           "slug": "asa-newell",
           "espnId": "4873201",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Zuby Ejiofor",

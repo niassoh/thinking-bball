@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "PHX",
-  "gp": 4,
-  "generatedAt": "2026-11-05T15:33:31.875Z",
+  "gp": 5,
+  "generatedAt": "2026-11-06T15:56:27.365Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHX",
-      "minutes": 83,
-      "poss": 170,
-      "net": -10
+      "minutes": 107,
+      "poss": 221,
+      "net": -4.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHX",
-      "minutes": 205,
-      "poss": 425,
-      "net": -11.5
+      "minutes": 229,
+      "poss": 473,
+      "net": -9.1
     },
     {
       "label": "On, w/o Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 19,
-      "poss": 40,
-      "net": 40.5
+      "minutes": 23,
+      "poss": 47,
+      "net": 40.4
     },
     {
       "label": "On, w/o Bridges",
       "sub": "2026–27 · PHX",
-      "minutes": 35,
-      "poss": 71,
-      "net": -8.5
+      "minutes": 40,
+      "poss": 81,
+      "net": -9.9
     },
     {
       "label": "On, w/o Brooks",
       "sub": "2026–27 · PHX",
-      "minutes": 34,
-      "poss": 72,
-      "net": 9.8
+      "minutes": 38,
+      "poss": 79,
+      "net": 12.7
     },
     {
       "label": "Neither Ighodaro nor Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 61,
-      "poss": 125,
-      "net": 8
+      "minutes": 72,
+      "poss": 146,
+      "net": 2.7
     }
   ]
 }

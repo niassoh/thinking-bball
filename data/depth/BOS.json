@@ -1,7 +1,7 @@
 {
   "team": "BOS",
   "season": "2026-27",
-  "generatedAt": "2026-11-05T15:02:17.101Z",
+  "generatedAt": "2026-11-06T15:04:00.202Z",
   "rows": [
     {
       "pos": "PG",
@@ -68,7 +68,7 @@
           "name": "Jayson Tatum",
           "slug": "jayson-tatum",
           "espnId": "4065648",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Sam Hauser",
@@ -109,7 +109,7 @@
           "name": "Jayson Tatum",
           "slug": "jayson-tatum",
           "espnId": "4065648",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Sam Hauser",
@@ -141,9 +141,9 @@
           "status": null
         },
         {
-          "name": "Chris Cenac Jr.",
-          "slug": "chris-cenac-jr",
-          "espnId": "5142621",
+          "name": "Amari Williams",
+          "slug": "amari-williams",
+          "espnId": "4702745",
           "status": null
         }
       ]
