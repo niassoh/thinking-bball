@@ -7,6 +7,7 @@
 //   <out>/api/leaderboard/{index,<season>}.json  the Leaderboard page's seasons, and each one
 //   <out>/api/teamboard/{index,<season>}.json  the Team board's seasons, and every team's season in each (lib/teamboard.js)
 //   <out>/api/teamunits/<season>.json  each team's most-played and best units (the team card)
+//   <out>/api/units/<season>/<TEAM>.json  a team's units as counts (the Team board's units view)
 //   <out>/api/playoffs/leaderboard/delta/<season>.json  playoffs minus regular season
 //   <out>/api/footprint/<slug>.json    the Footprint tab's views, for a player who has them
 //   <out>/api/lonestar/<slug>.json     the Lonestar tab's views, for a player who has them
@@ -25,7 +26,7 @@
 const fs = require('fs')
 const path = require('path')
 const { teamboard, SEASONS: TEAMBOARD_SEASONS } = require('../lib/teamboard')
-const { teamUnitsDoc, buildProfile, shotDotsOf, footprintDoc, lonestarDoc, leaderboard, leaderboardDelta, leaderboardRecent, leaderboardSeasons, playerIndex, teamList, distribution, lineupLeague, lineupSeasons, aliasSlugs } = require('../lib/profile')
+const { teamUnitsDoc, unitsDoc, buildProfile, shotDotsOf, footprintDoc, lonestarDoc, leaderboard, leaderboardDelta, leaderboardRecent, leaderboardSeasons, playerIndex, teamList, distribution, lineupLeague, lineupSeasons, aliasSlugs } = require('../lib/profile')
 const { ALL_STATS, statKey } = require('../lib/stats')
 
 const ASSETS = path.join(__dirname, '..', 'assets', 'players')
@@ -59,6 +60,12 @@ const exportStatic = out => {
     }
     const units = teamUnitsDoc(season)
     if (units) write(`teamunits/${season}.json`, units)
+    for (const team of units ? Object.keys(units.teams) : []) {
+      const doc = unitsDoc(season, team)
+      if (!doc) continue
+      fs.mkdirSync(path.join(api, 'units', season), { recursive: true })
+      write(`units/${season}/${team}.json`, doc)
+    }
   }
   write('teamboard/index.json', { seasons: boards })
 

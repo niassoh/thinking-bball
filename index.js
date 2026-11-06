@@ -301,6 +301,15 @@ app.get('/api/teamunits/:season', (req, res) => {
   res.json(doc);
 });
 
+// The Team board's units view: one team-season's units as counts (lib/profile.js unitsDoc).
+app.get('/api/units/:season/:team', (req, res) => {
+  const doc = /^\d{4}-\d{2}$/.test(req.params.season) && /^[A-Z]{3}$/.test(req.params.team) ? profile.unitsDoc(req.params.season, req.params.team) : null;
+  if (!doc) {
+    return res.status(404).json({ message: 'No units for that team and season' });
+  }
+  res.json(doc);
+});
+
 // Playoffs mode reads the same documents under /api/playoffs/ (built from the playoff
 // sheet's runs); the player list and teams are shared.
 const seasonType = req => (req.path.startsWith('/api/playoffs/') ? 'playoffs' : 'regular');

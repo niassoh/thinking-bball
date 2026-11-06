@@ -12,6 +12,22 @@ const LINEUPS = [
   L('BCDEF', 60, 40, -4) // without A: -10.0
 ]
 
+// With points (t[0] scored, o[0] allowed), net is ORTG − DRTG, which differs from
+// plus-minus per average possession when offense and defense possessions do.
+const P = (ids, minutes, offPoss, defPoss, scored, allowed) => ({ ids: ids.split(''), seconds: minutes * 60, offPoss, defPoss, plusMinus: scored - allowed, t: [scored], o: [allowed] })
+
+test('lineups: with points, net is ORTG less DRTG, not plus-minus per possession', () => {
+  // 110 on 100 offensive possessions, 105 allowed on 95 defensive: 110.0 − 110.5 = −0.5,
+  // where plus-minus per possession reads +5 / 97.5 = +5.1.
+  const p = lineupProfile([P('ABCDE', 48, 100, 95, 110, 105)], 'A', FLOORS, RANGES)
+  assert.deepStrictEqual(p.on, { minutes: 48, poss: 98, net: -0.5, ortg: 110, drtg: 110.5 })
+})
+
+test('lineups: a group without points for every lineup keeps plus-minus per possession', () => {
+  const p = lineupProfile([P('ABCDE', 48, 100, 95, 110, 105), L('ABFGH', 12, 20, 2)], 'A', FLOORS, RANGES)
+  assert.deepStrictEqual(p.on, { minutes: 60, poss: 118, net: 6 }) // +7 over 117.5
+})
+
 test('lineups: on/off sum the lineups he is and is not in', () => {
   const p = lineupProfile(LINEUPS, 'A', FLOORS, RANGES)
   assert.deepStrictEqual(p.on, { minutes: 450, poss: 180, net: 7.8 })
