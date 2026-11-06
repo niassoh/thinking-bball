@@ -23,6 +23,9 @@
 // Usage: node scripts/backfill-seasons.js [2003-04 2004-05 ...]  (default 2000-01..2012-13)
 //        node scripts/backfill-seasons.js --out=<file> [seasons]  (write the keys to <file> for review, not the cache)
 //        node scripts/backfill-seasons.js --check  (re-pull the current A13 season, compare with its cached key, write nothing)
+//        node scripts/backfill-seasons.js --sheet=<id> [seasons]  (through another copy of the sheet)
+// Swap a review file in with scripts/swap-backfill.js, not by hand: it keeps the cached rOS%
+// the sheet leaves blank past its 272nd row (docs/player-profile-pipeline.md, Re-pulling past seasons).
 //
 // --playoffs does the same through the playoff stats sheet into dailycat-playoffs-<YY>
 // (default 2013-14..2025-26). Its 'PBP Team' averages are the same cells, patched the same
@@ -56,7 +59,10 @@ const { compress, decompress } = require('compress-json')
 const { sleep } = require('../lib/http')
 
 const PLAYOFFS = process.argv.includes('--playoffs')
-const SHEET_ID = PLAYOFFS ? '1v8vHxHLw94KgsPCZ5s4BLfYygZFRFQ0Tr4wrThZPq_g' : '10deal7utcC-C3j3w_3lJX-LjOqpEQ6l8KZBxmGT6OVE'
+// --sheet=<id> pulls through another copy of the sheet (the user's 2026-11-06 re-pull of
+// 2000-01..2025-26 used one with the minutes floor at 0).
+const SHEET_ARG = (process.argv.find(a => a.startsWith('--sheet=')) || '').slice('--sheet='.length)
+const SHEET_ID = SHEET_ARG || (PLAYOFFS ? '1v8vHxHLw94KgsPCZ5s4BLfYygZFRFQ0Tr4wrThZPq_g' : '10deal7utcC-C3j3w_3lJX-LjOqpEQ6l8KZBxmGT6OVE')
 const CACHE_FILE = path.join(__dirname, '..', 'data', 'cached-data.json')
 const POLL_MS = 20000
 const TIMEOUT_MS = 20 * 60000
@@ -311,7 +317,7 @@ const check = async sheets => {
 }
 
 const main = async () => {
-  const args = process.argv.slice(2).filter(a => !a.startsWith('--out=') && a !== '--playoffs')
+  const args = process.argv.slice(2).filter(a => !a.startsWith('--out=') && !a.startsWith('--sheet=') && a !== '--playoffs')
   const sheets = await sheetsClient()
   if (args.includes('--check')) return check(sheets)
 
