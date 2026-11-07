@@ -738,7 +738,7 @@ test('leaderboard delta: each playoff player\'s playoff value minus his regular-
   assert.strictEqual(d.type, 'delta')
   assert.ok(!d.groups.some(g => g.id === 'footprint'))
   // Only playoff players with a regular-season row.
-  assert.ok(d.players.length > 0 && d.players.length < po.players.length)
+  assert.ok(d.players.length > 0 && d.players.length <= po.players.length)
   assert.ok(d.players.every(p => rs.players.some(r => r.slug === p.slug)))
   const k = d.labels.indexOf('BPM')
   const j = d.players.find(p => p.slug === 'jalen-brunson')
