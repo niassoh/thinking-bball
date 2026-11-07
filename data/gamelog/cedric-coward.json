@@ -1,13 +1,37 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-11-03T19:05:09.208Z",
+  "generatedAt": "2026-11-07T16:06:21.121Z",
   "recent": {
-    "start": "2026-10-04",
-    "end": "2026-11-02",
-    "games": 6,
-    "seasonGames": 6
+    "start": "2026-10-08",
+    "end": "2026-11-06",
+    "games": 8,
+    "seasonGames": 8
   },
   "games": [
+    {
+      "date": "2026-11-06",
+      "gameId": "0022600029",
+      "opp": "OKC",
+      "home": true,
+      "result": "L",
+      "pts": 10,
+      "reb": 9,
+      "ast": 0,
+      "ts": 55.6,
+      "oppRank": 17
+    },
+    {
+      "date": "2026-11-04",
+      "gameId": "0022600178",
+      "opp": "IND",
+      "home": true,
+      "result": "L",
+      "pts": 23,
+      "reb": 9,
+      "ast": 4,
+      "ts": 54.8,
+      "oppRank": 20
+    },
     {
       "date": "2026-11-02",
       "gameId": "0022600165",
@@ -42,31 +66,7 @@
       "reb": 7,
       "ast": 4,
       "ts": 60.7,
-      "oppRank": 5
-    },
-    {
-      "date": "2026-10-26",
-      "gameId": "0022600126",
-      "opp": "UTA",
-      "home": false,
-      "result": "W",
-      "pts": 16,
-      "reb": 11,
-      "ast": 3,
-      "ts": 66.7,
-      "oppRank": 25
-    },
-    {
-      "date": "2026-10-25",
-      "gameId": "0022600118",
-      "opp": "SAC",
-      "home": false,
-      "result": "W",
-      "pts": 15,
-      "reb": 11,
-      "ast": 2,
-      "ts": 68.2,
-      "oppRank": 29
+      "oppRank": 4
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "TOR",
-  "gp": 7,
-  "generatedAt": "2026-11-03T19:14:05.858Z",
+  "gp": 9,
+  "generatedAt": "2026-11-07T16:22:20.607Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · TOR",
-      "minutes": 90,
-      "poss": 193,
-      "net": 9.4
+      "minutes": 119,
+      "poss": 248,
+      "net": 16.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · TOR",
-      "minutes": 246,
-      "poss": 523,
-      "net": 6.9
-    },
-    {
-      "label": "On, w/o Barnes",
-      "sub": "2026–27 · TOR",
-      "minutes": 50,
-      "poss": 110,
-      "net": 17.4
+      "minutes": 313,
+      "poss": 663,
+      "net": 1.2
     },
     {
       "label": "On, w/o Barrett",
       "sub": "2026–27 · TOR",
-      "minutes": 56,
-      "poss": 127,
-      "net": 3.1
+      "minutes": 73,
+      "poss": 162,
+      "net": 13.6
     },
     {
-      "label": "On, w/o Quickley",
+      "label": "On, w/o Barnes",
       "sub": "2026–27 · TOR",
-      "minutes": 51,
-      "poss": 117,
-      "net": 9.4
+      "minutes": 74,
+      "poss": 157,
+      "net": 23.6
     },
     {
-      "label": "Neither Graves nor Barnes",
+      "label": "On, w/o Walter",
       "sub": "2026–27 · TOR",
-      "minutes": 52,
-      "poss": 100,
-      "net": 8
+      "minutes": 72,
+      "poss": 152,
+      "net": 33.6
+    },
+    {
+      "label": "Neither Graves nor Barrett",
+      "sub": "2026–27 · TOR",
+      "minutes": 61,
+      "poss": 136,
+      "net": -11
     }
   ]
 }

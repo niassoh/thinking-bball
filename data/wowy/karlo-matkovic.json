@@ -1,29 +1,22 @@
 {
   "season": "2026-27",
   "team": "NOP",
-  "gp": 6,
-  "generatedAt": "2026-11-03T19:10:48.300Z",
+  "gp": 7,
+  "generatedAt": "2026-11-05T15:33:03.385Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · NOP",
-      "minutes": 109,
-      "poss": 237,
-      "net": 19.5
+      "minutes": 130,
+      "poss": 279,
+      "net": 13.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NOP",
-      "minutes": 237,
-      "poss": 507,
-      "net": -6.7
-    },
-    {
-      "label": "On, w/o Murphy III",
-      "sub": "2026–27 · NOP",
-      "minutes": 21,
-      "poss": 46,
-      "net": 26.1
+      "minutes": 269,
+      "poss": 573,
+      "net": -3.1
     },
     {
       "label": "On, w/o Williamson",
@@ -33,18 +26,25 @@
       "net": 13.6
     },
     {
-      "label": "On, w/o Fears",
+      "label": "On, w/o Murphy III",
       "sub": "2026–27 · NOP",
-      "minutes": 20,
-      "poss": 48,
-      "net": 10.5
+      "minutes": 42,
+      "poss": 89,
+      "net": 3.4
     },
     {
-      "label": "Neither Matković nor Murphy III",
+      "label": "On, w/o Fears",
       "sub": "2026–27 · NOP",
-      "minutes": 94,
-      "poss": 203,
-      "net": 5.9
+      "minutes": 21,
+      "poss": 48,
+      "net": 10.4
+    },
+    {
+      "label": "Neither Matković nor Williamson",
+      "sub": "2026–27 · NOP",
+      "minutes": 116,
+      "poss": 246,
+      "net": -4.1
     }
   ]
 }

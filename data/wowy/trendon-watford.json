@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
-  "team": "PHI",
-  "gp": 53,
-  "generatedAt": "2026-10-02T04:32:06.638Z",
+  "season": "2026-27",
+  "team": "NOP",
+  "gp": 5,
+  "generatedAt": "2026-11-07T16:19:05.364Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · PHI",
-      "minutes": 864,
-      "poss": 1819,
-      "net": -8.466190214403518
+      "sub": "2026–27 · NOP",
+      "minutes": 89,
+      "poss": 187,
+      "net": 11.3
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · PHI",
-      "minutes": 3112,
-      "poss": 6442,
-      "net": 2.157714995343061
+      "sub": "2026–27 · NOP",
+      "minutes": 358,
+      "poss": 762,
+      "net": -1.1
     },
     {
-      "label": "On, w/o Maxey",
-      "sub": "2025–26 · PHI",
-      "minutes": 461,
-      "poss": 974.5,
-      "net": -13.237557721908672
+      "label": "On, w/o Williamson",
+      "sub": "2026–27 · NOP",
+      "minutes": 78,
+      "poss": 163,
+      "net": 4.9
     },
     {
-      "label": "On, w/o Edgecombe",
-      "sub": "2025–26 · PHI",
-      "minutes": 440,
-      "poss": 937,
-      "net": -5.122732123799359
+      "label": "On, w/o Murphy III",
+      "sub": "2026–27 · NOP",
+      "minutes": 79,
+      "poss": 164,
+      "net": 7.9
     },
     {
-      "label": "On, w/o Grimes",
-      "sub": "2025–26 · PHI",
-      "minutes": 342,
-      "poss": 736,
-      "net": -14.402173913043478
+      "label": "On, w/o Fears",
+      "sub": "2026–27 · NOP",
+      "minutes": 73,
+      "poss": 151,
+      "net": 13.2
     },
     {
-      "label": "Neither Watford nor Maxey",
-      "sub": "2025–26 · PHI",
-      "minutes": 854,
-      "poss": 1788,
-      "net": 0.05592841163310962
+      "label": "Neither Watford nor Williamson",
+      "sub": "2026–27 · NOP",
+      "minutes": 70,
+      "poss": 150,
+      "net": -10.7
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "POR",
   "season": "2026-27",
-  "generatedAt": "2026-11-02T15:05:18.925Z",
+  "generatedAt": "2026-11-05T15:02:26.740Z",
   "rows": [
     {
       "pos": "PG",
@@ -42,12 +42,6 @@
           "status": null
         },
         {
-          "name": "Vit Krejci",
-          "slug": "vit-krejci",
-          "espnId": "4578893",
-          "status": null
-        },
-        {
           "name": "Damian Lillard",
           "slug": "damian-lillard",
           "espnId": "6606",
@@ -57,6 +51,12 @@
           "name": "Jrue Holiday",
           "slug": "jrue-holiday",
           "espnId": "3995",
+          "status": null
+        },
+        {
+          "name": "Toumani Camara",
+          "slug": "toumani-camara",
+          "espnId": "4431736",
           "status": null
         }
       ]
@@ -77,15 +77,15 @@
           "status": null
         },
         {
-          "name": "Vit Krejci",
-          "slug": "vit-krejci",
-          "espnId": "4578893",
-          "status": null
-        },
-        {
           "name": "Jrue Holiday",
           "slug": "jrue-holiday",
           "espnId": "3995",
+          "status": null
+        },
+        {
+          "name": "Deni Avdija",
+          "slug": "deni-avdija",
+          "espnId": "4683021",
           "status": null
         }
       ]
@@ -135,15 +135,15 @@
           "status": null
         },
         {
-          "name": "Micah Potter",
-          "slug": "micah-potter",
-          "espnId": "4066399",
-          "status": null
-        },
-        {
           "name": "Yang Hansen",
           "slug": "yang-hansen",
           "espnId": "5217746",
+          "status": null
+        },
+        {
+          "name": "Branden Carlson",
+          "slug": "branden-carlson",
+          "espnId": "4592435",
           "status": null
         }
       ]

@@ -1,36 +1,29 @@
 {
   "season": "2026-27",
   "team": "IND",
-  "gp": 5,
-  "generatedAt": "2026-11-03T19:09:13.664Z",
+  "gp": 6,
+  "generatedAt": "2026-11-05T15:31:42.883Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · IND",
-      "minutes": 74,
-      "poss": 157,
-      "net": -3.2
+      "minutes": 82,
+      "poss": 172,
+      "net": -4.1
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · IND",
-      "minutes": 310,
-      "poss": 653,
-      "net": -4
+      "minutes": 350,
+      "poss": 740,
+      "net": -2.7
     },
     {
       "label": "On, w/o Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 56,
-      "poss": 122,
-      "net": -2.5
-    },
-    {
-      "label": "On, w/o Walker",
-      "sub": "2026–27 · IND",
-      "minutes": 21,
-      "poss": 40,
-      "net": -5
+      "minutes": 62,
+      "poss": 132,
+      "net": -4.5
     },
     {
       "label": "On, w/o Nembhard",
@@ -40,11 +33,18 @@
       "net": 3.4
     },
     {
+      "label": "On, w/o Walker",
+      "sub": "2026–27 · IND",
+      "minutes": 28,
+      "poss": 55,
+      "net": -7.3
+    },
+    {
       "label": "Neither Brown nor Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 103,
-      "poss": 214,
-      "net": -6.1
+      "minutes": 115,
+      "poss": 242,
+      "net": -3.7
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "NOP",
-  "gp": 7,
-  "generatedAt": "2026-11-03T19:00:36.586Z",
+  "gp": 9,
+  "generatedAt": "2026-11-07T15:54:57.346Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · NOP",
-      "minutes": 118,
-      "poss": 253,
-      "net": -0.8
+      "minutes": 141,
+      "poss": 301,
+      "net": -6.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NOP",
-      "minutes": 228,
-      "poss": 491,
-      "net": 2.9
-    },
-    {
-      "label": "On, w/o Murphy III",
-      "sub": "2026–27 · NOP",
-      "minutes": 101,
-      "poss": 219,
-      "net": 2.3
+      "minutes": 306,
+      "poss": 648,
+      "net": 4.9
     },
     {
       "label": "On, w/o Williamson",
       "sub": "2026–27 · NOP",
-      "minutes": 104,
-      "poss": 224,
-      "net": 1.3
+      "minutes": 114,
+      "poss": 244,
+      "net": 0.4
+    },
+    {
+      "label": "On, w/o Murphy III",
+      "sub": "2026–27 · NOP",
+      "minutes": 117,
+      "poss": 252,
+      "net": -2
     },
     {
       "label": "On, w/o Fears",
       "sub": "2026–27 · NOP",
-      "minutes": 98,
-      "poss": 209,
-      "net": 0.5
+      "minutes": 109,
+      "poss": 233,
+      "net": 0.4
     },
     {
-      "label": "Neither Mathurin nor Murphy III",
+      "label": "Neither Mathurin nor Williamson",
       "sub": "2026–27 · NOP",
-      "minutes": 14,
-      "poss": 30,
-      "net": 63.3
+      "minutes": 34,
+      "poss": 68,
+      "net": -13.2
     }
   ]
 }

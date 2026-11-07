@@ -1,7 +1,7 @@
 {
   "team": "HOU",
   "season": "2026-27",
-  "generatedAt": "2026-11-03T18:40:44.835Z",
+  "generatedAt": "2026-11-07T15:03:47.631Z",
   "rows": [
     {
       "pos": "PG",
@@ -25,9 +25,9 @@
           "status": null
         },
         {
-          "name": "Bruce Thornton",
-          "slug": "bruce-thornton",
-          "espnId": "5105837",
+          "name": "Reed Sheppard",
+          "slug": "reed-sheppard",
+          "espnId": "4711272",
           "status": null
         }
       ]
@@ -135,16 +135,16 @@
           "status": "OUT"
         },
         {
+          "name": "Clint Capela",
+          "slug": "clint-capela",
+          "espnId": "3102529",
+          "status": "OUT"
+        },
+        {
           "name": "Jabari Smith Jr.",
           "slug": "jabari-smith-jr",
           "espnId": "4432639",
           "status": null
-        },
-        {
-          "name": "Clint Capela",
-          "slug": "clint-capela",
-          "espnId": "3102529",
-          "status": "DTD"
         }
       ]
     }

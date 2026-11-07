@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "IND",
-  "gp": 7,
-  "generatedAt": "2026-11-03T19:12:27.244Z",
+  "gp": 8,
+  "generatedAt": "2026-11-05T15:34:58.699Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · IND",
-      "minutes": 140,
-      "poss": 292,
-      "net": -5.1
+      "minutes": 154,
+      "poss": 321,
+      "net": -1.6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · IND",
-      "minutes": 244,
-      "poss": 517,
-      "net": -3.1
+      "minutes": 278,
+      "poss": 591,
+      "net": -3.7
     },
     {
       "label": "On, w/o Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 58,
-      "poss": 122,
-      "net": -1.6
-    },
-    {
-      "label": "On, w/o Walker",
-      "sub": "2026–27 · IND",
-      "minutes": 67,
-      "poss": 134,
-      "net": 0
+      "minutes": 62,
+      "poss": 129,
+      "net": -0.8
     },
     {
       "label": "On, w/o Nembhard",
       "sub": "2026–27 · IND",
-      "minutes": 83,
-      "poss": 175,
-      "net": -5.7
+      "minutes": 88,
+      "poss": 184,
+      "net": -5.4
+    },
+    {
+      "label": "On, w/o Walker",
+      "sub": "2026–27 · IND",
+      "minutes": 76,
+      "poss": 153,
+      "net": 6.5
     },
     {
       "label": "Neither Huff nor Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 101,
-      "poss": 214,
-      "net": -6.5
+      "minutes": 115,
+      "poss": 245,
+      "net": -5.7
     }
   ]
 }

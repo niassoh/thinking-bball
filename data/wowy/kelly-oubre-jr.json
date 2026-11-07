@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "IND",
   "gp": 7,
-  "generatedAt": "2026-11-03T19:06:40.809Z",
+  "generatedAt": "2026-11-05T15:28:47.999Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · IND",
-      "minutes": 222,
-      "poss": 465,
-      "net": 1.9
+      "minutes": 270,
+      "poss": 567,
+      "net": 2.3
     },
     {
       "label": "On, w/o Siakam",
@@ -26,13 +26,6 @@
       "net": -11.7
     },
     {
-      "label": "On, w/o Walker",
-      "sub": "2026–27 · IND",
-      "minutes": 123,
-      "poss": 260,
-      "net": -16.2
-    },
-    {
       "label": "On, w/o Nembhard",
       "sub": "2026–27 · IND",
       "minutes": 57,
@@ -40,11 +33,18 @@
       "net": -16.9
     },
     {
+      "label": "On, w/o Walker",
+      "sub": "2026–27 · IND",
+      "minutes": 123,
+      "poss": 260,
+      "net": -16.2
+    },
+    {
       "label": "Neither Oubre Jr. nor Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 119,
-      "poss": 250,
-      "net": -2.4
+      "minutes": 137,
+      "poss": 288,
+      "net": -1.7
     }
   ]
 }

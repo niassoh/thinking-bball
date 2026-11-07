@@ -1,7 +1,7 @@
 {
   "team": "CHA",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:01:58.716Z",
+  "generatedAt": "2026-11-07T15:03:44.859Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,13 +10,13 @@
           "name": "Coby White",
           "slug": "coby-white",
           "espnId": "4395651",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Dennis Schroder",
           "slug": "dennis-schroder",
           "espnId": "3032979",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Christian Anderson",
@@ -42,12 +42,6 @@
           "status": "OUT"
         },
         {
-          "name": "Sion James",
-          "slug": "sion-james",
-          "espnId": "4602025",
-          "status": null
-        },
-        {
           "name": "Grayson Allen",
           "slug": "grayson-allen",
           "espnId": "3135045",
@@ -57,7 +51,13 @@
           "name": "Coby White",
           "slug": "coby-white",
           "espnId": "4395651",
-          "status": "DTD"
+          "status": null
+        },
+        {
+          "name": "Dennis Schroder",
+          "slug": "dennis-schroder",
+          "espnId": "3032979",
+          "status": "OUT"
         }
       ]
     },
@@ -68,18 +68,18 @@
           "name": "Brandon Miller",
           "slug": "brandon-miller",
           "espnId": "4433287",
+          "status": "DTD"
+        },
+        {
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
           "status": null
         },
         {
           "name": "Grayson Allen",
           "slug": "grayson-allen",
           "espnId": "3135045",
-          "status": null
-        },
-        {
-          "name": "Sion James",
-          "slug": "sion-james",
-          "espnId": "4602025",
           "status": null
         },
         {
@@ -126,7 +126,7 @@
           "name": "Moussa Diabate",
           "slug": "moussa-diabate",
           "espnId": "4433249",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Ryan Kalkbrenner",

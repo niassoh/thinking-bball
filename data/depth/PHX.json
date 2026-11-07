@@ -1,7 +1,7 @@
 {
   "team": "PHX",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:02:06.675Z",
+  "generatedAt": "2026-11-07T15:03:53.068Z",
   "rows": [
     {
       "pos": "PG",
@@ -123,15 +123,15 @@
       "pos": "C",
       "players": [
         {
-          "name": "Khaman Maluach",
-          "slug": "khaman-maluach",
-          "espnId": "5203685",
-          "status": null
-        },
-        {
           "name": "Oso Ighodaro",
           "slug": "oso-ighodaro",
           "espnId": "4601023",
+          "status": null
+        },
+        {
+          "name": "Khaman Maluach",
+          "slug": "khaman-maluach",
+          "espnId": "5203685",
           "status": null
         },
         {

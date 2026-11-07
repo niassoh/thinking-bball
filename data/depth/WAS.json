@@ -1,7 +1,7 @@
 {
   "team": "WAS",
   "season": "2026-27",
-  "generatedAt": "2026-11-03T18:40:51.961Z",
+  "generatedAt": "2026-11-07T15:03:55.533Z",
   "rows": [
     {
       "pos": "PG",
@@ -97,7 +97,7 @@
           "name": "Anthony Davis",
           "slug": "anthony-davis",
           "espnId": "6583",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Justin Champagnie",
@@ -126,7 +126,7 @@
           "name": "Alex Sarr",
           "slug": "alex-sarr",
           "espnId": "5160992",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Deandre Ayton",
@@ -144,7 +144,7 @@
           "name": "Anthony Gill",
           "slug": "anthony-gill",
           "espnId": "2581184",
-          "status": "DTD"
+          "status": null
         }
       ]
     }

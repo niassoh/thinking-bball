@@ -1,7 +1,7 @@
 {
   "team": "TOR",
   "season": "2026-27",
-  "generatedAt": "2026-11-02T15:05:20.305Z",
+  "generatedAt": "2026-11-07T15:03:54.729Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Immanuel Quickley",
           "slug": "immanuel-quickley",
           "espnId": "4395724",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Jamal Shead",
@@ -25,15 +25,44 @@
           "status": null
         },
         {
-          "name": "Jaden Bradley",
-          "slug": "jaden-bradley",
-          "espnId": "4432737",
-          "status": null
+          "name": "Scottie Barnes",
+          "slug": "scottie-barnes",
+          "espnId": "4433134",
+          "status": "OUT"
         }
       ]
     },
     {
       "pos": "SG",
+      "players": [
+        {
+          "name": "Ja'Kobe Walter",
+          "slug": "ja-kobe-walter",
+          "espnId": "4684272",
+          "status": null
+        },
+        {
+          "name": "RJ Barrett",
+          "slug": "rj-barrett",
+          "espnId": "4395625",
+          "status": null
+        },
+        {
+          "name": "Jamal Shead",
+          "slug": "jamal-shead",
+          "espnId": "4432241",
+          "status": null
+        },
+        {
+          "name": "Alijah Martin",
+          "slug": "alijah-martin",
+          "espnId": "4702656",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
       "players": [
         {
           "name": "RJ Barrett",
@@ -42,28 +71,11 @@
           "status": null
         },
         {
-          "name": "Ja'Kobe Walter",
-          "slug": "ja-kobe-walter",
-          "espnId": "4684272",
+          "name": "Jamison Battle",
+          "slug": "jamison-battle",
+          "espnId": "4431893",
           "status": null
         },
-        {
-          "name": "Jamal Shead",
-          "slug": "jamal-shead",
-          "espnId": "4432241",
-          "status": null
-        },
-        {
-          "name": "Jaden Bradley",
-          "slug": "jaden-bradley",
-          "espnId": "4432737",
-          "status": null
-        }
-      ]
-    },
-    {
-      "pos": "SF",
-      "players": [
         {
           "name": "Ja'Kobe Walter",
           "slug": "ja-kobe-walter",
@@ -75,18 +87,6 @@
           "slug": "allen-graves",
           "espnId": "5149115",
           "status": null
-        },
-        {
-          "name": "Jamison Battle",
-          "slug": "jamison-battle",
-          "espnId": "4431893",
-          "status": null
-        },
-        {
-          "name": "Scottie Barnes",
-          "slug": "scottie-barnes",
-          "espnId": "4433134",
-          "status": null
         }
       ]
     },
@@ -97,7 +97,7 @@
           "name": "Scottie Barnes",
           "slug": "scottie-barnes",
           "espnId": "4433134",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Collin Murray-Boyles",
@@ -126,7 +126,7 @@
           "name": "Jakob Poeltl",
           "slug": "jakob-poeltl",
           "espnId": "3134908",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Collin Murray-Boyles",

@@ -1,5 +1,11 @@
 [
   {
+    "slug": "keshon-gilbert",
+    "status": "OUT",
+    "team": "Atlanta Hawks",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "mouhamed-gueye",
     "status": "OUT",
     "team": "Atlanta Hawks",
@@ -30,9 +36,15 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "brandon-williams",
-    "status": "DTD",
-    "team": "Golden State Warriors",
+    "slug": "dereck-lively-ii",
+    "status": "OUT",
+    "team": "Dallas Mavericks",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "julian-strawther",
+    "status": "OUT",
+    "team": "Denver Nuggets",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -54,6 +66,18 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "johnny-furphy",
+    "status": "OUT",
+    "team": "Indiana Pacers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "ben-sheppard",
+    "status": "OUT",
+    "team": "Indiana Pacers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "brandon-ingram",
     "status": "OUT",
     "team": "LA Clippers",
@@ -66,15 +90,9 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "adou-thiero",
-    "status": "OUT",
-    "team": "Los Angeles Lakers",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "myron-gardner",
+    "slug": "kam-jones",
     "status": "DTD",
-    "team": "Miami Heat",
+    "team": "Milwaukee Bucks",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -150,6 +168,12 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "vit-krejci",
+    "status": "OUT",
+    "team": "Portland Trail Blazers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "ja-morant",
     "status": "OUT",
     "team": "Portland Trail Blazers",
@@ -159,6 +183,12 @@
     "slug": "shaedon-sharpe",
     "status": "OUT",
     "team": "Portland Trail Blazers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "maxime-raynaud",
+    "status": "OUT",
+    "team": "Sacramento Kings",
     "reason": "injured but not on a depth chart"
   },
   {

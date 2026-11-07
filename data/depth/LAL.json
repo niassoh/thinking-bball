@@ -1,7 +1,7 @@
 {
   "team": "LAL",
   "season": "2026-27",
-  "generatedAt": "2026-11-03T18:40:45.947Z",
+  "generatedAt": "2026-11-07T15:03:48.819Z",
   "rows": [
     {
       "pos": "PG",
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Jake LaRavia",
-          "slug": "jake-laravia",
-          "espnId": "4592691",
-          "status": null
-        },
-        {
           "name": "Jarred Vanderbilt",
           "slug": "jarred-vanderbilt",
           "espnId": "4278077",
+          "status": null
+        },
+        {
+          "name": "Jake LaRavia",
+          "slug": "jake-laravia",
+          "espnId": "4592691",
           "status": null
         }
       ]
@@ -129,21 +129,21 @@
           "status": null
         },
         {
-          "name": "Kevon Looney",
-          "slug": "kevon-looney",
-          "espnId": "3155535",
-          "status": null
-        },
-        {
           "name": "Sandro Mamukelashvili",
           "slug": "sandro-mamukelashvili",
           "espnId": "4278580",
           "status": null
         },
         {
-          "name": "Lawson Lovering",
-          "slug": "lawson-lovering",
-          "espnId": "4596528",
+          "name": "Jarred Vanderbilt",
+          "slug": "jarred-vanderbilt",
+          "espnId": "4278077",
+          "status": null
+        },
+        {
+          "name": "Kevon Looney",
+          "slug": "kevon-looney",
+          "espnId": "3155535",
           "status": null
         }
       ]

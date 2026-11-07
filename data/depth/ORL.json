@@ -1,7 +1,7 @@
 {
   "team": "ORL",
   "season": "2026-27",
-  "generatedAt": "2026-11-03T18:40:48.978Z",
+  "generatedAt": "2026-11-05T15:02:25.338Z",
   "rows": [
     {
       "pos": "PG",
@@ -13,15 +13,15 @@
           "status": null
         },
         {
-          "name": "Anthony Black",
-          "slug": "anthony-black",
-          "espnId": "4712849",
-          "status": "DTD"
-        },
-        {
           "name": "Jevon Carter",
           "slug": "jevon-carter",
           "espnId": "3133635",
+          "status": null
+        },
+        {
+          "name": "Anthony Black",
+          "slug": "anthony-black",
+          "espnId": "4712849",
           "status": null
         },
         {
@@ -39,7 +39,7 @@
           "name": "Anthony Black",
           "slug": "anthony-black",
           "espnId": "4712849",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Desmond Bane",

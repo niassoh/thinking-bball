@@ -1,7 +1,7 @@
 {
   "team": "DEN",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T15:02:00.363Z",
+  "generatedAt": "2026-11-07T15:03:46.431Z",
   "rows": [
     {
       "pos": "PG",
@@ -33,19 +33,19 @@
           "name": "DeMar DeRozan",
           "slug": "demar-derozan",
           "espnId": "3978",
-          "status": null
+          "status": "DTD"
         },
         {
-          "name": "Julian Strawther",
-          "slug": "julian-strawther",
-          "espnId": "4432181",
-          "status": "OUT"
+          "name": "Cameron Johnson",
+          "slug": "cameron-johnson",
+          "espnId": "3138196",
+          "status": null
         },
         {
           "name": "Spencer Jones",
           "slug": "spencer-jones",
           "espnId": "4592427",
-          "status": "OUT"
+          "status": null
         }
       ]
     },
@@ -56,25 +56,25 @@
           "name": "Cameron Johnson",
           "slug": "cameron-johnson",
           "espnId": "3138196",
-          "status": "DTD"
+          "status": null
         },
         {
-          "name": "Bryce Hopkins",
-          "slug": "bryce-hopkins",
-          "espnId": "4565698",
+          "name": "Spencer Jones",
+          "slug": "spencer-jones",
+          "espnId": "4592427",
           "status": null
         },
         {
           "name": "DeMar DeRozan",
           "slug": "demar-derozan",
           "espnId": "3978",
-          "status": null
+          "status": "DTD"
         },
         {
-          "name": "Julian Strawther",
-          "slug": "julian-strawther",
-          "espnId": "4432181",
-          "status": "OUT"
+          "name": "Christian Braun",
+          "slug": "christian-braun",
+          "espnId": "4431767",
+          "status": null
         }
       ]
     },
@@ -88,22 +88,22 @@
           "status": null
         },
         {
-          "name": "DeMar DeRozan",
-          "slug": "demar-derozan",
-          "espnId": "3978",
+          "name": "Trevon Brazile",
+          "slug": "trevon-brazile",
+          "espnId": "4698719",
           "status": null
         },
         {
-          "name": "Spencer Jones",
-          "slug": "spencer-jones",
-          "espnId": "4592427",
-          "status": "OUT"
+          "name": "DeMar DeRozan",
+          "slug": "demar-derozan",
+          "espnId": "3978",
+          "status": "DTD"
         },
         {
-          "name": "Alpha Diallo",
-          "slug": "alpha-diallo",
-          "espnId": "4065813",
-          "status": "DTD"
+          "name": "Cameron Johnson",
+          "slug": "cameron-johnson",
+          "espnId": "3138196",
+          "status": null
         }
       ]
     },
@@ -123,15 +123,15 @@
           "status": null
         },
         {
-          "name": "DaRon Holmes II",
-          "slug": "daron-holmes-ii",
-          "espnId": "4433607",
-          "status": null
-        },
-        {
           "name": "Trevon Brazile",
           "slug": "trevon-brazile",
           "espnId": "4698719",
+          "status": null
+        },
+        {
+          "name": "Aaron Gordon",
+          "slug": "aaron-gordon",
+          "espnId": "3064290",
           "status": null
         }
       ]

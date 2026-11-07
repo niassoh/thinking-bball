@@ -1,7 +1,7 @@
 {
   "team": "GSW",
   "season": "2026-27",
-  "generatedAt": "2026-11-03T18:40:44.461Z",
+  "generatedAt": "2026-11-07T15:03:47.244Z",
   "rows": [
     {
       "pos": "PG",
@@ -13,9 +13,9 @@
           "status": null
         },
         {
-          "name": "De'Anthony Melton",
-          "slug": "de-anthony-melton",
-          "espnId": "4066436",
+          "name": "Brandon Williams",
+          "slug": "brandon-williams",
+          "espnId": "4397040",
           "status": null
         },
         {
@@ -25,9 +25,9 @@
           "status": null
         },
         {
-          "name": "Will Richard",
-          "slug": "will-richard",
-          "espnId": "4897262",
+          "name": "De'Anthony Melton",
+          "slug": "de-anthony-melton",
+          "espnId": "4066436",
           "status": null
         }
       ]
@@ -42,16 +42,16 @@
           "status": null
         },
         {
-          "name": "Gary Payton II",
-          "slug": "gary-payton-ii",
-          "espnId": "3134903",
-          "status": null
-        },
-        {
           "name": "De'Anthony Melton",
           "slug": "de-anthony-melton",
           "espnId": "4066436",
           "status": null
+        },
+        {
+          "name": "Gary Payton II",
+          "slug": "gary-payton-ii",
+          "espnId": "3134903",
+          "status": "DTD"
         },
         {
           "name": "Will Richard",
@@ -80,7 +80,7 @@
           "name": "Gary Payton II",
           "slug": "gary-payton-ii",
           "espnId": "3134903",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Gui Santos",
@@ -109,7 +109,7 @@
           "name": "Draymond Green",
           "slug": "draymond-green",
           "espnId": "6589",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Yaxel Lendeborg",
@@ -126,24 +126,24 @@
           "name": "Draymond Green",
           "slug": "draymond-green",
           "espnId": "6589",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Al Horford",
           "slug": "al-horford",
           "espnId": "3213",
-          "status": "DTD"
-        },
-        {
-          "name": "Graham Ike",
-          "slug": "graham-ike",
-          "espnId": "4703396",
           "status": null
         },
         {
           "name": "Charles Bassey",
           "slug": "charles-bassey",
           "espnId": "4397886",
+          "status": null
+        },
+        {
+          "name": "Graham Ike",
+          "slug": "graham-ike",
+          "espnId": "4703396",
           "status": null
         }
       ]
