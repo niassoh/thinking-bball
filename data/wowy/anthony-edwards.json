@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "MIN",
   "gp": 4,
-  "generatedAt": "2026-11-05T15:22:23.573Z",
+  "generatedAt": "2026-11-07T15:55:00.402Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIN",
-      "minutes": 302,
-      "poss": 634,
-      "net": 5.8
+      "minutes": 350,
+      "poss": 731,
+      "net": 5.9
     },
     {
       "label": "On, w/o McDaniels",
@@ -26,13 +26,6 @@
       "net": -3.7
     },
     {
-      "label": "On, w/o Kuminga",
-      "sub": "2026–27 · MIN",
-      "minutes": 31,
-      "poss": 69,
-      "net": 24.8
-    },
-    {
       "label": "On, w/o Dosunmu",
       "sub": "2026–27 · MIN",
       "minutes": 76,
@@ -40,11 +33,18 @@
       "net": 15.6
     },
     {
+      "label": "On, w/o Kuminga",
+      "sub": "2026–27 · MIN",
+      "minutes": 31,
+      "poss": 69,
+      "net": 24.8
+    },
+    {
       "label": "Neither Edwards nor McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 113,
-      "poss": 240,
-      "net": -2.5
+      "minutes": 121,
+      "poss": 254,
+      "net": -2
     }
   ]
 }

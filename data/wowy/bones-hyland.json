@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIN",
-  "gp": 9,
-  "generatedAt": "2026-11-05T15:28:08.931Z",
+  "gp": 10,
+  "generatedAt": "2026-11-07T16:10:45.482Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIN",
-      "minutes": 112,
-      "poss": 231,
-      "net": -11.7
+      "minutes": 122,
+      "poss": 252,
+      "net": -14.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIN",
-      "minutes": 325,
-      "poss": 686,
-      "net": 18.7
+      "minutes": 363,
+      "poss": 762,
+      "net": 18.9
     },
     {
       "label": "On, w/o McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 75,
-      "poss": 156,
-      "net": -2.6
-    },
-    {
-      "label": "On, w/o Kuminga",
-      "sub": "2026–27 · MIN",
-      "minutes": 80,
-      "poss": 169,
-      "net": -0.6
+      "minutes": 79,
+      "poss": 162,
+      "net": -4.3
     },
     {
       "label": "On, w/o Dosunmu",
       "sub": "2026–27 · MIN",
-      "minutes": 62,
-      "poss": 129,
-      "net": -27.1
+      "minutes": 63,
+      "poss": 131,
+      "net": -26.7
+    },
+    {
+      "label": "On, w/o Kuminga",
+      "sub": "2026–27 · MIN",
+      "minutes": 87,
+      "poss": 182,
+      "net": -7.7
     },
     {
       "label": "Neither Hyland nor McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 62,
-      "poss": 138,
-      "net": -2.9
+      "minutes": 67,
+      "poss": 146,
+      "net": 0
     }
   ]
 }

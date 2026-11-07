@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAS",
-  "gp": 1,
-  "generatedAt": "2026-10-21T17:54:10.923Z",
+  "gp": 7,
+  "generatedAt": "2026-11-07T16:17:02.321Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAS",
-      "minutes": 9,
-      "poss": 19,
-      "net": -36.8
+      "minutes": 93,
+      "poss": 170,
+      "net": -1.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAS",
-      "minutes": 39,
-      "poss": 83,
-      "net": -6.1
-    },
-    {
-      "label": "On, w/o Wembanyama",
-      "sub": "2026–27 · SAS",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "minutes": 354,
+      "poss": 735,
+      "net": 11.4
     },
     {
       "label": "On, w/o Harper",
       "sub": "2026–27 · SAS",
-      "minutes": 5,
-      "poss": 11,
-      "net": 0
+      "minutes": 62,
+      "poss": 109,
+      "net": -13.8
+    },
+    {
+      "label": "On, w/o Wembanyama",
+      "sub": "2026–27 · SAS",
+      "minutes": 49,
+      "poss": 100,
+      "net": -9
     },
     {
       "label": "On, w/o Fox",
       "sub": "2026–27 · SAS",
-      "minutes": 4,
-      "poss": 8,
-      "net": -87.5
+      "minutes": 52,
+      "poss": 103,
+      "net": 0
     },
     {
-      "label": "Neither Barnes nor Wembanyama",
+      "label": "Neither Barnes nor Harper",
       "sub": "2026–27 · SAS",
-      "minutes": 14,
-      "poss": 30,
-      "net": -33.9
+      "minutes": 91,
+      "poss": 190,
+      "net": 0
     }
   ]
 }

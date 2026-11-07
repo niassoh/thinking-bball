@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "BOS",
-  "gp": 8,
-  "generatedAt": "2026-11-05T15:26:20.929Z",
+  "gp": 9,
+  "generatedAt": "2026-11-07T16:04:47.833Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BOS",
-      "minutes": 102,
-      "poss": 215,
-      "net": 4.2
+      "minutes": 118,
+      "poss": 243,
+      "net": 2.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BOS",
-      "minutes": 287,
-      "poss": 569,
-      "net": 6.9
+      "minutes": 319,
+      "poss": 636,
+      "net": 12.7
     },
     {
       "label": "On, w/o Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 39,
-      "poss": 83,
-      "net": 24.1
+      "minutes": 54,
+      "poss": 111,
+      "net": 15.3
     },
     {
       "label": "On, w/o White",
       "sub": "2026–27 · BOS",
-      "minutes": 54,
-      "poss": 118,
-      "net": 7.7
+      "minutes": 66,
+      "poss": 140,
+      "net": 6.4
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · BOS",
-      "minutes": 61,
-      "poss": 133,
-      "net": -0.8
+      "minutes": 74,
+      "poss": 156,
+      "net": -0.6
     },
     {
       "label": "Neither González nor Tatum",
       "sub": "2026–27 · BOS",
-      "minutes": 104,
-      "poss": 199,
-      "net": -2
+      "minutes": 108,
+      "poss": 207,
+      "net": 1
     }
   ]
 }

@@ -1,48 +1,48 @@
 {
   "season": "2026-27",
   "team": "MIN",
-  "gp": 8,
-  "generatedAt": "2026-11-05T15:24:57.242Z",
+  "gp": 9,
+  "generatedAt": "2026-11-07T16:00:31.776Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIN",
-      "minutes": 102,
-      "poss": 211,
-      "net": 8.1
+      "minutes": 122,
+      "poss": 250,
+      "net": 4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIN",
-      "minutes": 335,
-      "poss": 706,
-      "net": 11.9
+      "minutes": 363,
+      "poss": 764,
+      "net": 12.7
     },
     {
       "label": "On, w/o McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 46,
-      "poss": 99,
-      "net": -5.1
-    },
-    {
-      "label": "On, w/o Kuminga",
-      "sub": "2026–27 · MIN",
-      "minutes": 65,
-      "poss": 138,
-      "net": 10.9
+      "minutes": 54,
+      "poss": 113,
+      "net": -3.6
     },
     {
       "label": "On, w/o Dosunmu",
       "sub": "2026–27 · MIN",
-      "minutes": 50,
-      "poss": 104,
-      "net": -8.7
+      "minutes": 59,
+      "poss": 120,
+      "net": -0.8
+    },
+    {
+      "label": "On, w/o Kuminga",
+      "sub": "2026–27 · MIN",
+      "minutes": 78,
+      "poss": 162,
+      "net": 5.6
     },
     {
       "label": "Neither Clark nor McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 91,
+      "minutes": 92,
       "poss": 195,
       "net": -1.5
     }

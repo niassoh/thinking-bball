@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "LAL",
-  "gp": 9,
-  "generatedAt": "2026-11-05T15:23:52.430Z",
+  "gp": 10,
+  "generatedAt": "2026-11-07T15:58:34.581Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · LAL",
-      "minutes": 219,
-      "poss": 447,
-      "net": 9.6
+      "minutes": 243,
+      "poss": 499,
+      "net": 7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · LAL",
-      "minutes": 213,
-      "poss": 457,
-      "net": 6.1
+      "minutes": 237,
+      "poss": 503,
+      "net": 8.4
     },
     {
       "label": "On, w/o Reaves",
       "sub": "2026–27 · LAL",
       "minutes": 19,
-      "poss": 39,
-      "net": -20.8
+      "poss": 40,
+      "net": -20
     },
     {
       "label": "On, w/o Dončić",
       "sub": "2026–27 · LAL",
-      "minutes": 77,
-      "poss": 152,
-      "net": -11.9
+      "minutes": 86,
+      "poss": 172,
+      "net": -16.3
     },
     {
       "label": "On, w/o Kessler",
       "sub": "2026–27 · LAL",
-      "minutes": 31,
-      "poss": 71,
-      "net": -18.4
+      "minutes": 32,
+      "poss": 75,
+      "net": -18.8
     },
     {
       "label": "Neither Thybulle nor Reaves",
       "sub": "2026–27 · LAL",
-      "minutes": 90,
-      "poss": 197,
-      "net": -8.7
+      "minutes": 99,
+      "poss": 214,
+      "net": -2.3
     }
   ]
 }
