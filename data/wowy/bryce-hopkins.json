@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "DEN",
-  "gp": 5,
-  "generatedAt": "2026-11-05T15:27:04.228Z",
+  "gp": 6,
+  "generatedAt": "2026-11-08T15:35:30.367Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DEN",
-      "minutes": 93,
-      "poss": 196,
-      "net": -10.2
+      "minutes": 96,
+      "poss": 203,
+      "net": -8.9
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DEN",
-      "minutes": 248,
-      "poss": 497,
-      "net": 5
+      "minutes": 293,
+      "poss": 587,
+      "net": 6
     },
     {
       "label": "On, w/o Murray",
@@ -42,9 +42,9 @@
     {
       "label": "Neither Hopkins nor Murray",
       "sub": "2026–27 · DEN",
-      "minutes": 46,
-      "poss": 94,
-      "net": -34
+      "minutes": 60,
+      "poss": 122,
+      "net": -20.5
     }
   ]
 }

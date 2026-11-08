@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "IND",
-  "gp": 6,
-  "generatedAt": "2026-11-05T15:18:04.056Z",
+  "gp": 7,
+  "generatedAt": "2026-11-08T15:26:09.381Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · IND",
-      "minutes": 84,
-      "poss": 177,
-      "net": 3.4
+      "minutes": 95,
+      "poss": 203,
+      "net": -3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · IND",
-      "minutes": 348,
-      "poss": 735,
-      "net": -4.5
+      "minutes": 385,
+      "poss": 806,
+      "net": -4.1
     },
     {
       "label": "On, w/o Siakam",
@@ -35,16 +35,16 @@
     {
       "label": "On, w/o Walker",
       "sub": "2026–27 · IND",
-      "minutes": 23,
-      "poss": 48,
-      "net": 8.4
+      "minutes": 30,
+      "poss": 65,
+      "net": -4.6
     },
     {
       "label": "Neither Smith nor Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 125,
-      "poss": 261,
-      "net": -9.2
+      "minutes": 141,
+      "poss": 293,
+      "net": -12.3
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "POR",
-  "gp": 8,
-  "generatedAt": "2026-11-07T15:47:41.201Z",
+  "gp": 9,
+  "generatedAt": "2026-11-08T15:25:54.495Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · POR",
-      "minutes": 177,
-      "poss": 382,
-      "net": 0
+      "minutes": 201,
+      "poss": 434,
+      "net": -5.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · POR",
-      "minutes": 207,
-      "poss": 423,
-      "net": 17
+      "minutes": 231,
+      "poss": 476,
+      "net": 15.4
     },
     {
       "label": "On, w/o Avdija",
       "sub": "2026–27 · POR",
-      "minutes": 75,
-      "poss": 164,
-      "net": 1.2
+      "minutes": 84,
+      "poss": 184,
+      "net": -3.8
     },
     {
       "label": "On, w/o Lillard",
       "sub": "2026–27 · POR",
-      "minutes": 75,
-      "poss": 165,
-      "net": -12.1
+      "minutes": 86,
+      "poss": 191,
+      "net": -19.4
     },
     {
       "label": "On, w/o Camara",
       "sub": "2026–27 · POR",
-      "minutes": 90,
-      "poss": 191,
-      "net": 13.1
+      "minutes": 96,
+      "poss": 205,
+      "net": 12.2
     },
     {
       "label": "Neither Henderson nor Avdija",
       "sub": "2026–27 · POR",
-      "minutes": 44,
-      "poss": 85,
-      "net": -8.2
+      "minutes": 59,
+      "poss": 121,
+      "net": -0.8
     }
   ]
 }

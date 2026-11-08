@@ -18,12 +18,6 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "tyler-bilodeau",
-    "status": "OUT",
-    "team": "Brooklyn Nets",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "grant-williams",
     "status": "OUT",
     "team": "Charlotte Hornets",
@@ -45,6 +39,12 @@
     "slug": "julian-strawther",
     "status": "OUT",
     "team": "Denver Nuggets",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "isaac-jones",
+    "status": "DTD",
+    "team": "Detroit Pistons",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -90,9 +90,9 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "kam-jones",
-    "status": "DTD",
-    "team": "Milwaukee Bucks",
+    "slug": "richie-saunders",
+    "status": "OUT",
+    "team": "Memphis Grizzlies",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -105,12 +105,6 @@
     "slug": "donte-divincenzo",
     "status": "OUT",
     "team": "Minnesota Timberwolves",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "nikola-topic",
-    "status": "OUT",
-    "team": "Oklahoma City Thunder",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -168,13 +162,13 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "vit-krejci",
+    "slug": "ja-morant",
     "status": "OUT",
     "team": "Portland Trail Blazers",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "ja-morant",
+    "slug": "vit-krejci",
     "status": "OUT",
     "team": "Portland Trail Blazers",
     "reason": "injured but not on a depth chart"
