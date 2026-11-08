@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CLE",
-  "gp": 9,
-  "generatedAt": "2026-11-07T16:14:46.428Z",
+  "gp": 10,
+  "generatedAt": "2026-11-08T15:36:51.050Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CLE",
-      "minutes": 183,
-      "poss": 378,
-      "net": 4
+      "minutes": 202,
+      "poss": 414,
+      "net": 3.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CLE",
-      "minutes": 254,
-      "poss": 543,
-      "net": 4.8
-    },
-    {
-      "label": "On, w/o Harden",
-      "sub": "2026–27 · CLE",
-      "minutes": 110,
-      "poss": 228,
-      "net": 17.1
+      "minutes": 283,
+      "poss": 597,
+      "net": 2.5
     },
     {
       "label": "On, w/o Mitchell",
       "sub": "2026–27 · CLE",
-      "minutes": 71,
-      "poss": 147,
-      "net": -17.1
+      "minutes": 74,
+      "poss": 152,
+      "net": -19.1
+    },
+    {
+      "label": "On, w/o Harden",
+      "sub": "2026–27 · CLE",
+      "minutes": 124,
+      "poss": 255,
+      "net": 16.5
     },
     {
       "label": "On, w/o Mobley",
       "sub": "2026–27 · CLE",
-      "minutes": 98,
-      "poss": 206,
-      "net": 10.2
+      "minutes": 107,
+      "poss": 224,
+      "net": 5.8
     },
     {
-      "label": "Neither Hezonja nor Harden",
+      "label": "Neither Hezonja nor Mitchell",
       "sub": "2026–27 · CLE",
-      "minutes": 28,
-      "poss": 60,
-      "net": 8.3
+      "minutes": 74,
+      "poss": 150,
+      "net": -1.3
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "NYK",
-  "gp": 8,
-  "generatedAt": "2026-11-05T15:18:34.527Z",
+  "gp": 9,
+  "generatedAt": "2026-11-08T15:26:29.225Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · NYK",
-      "minutes": 140,
-      "poss": 281,
-      "net": -1.4
+      "minutes": 155,
+      "poss": 310,
+      "net": 3.2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NYK",
-      "minutes": 244,
-      "poss": 492,
-      "net": 8.7
+      "minutes": 277,
+      "poss": 553,
+      "net": 7.4
     },
     {
       "label": "On, w/o Brunson",
       "sub": "2026–27 · NYK",
-      "minutes": 49,
-      "poss": 99,
-      "net": -24.2
+      "minutes": 51,
+      "poss": 104,
+      "net": -19.2
     },
     {
       "label": "On, w/o Anunoby",
       "sub": "2026–27 · NYK",
-      "minutes": 58,
-      "poss": 115,
-      "net": 23.6
+      "minutes": 64,
+      "poss": 128,
+      "net": 29
     },
     {
       "label": "On, w/o Towns",
       "sub": "2026–27 · NYK",
-      "minutes": 65,
-      "poss": 131,
-      "net": -13.7
+      "minutes": 70,
+      "poss": 140,
+      "net": -10
     },
     {
       "label": "Neither McBride nor Brunson",
       "sub": "2026–27 · NYK",
-      "minutes": 63,
-      "poss": 125,
-      "net": 16
+      "minutes": 74,
+      "poss": 147,
+      "net": 10.2
     }
   ]
 }

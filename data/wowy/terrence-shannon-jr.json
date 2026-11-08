@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "MIN",
   "gp": 7,
-  "generatedAt": "2026-11-05T15:36:26.091Z",
+  "generatedAt": "2026-11-08T15:44:13.810Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIN",
-      "minutes": 283,
-      "poss": 594,
-      "net": 15
+      "minutes": 331,
+      "poss": 691,
+      "net": 13.8
     },
     {
       "label": "On, w/o McDaniels",
@@ -26,13 +26,6 @@
       "net": -1
     },
     {
-      "label": "On, w/o Kuminga",
-      "sub": "2026–27 · MIN",
-      "minutes": 98,
-      "poss": 214,
-      "net": 6.6
-    },
-    {
       "label": "On, w/o Dosunmu",
       "sub": "2026–27 · MIN",
       "minutes": 50,
@@ -40,11 +33,18 @@
       "net": 0
     },
     {
+      "label": "On, w/o Kuminga",
+      "sub": "2026–27 · MIN",
+      "minutes": 98,
+      "poss": 214,
+      "net": 6.6
+    },
+    {
       "label": "Neither Shannon Jr nor McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 47,
-      "poss": 99,
-      "net": -6.1
+      "minutes": 55,
+      "poss": 113,
+      "net": -4.4
     }
   ]
 }
