@@ -214,6 +214,23 @@ const short = values => {
 
 // What the last read lacked (short), for the error when it never settles.
 let lacking = ['its first team']
+// The last read that lacked only columns (its records and first team there), with which, as
+// { json, lacking }: if the sheet never settles, it's cached anyway with those columns kept
+// from the last cached read, so one slow import (stats.nba.com's tracking, say) never holds
+// back the records and everything else. The run still fails, so the team sheet is tried
+// again later in the day (team-retry.yml).
+let partial = null
+const keepLacking = ({ values }, lacking) => {
+  const head = values[4].map(c => c.replace('%', ''))
+  const [cols, , ...was] = decompress(dataStore[KEY]).values
+  for (const c of lacking) {
+    const i = head.indexOf(c), k = cols.indexOf(c)
+    for (const r of values.slice(5)) {
+      const prev = was.find(p => p[0] === r[0])
+      if (prev && !filled(r[i])) r[i] = prev[k]
+    }
+  }
+}
 // Fetch data from TB daily stat sheet, with a 15 second buffer between attempts to allow sheet to process
 const pullSheet = attempt => {
   console.log('Starting attempt #' + attempt + '...')
@@ -223,9 +240,11 @@ const pullSheet = attempt => {
   const sheets = google.sheets('v4')
 
   if (attempt > total) {
-    console.error(`Team sheet still short after ${total} reads (${lacking.join(', ')}); ${KEY} not updated`)
     process.exitCode = 1
-    return
+    if (!partial) return console.error(`Team sheet still short after ${total} reads (${lacking.join(', ')}); ${KEY} not updated`)
+    console.error(`Team sheet still short after ${total} reads (${partial.lacking.join(', ')}); ${KEY} updated with those kept from the last read`)
+    keepLacking(partial.json, partial.lacking)
+    return onRead(null, { data: partial.json }, true)
   }
   sheets.spreadsheets.values.get(
     {
@@ -233,7 +252,9 @@ const pullSheet = attempt => {
       spreadsheetId: spreadsheetId,
       range: sheetName
     },
-    function (err, response) {
+    onRead
+  )
+  function onRead (err, response, kept = false) {
       if (err) {
         console.error(`Team sheet API error on attempt #${attempt}: ${err}`)
         process.exitCode = 1
@@ -244,8 +265,10 @@ const pullSheet = attempt => {
           typeof json === 'undefined' ||
           json.values[7][0] === '#N/A' ||
           !json.values[7][0].length ||
-          (lacking = short(json.values)).length
+          (!kept && (lacking = short(json.values)).length)
         ) {
+          // Only columns short (the checks above passed): keep it in case nothing better comes.
+          if (json && json.values[7][0] !== '#N/A' && json.values[7][0].length && !lacking.includes('records 0-0') && dataStore[KEY]) partial = { json, lacking }
           setTimeout(() => pullSheet(attempt + 1), 15000)
         } else {
           json.values = json.values.filter(j => j[0].length)
@@ -364,8 +387,7 @@ const pullSheet = attempt => {
           return json
         }
       }
-    }
-  )
+  }
 }
 
 // The sheet's pbpstats imports are ImportJSON on Instructions!A13 and only fetch again when

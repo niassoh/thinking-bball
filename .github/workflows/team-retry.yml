@@ -1,8 +1,10 @@
 # The team sheet once more, later: the nightly starts this when its team pull came back
 # short (sheets-teamcat.js: the sheet mid-reload, its records 0-0 or a column that was
-# there missing), which leaves yesterday's team data on the site. After `wait` minutes it
-# nudges and reads the sheet again; a good read is committed and deployed, a short one
-# fails this run too (an email). By hand: gh workflow run team-retry.yml -f wait=0
+# there missing). A column short alone doesn't hold the rest back: the records and every
+# other column are cached, that column kept from the last read. After `wait` minutes this
+# nudges and reads the sheet again; whatever it caches is committed and deployed, and while
+# it's still short it starts itself again two hours later, `tries` times in all (an hour,
+# three and five after the nightly). By hand: gh workflow run team-retry.yml -f wait=0
 name: team-retry
 
 on:
@@ -11,9 +13,14 @@ on:
       wait:
         description: Minutes before the retry
         default: '60'
+      tries:
+        description: Retries left, this one included
+        default: '3'
 
 permissions:
   contents: write
+  # To start itself again.
+  actions: write
 
 jobs:
   # Outside the nightly's concurrency group, so the wait holds nothing up.
@@ -45,8 +52,10 @@ jobs:
       - run: printf '%s' "$GOOGLE_SA_JSON" > privatekey.json
         env:
           GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
-      - run: node sheets-teamcat.js --season="$SEASON"
+      - id: team
+        run: node sheets-teamcat.js --season="$SEASON"
         timeout-minutes: 20
+        continue-on-error: true
       - id: commit
         run: |
           git config user.name 'github-actions[bot]'
@@ -61,3 +70,9 @@ jobs:
         run: gh workflow run pages.yml -R niassoh/tbball
         env:
           GH_TOKEN: ${{ secrets.TBBALL_DISPATCH }}
+      - if: steps.team.outcome == 'failure' && inputs.tries > 1
+        run: gh workflow run team-retry.yml -R "$GITHUB_REPOSITORY" -f wait=120 -f tries=$(( ${{ inputs.tries }} - 1 ))
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - if: steps.team.outcome == 'failure'
+        run: exit 1

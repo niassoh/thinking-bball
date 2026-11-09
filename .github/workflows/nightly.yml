@@ -2,8 +2,8 @@
 # one failing keeps yesterday's files for that source without stopping the rest. Then the
 # checks; if they pass, data/ is committed and the site's deploy (niassoh/tbball) builds
 # from it. A failed pull, or pbpstats missing a game or its score (scripts/games-check.js),
-# fails the run at the end, which emails the repo's owner; a failed team pull is tried
-# again an hour later (team-retry.yml). Failed checks (a sheet read mid-reload) start the
+# fails the run at the end, which emails the repo's owner; a short team pull is tried
+# again later in the day (team-retry.yml). Failed checks (a sheet read mid-reload) start the
 # whole run once more after `wait` minutes; that retry doesn't start another.
 name: nightly
 
@@ -201,8 +201,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.TBBALL_DISPATCH }}
 
-      # The team sheet read short (mid-reload): yesterday's team data stands, and the sheet
-      # gets another try in an hour (team-retry.yml).
+      # The team sheet read short: a column short alone is kept from yesterday and the rest
+      # updated (records 0-0 keeps all of yesterday's), and the sheet gets another try in an
+      # hour, then two hours apart (team-retry.yml).
       - if: steps.team.outcome == 'failure'
         run: gh workflow run team-retry.yml -R "$GITHUB_REPOSITORY"
         env:
