@@ -1,7 +1,7 @@
 {
   "team": "CHI",
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:03:59.330Z",
+  "generatedAt": "2026-11-09T05:14:30.803Z",
   "rows": [
     {
       "pos": "PG",
@@ -33,7 +33,7 @@
           "name": "Norman Powell",
           "slug": "norman-powell",
           "espnId": "2595516",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Buddy Hield",
@@ -74,7 +74,7 @@
           "name": "Norman Powell",
           "slug": "norman-powell",
           "espnId": "2595516",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Caleb Wilson",
@@ -120,13 +120,13 @@
           "name": "Nic Claxton",
           "slug": "nic-claxton",
           "espnId": "4278067",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Jalen Smith",
           "slug": "jalen-smith",
           "espnId": "4397189",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Zach Collins",
@@ -138,7 +138,7 @@
           "name": "Tobe Awaka",
           "slug": "tobe-awaka",
           "espnId": "5105555",
-          "status": "DTD"
+          "status": null
         }
       ]
     }
