@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAC",
-  "gp": 8,
-  "generatedAt": "2026-11-07T16:13:23.168Z",
+  "gp": 9,
+  "generatedAt": "2026-11-09T15:34:25.961Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAC",
-      "minutes": 249,
-      "poss": 530,
-      "net": -14.4
+      "minutes": 281,
+      "poss": 593,
+      "net": -16
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAC",
-      "minutes": 183,
-      "poss": 385,
-      "net": -13.3
+      "minutes": 199,
+      "poss": 419,
+      "net": -9.1
     },
     {
       "label": "On, w/o Acuff Jr.",
       "sub": "2026–27 · SAC",
       "minutes": 26,
       "poss": 56,
-      "net": -5.4
-    },
-    {
-      "label": "On, w/o Sabonis",
-      "sub": "2026–27 · SAC",
-      "minutes": 32,
-      "poss": 67,
-      "net": 1.5
+      "net": -1.8
     },
     {
       "label": "On, w/o LaVine",
       "sub": "2026–27 · SAC",
-      "minutes": 72,
-      "poss": 150,
-      "net": 12
+      "minutes": 87,
+      "poss": 179,
+      "net": 3.9
+    },
+    {
+      "label": "On, w/o Sabonis",
+      "sub": "2026–27 · SAC",
+      "minutes": 63,
+      "poss": 130,
+      "net": -13.8
     },
     {
       "label": "Neither Hunter nor Acuff Jr.",
       "sub": "2026–27 · SAC",
-      "minutes": 74,
-      "poss": 155,
-      "net": -28.5
+      "minutes": 83,
+      "poss": 172,
+      "net": -23.3
     }
   ]
 }

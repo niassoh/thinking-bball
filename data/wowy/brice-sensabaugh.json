@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "UTA",
-  "gp": 9,
-  "generatedAt": "2026-11-07T16:14:58.153Z",
+  "gp": 10,
+  "generatedAt": "2026-11-09T15:35:01.036Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · UTA",
-      "minutes": 129,
-      "poss": 274,
+      "minutes": 142,
+      "poss": 300,
       "net": -15.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · UTA",
-      "minutes": 313,
-      "poss": 653,
-      "net": -9
+      "minutes": 348,
+      "poss": 727,
+      "net": -9.6
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · UTA",
-      "minutes": 97,
-      "poss": 204,
-      "net": -16.2
-    },
-    {
-      "label": "On, w/o Bailey",
-      "sub": "2026–27 · UTA",
-      "minutes": 95,
-      "poss": 203,
-      "net": -22.2
+      "minutes": 106,
+      "poss": 224,
+      "net": -14.7
     },
     {
       "label": "On, w/o Peterson",
       "sub": "2026–27 · UTA",
-      "minutes": 66,
-      "poss": 148,
-      "net": -9.5
+      "minutes": 69,
+      "poss": 152,
+      "net": -7.3
+    },
+    {
+      "label": "On, w/o Bailey",
+      "sub": "2026–27 · UTA",
+      "minutes": 99,
+      "poss": 209,
+      "net": -20.1
     },
     {
       "label": "Neither Sensabaugh nor George",
       "sub": "2026–27 · UTA",
-      "minutes": 54,
-      "poss": 120,
-      "net": -1.7
+      "minutes": 64,
+      "poss": 137,
+      "net": -3.7
     }
   ]
 }

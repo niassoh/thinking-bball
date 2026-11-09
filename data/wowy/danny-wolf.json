@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "BKN",
-  "gp": 57,
-  "generatedAt": "2026-10-02T04:38:36.499Z",
+  "gp": 5,
+  "generatedAt": "2026-11-09T15:36:49.378Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · BKN",
-      "minutes": 1187,
-      "poss": 2370,
-      "net": -9.746835443037975
+      "sub": "2026–27 · BKN",
+      "minutes": 113,
+      "poss": 237,
+      "net": -0.4
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · BKN",
-      "minutes": 2764,
-      "poss": 5608.5,
-      "net": -10.48408665418561
+      "sub": "2026–27 · BKN",
+      "minutes": 372,
+      "poss": 762,
+      "net": -11.7
     },
     {
-      "label": "On, w/o Claxton",
-      "sub": "2025–26 · BKN",
-      "minutes": 785,
-      "poss": 1573.5,
-      "net": -7.117890054019702
-    },
-    {
-      "label": "On, w/o Clowney",
-      "sub": "2025–26 · BKN",
-      "minutes": 886,
-      "poss": 1764.5,
-      "net": -9.124397846415414
+      "label": "On, w/o Randle",
+      "sub": "2026–27 · BKN",
+      "minutes": 55,
+      "poss": 114,
+      "net": 8.8
     },
     {
       "label": "On, w/o Porter Jr.",
-      "sub": "2025–26 · BKN",
-      "minutes": 984,
-      "poss": 1968,
-      "net": -13.211382113821138
+      "sub": "2026–27 · BKN",
+      "minutes": 47,
+      "poss": 98,
+      "net": -12.2
     },
     {
-      "label": "Neither Wolf nor Claxton",
-      "sub": "2025–26 · BKN",
-      "minutes": 1245,
-      "poss": 2538,
-      "net": -7.60441292356186
+      "label": "On, w/o Sharpe",
+      "sub": "2026–27 · BKN",
+      "minutes": 46,
+      "poss": 96,
+      "net": -12.6
+    },
+    {
+      "label": "Neither Wolf nor Randle",
+      "sub": "2026–27 · BKN",
+      "minutes": 95,
+      "poss": 201,
+      "net": -29.4
     }
   ]
 }
