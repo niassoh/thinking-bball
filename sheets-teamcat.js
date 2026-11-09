@@ -227,7 +227,9 @@ const keepLacking = ({ values }, lacking) => {
     const i = head.indexOf(c), k = cols.indexOf(c)
     for (const r of values.slice(5)) {
       const prev = was.find(p => p[0] === r[0])
-      if (prev && !filled(r[i])) r[i] = prev[k]
+      if (!prev || filled(r[i])) continue
+      while (r.length < i) r.push('') // the API drops a row's empty cells at its end
+      r[i] = prev[k]
     }
   }
 }
