@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "TOR",
-  "gp": 9,
-  "generatedAt": "2026-11-07T16:10:31.583Z",
+  "gp": 10,
+  "generatedAt": "2026-11-10T15:48:09.599Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · TOR",
-      "minutes": 153,
-      "poss": 334,
-      "net": -0.9
+      "minutes": 182,
+      "poss": 389,
+      "net": -1.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · TOR",
-      "minutes": 279,
-      "poss": 577,
-      "net": 9
+      "minutes": 298,
+      "poss": 615,
+      "net": 6.3
     },
     {
       "label": "On, w/o Barrett",
       "sub": "2026–27 · TOR",
-      "minutes": 85,
-      "poss": 191,
-      "net": 5.2
+      "minutes": 94,
+      "poss": 208,
+      "net": 8.2
     },
     {
       "label": "On, w/o Barnes",
       "sub": "2026–27 · TOR",
-      "minutes": 78,
-      "poss": 165,
-      "net": 6.1
+      "minutes": 106,
+      "poss": 220,
+      "net": 3.2
     },
     {
       "label": "On, w/o Walter",
       "sub": "2026–27 · TOR",
-      "minutes": 85,
-      "poss": 190,
-      "net": 6.9
+      "minutes": 98,
+      "poss": 217,
+      "net": 8.3
     },
     {
       "label": "Neither Battle nor Barrett",
       "sub": "2026–27 · TOR",
-      "minutes": 50,
-      "poss": 108,
-      "net": -2.8
+      "minutes": 53,
+      "poss": 114,
+      "net": -2.6
     }
   ]
 }

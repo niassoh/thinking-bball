@@ -1,7 +1,7 @@
 {
   "team": "GSW",
   "season": "2026-27",
-  "generatedAt": "2026-11-09T05:14:32.661Z",
+  "generatedAt": "2026-11-10T15:04:38.667Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,7 +16,7 @@
           "name": "Brandon Williams",
           "slug": "brandon-williams",
           "espnId": "4397040",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Brandin Podziemski",
@@ -51,7 +51,7 @@
           "name": "Gary Payton II",
           "slug": "gary-payton-ii",
           "espnId": "3134903",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Will Richard",
@@ -80,13 +80,13 @@
           "name": "Gary Payton II",
           "slug": "gary-payton-ii",
           "espnId": "3134903",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Gui Santos",
           "slug": "gui-santos",
           "espnId": "4997536",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -97,7 +97,7 @@
           "name": "Gui Santos",
           "slug": "gui-santos",
           "espnId": "4997536",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Georges Niang",

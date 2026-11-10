@@ -1,13 +1,25 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-11-09T15:28:18.600Z",
+  "generatedAt": "2026-11-10T15:41:23.609Z",
   "recent": {
-    "start": "2026-10-10",
-    "end": "2026-11-08",
-    "games": 9,
-    "seasonGames": 9
+    "start": "2026-10-11",
+    "end": "2026-11-09",
+    "games": 10,
+    "seasonGames": 10
   },
   "games": [
+    {
+      "date": "2026-11-09",
+      "gameId": "0022600206",
+      "opp": "TOR",
+      "home": false,
+      "result": "W",
+      "pts": 14,
+      "reb": 4,
+      "ast": 1,
+      "ts": 87.5,
+      "oppRank": 13
+    },
     {
       "date": "2026-11-06",
       "gameId": "0022600029",
@@ -18,7 +30,7 @@
       "reb": 0,
       "ast": 0,
       "ts": 43.8,
-      "oppRank": 7
+      "oppRank": 8
     },
     {
       "date": "2026-11-04",
@@ -42,7 +54,7 @@
       "reb": 3,
       "ast": 3,
       "ts": 72.7,
-      "oppRank": 18
+      "oppRank": 20
     },
     {
       "date": "2026-10-31",
@@ -54,19 +66,7 @@
       "reb": 2,
       "ast": 0,
       "ts": 40,
-      "oppRank": 28
-    },
-    {
-      "date": "2026-10-29",
-      "gameId": "0022600146",
-      "opp": "POR",
-      "home": false,
-      "result": "W",
-      "pts": 10,
-      "reb": 1,
-      "ast": 0,
-      "ts": 55.6,
-      "oppRank": 12
+      "oppRank": 29
     }
   ]
 }

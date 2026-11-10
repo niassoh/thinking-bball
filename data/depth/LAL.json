@@ -1,7 +1,7 @@
 {
   "team": "LAL",
   "season": "2026-27",
-  "generatedAt": "2026-11-09T05:14:34.213Z",
+  "generatedAt": "2026-11-10T15:04:40.096Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Luka Doncic",
           "slug": "luka-doncic",
           "espnId": "3945274",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Collin Sexton",
@@ -22,7 +22,7 @@
           "name": "Austin Reaves",
           "slug": "austin-reaves",
           "espnId": "4066457",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Quentin Grimes",
@@ -39,7 +39,7 @@
           "name": "Austin Reaves",
           "slug": "austin-reaves",
           "espnId": "4066457",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Quentin Grimes",
@@ -65,6 +65,12 @@
       "pos": "SF",
       "players": [
         {
+          "name": "Quentin Grimes",
+          "slug": "quentin-grimes",
+          "espnId": "4397014",
+          "status": "DTD"
+        },
+        {
           "name": "Ziaire Williams",
           "slug": "ziaire-williams",
           "espnId": "4433137",
@@ -75,12 +81,6 @@
           "slug": "jake-laravia",
           "espnId": "4592691",
           "status": null
-        },
-        {
-          "name": "Quentin Grimes",
-          "slug": "quentin-grimes",
-          "espnId": "4397014",
-          "status": "DTD"
         },
         {
           "name": "Matisse Thybulle",

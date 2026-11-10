@@ -1,29 +1,29 @@
 {
   "season": "2026-27",
   "team": "DET",
-  "gp": 9,
-  "generatedAt": "2026-11-09T15:38:04.496Z",
+  "gp": 10,
+  "generatedAt": "2026-11-10T15:52:23.352Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DET",
-      "minutes": 237,
-      "poss": 476,
-      "net": 0.2
+      "minutes": 265,
+      "poss": 540,
+      "net": 2.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DET",
-      "minutes": 195,
-      "poss": 406,
-      "net": 17
+      "minutes": 215,
+      "poss": 445,
+      "net": 15.3
     },
     {
       "label": "On, w/o Cunningham",
       "sub": "2026–27 · DET",
-      "minutes": 33,
-      "poss": 67,
-      "net": 15
+      "minutes": 44,
+      "poss": 93,
+      "net": 14
     },
     {
       "label": "On, w/o Robinson",
@@ -35,16 +35,16 @@
     {
       "label": "On, w/o Reed",
       "sub": "2026–27 · DET",
-      "minutes": 136,
-      "poss": 277,
-      "net": 9
+      "minutes": 164,
+      "poss": 337,
+      "net": 10.1
     },
     {
       "label": "Neither Collins nor Cunningham",
       "sub": "2026–27 · DET",
-      "minutes": 93,
-      "poss": 197,
-      "net": 15.7
+      "minutes": 104,
+      "poss": 218,
+      "net": 12.8
     }
   ]
 }
