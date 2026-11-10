@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "BKN",
-  "generatedAt": "2026-11-09T15:44:00.010Z",
+  "generatedAt": "2026-11-10T22:23:53.959Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -32,8 +32,8 @@
     {
       "id": "1629021",
       "load": 26.4,
-      "obpm": 1,
-      "score": 79,
+      "obpm": 0.9,
+      "score": 77,
       "minutes": 182.04
     },
     {
@@ -46,8 +46,8 @@
     {
       "id": "1643414",
       "load": 43.8,
-      "obpm": -0.6,
-      "score": 61,
+      "obpm": -0.7,
+      "score": 57,
       "minutes": 162.32
     }
   ],

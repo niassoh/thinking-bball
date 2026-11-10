@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "NYK",
-  "generatedAt": "2026-11-09T15:44:00.054Z",
+  "generatedAt": "2026-11-10T22:23:53.988Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -25,8 +25,8 @@
     {
       "id": "1628973",
       "load": 52.5,
-      "obpm": 3.2,
-      "score": 273,
+      "obpm": 3.1,
+      "score": 268,
       "minutes": 306.95
     },
     {
@@ -39,15 +39,15 @@
     {
       "id": "1628384",
       "load": 30,
-      "obpm": 0.6,
-      "score": 78,
+      "obpm": 0.5,
+      "score": 75,
       "minutes": 297.25
     },
     {
       "id": "1629013",
       "load": 21.6,
-      "obpm": -0.1,
-      "score": 41,
+      "obpm": -0.2,
+      "score": 39,
       "minutes": 228.23
     }
   ],

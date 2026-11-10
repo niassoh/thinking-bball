@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-11-09T05:14:36.860Z",
+  "generatedAt": "2026-11-10T21:50:08.512Z",
   "rows": [
     {
       "pos": "PG",
@@ -65,15 +65,15 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Alex Caruso",
-          "slug": "alex-caruso",
-          "espnId": "2991350",
-          "status": null
-        },
-        {
           "name": "Kenrich Williams",
           "slug": "kenrich-williams",
           "espnId": "3133626",
+          "status": null
+        },
+        {
+          "name": "Alex Caruso",
+          "slug": "alex-caruso",
+          "espnId": "2991350",
           "status": null
         },
         {
