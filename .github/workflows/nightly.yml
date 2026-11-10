@@ -3,8 +3,9 @@
 # checks; if they pass, data/ is committed and the site's deploy (niassoh/tbball) builds
 # from it. A failed pull, or pbpstats missing a game or its score (scripts/games-check.js),
 # fails the run at the end, which emails the repo's owner; a short team pull is tried
-# again later in the day (team-retry.yml). Failed checks (a sheet read mid-reload) start the
-# whole run once more after `wait` minutes; that retry doesn't start another.
+# again later in the day (team-retry.yml). A season sheet that never settles, or failed
+# checks (a sheet read mid-reload), start the whole run again after `wait` minutes, `tries`
+# times in all (45 minutes after, then two hours apart).
 name: nightly
 
 on:
@@ -20,10 +21,9 @@ on:
       wait:
         description: Minutes before the run starts
         default: '0'
-      retry:
-        description: A retry of failed checks (starts no further retry)
-        type: boolean
-        default: false
+      tries:
+        description: Reruns left when the season sheet or the checks fail
+        default: '3'
 
 permissions:
   contents: write
@@ -209,12 +209,18 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
 
-      # The checks failed (on 2026-11-03 the season sheet read with nine columns blank):
-      # yesterday's data stands, and the whole run goes again in 45 minutes, once.
-      - if: failure() && steps.check.outcome == 'failure' && !inputs.retry
-        run: gh workflow run nightly.yml -R "$GITHUB_REPOSITORY" -f wait=45 -f retry=true
+      # The season sheet never settled (on 2026-11-10 it hung 20 minutes, it takes 3, and
+      # Recent and Lonestar were skipped with it), or the checks failed (on 2026-11-03 the
+      # season sheet read with nine columns blank): yesterday's season data stands, the rest
+      # ships, and the whole run goes again in 45 minutes, then two hours apart, 3 reruns in
+      # all, since Google can leave the sheet's imports stuck for hours (audit #232).
+      # A scheduled run has no inputs, so `tries` falls back to 3 there.
+      - if: (failure() && steps.check.outcome == 'failure' || steps.season.outcome == 'failure') && (inputs.tries || 3) > 0
+        run: |
+          gh workflow run nightly.yml -R "$GITHUB_REPOSITORY" -f wait=$(( TRIES == 3 ? 45 : 120 )) -f tries=$(( TRIES - 1 ))
         env:
           GH_TOKEN: ${{ github.token }}
+          TRIES: ${{ inputs.tries || 3 }}
 
       - if: contains(steps.*.outcome, 'failure')
         run: exit 1
