@@ -1,7 +1,7 @@
 {
   "team": "BKN",
   "season": "2026-27",
-  "generatedAt": "2026-11-10T15:04:35.802Z",
+  "generatedAt": "2026-11-11T15:03:31.496Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,13 +16,13 @@
           "name": "Mikel Brown Jr.",
           "slug": "mikel-brown-jr",
           "espnId": "5101761",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Nolan Traore",
           "slug": "nolan-traore",
           "espnId": "5279130",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Keon Ellis",
@@ -39,7 +39,7 @@
           "name": "Nolan Traore",
           "slug": "nolan-traore",
           "espnId": "5279130",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Keon Ellis",
@@ -57,7 +57,7 @@
           "name": "Mikel Brown Jr.",
           "slug": "mikel-brown-jr",
           "espnId": "5101761",
-          "status": "DTD"
+          "status": null
         }
       ]
     },

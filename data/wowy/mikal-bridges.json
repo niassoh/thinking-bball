@@ -1,29 +1,29 @@
 {
   "season": "2026-27",
   "team": "NYK",
-  "gp": 9,
-  "generatedAt": "2026-11-08T15:36:43.510Z",
+  "gp": 10,
+  "generatedAt": "2026-11-11T15:25:51.774Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · NYK",
-      "minutes": 234,
-      "poss": 470,
-      "net": -5.5
+      "minutes": 251,
+      "poss": 503,
+      "net": -6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · NYK",
-      "minutes": 198,
-      "poss": 393,
-      "net": 19.6
+      "minutes": 229,
+      "poss": 447,
+      "net": 25.3
     },
     {
       "label": "On, w/o Brunson",
       "sub": "2026–27 · NYK",
-      "minutes": 62,
-      "poss": 126,
-      "net": -21.5
+      "minutes": 67,
+      "poss": 135,
+      "net": -14.9
     },
     {
       "label": "On, w/o Anunoby",
@@ -42,9 +42,9 @@
     {
       "label": "Neither Bridges nor Brunson",
       "sub": "2026–27 · NYK",
-      "minutes": 63,
-      "poss": 125,
-      "net": 17.6
+      "minutes": 78,
+      "poss": 152,
+      "net": 27.7
     }
   ]
 }

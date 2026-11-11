@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "PHX",
-  "gp": 9,
-  "generatedAt": "2026-11-10T15:54:07.260Z",
+  "gp": 10,
+  "generatedAt": "2026-11-11T15:30:59.648Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHX",
-      "minutes": 177,
-      "poss": 360,
-      "net": -8.1
+      "minutes": 198,
+      "poss": 401,
+      "net": -6.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHX",
-      "minutes": 256,
-      "poss": 523,
-      "net": -9
+      "minutes": 282,
+      "poss": 582,
+      "net": -4.5
     },
     {
       "label": "On, w/o Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 32,
-      "poss": 63,
-      "net": 7.9
+      "minutes": 41,
+      "poss": 79,
+      "net": 10.1
     },
     {
       "label": "On, w/o Bridges",
       "sub": "2026–27 · PHX",
-      "minutes": 65,
-      "poss": 134,
-      "net": -15
+      "minutes": 87,
+      "poss": 175,
+      "net": -10.3
     },
     {
       "label": "On, w/o Brooks",
       "sub": "2026–27 · PHX",
-      "minutes": 44,
-      "poss": 89,
-      "net": 1.1
+      "minutes": 57,
+      "poss": 112,
+      "net": -0.9
     },
     {
       "label": "Neither Maluach nor Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 90,
-      "poss": 183,
-      "net": 5.5
+      "minutes": 100,
+      "poss": 206,
+      "net": 4.9
     }
   ]
 }
