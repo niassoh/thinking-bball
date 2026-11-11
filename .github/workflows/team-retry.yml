@@ -1,10 +1,11 @@
-# The team sheet once more, later: the nightly starts this when its team pull came back
-# short (sheets-teamcat.js: the sheet mid-reload, its records 0-0 or a column that was
-# there missing). A column short alone doesn't hold the rest back: the records and every
-# other column are cached, that column kept from the last read. After `wait` minutes this
-# nudges and reads the sheet again; whatever it caches is committed and deployed, and while
-# it's still short it starts itself again two hours later, `tries` times in all (an hour,
-# three and five after the nightly). By hand: gh workflow run team-retry.yml -f wait=0
+# The team sheet once more: scripts/mac-supervise.js starts this (wait=0, tries=1) when the
+# morning's team pull came back short (sheets-teamcat.js: the sheet mid-reload, its records
+# 0-0 or a column that was there missing), and again at its later checks while it stays short.
+# A column short alone doesn't hold the rest back: the records and every other column are
+# cached, that column kept from the last read. After `wait` minutes this nudges and reads the
+# sheet again; whatever it caches is committed and deployed. With tries > 1 it starts itself
+# again two hours later, on a runner that sleeps (Actions minutes), so the Mac does the
+# waiting instead. By hand: gh workflow run team-retry.yml
 name: team-retry
 
 on:
@@ -12,10 +13,10 @@ on:
     inputs:
       wait:
         description: Minutes before the retry
-        default: '60'
+        default: '0'
       tries:
         description: Retries left, this one included
-        default: '3'
+        default: '1'
 
 permissions:
   contents: write
@@ -44,6 +45,8 @@ jobs:
     steps:
       - run: '[[ "$SEASON" =~ ^[0-9]{4}-[0-9]{2}$ ]]'
       - uses: actions/checkout@v4
+        with:
+          ref: master
       - uses: actions/setup-node@v4
         with:
           node-version: 24
