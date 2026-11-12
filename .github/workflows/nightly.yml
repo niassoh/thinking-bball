@@ -212,6 +212,17 @@ jobs:
           git pull -q --rebase
           git push -q
           echo changed=true >> "$GITHUB_OUTPUT"
+      # The season's Footprint lineup files to the public bucket, for use outside the site
+      # (scripts/footprint-upload.js). After the checks, so only data that passed them goes.
+      - id: footprint-upload
+        if: steps.footprint.outcome == 'success'
+        run: |
+          printf '%s' "$GCS_SA_JSON" > "$RUNNER_TEMP/gcs.json"
+          GCS_KEY_FILE="$RUNNER_TEMP/gcs.json" node scripts/footprint-upload.js "$SEASON"
+        timeout-minutes: 5
+        continue-on-error: true
+        env:
+          GCS_SA_JSON: ${{ secrets.GCS_SA_JSON }}
       - if: steps.commit.outputs.changed
         run: gh workflow run pages.yml -R niassoh/tbball
         env:

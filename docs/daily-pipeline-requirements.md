@@ -47,6 +47,7 @@ that fails keeps yesterday's files and the rest still run.
 | 16b | Games check (not fatal) | `node scripts/games-check.js $SEASON` | nothing; every finished regular-season game on ESPN's scoreboard against pbpstats' list. A game pbpstats lacks or has the wrong final for is listed in the summary and fails the run at its end (after the commit and deploy), so GitHub emails the owner |
 | 17 | Checks (fatal) | `node scripts/nightly-check.js` and `analysis/footprint`'s Python tests (not the node tests: they assume a full latest season, and footprint's runs out of the runner's 7 GB) | nothing; if they fail, nothing is committed and the site keeps yesterday's data; the Mac's supervisor (below) starts the run again |
 | 18 | Commit | `git add data` (never `git add .`) | `Data: nightly <date>`, pushed |
+| 18b | Footprint upload (if 15 succeeded; not fatal) | `node scripts/footprint-upload.js $SEASON` | `gs://thinkingbball/footprint/<season>/` and `footprint/index.json`: 15's files, readable by anyone at `https://storage.googleapis.com/thinkingbball/footprint/...`, for use outside the site; key from the `GCS_SA_JSON` secret (the bucket writer: the Sheets account can't write it). The history before 2026-27 was uploaded once from the Mac |
 | 19 | Deploy | `gh workflow run pages.yml -R niassoh/tbball` | the site, a few minutes later |
 
 The three steps that drive the production sheet (3–5) run first, so the job's own

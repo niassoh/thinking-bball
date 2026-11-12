@@ -8,6 +8,9 @@ league, then checked against the teammates who could explain it.
 
 It is computed on request by `lib/footprint.js` from lineup totals built offline by
 `analysis/footprint/footprint_pbp.py` into `data/footprint/<season>/` (1996-97 on).
+The same files are published for use outside the site at
+`https://storage.googleapis.com/thinkingbball/footprint/<season>/`, listed in `footprint/index.json`
+(`scripts/footprint-upload.js`; the nightly sends its season).
 The earlier v2, a ridge-regression model of adjusted effects (`analysis/footprint/model.py`,
 `export.py`, `data/footprint/footprint.json`), was retired for raw on/off (audit #101);
 its scripts remain but nothing on the site reads them.
