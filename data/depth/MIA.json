@@ -1,7 +1,7 @@
 {
   "team": "MIA",
   "season": "2026-27",
-  "generatedAt": "2026-11-11T15:03:36.718Z",
+  "generatedAt": "2026-11-12T13:03:34.235Z",
   "rows": [
     {
       "pos": "PG",
@@ -65,15 +65,15 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Andrew Wiggins",
-          "slug": "andrew-wiggins",
-          "espnId": "3059319",
-          "status": null
-        },
-        {
           "name": "Pelle Larsson",
           "slug": "pelle-larsson",
           "espnId": "4601025",
+          "status": null
+        },
+        {
+          "name": "Andrew Wiggins",
+          "slug": "andrew-wiggins",
+          "espnId": "3059319",
           "status": null
         },
         {

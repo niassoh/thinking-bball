@@ -1,7 +1,7 @@
 {
   "team": "GSW",
   "season": "2026-27",
-  "generatedAt": "2026-11-10T21:50:04.235Z",
+  "generatedAt": "2026-11-12T13:03:32.026Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Stephen Curry",
           "slug": "stephen-curry",
           "espnId": "3975",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Brandon Williams",
@@ -57,7 +57,7 @@
           "name": "Will Richard",
           "slug": "will-richard",
           "espnId": "4897262",
-          "status": "OUT"
+          "status": null
         }
       ]
     },
@@ -74,7 +74,7 @@
           "name": "Will Richard",
           "slug": "will-richard",
           "espnId": "4897262",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Gary Payton II",

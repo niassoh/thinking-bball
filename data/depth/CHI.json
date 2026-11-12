@@ -1,7 +1,7 @@
 {
   "team": "CHI",
   "season": "2026-27",
-  "generatedAt": "2026-11-11T15:03:32.645Z",
+  "generatedAt": "2026-11-12T13:03:30.277Z",
   "rows": [
     {
       "pos": "PG",
@@ -33,7 +33,7 @@
           "name": "Norman Powell",
           "slug": "norman-powell",
           "espnId": "2595516",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Buddy Hield",
@@ -74,13 +74,13 @@
           "name": "Norman Powell",
           "slug": "norman-powell",
           "espnId": "2595516",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Caleb Wilson",
           "slug": "caleb-wilson",
           "espnId": "5095151",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -91,7 +91,7 @@
           "name": "Caleb Wilson",
           "slug": "caleb-wilson",
           "espnId": "5095151",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Leonard Miller",
@@ -132,13 +132,13 @@
           "name": "Zach Collins",
           "slug": "zach-collins",
           "espnId": "4066650",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Tobe Awaka",
           "slug": "tobe-awaka",
           "espnId": "5105555",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     }

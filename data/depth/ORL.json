@@ -1,15 +1,15 @@
 {
   "team": "ORL",
   "season": "2026-27",
-  "generatedAt": "2026-11-11T15:03:39.033Z",
+  "generatedAt": "2026-11-12T13:03:36.316Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
         {
-          "name": "Jase Richardson",
-          "slug": "jase-richardson",
-          "espnId": "5239561",
+          "name": "Anthony Black",
+          "slug": "anthony-black",
+          "espnId": "4712849",
           "status": null
         },
         {
@@ -19,9 +19,9 @@
           "status": null
         },
         {
-          "name": "Anthony Black",
-          "slug": "anthony-black",
-          "espnId": "4712849",
+          "name": "Jase Richardson",
+          "slug": "jase-richardson",
+          "espnId": "5239561",
           "status": null
         },
         {
@@ -36,12 +36,6 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Anthony Black",
-          "slug": "anthony-black",
-          "espnId": "4712849",
-          "status": null
-        },
-        {
           "name": "Desmond Bane",
           "slug": "desmond-bane",
           "espnId": "4066320",
@@ -54,10 +48,16 @@
           "status": null
         },
         {
+          "name": "Anthony Black",
+          "slug": "anthony-black",
+          "espnId": "4712849",
+          "status": null
+        },
+        {
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
-          "status": null
+          "status": "OUT"
         }
       ]
     },
@@ -65,15 +65,15 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Desmond Bane",
-          "slug": "desmond-bane",
-          "espnId": "4066320",
-          "status": null
-        },
-        {
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
+          "status": "OUT"
+        },
+        {
+          "name": "Desmond Bane",
+          "slug": "desmond-bane",
+          "espnId": "4066320",
           "status": null
         },
         {
@@ -109,7 +109,7 @@
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Jonathan Isaac",

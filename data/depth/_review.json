@@ -18,21 +18,15 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "grant-nelson",
-    "status": "DTD",
-    "team": "Brooklyn Nets",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "grant-williams",
     "status": "OUT",
     "team": "Charlotte Hornets",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "tarik-biberovic",
+    "slug": "dailyn-swain",
     "status": "OUT",
-    "team": "Dallas Mavericks",
+    "team": "Chicago Bulls",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -42,9 +36,21 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "tarik-biberovic",
+    "status": "OUT",
+    "team": "Dallas Mavericks",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "julian-strawther",
     "status": "OUT",
     "team": "Denver Nuggets",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "jalen-duren",
+    "status": "OUT",
+    "team": "Detroit Pistons",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -168,13 +174,19 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "ja-morant",
+    "slug": "chris-youngblood",
     "status": "OUT",
     "team": "Portland Trail Blazers",
     "reason": "injured but not on a depth chart"
   },
   {
     "slug": "vit-krejci",
+    "status": "OUT",
+    "team": "Portland Trail Blazers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "ja-morant",
     "status": "OUT",
     "team": "Portland Trail Blazers",
     "reason": "injured but not on a depth chart"
@@ -201,6 +213,12 @@
     "slug": "nate-bittle",
     "status": "OUT",
     "team": "Toronto Raptors",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "lauri-markkanen",
+    "status": "OUT",
+    "team": "Utah Jazz",
     "reason": "injured but not on a depth chart"
   },
   {
