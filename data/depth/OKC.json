@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-11-05T15:02:24.916Z",
+  "generatedAt": "2026-11-13T13:03:22.827Z",
   "rows": [
     {
       "pos": "PG",
@@ -22,7 +22,7 @@
           "name": "Ajay Mitchell",
           "slug": "ajay-mitchell",
           "espnId": "4900671",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jared McCain",
@@ -36,16 +36,16 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Ajay Mitchell",
-          "slug": "ajay-mitchell",
-          "espnId": "4900671",
-          "status": null
-        },
-        {
           "name": "Jared McCain",
           "slug": "jared-mccain",
           "espnId": "4683778",
           "status": null
+        },
+        {
+          "name": "Ajay Mitchell",
+          "slug": "ajay-mitchell",
+          "espnId": "4900671",
+          "status": "DTD"
         },
         {
           "name": "Bennett Stirtz",
@@ -77,15 +77,15 @@
           "status": null
         },
         {
-          "name": "Josh Dix",
-          "slug": "josh-dix",
-          "espnId": "5105800",
-          "status": null
+          "name": "Ajay Mitchell",
+          "slug": "ajay-mitchell",
+          "espnId": "4900671",
+          "status": "DTD"
         },
         {
-          "name": "Brooks Barnhizer",
-          "slug": "brooks-barnhizer",
-          "espnId": "4684208",
+          "name": "Nique Clifford",
+          "slug": "nique-clifford",
+          "espnId": "4702384",
           "status": null
         }
       ]
@@ -93,6 +93,12 @@
     {
       "pos": "PF",
       "players": [
+        {
+          "name": "Aday Mara",
+          "slug": "aday-mara",
+          "espnId": "5174983",
+          "status": null
+        },
         {
           "name": "Jaylin Williams",
           "slug": "jaylin-williams",
@@ -109,12 +115,6 @@
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
-          "status": null
-        },
-        {
-          "name": "Brooks Barnhizer",
-          "slug": "brooks-barnhizer",
-          "espnId": "4684208",
           "status": null
         }
       ]

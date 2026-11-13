@@ -1,7 +1,7 @@
 {
   "team": "DAL",
   "season": "2026-27",
-  "generatedAt": "2026-11-07T15:03:46.021Z",
+  "generatedAt": "2026-11-13T13:03:17.224Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,15 +36,15 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Max Christie",
-          "slug": "max-christie",
-          "espnId": "4432582",
-          "status": null
-        },
-        {
           "name": "Caleb Martin",
           "slug": "caleb-martin",
           "espnId": "3138160",
+          "status": null
+        },
+        {
+          "name": "Max Christie",
+          "slug": "max-christie",
+          "espnId": "4432582",
           "status": null
         },
         {

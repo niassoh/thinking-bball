@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIL",
-  "gp": 9,
-  "generatedAt": "2026-11-07T15:56:56.196Z",
+  "gp": 11,
+  "generatedAt": "2026-11-12T13:31:50.749Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIL",
-      "minutes": 280,
-      "poss": 603,
-      "net": -11.3
+      "minutes": 342,
+      "poss": 728,
+      "net": -12.1
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIL",
-      "minutes": 152,
-      "poss": 319,
-      "net": -13.8
+      "minutes": 234,
+      "poss": 473,
+      "net": -18.4
     },
     {
       "label": "On, w/o Jaquez Jr.",
       "sub": "2026–27 · MIL",
-      "minutes": 58,
-      "poss": 118,
-      "net": -12.8
-    },
-    {
-      "label": "On, w/o Turner",
-      "sub": "2026–27 · MIL",
-      "minutes": 81,
-      "poss": 177,
-      "net": -33.4
+      "minutes": 85,
+      "poss": 172,
+      "net": -15.1
     },
     {
       "label": "On, w/o Kuzma",
       "sub": "2026–27 · MIL",
-      "minutes": 90,
-      "poss": 189,
-      "net": -20.1
+      "minutes": 108,
+      "poss": 229,
+      "net": -17.5
+    },
+    {
+      "label": "On, w/o Turner",
+      "sub": "2026–27 · MIL",
+      "minutes": 125,
+      "poss": 265,
+      "net": -27.9
     },
     {
       "label": "Neither Herro nor Jaquez Jr.",
       "sub": "2026–27 · MIL",
-      "minutes": 118,
-      "poss": 248,
-      "net": -13.3
+      "minutes": 157,
+      "poss": 318,
+      "net": -20.1
     }
   ]
 }

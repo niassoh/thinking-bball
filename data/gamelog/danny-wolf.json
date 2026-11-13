@@ -1,72 +1,72 @@
 {
-  "season": "2025-26",
-  "generatedAt": "2026-10-02T04:38:36.498Z",
+  "season": "2026-27",
+  "generatedAt": "2026-11-13T13:32:44.190Z",
   "recent": {
-    "start": "2026-03-14",
-    "end": "2026-04-12",
-    "games": 5,
-    "seasonGames": 57
+    "start": "2026-10-14",
+    "end": "2026-11-12",
+    "games": 6,
+    "seasonGames": 6
   },
   "games": [
     {
-      "date": "2026-03-22",
-      "gameId": "0022501033",
-      "opp": "SAC",
+      "date": "2026-11-11",
+      "gameId": "0022600223",
+      "opp": "NOP",
+      "home": false,
+      "result": "W",
+      "pts": 10,
+      "reb": 11,
+      "ast": 4,
+      "ts": 50,
+      "oppRank": 25
+    },
+    {
+      "date": "2026-11-08",
+      "gameId": "0022600199",
+      "opp": "DAL",
       "home": false,
       "result": "L",
-      "pts": 9,
-      "reb": 4,
-      "ast": 0,
-      "ts": 56.3,
-      "oppRank": 28
-    },
-    {
-      "date": "2026-03-20",
-      "gameId": "0022501016",
-      "opp": "NYK",
-      "home": true,
-      "result": "L",
-      "pts": 8,
-      "reb": 6,
-      "ast": 2,
-      "ts": 33.3,
-      "oppRank": 5
-    },
-    {
-      "date": "2026-03-18",
-      "gameId": "0022501000",
-      "opp": "OKC",
-      "home": true,
-      "result": "L",
-      "pts": 6,
-      "reb": 4,
+      "pts": 10,
+      "reb": 3,
       "ast": 2,
       "ts": 50,
-      "oppRank": 1
+      "oppRank": 16
     },
     {
-      "date": "2026-03-16",
-      "gameId": "0022500985",
-      "opp": "POR",
-      "home": true,
-      "result": "L",
-      "pts": 8,
-      "reb": 5,
-      "ast": 4,
-      "ts": 44.4,
-      "oppRank": 19
-    },
-    {
-      "date": "2026-03-14",
-      "gameId": "0022500969",
-      "opp": "PHI",
+      "date": "2026-11-07",
+      "gameId": "0022600190",
+      "opp": "ATL",
       "home": false,
       "result": "L",
-      "pts": 15,
+      "pts": 11,
       "reb": 10,
+      "ast": 1,
+      "ts": 45.8,
+      "oppRank": 14
+    },
+    {
+      "date": "2026-11-04",
+      "gameId": "0022600176",
+      "opp": "CHA",
+      "home": true,
+      "result": "W",
+      "pts": 13,
+      "reb": 5,
+      "ast": 3,
+      "ts": 92.9,
+      "oppRank": 26
+    },
+    {
+      "date": "2026-10-30",
+      "gameId": "0022600017",
+      "opp": "DET",
+      "home": true,
+      "result": "L",
+      "pts": 9,
+      "reb": 6,
       "ast": 2,
-      "ts": 62.5,
-      "oppRank": 18
+      "ts": 90,
+      "oppRank": 7
     }
   ]
 }

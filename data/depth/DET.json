@@ -1,7 +1,7 @@
 {
   "team": "DET",
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:04:01.191Z",
+  "generatedAt": "2026-11-12T13:03:31.671Z",
   "rows": [
     {
       "pos": "PG",
@@ -28,7 +28,7 @@
           "name": "Elijah Harkless",
           "slug": "elijah-harkless",
           "espnId": "4397449",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -36,9 +36,9 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Duncan Robinson",
-          "slug": "duncan-robinson",
-          "espnId": "3157465",
+          "name": "Daniss Jenkins",
+          "slug": "daniss-jenkins",
+          "espnId": "5107199",
           "status": null
         },
         {
@@ -48,16 +48,16 @@
           "status": null
         },
         {
+          "name": "Duncan Robinson",
+          "slug": "duncan-robinson",
+          "espnId": "3157465",
+          "status": null
+        },
+        {
           "name": "Isaiah Joe",
           "slug": "isaiah-joe",
           "espnId": "4395702",
           "status": "OUT"
-        },
-        {
-          "name": "Daniss Jenkins",
-          "slug": "daniss-jenkins",
-          "espnId": "5107199",
-          "status": null
         }
       ]
     },
@@ -65,9 +65,9 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Ausar Thompson",
-          "slug": "ausar-thompson",
-          "espnId": "4684742",
+          "name": "Duncan Robinson",
+          "slug": "duncan-robinson",
+          "espnId": "3157465",
           "status": null
         },
         {
@@ -77,15 +77,15 @@
           "status": "OUT"
         },
         {
-          "name": "Kevin Huerter",
-          "slug": "kevin-huerter",
-          "espnId": "4066372",
+          "name": "Ausar Thompson",
+          "slug": "ausar-thompson",
+          "espnId": "4684742",
           "status": null
         },
         {
-          "name": "Duncan Robinson",
-          "slug": "duncan-robinson",
-          "espnId": "3157465",
+          "name": "Kevin Huerter",
+          "slug": "kevin-huerter",
+          "espnId": "4066372",
           "status": null
         }
       ]
@@ -94,9 +94,9 @@
       "pos": "PF",
       "players": [
         {
-          "name": "John Collins",
-          "slug": "john-collins",
-          "espnId": "3908845",
+          "name": "Ausar Thompson",
+          "slug": "ausar-thompson",
+          "espnId": "4684742",
           "status": null
         },
         {
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Ronald Holland II",
-          "slug": "ronald-holland-ii",
-          "espnId": "4683771",
+          "name": "John Collins",
+          "slug": "john-collins",
+          "espnId": "3908845",
           "status": null
         },
         {
-          "name": "Taurean Prince",
-          "slug": "taurean-prince",
-          "espnId": "2990962",
+          "name": "Ronald Holland II",
+          "slug": "ronald-holland-ii",
+          "espnId": "4683771",
           "status": null
         }
       ]
@@ -123,10 +123,10 @@
       "pos": "C",
       "players": [
         {
-          "name": "Jalen Duren",
-          "slug": "jalen-duren",
-          "espnId": "4433621",
-          "status": "OUT"
+          "name": "John Collins",
+          "slug": "john-collins",
+          "espnId": "3908845",
+          "status": null
         },
         {
           "name": "Paul Reed",
@@ -135,16 +135,16 @@
           "status": null
         },
         {
-          "name": "John Collins",
-          "slug": "john-collins",
-          "espnId": "3908845",
-          "status": null
-        },
-        {
           "name": "Tolu Smith",
           "slug": "tolu-smith",
           "espnId": "4397882",
           "status": null
+        },
+        {
+          "name": "Ugonna Onyenso",
+          "slug": "ugonna-onyenso",
+          "espnId": "5037878",
+          "status": "DTD"
         }
       ]
     }

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DAL",
-  "gp": 8,
-  "generatedAt": "2026-11-07T16:04:36.406Z",
+  "gp": 11,
+  "generatedAt": "2026-11-13T13:28:43.806Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DAL",
-      "minutes": 274,
-      "poss": 575,
-      "net": 10.6
+      "minutes": 369,
+      "poss": 773,
+      "net": 7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DAL",
-      "minutes": 158,
-      "poss": 321,
-      "net": -15.6
+      "minutes": 208,
+      "poss": 428,
+      "net": -9.8
     },
     {
       "label": "On, w/o Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 71,
-      "poss": 153,
-      "net": 36.1
-    },
-    {
-      "label": "On, w/o Risacher",
-      "sub": "2026–27 · DAL",
-      "minutes": 150,
-      "poss": 311,
-      "net": 2.9
+      "minutes": 106,
+      "poss": 226,
+      "net": 26.1
     },
     {
       "label": "On, w/o Irving",
       "sub": "2026–27 · DAL",
-      "minutes": 131,
-      "poss": 275,
-      "net": 10.2
+      "minutes": 159,
+      "poss": 332,
+      "net": 5.7
+    },
+    {
+      "label": "On, w/o Risacher",
+      "sub": "2026–27 · DAL",
+      "minutes": 212,
+      "poss": 440,
+      "net": 0.5
     },
     {
       "label": "Neither Flagg nor Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 51,
-      "poss": 101,
-      "net": 1
+      "minutes": 84,
+      "poss": 174,
+      "net": -1.7
     }
   ]
 }

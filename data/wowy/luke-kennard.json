@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "PHX",
-  "gp": 7,
-  "generatedAt": "2026-11-08T15:32:10.603Z",
+  "gp": 10,
+  "generatedAt": "2026-11-13T13:26:37.157Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHX",
-      "minutes": 113,
-      "poss": 230,
-      "net": 13.5
+      "minutes": 170,
+      "poss": 342,
+      "net": 8.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHX",
-      "minutes": 271,
-      "poss": 559,
-      "net": -14.5
+      "minutes": 358,
+      "poss": 737,
+      "net": -10.4
     },
     {
       "label": "On, w/o Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 70,
-      "poss": 138,
-      "net": 15.9
-    },
-    {
-      "label": "On, w/o Bridges",
-      "sub": "2026–27 · PHX",
-      "minutes": 38,
-      "poss": 80,
-      "net": 5
+      "minutes": 112,
+      "poss": 223,
+      "net": 6.7
     },
     {
       "label": "On, w/o Brooks",
       "sub": "2026–27 · PHX",
-      "minutes": 86,
-      "poss": 170,
-      "net": 24.7
+      "minutes": 136,
+      "poss": 272,
+      "net": 15.1
+    },
+    {
+      "label": "On, w/o Bridges",
+      "sub": "2026–27 · PHX",
+      "minutes": 69,
+      "poss": 138,
+      "net": -5.1
     },
     {
       "label": "Neither Kennard nor Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 34,
-      "poss": 72,
-      "net": 15.3
+      "minutes": 42,
+      "poss": 89,
+      "net": 19.2
     }
   ]
 }

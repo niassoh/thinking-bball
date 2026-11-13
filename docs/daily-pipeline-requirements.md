@@ -19,9 +19,10 @@ frontend's deploy builds the site from that. Changes to the pulls are recorded i
 `.github/workflows/nightly.yml`, on GitHub Actions' free tier, started each morning by the
 Mac's job once it has pushed the night's play-by-play (below). GitHub's own schedule
 started it 4-5 hours late every day of 2026-10-22..25 and not at all by 16:33 UTC on
-10-26, so it is only the fallback: `cron: '17 17 * * *'` (10:17 am Pacific, so in
+10-26, so it is only the fallback: `cron: '17 17 * * *'` (9:17 am PST, 10:17 PDT, so in
 practice early afternoon), whose `gate` job stands the run down if one started in the
-last 20 hours.
+last 20 hours. `-f scope=tracking` runs only the sheet steps (3-5, 11, 17-19), about 10
+minutes, for the Mac's 7 am top-up (below).
 Steps run one after another; each pull has a timeout and `continue-on-error`, so a source
 that fails keeps yesterday's files and the rest still run.
 
@@ -38,13 +39,13 @@ that fails keeps yesterday's files and the rest still run.
 | 9 | Game logs, WOWY | `npm run pull:games` | `data/gamelog/`, `data/wowy/` (WOWY summed from 6's files) |
 | 10 | Shots | `npm run pull:shots` | `data/shotshift/`; ESPN's finished games are cached between runs |
 | 11 | Tracking seasons | `node scripts/tracking-seasons.js` | `data/tracking-seasons.json`, from the bucket's season files |
-| 12 | Play-by-play | on the Mac, at 7 am (below) | `data/pbp/<season>/<gameId>.json.gz`: each new game's NBA.com v3 play-by-play and starters, checked against pbpstats' final score (kept in git, about 10 KB a game) |
+| 12 | Play-by-play | on the Mac, at 5 am and the 7 am top-up (below) | `data/pbp/<season>/<gameId>.json.gz`: each new game's NBA.com v3 play-by-play and starters, checked against pbpstats' final score (kept in git, about 10 KB a game) |
 | 13 | Game dates | `node scripts/footprint-games.js $SEASON` | `data/footprint/<season>/games.json` |
 | 14 | Possessions | `python analysis/footprint/build.py $SEASON` | the season's possession cache (not kept), rebuilt from 12's files |
 | 15 | Footprint (if 13 and 14 succeeded) | `python analysis/footprint/footprint_pbp.py $SEASON` | `data/footprint/<season>/`: profiles take the season's Footprint from here (with rim free throws and teammate counts) instead of 6's files |
 | 16 | Lonestar (if 3 and 14 succeeded) | `node scripts/lonestar.js --source=pbp --season=$SEASON --refresh` | `data/lonestar/<season>/`, `league.json`; the season being played picks its stars with no minutes floor (audit #189) |
 | 16b | Games check (not fatal) | `node scripts/games-check.js $SEASON` | nothing; every finished regular-season game on ESPN's scoreboard against pbpstats' list. A game pbpstats lacks or has the wrong final for is listed in the summary and fails the run at its end (after the commit and deploy), so GitHub emails the owner |
-| 17 | Checks (fatal) | `node scripts/nightly-check.js` and `analysis/footprint`'s Python tests (not the node tests: they assume a full latest season, and footprint's runs out of the runner's 7 GB) | nothing; if they fail, nothing is committed and the site keeps yesterday's data, and the whole run starts again 45 minutes later, once (`-f retry=true`: a retry starts no other) |
+| 17 | Checks (fatal) | `node scripts/nightly-check.js` and `analysis/footprint`'s Python tests (not the node tests: they assume a full latest season, and footprint's runs out of the runner's 7 GB) | nothing; if they fail, nothing is committed and the site keeps yesterday's data; the Mac's supervisor (below) starts the run again |
 | 18 | Commit | `git add data` (never `git add .`) | `Data: nightly <date>`, pushed |
 | 19 | Deploy | `gh workflow run pages.yml -R niassoh/tbball` | the site, a few minutes later |
 
@@ -61,12 +62,14 @@ data.
 
 ## On the Mac
 
-stats.nba.com doesn't answer GitHub's runners (the probe's first run, 2026-10-21: both its
-rows timed out), so `scripts/mac-nightly.sh` runs on the Mac at 7 am local. At 1:30 am it
-missed whole nights: pbpstats lists a night's games around 3 am Pacific and NBA.com posts
-drives and touches later in the morning. It ends by starting the cloud run, so that run
-always follows it (on 2026-10-25 GitHub's schedule started it nine minutes before the
-Mac's push):
+The site should have the night's data between 7 and 8 am Pacific. stats.nba.com doesn't
+answer GitHub's runners (the probe's first run, 2026-10-21: both its rows timed out), so
+`scripts/mac-nightly.sh` runs on the Mac at 5 am local (7 am until 2026-11-11, which put
+the site at 8:15-9:05). At 1:30 am it missed whole nights: pbpstats lists a night's games
+around 3 am Pacific, and NBA.com's drives, touches and defender distance are often partial
+until after 7 (6 of 17 mornings at 7 am), so at 7 am it runs again with `--topup` (below).
+It ends by starting the cloud run, so that run always follows it (on 2026-10-25 GitHub's
+schedule started it nine minutes before the Mac's push):
 
 1. `node scripts/pbp-fetch.js` and `node scripts/touches-window.js` (NBA.com's touches over
    the Last 30 Days windows, `data/recent-touches.json`, for Time of Poss % on the card
@@ -80,20 +83,48 @@ Mac's push):
    no free throws, or the league's time of possession tops 30 min a team-game (NBA.com's
    has run about 28 since its 2025-26 reprocessing; `docs/tracking-source-investigation.md`).
 3. `gh workflow run nightly.yml -R niassoh/thinking-bball`, whatever failed above (the cloud
-   run's other pulls don't need it).
+   run's other pulls don't need it), tried three times a minute apart.
 
-A failed step posts a macOS notification naming it, and so does a morning when no cloud
-run has finished in 26 hours (one never started says nothing on its own); both also go to
-the log as `ALERT:` lines.
+Before step 1 it waits for the network (up to 10 minutes) and switches the clone to master
+(on 2026-11-10 it was left on a branch, where the night's push would have gone unread). With
+`--topup` (7 am) it pulls the same things and starts the cloud run only if something came
+in since 5: `scope=all` for a late game's play-by-play, `scope=tracking` for tracking or
+touches or team files, or when the 5 am upload failed (the sheet steps re-read the bucket), nothing otherwise. Only one copy runs at a time (a lock in `/tmp`): after a sleep launchd fires every missed job at once. Pulls use `--autostash`, and anything the clone has that GitHub doesn't is pushed, so a play-by-play commit a 5 am push missed goes up at 7 (and counts as new for the cloud run).
+
+`scripts/mac-supervise.js` (6:00, 6:35, 7:25, 7:50, then 10:00, 13:00, 16:00) looks at the
+day's runs and starts at most one thing: nothing while a run or the Mac job (its lock,
+`/tmp/thinking-bball-nightly.lock`) is going; tbball's deploy for data committed with none
+since (a failed or cancelled dispatch); the Mac job if no run today (before noon); and for
+the steps today's newest full run failed (from its log, since continue-on-error steps report
+success), less the sheet steps a later `scope=tracking` run or team retry redid,
+`team-retry.yml -f wait=0 -f tries=1` when only the team sheet is short and a full rerun
+otherwise. games-check alone isn't retried (pbpstats' own data). A failed top-up is rerun as
+`scope=tracking`, without an alert (the 5 am data stands). Budgets a day: 2 full reruns
+(about 45 private Actions minutes each), and none once the same step failed twice running;
+2 tracking reruns; 3 team retries. Runs are named `nightly all` / `nightly tracking`
+(`run-name`) so it can tell them apart, and check out master's head when the job starts,
+since a run queued behind another would otherwise build on stale data. Retries start from
+here so no runner is paid to sleep until one is due (team-retry's 60-minute `wait` was half
+of 2026-11's Actions minutes; its defaults are now `wait=0`, `tries=1`). From 7:45 on, every
+check alerts while the site lacks today's data (a run still going included) or a step is
+still stale, when retries run out, and when the supervisor itself fails. `--dry-run` says
+what it would do and does nothing.
+
+Alerts (a failed Mac step, the supervisor's) are a macOS notification, an `ALERT:` line in
+the log, and a phone push when the agents' `NTFY_TOPIC` is set (the ntfy app, subscribed to
+that topic).
 
 Setup: a clone at `~/thinking-bball-nightly` (`npm ci`; this repo's two
-`credential.https://github.com.helper` lines, so it pushes as `niassoh`); the launchd agent
-`~/Library/LaunchAgents/com.thinkingbball.nightly.plist` (7 am, `PATH` with node and gh,
-`SITE_DATA` a site_Data clone that has `player_level.py`); and
-`sudo pmset repeat wakeorpoweron MTWRFSU 06:55:00`, so the Mac wakes for it (when plugged
-in). A night it misses, the cloud run keeps the last play-by-play and tracking, and the
-next job catches up. Log: `~/Library/Logs/thinking-bball-nightly.log`; run it now with
-`launchctl kickstart gui/$(id -u)/com.thinkingbball.nightly`.
+`credential.https://github.com.helper` lines, so it pushes as `niassoh`); three launchd
+agents in `~/Library/LaunchAgents`, each run under `caffeinate -i` so the Mac stays awake
+through it, with `PATH` (node, gh) and `SITE_DATA` (a site_Data clone that has
+`player_level.py`): `com.thinkingbball.nightly` (5 am, `mac-nightly.sh`),
+`com.thinkingbball.topup` (7 am, `mac-nightly.sh --topup`) and `com.thinkingbball.supervise`
+(`mac-supervise.js`, the times above); and `sudo pmset repeat wakeorpoweron MTWRFSU 04:55:00`,
+so the Mac wakes for it (when plugged in). A night it misses, the cloud run keeps the last
+play-by-play and tracking, and the next job catches up. Log:
+`~/Library/Logs/thinking-bball-nightly.log`; run one now with
+`launchctl kickstart gui/$(id -u)/com.thinkingbball.<nightly|topup|supervise>`.
 
 ## Not in the nightly yet
 

@@ -1,7 +1,7 @@
 {
   "team": "TOR",
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:04:09.492Z",
+  "generatedAt": "2026-11-12T13:03:38.383Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Immanuel Quickley",
           "slug": "immanuel-quickley",
           "espnId": "4395724",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Jamal Shead",
@@ -28,7 +28,7 @@
           "name": "Scottie Barnes",
           "slug": "scottie-barnes",
           "espnId": "4433134",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     },
@@ -97,7 +97,7 @@
           "name": "Scottie Barnes",
           "slug": "scottie-barnes",
           "espnId": "4433134",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Collin Murray-Boyles",
@@ -138,7 +138,7 @@
           "name": "Trayce Jackson-Davis",
           "slug": "trayce-jackson-davis",
           "espnId": "4431684",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jamison Battle",

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "TOR",
-  "gp": 7,
-  "generatedAt": "2026-11-08T15:43:21.785Z",
+  "gp": 10,
+  "generatedAt": "2026-11-13T13:37:32.284Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · TOR",
-      "minutes": 151,
-      "poss": 305,
-      "net": 2.6
+      "minutes": 239,
+      "poss": 477,
+      "net": -3.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · TOR",
-      "minutes": 281,
-      "poss": 606,
-      "net": 6.8
+      "minutes": 337,
+      "poss": 717,
+      "net": 4.9
     },
     {
       "label": "On, w/o Barrett",
       "sub": "2026–27 · TOR",
-      "minutes": 29,
-      "poss": 63,
-      "net": -16
-    },
-    {
-      "label": "On, w/o Barnes",
-      "sub": "2026–27 · TOR",
-      "minutes": 53,
-      "poss": 103,
-      "net": 10.7
+      "minutes": 45,
+      "poss": 93,
+      "net": -18.4
     },
     {
       "label": "On, w/o Walter",
       "sub": "2026–27 · TOR",
-      "minutes": 67,
-      "poss": 142,
-      "net": 15.5
+      "minutes": 82,
+      "poss": 172,
+      "net": 13.4
+    },
+    {
+      "label": "On, w/o Quickley",
+      "sub": "2026–27 · TOR",
+      "minutes": 109,
+      "poss": 216,
+      "net": -4.6
     },
     {
       "label": "Neither Poeltl nor Barrett",
       "sub": "2026–27 · TOR",
-      "minutes": 105,
-      "poss": 236,
-      "net": 7.2
+      "minutes": 129,
+      "poss": 282,
+      "net": 14.9
     }
   ]
 }

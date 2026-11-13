@@ -1,27 +1,27 @@
 {
   "team": "BKN",
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:03:57.982Z",
+  "generatedAt": "2026-11-13T13:03:15.058Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
         {
-          "name": "Egor Demin",
-          "slug": "egor-demin",
-          "espnId": "5175643",
-          "status": "OUT"
+          "name": "Nolan Traore",
+          "slug": "nolan-traore",
+          "espnId": "5279130",
+          "status": "DTD"
         },
         {
           "name": "Mikel Brown Jr.",
           "slug": "mikel-brown-jr",
           "espnId": "5101761",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
-          "name": "Nolan Traore",
-          "slug": "nolan-traore",
-          "espnId": "5279130",
+          "name": "Egor Demin",
+          "slug": "egor-demin",
+          "espnId": "5175643",
           "status": null
         },
         {
@@ -36,9 +36,9 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Nolan Traore",
-          "slug": "nolan-traore",
-          "espnId": "5279130",
+          "name": "Egor Demin",
+          "slug": "egor-demin",
+          "espnId": "5175643",
           "status": null
         },
         {
@@ -48,16 +48,16 @@
           "status": null
         },
         {
-          "name": "Egor Demin",
-          "slug": "egor-demin",
-          "espnId": "5175643",
-          "status": "OUT"
-        },
-        {
           "name": "Mikel Brown Jr.",
           "slug": "mikel-brown-jr",
           "espnId": "5101761",
-          "status": "OUT"
+          "status": "DTD"
+        },
+        {
+          "name": "Nolan Traore",
+          "slug": "nolan-traore",
+          "espnId": "5279130",
+          "status": "DTD"
         }
       ]
     },

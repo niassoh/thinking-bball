@@ -1,21 +1,50 @@
 {
   "team": "ORL",
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:04:06.899Z",
+  "generatedAt": "2026-11-13T13:03:23.215Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
         {
-          "name": "Jase Richardson",
-          "slug": "jase-richardson",
-          "espnId": "5239561",
+          "name": "Jalen Suggs",
+          "slug": "jalen-suggs",
+          "espnId": "4432165",
+          "status": "OUT"
+        },
+        {
+          "name": "Anthony Black",
+          "slug": "anthony-black",
+          "espnId": "4712849",
           "status": null
         },
         {
           "name": "Jevon Carter",
           "slug": "jevon-carter",
           "espnId": "3133635",
+          "status": null
+        },
+        {
+          "name": "Jase Richardson",
+          "slug": "jase-richardson",
+          "espnId": "5239561",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SG",
+      "players": [
+        {
+          "name": "Desmond Bane",
+          "slug": "desmond-bane",
+          "espnId": "4066320",
+          "status": null
+        },
+        {
+          "name": "Jase Richardson",
+          "slug": "jase-richardson",
+          "espnId": "5239561",
           "status": null
         },
         {
@@ -33,59 +62,30 @@
       ]
     },
     {
-      "pos": "SG",
-      "players": [
-        {
-          "name": "Anthony Black",
-          "slug": "anthony-black",
-          "espnId": "4712849",
-          "status": null
-        },
-        {
-          "name": "Desmond Bane",
-          "slug": "desmond-bane",
-          "espnId": "4066320",
-          "status": "OUT"
-        },
-        {
-          "name": "Jase Richardson",
-          "slug": "jase-richardson",
-          "espnId": "5239561",
-          "status": null
-        },
-        {
-          "name": "Jamal Cain",
-          "slug": "jamal-cain",
-          "espnId": "4278572",
-          "status": null
-        }
-      ]
-    },
-    {
       "pos": "SF",
       "players": [
         {
-          "name": "Desmond Bane",
-          "slug": "desmond-bane",
-          "espnId": "4066320",
-          "status": "OUT"
-        },
-        {
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
+          "status": "DTD"
+        },
+        {
+          "name": "Tristan da Silva",
+          "slug": "tristan-da-silva",
+          "espnId": "4702382",
+          "status": "DTD"
+        },
+        {
+          "name": "Desmond Bane",
+          "slug": "desmond-bane",
+          "espnId": "4066320",
           "status": null
         },
         {
           "name": "Franz Wagner",
           "slug": "franz-wagner",
           "espnId": "4566434",
-          "status": null
-        },
-        {
-          "name": "Tristan da Silva",
-          "slug": "tristan-da-silva",
-          "espnId": "4702382",
           "status": null
         }
       ]
@@ -103,13 +103,13 @@
           "name": "Tristan da Silva",
           "slug": "tristan-da-silva",
           "espnId": "4702382",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Jonathan Isaac",

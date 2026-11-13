@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "MIN",
-  "gp": 10,
-  "generatedAt": "2026-11-07T16:08:16.008Z",
+  "gp": 12,
+  "generatedAt": "2026-11-13T13:29:19.545Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · MIN",
-      "minutes": 312,
-      "poss": 648,
-      "net": 13.7
+      "minutes": 362,
+      "poss": 752,
+      "net": 13
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · MIN",
-      "minutes": 173,
-      "poss": 366,
-      "net": 4.9
+      "minutes": 219,
+      "poss": 466,
+      "net": 13.5
     },
     {
       "label": "On, w/o McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 48,
-      "poss": 102,
-      "net": 0
+      "minutes": 57,
+      "poss": 118,
+      "net": -2.6
     },
     {
       "label": "On, w/o Dosunmu",
       "sub": "2026–27 · MIN",
-      "minutes": 117,
-      "poss": 233,
-      "net": 13.3
+      "minutes": 132,
+      "poss": 263,
+      "net": 15.2
     },
     {
       "label": "On, w/o Ball",
       "sub": "2026–27 · MIN",
-      "minutes": 94,
-      "poss": 187,
-      "net": -8.6
+      "minutes": 98,
+      "poss": 195,
+      "net": -8.2
     },
     {
       "label": "Neither Kuminga nor McDaniels",
       "sub": "2026–27 · MIN",
-      "minutes": 98,
-      "poss": 206,
-      "net": -3.4
+      "minutes": 127,
+      "poss": 266,
+      "net": 2.6
     }
   ]
 }

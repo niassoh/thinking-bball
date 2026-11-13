@@ -1,7 +1,7 @@
 {
   "team": "BOS",
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:03:58.454Z",
+  "generatedAt": "2026-11-13T13:03:15.477Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,21 +36,21 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Hugo Gonzalez",
-          "slug": "hugo-gonzalez",
-          "espnId": "5175647",
-          "status": null
-        },
-        {
           "name": "Baylor Scheierman",
           "slug": "baylor-scheierman",
           "espnId": "4593841",
           "status": null
         },
         {
-          "name": "Payton Pritchard",
-          "slug": "payton-pritchard",
-          "espnId": "4066354",
+          "name": "Hugo Gonzalez",
+          "slug": "hugo-gonzalez",
+          "espnId": "5175647",
+          "status": null
+        },
+        {
+          "name": "Jordan Walsh",
+          "slug": "jordan-walsh",
+          "espnId": "4683689",
           "status": null
         },
         {
@@ -71,21 +71,21 @@
           "status": null
         },
         {
-          "name": "Sam Hauser",
-          "slug": "sam-hauser",
-          "espnId": "4065804",
-          "status": null
-        },
-        {
-          "name": "Paul George",
-          "slug": "paul-george",
-          "espnId": "4251",
+          "name": "Jordan Walsh",
+          "slug": "jordan-walsh",
+          "espnId": "4683689",
           "status": null
         },
         {
           "name": "Baylor Scheierman",
           "slug": "baylor-scheierman",
           "espnId": "4593841",
+          "status": null
+        },
+        {
+          "name": "Sam Hauser",
+          "slug": "sam-hauser",
+          "espnId": "4065804",
           "status": null
         }
       ]
@@ -97,6 +97,12 @@
           "name": "Paul George",
           "slug": "paul-george",
           "espnId": "4251",
+          "status": "DTD"
+        },
+        {
+          "name": "Sam Hauser",
+          "slug": "sam-hauser",
+          "espnId": "4065804",
           "status": null
         },
         {
@@ -109,12 +115,6 @@
           "name": "Jayson Tatum",
           "slug": "jayson-tatum",
           "espnId": "4065648",
-          "status": null
-        },
-        {
-          "name": "Sam Hauser",
-          "slug": "sam-hauser",
-          "espnId": "4065804",
           "status": null
         }
       ]
@@ -141,9 +141,9 @@
           "status": null
         },
         {
-          "name": "Amari Williams",
-          "slug": "amari-williams",
-          "espnId": "4702745",
+          "name": "Chris Cenac Jr.",
+          "slug": "chris-cenac-jr",
+          "espnId": "5142621",
           "status": null
         }
       ]

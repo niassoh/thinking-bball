@@ -1,13 +1,49 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:41:38.805Z",
+  "generatedAt": "2026-11-13T13:35:54.660Z",
   "recent": {
-    "start": "2026-10-09",
-    "end": "2026-11-07",
-    "games": 9,
-    "seasonGames": 9
+    "start": "2026-10-14",
+    "end": "2026-11-12",
+    "games": 12,
+    "seasonGames": 12
   },
   "games": [
+    {
+      "date": "2026-11-12",
+      "gameId": "0022600228",
+      "opp": "DET",
+      "home": true,
+      "result": "L",
+      "pts": 30,
+      "reb": 9,
+      "ast": 2,
+      "ts": 93.8,
+      "oppRank": 7
+    },
+    {
+      "date": "2026-11-11",
+      "gameId": "0022600217",
+      "opp": "IND",
+      "home": false,
+      "result": "L",
+      "pts": 5,
+      "reb": 8,
+      "ast": 0,
+      "ts": 41.7,
+      "oppRank": 18
+    },
+    {
+      "date": "2026-11-09",
+      "gameId": "0022600205",
+      "opp": "DET",
+      "home": false,
+      "result": "L",
+      "pts": 4,
+      "reb": 8,
+      "ast": 0,
+      "ts": 40,
+      "oppRank": 7
+    },
     {
       "date": "2026-11-07",
       "gameId": "0022600192",
@@ -18,7 +54,7 @@
       "reb": 14,
       "ast": 1,
       "ts": 44.1,
-      "oppRank": 13
+      "oppRank": 11
     },
     {
       "date": "2026-11-06",
@@ -31,42 +67,6 @@
       "ast": 3,
       "ts": 59.1,
       "oppRank": 14
-    },
-    {
-      "date": "2026-11-04",
-      "gameId": "0022600174",
-      "opp": "ATL",
-      "home": true,
-      "result": "L",
-      "pts": 11,
-      "reb": 9,
-      "ast": 1,
-      "ts": 61.1,
-      "oppRank": 14
-    },
-    {
-      "date": "2026-10-30",
-      "gameId": "0022600015",
-      "opp": "CHA",
-      "home": true,
-      "result": "W",
-      "pts": 3,
-      "reb": 8,
-      "ast": 0,
-      "ts": 30,
-      "oppRank": 29
-    },
-    {
-      "date": "2026-10-28",
-      "gameId": "0022600133",
-      "opp": "CLE",
-      "home": false,
-      "result": "L",
-      "pts": 18,
-      "reb": 4,
-      "ast": 2,
-      "ts": 75,
-      "oppRank": 12
     }
   ]
 }

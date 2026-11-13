@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "GSW",
-  "gp": 8,
-  "generatedAt": "2026-11-08T15:43:42.704Z",
+  "gp": 10,
+  "generatedAt": "2026-11-12T13:45:48.282Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · GSW",
-      "minutes": 143,
-      "poss": 296,
-      "net": 1.7
+      "minutes": 179,
+      "poss": 367,
+      "net": 7.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · GSW",
-      "minutes": 341,
-      "poss": 708,
-      "net": 6.6
+      "minutes": 401,
+      "poss": 829,
+      "net": 8.3
     },
     {
       "label": "On, w/o Lendeborg",
       "sub": "2026–27 · GSW",
-      "minutes": 39,
-      "poss": 82,
-      "net": 27
+      "minutes": 53,
+      "poss": 110,
+      "net": 36.4
     },
     {
       "label": "On, w/o Podziemski",
       "sub": "2026–27 · GSW",
-      "minutes": 52,
-      "poss": 107,
-      "net": -13.1
+      "minutes": 65,
+      "poss": 132,
+      "net": -3
     },
     {
-      "label": "On, w/o Curry",
+      "label": "On, w/o Melton",
       "sub": "2026–27 · GSW",
-      "minutes": 102,
-      "poss": 209,
-      "net": -12.4
+      "minutes": 94,
+      "poss": 199,
+      "net": 0.5
     },
     {
       "label": "Neither Horford nor Lendeborg",
       "sub": "2026–27 · GSW",
-      "minutes": 123,
-      "poss": 251,
-      "net": 17.6
+      "minutes": 141,
+      "poss": 284,
+      "net": 18
     }
   ]
 }

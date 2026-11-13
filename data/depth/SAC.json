@@ -1,7 +1,7 @@
 {
   "team": "SAC",
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:04:08.442Z",
+  "generatedAt": "2026-11-12T13:03:37.707Z",
   "rows": [
     {
       "pos": "PG",
@@ -86,7 +86,7 @@
           "name": "Keegan Murray",
           "slug": "keegan-murray",
           "espnId": "4594327",
-          "status": "OUT"
+          "status": null
         }
       ]
     },
@@ -97,13 +97,13 @@
           "name": "Keegan Murray",
           "slug": "keegan-murray",
           "espnId": "4594327",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Precious Achiuwa",
           "slug": "precious-achiuwa",
           "espnId": "4431679",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "De'Andre Hunter",
@@ -135,15 +135,15 @@
           "status": null
         },
         {
-          "name": "Jonathan Mogbo",
-          "slug": "jonathan-mogbo",
-          "espnId": "5107897",
+          "name": "Mason Plumlee",
+          "slug": "mason-plumlee",
+          "espnId": "2488653",
           "status": null
         },
         {
-          "name": "Precious Achiuwa",
-          "slug": "precious-achiuwa",
-          "espnId": "4431679",
+          "name": "Jonathan Mogbo",
+          "slug": "jonathan-mogbo",
+          "espnId": "5107897",
           "status": null
         }
       ]

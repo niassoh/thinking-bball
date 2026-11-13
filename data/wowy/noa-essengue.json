@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CHI",
-  "gp": 7,
-  "generatedAt": "2026-11-05T15:36:39.141Z",
+  "gp": 9,
+  "generatedAt": "2026-11-12T13:46:22.736Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CHI",
-      "minutes": 98,
-      "poss": 217,
-      "net": -21.2
+      "minutes": 124,
+      "poss": 268,
+      "net": -14.9
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHI",
-      "minutes": 286,
-      "poss": 619,
-      "net": -15.8
+      "minutes": 356,
+      "poss": 763,
+      "net": -15.1
     },
     {
       "label": "On, w/o Wilson",
       "sub": "2026–27 · CHI",
-      "minutes": 72,
-      "poss": 156,
-      "net": -19.2
-    },
-    {
-      "label": "On, w/o Powell",
-      "sub": "2026–27 · CHI",
-      "minutes": 77,
-      "poss": 169,
-      "net": -21.3
+      "minutes": 94,
+      "poss": 199,
+      "net": -8.6
     },
     {
       "label": "On, w/o Giddey",
       "sub": "2026–27 · CHI",
-      "minutes": 66,
-      "poss": 146,
-      "net": -19.9
+      "minutes": 84,
+      "poss": 178,
+      "net": -11.2
+    },
+    {
+      "label": "On, w/o Buzelis",
+      "sub": "2026–27 · CHI",
+      "minutes": 93,
+      "poss": 199,
+      "net": -4.5
     },
     {
       "label": "Neither Essengue nor Wilson",
       "sub": "2026–27 · CHI",
-      "minutes": 51,
-      "poss": 109,
-      "net": -28.4
+      "minutes": 79,
+      "poss": 162,
+      "net": -25.9
     }
   ]
 }

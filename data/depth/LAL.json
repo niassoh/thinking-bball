@@ -1,7 +1,7 @@
 {
   "team": "LAL",
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:04:03.831Z",
+  "generatedAt": "2026-11-13T13:03:20.062Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,19 +16,19 @@
           "name": "Collin Sexton",
           "slug": "collin-sexton",
           "espnId": "4277811",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Austin Reaves",
           "slug": "austin-reaves",
           "espnId": "4066457",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Quentin Grimes",
           "slug": "quentin-grimes",
           "espnId": "4397014",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -39,19 +39,19 @@
           "name": "Austin Reaves",
           "slug": "austin-reaves",
           "espnId": "4066457",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Quentin Grimes",
           "slug": "quentin-grimes",
           "espnId": "4397014",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Collin Sexton",
           "slug": "collin-sexton",
           "espnId": "4277811",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Ziaire Williams",
@@ -64,6 +64,12 @@
     {
       "pos": "SF",
       "players": [
+        {
+          "name": "Matisse Thybulle",
+          "slug": "matisse-thybulle",
+          "espnId": "3907498",
+          "status": null
+        },
         {
           "name": "Ziaire Williams",
           "slug": "ziaire-williams",
@@ -80,13 +86,7 @@
           "name": "Quentin Grimes",
           "slug": "quentin-grimes",
           "espnId": "4397014",
-          "status": null
-        },
-        {
-          "name": "Matisse Thybulle",
-          "slug": "matisse-thybulle",
-          "espnId": "3907498",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -94,9 +94,9 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Matisse Thybulle",
-          "slug": "matisse-thybulle",
-          "espnId": "3907498",
+          "name": "Jake LaRavia",
+          "slug": "jake-laravia",
+          "espnId": "4592691",
           "status": null
         },
         {
@@ -112,9 +112,9 @@
           "status": null
         },
         {
-          "name": "Jake LaRavia",
-          "slug": "jake-laravia",
-          "espnId": "4592691",
+          "name": "Matisse Thybulle",
+          "slug": "matisse-thybulle",
+          "espnId": "3907498",
           "status": null
         }
       ]

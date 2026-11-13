@@ -191,30 +191,39 @@ const TRACKING_CELLS = ['Touches!B3', 'Drives!B3', "'CS3'!B3", "'PU3'!B3", "'WO3
 
 // Counts named players rather than reading a fixed row: early in a season Format's first
 // rows are blank ('All RS' has 375 formula rows, and its empty ones pass Sort's minutes
-// filter and sort first).
-const loaded = async (sheets, data, season) => {
+// filter and sort first). '' once loaded, else what it's still waiting on.
+const waitingOn = async (sheets, data, season) => {
   const v = data.values || []
   const named = v.slice(5).filter(r => r[0] && r[0] !== '#N/A').length
-  if (named < 11 || /Loading/i.test(JSON.stringify(v))) return false
-  if (season < '2013-14') return true
+  if (named < 11) return `Format names ${named} players`
+  if (/Loading/i.test(JSON.stringify(v))) return 'Format is Loading'
+  if (season < '2013-14') return ''
   const r = await sheets.spreadsheets.values.batchGet({ spreadsheetId: SHEET_ID, ranges: TRACKING_CELLS })
-  return r.data.valueRanges.every(c => { const x = c.values && c.values[0] && c.values[0][0]; return x && !/Loading|#/.test(x) })
+  const stuck = TRACKING_CELLS.filter((cell, i) => {
+    const c = r.data.valueRanges[i]
+    const x = c.values && c.values[0] && c.values[0][0]
+    return !x || /Loading|#/.test(x)
+  })
+  return stuck.length ? `tracking imports not loaded: ${stuck.join(', ')}` : ''
 }
 
 // Waits until Format differs from `before`, every tracking import has loaded,
-// and the whole of Format is unchanged across two reads.
+// and the whole of Format is unchanged across two reads. On a timeout the error names
+// what it was last waiting on (2026-11-10 hung 20 minutes, it takes 3, and said nothing).
 const settle = async (sheets, season, before) => {
   const deadline = Date.now() + TIMEOUT_MS
   let last = null
+  let why = 'no read'
   while (Date.now() < deadline) {
     await sleep(POLL_MS)
     const data = await readFormat(sheets)
-    const ready = (await loaded(sheets, data, season)) && fingerprint(data) !== before
-    const all = ready ? JSON.stringify(data.values) : null
+    why = (await waitingOn(sheets, data, season)) || (fingerprint(data) === before ? 'Format unchanged from the season before' : '')
+    const all = why ? null : JSON.stringify(data.values)
     if (all && all === last) return data
+    if (all) why = 'Format still changing between reads'
     last = all
   }
-  throw new Error(`Sheet did not settle for ${season} within ${TIMEOUT_MS / 60000} minutes`)
+  throw new Error(`Sheet did not settle for ${season} within ${TIMEOUT_MS / 60000} minutes: ${why}`)
 }
 
 // Waits until Format differs from `before`, loaded or not, and returns its fingerprint

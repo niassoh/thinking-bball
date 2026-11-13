@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "OKC",
-  "gp": 10,
-  "generatedAt": "2026-11-08T15:26:07.922Z",
+  "gp": 12,
+  "generatedAt": "2026-11-12T13:27:14.260Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · OKC",
-      "minutes": 180,
-      "poss": 376,
-      "net": 2.1
+      "minutes": 224,
+      "poss": 465,
+      "net": 0.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · OKC",
-      "minutes": 300,
-      "poss": 609,
-      "net": 11.8
+      "minutes": 352,
+      "poss": 715,
+      "net": 6.7
     },
     {
       "label": "On, w/o Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 80,
-      "poss": 163,
-      "net": -3.1
-    },
-    {
-      "label": "On, w/o Mitchell",
-      "sub": "2026–27 · OKC",
-      "minutes": 112,
-      "poss": 230,
-      "net": -3.1
+      "minutes": 98,
+      "poss": 200,
+      "net": -4.5
     },
     {
       "label": "On, w/o McCain",
       "sub": "2026–27 · OKC",
-      "minutes": 118,
-      "poss": 245,
-      "net": 5.7
+      "minutes": 146,
+      "poss": 303,
+      "net": 3
+    },
+    {
+      "label": "On, w/o Mitchell",
+      "sub": "2026–27 · OKC",
+      "minutes": 155,
+      "poss": 317,
+      "net": -5.4
     },
     {
       "label": "Neither Stirtz nor Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 72,
-      "poss": 142,
-      "net": 9.9
+      "minutes": 84,
+      "poss": 166,
+      "net": 7.3
     }
   ]
 }

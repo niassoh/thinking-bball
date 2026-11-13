@@ -1,13 +1,49 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-11-08T15:36:14.283Z",
+  "generatedAt": "2026-11-13T13:30:23.904Z",
   "recent": {
-    "start": "2026-10-09",
-    "end": "2026-11-07",
-    "games": 8,
-    "seasonGames": 8
+    "start": "2026-10-14",
+    "end": "2026-11-12",
+    "games": 11,
+    "seasonGames": 11
   },
   "games": [
+    {
+      "date": "2026-11-12",
+      "gameId": "0022600230",
+      "opp": "CHA",
+      "home": true,
+      "result": "W",
+      "pts": 11,
+      "reb": 6,
+      "ast": 3,
+      "ts": 45.8,
+      "oppRank": 26
+    },
+    {
+      "date": "2026-11-10",
+      "gameId": "0022600213",
+      "opp": "LAC",
+      "home": true,
+      "result": "W",
+      "pts": 8,
+      "reb": 4,
+      "ast": 2,
+      "ts": 50,
+      "oppRank": 21
+    },
+    {
+      "date": "2026-11-09",
+      "gameId": "0022600209",
+      "opp": "SAS",
+      "home": true,
+      "result": "L",
+      "pts": 7,
+      "reb": 5,
+      "ast": 0,
+      "ts": 35,
+      "oppRank": 3
+    },
     {
       "date": "2026-11-07",
       "gameId": "0022600194",
@@ -18,7 +54,7 @@
       "reb": 10,
       "ast": 7,
       "ts": 46.4,
-      "oppRank": 1
+      "oppRank": 4
     },
     {
       "date": "2026-11-05",
@@ -30,43 +66,7 @@
       "reb": 13,
       "ast": 5,
       "ts": 81.8,
-      "oppRank": 25
-    },
-    {
-      "date": "2026-11-04",
-      "gameId": "0022600183",
-      "opp": "POR",
-      "home": true,
-      "result": "L",
-      "pts": 18,
-      "reb": 7,
-      "ast": 5,
-      "ts": 64.3,
-      "oppRank": 6
-    },
-    {
-      "date": "2026-11-02",
-      "gameId": "0022600170",
-      "opp": "GSW",
-      "home": false,
-      "result": "L",
-      "pts": 21,
-      "reb": 6,
-      "ast": 3,
-      "ts": 61.8,
-      "oppRank": 9
-    },
-    {
-      "date": "2026-10-30",
-      "gameId": "0022600024",
-      "opp": "DEN",
-      "home": true,
-      "result": "L",
-      "pts": 24,
-      "reb": 10,
-      "ast": 2,
-      "ts": 57.1,
-      "oppRank": 16
+      "oppRank": 23
     }
   ]
 }
