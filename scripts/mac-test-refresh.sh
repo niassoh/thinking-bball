@@ -13,6 +13,10 @@ SITE_REF=team-units
 BRANCH=claude-copy-backfill
 TMP=$(mktemp -d)
 trap 'rm -rf $TMP' EXIT
+# Git's own credential manager can wait on a login window no one sees; gh's token never does.
+export GIT_TERMINAL_PROMPT=0 GIT_CONFIG_COUNT=2
+export GIT_CONFIG_KEY_0=credential.helper GIT_CONFIG_VALUE_0=
+export GIT_CONFIG_KEY_1=credential.helper GIT_CONFIG_VALUE_1='!gh auth git-credential'
 
 print "== $(date) (test refresh)"
 fail() {
