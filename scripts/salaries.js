@@ -1,5 +1,5 @@
 // Each player's salary by season (data/salaries.json, { players: { <bref id>: { '2024-25':
-// dollars } } }), from two exports of a salary database: its historical table (a row per
+// dollars } }, caps }), and each season's salary cap (CAPS, the league's), from two exports of a salary database: its historical table (a row per
 // player-season, 1996-97 to 2024-25, by name and Basketball-Reference team code; `season` the
 // year it ended) and its contracts table (each player's contract from 2025-26 on, by
 // Basketball-Reference id, as of the 2025-26 rosters). Matched to data/bio.json, by bref id,
@@ -15,6 +15,16 @@ const DATA = path.join(__dirname, '..', 'data')
 // player to seven digits (LeBron, Tatum, Durant, the minimums).
 const INFLATED = { 2021: 1.2186914, 2022: 1.1563475, 2023: 1.0602880, 2024: 1.0297140 }
 const TEAM = { BRK: 'BKN', CHO: 'CHA', PHO: 'PHX' }
+// The salary cap each season, as the league set it (2026-27: pr.nba.com, June 30, 2026).
+const CAPS = {
+  '1996-97': 24363000, '1997-98': 26900000, '1998-99': 30000000, '1999-00': 34000000, '2000-01': 35500000,
+  '2001-02': 42500000, '2002-03': 40271000, '2003-04': 43840000, '2004-05': 43870000, '2005-06': 49500000,
+  '2006-07': 53135000, '2007-08': 55630000, '2008-09': 58680000, '2009-10': 57700000, '2010-11': 58044000,
+  '2011-12': 58044000, '2012-13': 58044000, '2013-14': 58679000, '2014-15': 63065000, '2015-16': 70000000,
+  '2016-17': 94143000, '2017-18': 99093000, '2018-19': 101869000, '2019-20': 109140000, '2020-21': 109140000,
+  '2021-22': 112414000, '2022-23': 123655000, '2023-24': 136021000, '2024-25': 140588000, '2025-26': 154647000,
+  '2026-27': 164961000
+}
 
 // A minimal CSV reader: quoted fields, commas inside them.
 const csv = file => {
@@ -64,7 +74,7 @@ const main = ([historical, contracts]) => {
     }
   }
   const sorted = Object.fromEntries(Object.keys(players).sort().map(s => [s, Object.fromEntries(Object.entries(players[s]).sort())]))
-  fs.writeFileSync(path.join(DATA, 'salaries.json'), JSON.stringify({ players: sorted }) + '\n')
+  fs.writeFileSync(path.join(DATA, 'salaries.json'), JSON.stringify({ players: sorted, caps: CAPS }) + '\n')
   console.log(`${Object.keys(sorted).length} players; ${missed} historical rows matched no player on our sheets`)
 }
 
