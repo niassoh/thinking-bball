@@ -1,16 +1,21 @@
 #!/bin/zsh
 # The test site's daily data (https://niassoh.github.io/tbball-test/): brings master's nightly
-# data into this branch and redeploys the test site from it, once a day. launchd
+# data into this branch, pulls the season being played through Ben's DEV sheet (DEV_SHEET:
+# the regular season's every column comes from it here), and redeploys the test site, once
+# a day. launchd
 # (com.thinkingbball.test) runs it at 11 am Pacific: the nightly lands by 7-8 am and the
 # Mac's last retry (scripts/mac-supervise.js, 10 am) is done by then; a Mac asleep at 11 runs
 # it on waking. It doesn't run the nightly itself: a second run would read the stats and
 # team sheets and NBA.com twice a day. The data cache merges key by key
 # (scripts/merge-cache.js: master's season being played, this branch's backfilled past
-# seasons); the audit log keeps both sides' rows. Any other conflict stops it, with an alert.
+# seasons, which this branch keeps); the audit log keeps both sides' rows. Any other conflict
+# stops it, with an alert.
 set -u
 cd "${0:A:h}/.."
 SITE_REF=team-units
 BRANCH=claude-copy-backfill
+DEV_SHEET=1pAtEMUpYzhsaHt5uzHcEOO1BXsWSvdIs1BAbf5Tyruk
+SEASON=2026-27
 TMP=$(mktemp -d)
 trap 'rm -rf $TMP' EXIT
 # Git's own credential manager can wait on a login window no one sees; gh's token never does.
@@ -30,11 +35,6 @@ fail() {
 [[ -z "$(git status --porcelain --untracked-files=no)" ]] || fail "test refresh: $BRANCH has uncommitted changes, skipped"
 git fetch -q origin || fail "test refresh: fetch failed"
 git merge -q --ff-only origin/$BRANCH || fail "test refresh: $BRANCH and origin's have diverged"
-if git merge-base --is-ancestor origin/master HEAD && [[ -z "$(git log origin/$BRANCH..HEAD)" ]]; then
-  print "nothing new"
-  exit 0
-fi
-
 if ! git merge-base --is-ancestor origin/master HEAD; then
   msg="Merge master: the nightly data through $(git log -1 --format=%cs origin/master)"
   if ! git merge -q --no-edit -m "$msg" origin/master; then
@@ -50,6 +50,19 @@ if ! git merge-base --is-ancestor origin/master HEAD; then
     git commit -q --no-edit || fail "test refresh: the merge didn't commit"
   fi
   print "$msg"
+fi
+
+# The season being played, through the DEV sheet (it writes Instructions!A13 there and
+# restores it); a failed pull keeps yesterday's and still deploys master's other data.
+if node scripts/backfill-seasons.js --sheet=$DEV_SHEET $SEASON; then
+  git add data/cached-data.json
+  git diff --cached --quiet || git commit -q -m "Data: $SEASON from the DEV sheet $(date +%F)"
+else
+  osascript -e "display notification \"test refresh: the DEV sheet pull failed, yesterday's $SEASON kept\" with title \"thinking-bball test\""
+fi
+if [[ -z "$(git log origin/$BRANCH..HEAD)" ]]; then
+  print "nothing new"
+  exit 0
 fi
 
 git push -q origin HEAD:$BRANCH || fail "test refresh: push failed"
