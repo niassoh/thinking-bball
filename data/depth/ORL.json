@@ -1,11 +1,17 @@
 {
   "team": "ORL",
   "season": "2026-27",
-  "generatedAt": "2026-11-12T13:03:36.316Z",
+  "generatedAt": "2026-11-13T13:03:23.215Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
+        {
+          "name": "Jalen Suggs",
+          "slug": "jalen-suggs",
+          "espnId": "4432165",
+          "status": "OUT"
+        },
         {
           "name": "Anthony Black",
           "slug": "anthony-black",
@@ -22,12 +28,6 @@
           "name": "Jase Richardson",
           "slug": "jase-richardson",
           "espnId": "5239561",
-          "status": null
-        },
-        {
-          "name": "Alex Morales",
-          "slug": "alex-morales",
-          "espnId": "4593034",
           "status": null
         }
       ]
@@ -54,10 +54,10 @@
           "status": null
         },
         {
-          "name": "Jamal Cain",
-          "slug": "jamal-cain",
-          "espnId": "4278572",
-          "status": "OUT"
+          "name": "Alex Morales",
+          "slug": "alex-morales",
+          "espnId": "4593034",
+          "status": null
         }
       ]
     },
@@ -68,7 +68,13 @@
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
-          "status": "OUT"
+          "status": "DTD"
+        },
+        {
+          "name": "Tristan da Silva",
+          "slug": "tristan-da-silva",
+          "espnId": "4702382",
+          "status": "DTD"
         },
         {
           "name": "Desmond Bane",
@@ -81,12 +87,6 @@
           "slug": "franz-wagner",
           "espnId": "4566434",
           "status": null
-        },
-        {
-          "name": "Tristan da Silva",
-          "slug": "tristan-da-silva",
-          "espnId": "4702382",
-          "status": "OUT"
         }
       ]
     },
@@ -103,13 +103,13 @@
           "name": "Tristan da Silva",
           "slug": "tristan-da-silva",
           "espnId": "4702382",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Jonathan Isaac",

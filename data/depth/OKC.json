@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-11-12T13:03:35.974Z",
+  "generatedAt": "2026-11-13T13:03:22.827Z",
   "rows": [
     {
       "pos": "PG",
@@ -22,7 +22,7 @@
           "name": "Ajay Mitchell",
           "slug": "ajay-mitchell",
           "espnId": "4900671",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Jared McCain",
@@ -45,7 +45,7 @@
           "name": "Ajay Mitchell",
           "slug": "ajay-mitchell",
           "espnId": "4900671",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Bennett Stirtz",
@@ -65,12 +65,6 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Ajay Mitchell",
-          "slug": "ajay-mitchell",
-          "espnId": "4900671",
-          "status": "OUT"
-        },
-        {
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
@@ -81,6 +75,12 @@
           "slug": "kenrich-williams",
           "espnId": "3133626",
           "status": null
+        },
+        {
+          "name": "Ajay Mitchell",
+          "slug": "ajay-mitchell",
+          "espnId": "4900671",
+          "status": "DTD"
         },
         {
           "name": "Nique Clifford",
@@ -94,9 +94,9 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Kenrich Williams",
-          "slug": "kenrich-williams",
-          "espnId": "3133626",
+          "name": "Aday Mara",
+          "slug": "aday-mara",
+          "espnId": "5174983",
           "status": null
         },
         {
@@ -106,15 +106,15 @@
           "status": "OUT"
         },
         {
-          "name": "Alex Caruso",
-          "slug": "alex-caruso",
-          "espnId": "2991350",
+          "name": "Kenrich Williams",
+          "slug": "kenrich-williams",
+          "espnId": "3133626",
           "status": null
         },
         {
-          "name": "Nique Clifford",
-          "slug": "nique-clifford",
-          "espnId": "4702384",
+          "name": "Alex Caruso",
+          "slug": "alex-caruso",
+          "espnId": "2991350",
           "status": null
         }
       ]

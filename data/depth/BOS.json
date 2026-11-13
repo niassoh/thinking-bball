@@ -1,7 +1,7 @@
 {
   "team": "BOS",
   "season": "2026-27",
-  "generatedAt": "2026-11-12T13:03:29.564Z",
+  "generatedAt": "2026-11-13T13:03:15.477Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,9 +36,9 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Jordan Walsh",
-          "slug": "jordan-walsh",
-          "espnId": "4683689",
+          "name": "Baylor Scheierman",
+          "slug": "baylor-scheierman",
+          "espnId": "4593841",
           "status": null
         },
         {
@@ -48,9 +48,9 @@
           "status": null
         },
         {
-          "name": "Baylor Scheierman",
-          "slug": "baylor-scheierman",
-          "espnId": "4593841",
+          "name": "Jordan Walsh",
+          "slug": "jordan-walsh",
+          "espnId": "4683689",
           "status": null
         },
         {
@@ -71,6 +71,12 @@
           "status": null
         },
         {
+          "name": "Jordan Walsh",
+          "slug": "jordan-walsh",
+          "espnId": "4683689",
+          "status": null
+        },
+        {
           "name": "Baylor Scheierman",
           "slug": "baylor-scheierman",
           "espnId": "4593841",
@@ -81,12 +87,6 @@
           "slug": "sam-hauser",
           "espnId": "4065804",
           "status": null
-        },
-        {
-          "name": "Paul George",
-          "slug": "paul-george",
-          "espnId": "4251",
-          "status": "DTD"
         }
       ]
     },

@@ -1,23 +1,11 @@
 {
   "team": "IND",
   "season": "2026-27",
-  "generatedAt": "2026-11-12T13:03:32.758Z",
+  "generatedAt": "2026-11-13T13:03:19.260Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
-        {
-          "name": "Tyrese Haliburton",
-          "slug": "tyrese-haliburton",
-          "espnId": "4396993",
-          "status": "OUT"
-        },
-        {
-          "name": "T.J. McConnell",
-          "slug": "tj-mcconnell",
-          "espnId": "2530530",
-          "status": null
-        },
         {
           "name": "Andrew Nembhard",
           "slug": "andrew-nembhard",
@@ -25,9 +13,21 @@
           "status": null
         },
         {
+          "name": "T.J. McConnell",
+          "slug": "tj-mcconnell",
+          "espnId": "2530530",
+          "status": "DTD"
+        },
+        {
           "name": "Quenton Jackson",
           "slug": "quenton-jackson",
           "espnId": "4592829",
+          "status": null
+        },
+        {
+          "name": "Braden Smith",
+          "slug": "braden-smith",
+          "espnId": "5105854",
           "status": null
         }
       ]
@@ -35,12 +35,6 @@
     {
       "pos": "SG",
       "players": [
-        {
-          "name": "Andrew Nembhard",
-          "slug": "andrew-nembhard",
-          "espnId": "4395712",
-          "status": null
-        },
         {
           "name": "Kelly Oubre Jr.",
           "slug": "kelly-oubre-jr",
@@ -51,6 +45,12 @@
           "name": "Quenton Jackson",
           "slug": "quenton-jackson",
           "espnId": "4592829",
+          "status": null
+        },
+        {
+          "name": "Andrew Nembhard",
+          "slug": "andrew-nembhard",
+          "espnId": "4395712",
           "status": null
         },
         {
