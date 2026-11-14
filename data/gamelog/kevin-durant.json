@@ -1,13 +1,25 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-11-13T13:32:06.404Z",
+  "generatedAt": "2026-11-14T13:40:26.667Z",
   "recent": {
-    "start": "2026-10-14",
-    "end": "2026-11-12",
-    "games": 12,
-    "seasonGames": 12
+    "start": "2026-10-15",
+    "end": "2026-11-13",
+    "games": 13,
+    "seasonGames": 13
   },
   "games": [
+    {
+      "date": "2026-11-13",
+      "gameId": "0022600039",
+      "opp": "UTA",
+      "home": true,
+      "result": "W",
+      "pts": 22,
+      "reb": 3,
+      "ast": 6,
+      "ts": 57.9,
+      "oppRank": 26
+    },
     {
       "date": "2026-11-11",
       "gameId": "0022600225",
@@ -18,7 +30,7 @@
       "reb": 4,
       "ast": 5,
       "ts": 52.8,
-      "oppRank": 5
+      "oppRank": 10
     },
     {
       "date": "2026-11-09",
@@ -30,7 +42,7 @@
       "reb": 12,
       "ast": 8,
       "ts": 57.5,
-      "oppRank": 13
+      "oppRank": 12
     },
     {
       "date": "2026-11-07",
@@ -42,7 +54,7 @@
       "reb": 10,
       "ast": 3,
       "ts": 55.3,
-      "oppRank": 20
+      "oppRank": 22
     },
     {
       "date": "2026-11-04",
@@ -55,18 +67,6 @@
       "ast": 2,
       "ts": 61.8,
       "oppRank": 1
-    },
-    {
-      "date": "2026-11-02",
-      "gameId": "0022600167",
-      "opp": "BOS",
-      "home": true,
-      "result": "W",
-      "pts": 12,
-      "reb": 3,
-      "ast": 3,
-      "ts": 85.7,
-      "oppRank": 2
     }
   ]
 }

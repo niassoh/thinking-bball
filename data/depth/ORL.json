@@ -1,7 +1,7 @@
 {
   "team": "ORL",
   "season": "2026-27",
-  "generatedAt": "2026-11-13T13:03:23.215Z",
+  "generatedAt": "2026-11-14T13:03:35.100Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,18 +10,18 @@
           "name": "Jalen Suggs",
           "slug": "jalen-suggs",
           "espnId": "4432165",
-          "status": "OUT"
-        },
-        {
-          "name": "Anthony Black",
-          "slug": "anthony-black",
-          "espnId": "4712849",
           "status": null
         },
         {
           "name": "Jevon Carter",
           "slug": "jevon-carter",
           "espnId": "3133635",
+          "status": null
+        },
+        {
+          "name": "Anthony Black",
+          "slug": "anthony-black",
+          "espnId": "4712849",
           "status": null
         },
         {
@@ -36,9 +36,9 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Desmond Bane",
-          "slug": "desmond-bane",
-          "espnId": "4066320",
+          "name": "Anthony Black",
+          "slug": "anthony-black",
+          "espnId": "4712849",
           "status": null
         },
         {
@@ -48,9 +48,9 @@
           "status": null
         },
         {
-          "name": "Anthony Black",
-          "slug": "anthony-black",
-          "espnId": "4712849",
+          "name": "Desmond Bane",
+          "slug": "desmond-bane",
+          "espnId": "4066320",
           "status": null
         },
         {
@@ -65,21 +65,21 @@
       "pos": "SF",
       "players": [
         {
+          "name": "Desmond Bane",
+          "slug": "desmond-bane",
+          "espnId": "4066320",
+          "status": null
+        },
+        {
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Tristan da Silva",
           "slug": "tristan-da-silva",
           "espnId": "4702382",
-          "status": "DTD"
-        },
-        {
-          "name": "Desmond Bane",
-          "slug": "desmond-bane",
-          "espnId": "4066320",
           "status": null
         },
         {
@@ -103,13 +103,13 @@
           "name": "Tristan da Silva",
           "slug": "tristan-da-silva",
           "espnId": "4702382",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Jamal Cain",
           "slug": "jamal-cain",
           "espnId": "4278572",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Jonathan Isaac",

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CHI",
-  "gp": 10,
-  "generatedAt": "2026-11-12T13:31:21.641Z",
+  "gp": 11,
+  "generatedAt": "2026-11-14T13:32:58.727Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CHI",
-      "minutes": 191,
-      "poss": 404,
-      "net": -14.9
+      "minutes": 232,
+      "poss": 493,
+      "net": -8.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHI",
-      "minutes": 289,
-      "poss": 627,
-      "net": -15.2
-    },
-    {
-      "label": "On, w/o Wilson",
-      "sub": "2026–27 · CHI",
-      "minutes": 83,
-      "poss": 174,
-      "net": -20.7
+      "minutes": 301,
+      "poss": 652,
+      "net": -16.1
     },
     {
       "label": "On, w/o Giddey",
       "sub": "2026–27 · CHI",
-      "minutes": 91,
-      "poss": 194,
-      "net": -17.6
+      "minutes": 99,
+      "poss": 211,
+      "net": -19.9
+    },
+    {
+      "label": "On, w/o Wilson",
+      "sub": "2026–27 · CHI",
+      "minutes": 123,
+      "poss": 263,
+      "net": -6.9
     },
     {
       "label": "On, w/o Buzelis",
       "sub": "2026–27 · CHI",
-      "minutes": 130,
-      "poss": 275,
-      "net": -10.9
+      "minutes": 143,
+      "poss": 302,
+      "net": -10.6
     },
     {
-      "label": "Neither Okoro nor Wilson",
+      "label": "Neither Okoro nor Giddey",
       "sub": "2026–27 · CHI",
-      "minutes": 90,
-      "poss": 187,
-      "net": -12.3
+      "minutes": 119,
+      "poss": 251,
+      "net": -10.8
     }
   ]
 }
