@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CHI",
-  "gp": 10,
-  "generatedAt": "2026-11-12T13:41:24.893Z",
+  "gp": 11,
+  "generatedAt": "2026-11-14T13:42:00.719Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CHI",
-      "minutes": 240,
-      "poss": 519,
-      "net": -12.7
+      "minutes": 272,
+      "poss": 584,
+      "net": -9.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHI",
-      "minutes": 240,
-      "poss": 512,
-      "net": -17.4
-    },
-    {
-      "label": "On, w/o Wilson",
-      "sub": "2026–27 · CHI",
-      "minutes": 47,
-      "poss": 99,
-      "net": -29.3
+      "minutes": 261,
+      "poss": 561,
+      "net": -16
     },
     {
       "label": "On, w/o Giddey",
       "sub": "2026–27 · CHI",
-      "minutes": 33,
-      "poss": 69,
-      "net": 5.8
+      "minutes": 36,
+      "poss": 74,
+      "net": 5.4
+    },
+    {
+      "label": "On, w/o Wilson",
+      "sub": "2026–27 · CHI",
+      "minutes": 79,
+      "poss": 165,
+      "net": -12.2
     },
     {
       "label": "On, w/o Buzelis",
       "sub": "2026–27 · CHI",
-      "minutes": 66,
-      "poss": 143,
-      "net": -5.6
+      "minutes": 77,
+      "poss": 166,
+      "net": -7.3
     },
     {
-      "label": "Neither Smith nor Wilson",
+      "label": "Neither Smith nor Giddey",
       "sub": "2026–27 · CHI",
-      "minutes": 125,
-      "poss": 262,
-      "net": -11.5
+      "minutes": 183,
+      "poss": 389,
+      "net": -18.8
     }
   ]
 }

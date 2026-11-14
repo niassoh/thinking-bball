@@ -1,7 +1,7 @@
 {
   "team": "SAC",
   "season": "2026-27",
-  "generatedAt": "2026-11-12T13:03:37.707Z",
+  "generatedAt": "2026-11-14T13:03:36.766Z",
   "rows": [
     {
       "pos": "PG",
@@ -19,16 +19,16 @@
           "status": null
         },
         {
+          "name": "Emanuel Sharp",
+          "slug": "emanuel-sharp",
+          "espnId": "5106058",
+          "status": null
+        },
+        {
           "name": "Sean Pedulla",
           "slug": "sean-pedulla",
           "espnId": "4709131",
           "status": null
-        },
-        {
-          "name": "Ben Simmons",
-          "slug": "ben-simmons",
-          "espnId": "3907387",
-          "status": "OUT"
         }
       ]
     },
@@ -71,6 +71,12 @@
           "status": null
         },
         {
+          "name": "Leaky Black",
+          "slug": "leaky-black",
+          "espnId": "4395650",
+          "status": null
+        },
+        {
           "name": "Zach LaVine",
           "slug": "zach-lavine",
           "espnId": "3064440",
@@ -81,12 +87,6 @@
           "slug": "malik-monk",
           "espnId": "4066262",
           "status": null
-        },
-        {
-          "name": "Keegan Murray",
-          "slug": "keegan-murray",
-          "espnId": "4594327",
-          "status": null
         }
       ]
     },
@@ -94,16 +94,16 @@
       "pos": "PF",
       "players": [
         {
+          "name": "Precious Achiuwa",
+          "slug": "precious-achiuwa",
+          "espnId": "4431679",
+          "status": "OUT"
+        },
+        {
           "name": "Keegan Murray",
           "slug": "keegan-murray",
           "espnId": "4594327",
           "status": null
-        },
-        {
-          "name": "Precious Achiuwa",
-          "slug": "precious-achiuwa",
-          "espnId": "4431679",
-          "status": "DTD"
         },
         {
           "name": "De'Andre Hunter",

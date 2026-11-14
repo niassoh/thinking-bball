@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "IND",
   "gp": 12,
-  "generatedAt": "2026-11-12T13:40:35.204Z",
+  "generatedAt": "2026-11-14T13:41:15.578Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · IND",
-      "minutes": 325,
-      "poss": 678,
-      "net": 0.9
+      "minutes": 373,
+      "poss": 780,
+      "net": 1
     },
     {
       "label": "On, w/o Siakam",
@@ -33,18 +33,18 @@
       "net": -5.9
     },
     {
-      "label": "On, w/o Jackson",
+      "label": "On, w/o Nesmith",
       "sub": "2026–27 · IND",
-      "minutes": 108,
-      "poss": 234,
-      "net": -2.6
+      "minutes": 197,
+      "poss": 418,
+      "net": -1.4
     },
     {
       "label": "Neither Walker nor Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 86,
-      "poss": 174,
-      "net": -8.6
+      "minutes": 102,
+      "poss": 208,
+      "net": -3.4
     }
   ]
 }

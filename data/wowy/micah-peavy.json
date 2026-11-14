@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "OKC",
   "gp": 8,
-  "generatedAt": "2026-11-12T13:34:02.187Z",
+  "generatedAt": "2026-11-14T13:35:39.485Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · OKC",
-      "minutes": 441,
-      "poss": 904,
-      "net": 6
+      "minutes": 489,
+      "poss": 1000,
+      "net": 5.3
     },
     {
       "label": "On, w/o Gilgeous-Alexander",
@@ -33,18 +33,18 @@
       "net": 12.1
     },
     {
-      "label": "On, w/o Mitchell",
+      "label": "On, w/o Hartenstein",
       "sub": "2026–27 · OKC",
-      "minutes": 93,
-      "poss": 194,
-      "net": 2.6
+      "minutes": 98,
+      "poss": 204,
+      "net": 2
     },
     {
       "label": "Neither Peavy nor Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 110,
-      "poss": 225,
-      "net": 7.1
+      "minutes": 120,
+      "poss": 245,
+      "net": 5.7
     }
   ]
 }

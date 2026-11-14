@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-11-13T13:03:22.827Z",
+  "generatedAt": "2026-11-14T13:03:34.752Z",
   "rows": [
     {
       "pos": "PG",
@@ -22,7 +22,7 @@
           "name": "Ajay Mitchell",
           "slug": "ajay-mitchell",
           "espnId": "4900671",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Jared McCain",
@@ -45,7 +45,7 @@
           "name": "Ajay Mitchell",
           "slug": "ajay-mitchell",
           "espnId": "4900671",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Bennett Stirtz",
@@ -65,6 +65,12 @@
       "pos": "SF",
       "players": [
         {
+          "name": "Ajay Mitchell",
+          "slug": "ajay-mitchell",
+          "espnId": "4900671",
+          "status": "OUT"
+        },
+        {
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
@@ -75,12 +81,6 @@
           "slug": "kenrich-williams",
           "espnId": "3133626",
           "status": null
-        },
-        {
-          "name": "Ajay Mitchell",
-          "slug": "ajay-mitchell",
-          "espnId": "4900671",
-          "status": "DTD"
         },
         {
           "name": "Nique Clifford",
@@ -100,16 +100,16 @@
           "status": null
         },
         {
-          "name": "Jaylin Williams",
-          "slug": "jaylin-williams",
-          "espnId": "4432823",
-          "status": "OUT"
-        },
-        {
           "name": "Kenrich Williams",
           "slug": "kenrich-williams",
           "espnId": "3133626",
           "status": null
+        },
+        {
+          "name": "Jaylin Williams",
+          "slug": "jaylin-williams",
+          "espnId": "4432823",
+          "status": "OUT"
         },
         {
           "name": "Alex Caruso",

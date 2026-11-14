@@ -4,6 +4,10 @@
     "shots": 53
   },
   {
+    "name": "LJ Cryer",
+    "shots": 51
+  },
+  {
     "name": "Ja Morant",
     "shots": 47
   },
@@ -13,10 +17,18 @@
   },
   {
     "name": "Jordan Clarkson",
-    "shots": 40
+    "shots": 42
   },
   {
     "name": "Max Strus",
+    "shots": 42
+  },
+  {
+    "name": "Graham Ike",
+    "shots": 38
+  },
+  {
+    "name": "Thomas Bryant",
     "shots": 38
   },
   {
@@ -28,15 +40,15 @@
     "shots": 37
   },
   {
+    "name": "Jevon Carter",
+    "shots": 37
+  },
+  {
     "name": "Egor Demin",
     "shots": 36
   },
   {
-    "name": "Buddy Hield",
-    "shots": 35
-  },
-  {
-    "name": "Keegan Murray",
+    "name": "Jalen Suggs",
     "shots": 35
   },
   {
@@ -44,44 +56,24 @@
     "shots": 35
   },
   {
-    "name": "Ryan Conwell",
-    "shots": 34
+    "name": "Nikola Vucevic",
+    "shots": 35
   },
   {
     "name": "Quinten Post",
     "shots": 34
   },
   {
-    "name": "LJ Cryer",
-    "shots": 34
-  },
-  {
     "name": "Ousmane Dieng",
-    "shots": 32
+    "shots": 33
   },
   {
-    "name": "Jevon Carter",
-    "shots": 32
-  },
-  {
-    "name": "Graham Ike",
-    "shots": 31
-  },
-  {
-    "name": "Nikola Vucevic",
-    "shots": 31
-  },
-  {
-    "name": "Thomas Bryant",
-    "shots": 30
+    "name": "Javon Small",
+    "shots": 29
   },
   {
     "name": "Braden Smith",
     "shots": 28
-  },
-  {
-    "name": "Jalen Suggs",
-    "shots": 27
   },
   {
     "name": "Scotty Pippen Jr.",
@@ -92,6 +84,14 @@
     "shots": 27
   },
   {
+    "name": "Kyle Filipowski",
+    "shots": 26
+  },
+  {
+    "name": "Nique Clifford",
+    "shots": 26
+  },
+  {
     "name": "Corey Kispert",
     "shots": 26
   },
@@ -100,19 +100,7 @@
     "shots": 26
   },
   {
-    "name": "Javon Small",
-    "shots": 26
-  },
-  {
-    "name": "Kyle Filipowski",
-    "shots": 25
-  },
-  {
-    "name": "Nique Clifford",
-    "shots": 25
-  },
-  {
-    "name": "Tyler Kolek",
+    "name": "Josh Dix",
     "shots": 25
   },
   {
@@ -152,6 +140,10 @@
     "shots": 22
   },
   {
+    "name": "T.J. McConnell",
+    "shots": 22
+  },
+  {
     "name": "Nikola Jovic",
     "shots": 21
   },
@@ -160,7 +152,15 @@
     "shots": 21
   },
   {
+    "name": "Patrick Williams",
+    "shots": 21
+  },
+  {
     "name": "Jaylin Sellers",
+    "shots": 20
+  },
+  {
+    "name": "Jordan McLaughlin",
     "shots": 20
   },
   {
@@ -168,15 +168,19 @@
     "shots": 19
   },
   {
+    "name": "Goga Bitadze",
+    "shots": 19
+  },
+  {
     "name": "Justin Champagnie",
     "shots": 19
   },
   {
-    "name": "Josh Dix",
+    "name": "Trendon Watford",
     "shots": 19
   },
   {
-    "name": "Trendon Watford",
+    "name": "Dylan Cardwell",
     "shots": 19
   },
   {
@@ -200,11 +204,11 @@
     "shots": 17
   },
   {
-    "name": "Zach Collins",
+    "name": "Daeqwon Plowden",
     "shots": 17
   },
   {
-    "name": "Jordan McLaughlin",
+    "name": "Zach Collins",
     "shots": 17
   },
   {
@@ -220,16 +224,12 @@
     "shots": 16
   },
   {
-    "name": "Daeqwon Plowden",
+    "name": "Taylor Hendricks",
     "shots": 16
   },
   {
     "name": "Jonathan Mogbo",
     "shots": 16
-  },
-  {
-    "name": "Goga Bitadze",
-    "shots": 15
   },
   {
     "name": "Kyle Anderson",
@@ -248,14 +248,6 @@
     "shots": 15
   },
   {
-    "name": "Patrick Williams",
-    "shots": 15
-  },
-  {
-    "name": "Dylan Cardwell",
-    "shots": 15
-  },
-  {
     "name": "Jose Alvarado",
     "shots": 14
   },
@@ -264,7 +256,15 @@
     "shots": 14
   },
   {
+    "name": "Tarris Reed Jr.",
+    "shots": 14
+  },
+  {
     "name": "Clint Capela",
+    "shots": 14
+  },
+  {
+    "name": "Gary Trent Jr.",
     "shots": 14
   },
   {
@@ -280,10 +280,6 @@
     "shots": 13
   },
   {
-    "name": "T.J. McConnell",
-    "shots": 13
-  },
-  {
     "name": "Duop Reath",
     "shots": 12
   },
@@ -296,7 +292,7 @@
     "shots": 12
   },
   {
-    "name": "Tarris Reed Jr.",
+    "name": "Dru Smith",
     "shots": 12
   },
   {
@@ -304,7 +300,19 @@
     "shots": 12
   },
   {
+    "name": "Branden Carlson",
+    "shots": 12
+  },
+  {
+    "name": "Olivier-Maxence Prosper",
+    "shots": 12
+  },
+  {
     "name": "Ebuka Okorie",
+    "shots": 12
+  },
+  {
+    "name": "Nic Claxton",
     "shots": 12
   },
   {
@@ -316,19 +324,7 @@
     "shots": 11
   },
   {
-    "name": "Taylor Hendricks",
-    "shots": 11
-  },
-  {
     "name": "Cam Christie",
-    "shots": 11
-  },
-  {
-    "name": "Branden Carlson",
-    "shots": 11
-  },
-  {
-    "name": "Olivier-Maxence Prosper",
     "shots": 11
   },
   {
@@ -340,7 +336,7 @@
     "shots": 10
   },
   {
-    "name": "Dru Smith",
+    "name": "Jayson Kent",
     "shots": 10
   },
   {
@@ -356,7 +352,7 @@
     "shots": 10
   },
   {
-    "name": "Gary Trent Jr.",
+    "name": "Oscar Tshiebwe",
     "shots": 10
   },
   {
@@ -372,23 +368,11 @@
     "shots": 9
   },
   {
-    "name": "Jayson Kent",
-    "shots": 9
-  },
-  {
-    "name": "Oscar Tshiebwe",
-    "shots": 9
-  },
-  {
     "name": "Tristan Enaruna",
     "shots": 9
   },
   {
     "name": "Pacome Dadiet",
-    "shots": 9
-  },
-  {
-    "name": "Nic Claxton",
     "shots": 9
   },
   {
@@ -405,6 +389,10 @@
   },
   {
     "name": "Isaiah Crawford",
+    "shots": 8
+  },
+  {
+    "name": "Malevy Leons",
     "shots": 8
   },
   {
@@ -432,6 +420,10 @@
     "shots": 7
   },
   {
+    "name": "DeAndre Jordan",
+    "shots": 7
+  },
+  {
     "name": "Cam Whitmore",
     "shots": 7
   },
@@ -456,6 +448,10 @@
     "shots": 7
   },
   {
+    "name": "Jaron Pierre Jr.",
+    "shots": 7
+  },
+  {
     "name": "Moussa Cisse",
     "shots": 6
   },
@@ -465,10 +461,6 @@
   },
   {
     "name": "Kevon Looney",
-    "shots": 6
-  },
-  {
-    "name": "Malevy Leons",
     "shots": 6
   },
   {
@@ -492,6 +484,10 @@
     "shots": 6
   },
   {
+    "name": "Tony Bradley",
+    "shots": 6
+  },
+  {
     "name": "Alex Karaban",
     "shots": 6
   },
@@ -500,15 +496,7 @@
     "shots": 6
   },
   {
-    "name": "Jaron Pierre Jr.",
-    "shots": 6
-  },
-  {
     "name": "Ryan Nembhard",
-    "shots": 5
-  },
-  {
-    "name": "Tony Bradley",
     "shots": 5
   },
   {
@@ -521,10 +509,6 @@
   },
   {
     "name": "Bronny James",
-    "shots": 4
-  },
-  {
-    "name": "DeAndre Jordan",
     "shots": 4
   },
   {
@@ -572,6 +556,14 @@
     "shots": 4
   },
   {
+    "name": "Myron Gardner",
+    "shots": 4
+  },
+  {
+    "name": "Nikola Topic",
+    "shots": 4
+  },
+  {
     "name": "Nick Richards",
     "shots": 3
   },
@@ -612,6 +604,10 @@
     "shots": 3
   },
   {
+    "name": "Malik Dia",
+    "shots": 3
+  },
+  {
     "name": "Cody Williams",
     "shots": 2
   },
@@ -637,10 +633,6 @@
   },
   {
     "name": "Felix Okpara",
-    "shots": 2
-  },
-  {
-    "name": "Myron Gardner",
     "shots": 2
   },
   {

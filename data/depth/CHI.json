@@ -1,7 +1,7 @@
 {
   "team": "CHI",
   "season": "2026-27",
-  "generatedAt": "2026-11-13T13:03:16.255Z",
+  "generatedAt": "2026-11-14T13:03:29.080Z",
   "rows": [
     {
       "pos": "PG",
@@ -33,7 +33,7 @@
           "name": "Norman Powell",
           "slug": "norman-powell",
           "espnId": "2595516",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Buddy Hield",
@@ -59,28 +59,28 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Matas Buzelis",
-          "slug": "matas-buzelis",
-          "espnId": "4711294",
-          "status": null
-        },
-        {
           "name": "Isaac Okoro",
           "slug": "isaac-okoro",
           "espnId": "4432822",
           "status": null
         },
         {
+          "name": "Patrick Williams",
+          "slug": "patrick-williams",
+          "espnId": "4431687",
+          "status": null
+        },
+        {
           "name": "Norman Powell",
           "slug": "norman-powell",
           "espnId": "2595516",
-          "status": "DTD"
+          "status": null
         },
         {
-          "name": "Caleb Wilson",
-          "slug": "caleb-wilson",
-          "espnId": "5095151",
-          "status": "OUT"
+          "name": "Leonard Miller",
+          "slug": "leonard-miller",
+          "espnId": "5044385",
+          "status": null
         }
       ]
     },
@@ -88,15 +88,9 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Caleb Wilson",
-          "slug": "caleb-wilson",
-          "espnId": "5095151",
-          "status": "OUT"
-        },
-        {
-          "name": "Leonard Miller",
-          "slug": "leonard-miller",
-          "espnId": "5044385",
+          "name": "Matas Buzelis",
+          "slug": "matas-buzelis",
+          "espnId": "4711294",
           "status": null
         },
         {
@@ -106,9 +100,15 @@
           "status": null
         },
         {
-          "name": "Matas Buzelis",
-          "slug": "matas-buzelis",
-          "espnId": "4711294",
+          "name": "Patrick Williams",
+          "slug": "patrick-williams",
+          "espnId": "4431687",
+          "status": null
+        },
+        {
+          "name": "Leonard Miller",
+          "slug": "leonard-miller",
+          "espnId": "5044385",
           "status": null
         }
       ]
@@ -117,15 +117,15 @@
       "pos": "C",
       "players": [
         {
-          "name": "Nic Claxton",
-          "slug": "nic-claxton",
-          "espnId": "4278067",
-          "status": null
-        },
-        {
           "name": "Jalen Smith",
           "slug": "jalen-smith",
           "espnId": "4397189",
+          "status": "DTD"
+        },
+        {
+          "name": "Nic Claxton",
+          "slug": "nic-claxton",
+          "espnId": "4278067",
           "status": null
         },
         {
@@ -135,10 +135,10 @@
           "status": null
         },
         {
-          "name": "Tobe Awaka",
-          "slug": "tobe-awaka",
-          "espnId": "5105555",
-          "status": "OUT"
+          "name": "Orlando Robinson",
+          "slug": "orlando-robinson",
+          "espnId": "4593049",
+          "status": null
         }
       ]
     }

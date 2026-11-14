@@ -1,7 +1,7 @@
 {
   "team": "CHA",
   "season": "2026-27",
-  "generatedAt": "2026-11-13T13:03:15.866Z",
+  "generatedAt": "2026-11-14T13:03:28.625Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,15 +36,15 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Kon Knueppel",
-          "slug": "kon-knueppel",
-          "espnId": "5061575",
-          "status": "OUT"
-        },
-        {
           "name": "Grayson Allen",
           "slug": "grayson-allen",
           "espnId": "3135045",
+          "status": null
+        },
+        {
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
           "status": null
         },
         {
@@ -71,9 +71,9 @@
           "status": "DTD"
         },
         {
-          "name": "Sion James",
-          "slug": "sion-james",
-          "espnId": "4602025",
+          "name": "Royce O'Neale",
+          "slug": "royce-o-neale",
+          "espnId": "2583632",
           "status": null
         },
         {
@@ -83,9 +83,9 @@
           "status": null
         },
         {
-          "name": "Royce O'Neale",
-          "slug": "royce-o-neale",
-          "espnId": "2583632",
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
           "status": null
         }
       ]
@@ -100,12 +100,6 @@
           "status": null
         },
         {
-          "name": "Royce O'Neale",
-          "slug": "royce-o-neale",
-          "espnId": "2583632",
-          "status": null
-        },
-        {
           "name": "Grant Williams",
           "slug": "grant-williams",
           "espnId": "4066218",
@@ -115,6 +109,12 @@
           "name": "Tidjane Salaun",
           "slug": "tidjane-salaun",
           "espnId": "5211176",
+          "status": null
+        },
+        {
+          "name": "Royce O'Neale",
+          "slug": "royce-o-neale",
+          "espnId": "2583632",
           "status": null
         }
       ]

@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "IND",
-  "gp": 12,
-  "generatedAt": "2026-11-12T13:46:39.773Z",
+  "gp": 13,
+  "generatedAt": "2026-11-14T13:47:09.200Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · IND",
-      "minutes": 259,
-      "poss": 534,
-      "net": 3
+      "minutes": 279,
+      "poss": 576,
+      "net": 6.6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · IND",
-      "minutes": 317,
-      "poss": 674,
-      "net": -6.7
+      "minutes": 345,
+      "poss": 735,
+      "net": -8.8
     },
     {
       "label": "On, w/o Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 150,
-      "poss": 309,
-      "net": 4.2
+      "minutes": 162,
+      "poss": 335,
+      "net": 9
     },
     {
       "label": "On, w/o Nembhard",
       "sub": "2026–27 · IND",
-      "minutes": 161,
-      "poss": 330,
-      "net": 0.9
+      "minutes": 172,
+      "poss": 356,
+      "net": 5.9
     },
     {
       "label": "On, w/o Nesmith",
       "sub": "2026–27 · IND",
-      "minutes": 190,
-      "poss": 394,
-      "net": 2.3
+      "minutes": 206,
+      "poss": 424,
+      "net": 5.4
     },
     {
       "label": "Neither Jackson nor Siakam",
       "sub": "2026–27 · IND",
-      "minutes": 73,
-      "poss": 154,
-      "net": -26
+      "minutes": 77,
+      "poss": 163,
+      "net": -30.2
     }
   ]
 }
