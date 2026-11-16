@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CHI",
-  "gp": 9,
-  "generatedAt": "2026-11-14T13:35:21.279Z",
+  "gp": 10,
+  "generatedAt": "2026-11-16T19:03:26.865Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CHI",
-      "minutes": 261,
-      "poss": 570,
-      "net": -9.1
+      "minutes": 291,
+      "poss": 635,
+      "net": -7.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHI",
-      "minutes": 272,
-      "poss": 575,
-      "net": -16.5
+      "minutes": 290,
+      "poss": 613,
+      "net": -14.5
     },
     {
       "label": "On, w/o Giddey",
       "sub": "2026–27 · CHI",
-      "minutes": 52,
-      "poss": 110,
-      "net": -1.8
-    },
-    {
-      "label": "On, w/o Wilson",
-      "sub": "2026–27 · CHI",
-      "minutes": 66,
-      "poss": 147,
-      "net": -2.7
+      "minutes": 56,
+      "poss": 120,
+      "net": 0.8
     },
     {
       "label": "On, w/o Buzelis",
       "sub": "2026–27 · CHI",
-      "minutes": 99,
-      "poss": 210,
-      "net": -9.5
+      "minutes": 104,
+      "poss": 223,
+      "net": -7.2
+    },
+    {
+      "label": "On, w/o Wilson",
+      "sub": "2026–27 · CHI",
+      "minutes": 96,
+      "poss": 212,
+      "net": 0.5
     },
     {
       "label": "Neither Powell nor Giddey",
       "sub": "2026–27 · CHI",
-      "minutes": 166,
-      "poss": 352,
-      "net": -19
+      "minutes": 184,
+      "poss": 388,
+      "net": -16.2
     }
   ]
 }

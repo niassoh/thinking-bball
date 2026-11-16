@@ -1,7 +1,7 @@
 {
   "team": "IND",
   "season": "2026-27",
-  "generatedAt": "2026-11-14T13:03:31.675Z",
+  "generatedAt": "2026-11-16T18:37:23.603Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Andrew Nembhard",
           "slug": "andrew-nembhard",
           "espnId": "4395712",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "T.J. McConnell",
@@ -51,13 +51,13 @@
           "name": "Andrew Nembhard",
           "slug": "andrew-nembhard",
           "espnId": "4395712",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Aaron Nesmith",
           "slug": "aaron-nesmith",
           "espnId": "4396909",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -68,7 +68,7 @@
           "name": "Aaron Nesmith",
           "slug": "aaron-nesmith",
           "espnId": "4396909",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Jarace Walker",

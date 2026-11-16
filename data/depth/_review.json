@@ -6,12 +6,6 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "keshon-gilbert",
-    "status": "OUT",
-    "team": "Atlanta Hawks",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "henri-veesaar",
     "status": "OUT",
     "team": "Atlanta Hawks",
@@ -21,12 +15,6 @@
     "slug": "kon-knueppel",
     "status": "OUT",
     "team": "Charlotte Hornets",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "dailyn-swain",
-    "status": "OUT",
-    "team": "Chicago Bulls",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -96,6 +84,12 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "julian-phillips",
+    "status": "DTD",
+    "team": "Houston Rockets",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "tyrese-haliburton",
     "status": "OUT",
     "team": "Indiana Pacers",
@@ -123,6 +117,12 @@
     "slug": "jordan-miller",
     "status": "OUT",
     "team": "LA Clippers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "gg-jackson",
+    "status": "OUT",
+    "team": "Memphis Grizzlies",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -174,13 +174,13 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "paolo-banchero",
+    "slug": "noah-penda",
     "status": "OUT",
     "team": "Orlando Magic",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "noah-penda",
+    "slug": "paolo-banchero",
     "status": "OUT",
     "team": "Orlando Magic",
     "reason": "injured but not on a depth chart"
@@ -240,6 +240,12 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "nate-bittle",
+    "status": "OUT",
+    "team": "Toronto Raptors",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "kevin-mccullar-jr",
     "status": "DTD",
     "team": "Toronto Raptors",
@@ -247,12 +253,6 @@
   },
   {
     "slug": "kawhi-leonard",
-    "status": "OUT",
-    "team": "Toronto Raptors",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "nate-bittle",
     "status": "OUT",
     "team": "Toronto Raptors",
     "reason": "injured but not on a depth chart"

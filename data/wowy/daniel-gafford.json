@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "DAL",
-  "gp": 12,
-  "generatedAt": "2026-11-13T13:35:11.739Z",
+  "gp": 14,
+  "generatedAt": "2026-11-16T19:10:58.856Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DAL",
-      "minutes": 258,
-      "poss": 532,
-      "net": 3.8
+      "minutes": 294,
+      "poss": 607,
+      "net": -1.2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DAL",
-      "minutes": 319,
-      "poss": 669,
-      "net": -1.2
+      "minutes": 378,
+      "poss": 790,
+      "net": -3.5
     },
     {
       "label": "On, w/o Washington",
@@ -28,23 +28,23 @@
     {
       "label": "On, w/o Flagg",
       "sub": "2026–27 · DAL",
-      "minutes": 69,
-      "poss": 142,
-      "net": -14.1
+      "minutes": 77,
+      "poss": 156,
+      "net": -13.5
     },
     {
       "label": "On, w/o Irving",
       "sub": "2026–27 · DAL",
-      "minutes": 89,
-      "poss": 187,
-      "net": 2.7
+      "minutes": 111,
+      "poss": 229,
+      "net": -3.5
     },
     {
       "label": "Neither Gafford nor Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 115,
-      "poss": 241,
-      "net": 10.8
+      "minutes": 161,
+      "poss": 335,
+      "net": 5.4
     }
   ]
 }

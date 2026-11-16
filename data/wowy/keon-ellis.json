@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "BKN",
-  "gp": 10,
-  "generatedAt": "2026-11-12T13:31:55.054Z",
+  "gp": 11,
+  "generatedAt": "2026-11-16T19:15:30.670Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BKN",
-      "minutes": 229,
-      "poss": 473,
-      "net": -6.3
+      "minutes": 237,
+      "poss": 486,
+      "net": -4.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BKN",
-      "minutes": 304,
-      "poss": 624,
-      "net": -4.2
+      "minutes": 344,
+      "poss": 706,
+      "net": -7.4
     },
     {
-      "label": "On, w/o Randle",
-      "sub": "2026–27 · BKN",
-      "minutes": 81,
-      "poss": 170,
-      "net": -14.2
-    },
-    {
-      "label": "On, w/o Porter Jr.",
+      "label": "On, w/o  Randle",
       "sub": "2026–27 · BKN",
       "minutes": 88,
-      "poss": 178,
-      "net": -1.1
+      "poss": 182,
+      "net": -9.3
     },
     {
-      "label": "On, w/o Sharpe",
+      "label": "On, w/o  Porter Jr.",
       "sub": "2026–27 · BKN",
-      "minutes": 128,
-      "poss": 266,
-      "net": -10.9
+      "minutes": 95,
+      "poss": 190,
+      "net": 2.6
     },
     {
-      "label": "Neither Ellis nor Randle",
+      "label": "On, w/o  Sharpe",
       "sub": "2026–27 · BKN",
-      "minutes": 87,
-      "poss": 183,
-      "net": -15.8
+      "minutes": 130,
+      "poss": 269,
+      "net": -10.8
+    },
+    {
+      "label": "Neither  Ellis nor  Randle",
+      "sub": "2026–27 · BKN",
+      "minutes": 97,
+      "poss": 202,
+      "net": -18.3
     }
   ]
 }

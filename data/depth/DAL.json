@@ -1,7 +1,7 @@
 {
   "team": "DAL",
   "season": "2026-27",
-  "generatedAt": "2026-11-14T13:03:29.891Z",
+  "generatedAt": "2026-11-16T18:37:21.713Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Kyrie Irving",
           "slug": "kyrie-irving",
           "espnId": "6442",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Marcus Sasser",
@@ -57,7 +57,7 @@
           "name": "Kyrie Irving",
           "slug": "kyrie-irving",
           "espnId": "6442",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -109,13 +109,13 @@
           "name": "Santi Aldama",
           "slug": "santi-aldama",
           "espnId": "4593125",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Morez Johnson Jr.",
           "slug": "morez-johnson-jr",
           "espnId": "4873153",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -132,13 +132,13 @@
           "name": "Morez Johnson Jr.",
           "slug": "morez-johnson-jr",
           "espnId": "4873153",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Santi Aldama",
           "slug": "santi-aldama",
           "espnId": "4593125",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Moussa Cisse",

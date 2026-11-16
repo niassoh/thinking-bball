@@ -1,7 +1,7 @@
 {
   "team": "BOS",
   "season": "2026-27",
-  "generatedAt": "2026-11-13T13:03:15.477Z",
+  "generatedAt": "2026-11-16T18:37:20.218Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,6 +36,12 @@
       "pos": "SG",
       "players": [
         {
+          "name": "Jordan Walsh",
+          "slug": "jordan-walsh",
+          "espnId": "4683689",
+          "status": null
+        },
+        {
           "name": "Baylor Scheierman",
           "slug": "baylor-scheierman",
           "espnId": "4593841",
@@ -45,12 +51,6 @@
           "name": "Hugo Gonzalez",
           "slug": "hugo-gonzalez",
           "espnId": "5175647",
-          "status": null
-        },
-        {
-          "name": "Jordan Walsh",
-          "slug": "jordan-walsh",
-          "espnId": "4683689",
           "status": null
         },
         {
@@ -97,7 +97,7 @@
           "name": "Paul George",
           "slug": "paul-george",
           "espnId": "4251",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Sam Hauser",
@@ -126,7 +126,7 @@
           "name": "Neemias Queta",
           "slug": "neemias-queta",
           "espnId": "4397424",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Mitchell Robinson",

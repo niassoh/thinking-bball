@@ -1,7 +1,7 @@
 {
   "team": "TOR",
   "season": "2026-27",
-  "generatedAt": "2026-11-12T13:03:38.383Z",
+  "generatedAt": "2026-11-16T18:37:29.763Z",
   "rows": [
     {
       "pos": "PG",
@@ -28,7 +28,7 @@
           "name": "Scottie Barnes",
           "slug": "scottie-barnes",
           "espnId": "4433134",
-          "status": "OUT"
+          "status": null
         }
       ]
     },
@@ -97,7 +97,7 @@
           "name": "Scottie Barnes",
           "slug": "scottie-barnes",
           "espnId": "4433134",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Collin Murray-Boyles",
@@ -123,22 +123,22 @@
       "pos": "C",
       "players": [
         {
-          "name": "Jakob Poeltl",
-          "slug": "jakob-poeltl",
-          "espnId": "3134908",
-          "status": null
-        },
-        {
           "name": "Collin Murray-Boyles",
           "slug": "collin-murray-boyles",
           "espnId": "5093267",
           "status": null
         },
         {
+          "name": "Jakob Poeltl",
+          "slug": "jakob-poeltl",
+          "espnId": "3134908",
+          "status": null
+        },
+        {
           "name": "Trayce Jackson-Davis",
           "slug": "trayce-jackson-davis",
           "espnId": "4431684",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Jamison Battle",

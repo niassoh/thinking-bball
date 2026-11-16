@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "LAL",
-  "gp": 10,
-  "generatedAt": "2026-11-12T13:37:06.239Z",
+  "gp": 11,
+  "generatedAt": "2026-11-16T19:05:46.440Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · LAL",
-      "minutes": 241,
-      "poss": 510,
-      "net": 13
+      "minutes": 260,
+      "poss": 553,
+      "net": 8.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · LAL",
-      "minutes": 383,
-      "poss": 792,
-      "net": 4.7
-    },
-    {
-      "label": "On, w/o Reaves",
-      "sub": "2026–27 · LAL",
-      "minutes": 87,
-      "poss": 183,
-      "net": 6
+      "minutes": 412,
+      "poss": 852,
+      "net": 7.4
     },
     {
       "label": "On, w/o Kessler",
       "sub": "2026–27 · LAL",
-      "minutes": 92,
-      "poss": 202,
-      "net": 11.4
+      "minutes": 104,
+      "poss": 230,
+      "net": 7.4
     },
     {
       "label": "On, w/o Dončić",
       "sub": "2026–27 · LAL",
-      "minutes": 69,
-      "poss": 147,
-      "net": 7.5
+      "minutes": 71,
+      "poss": 152,
+      "net": 2.6
     },
     {
-      "label": "Neither Williams nor Reaves",
+      "label": "On, w/o Reaves",
       "sub": "2026–27 · LAL",
-      "minutes": 114,
-      "poss": 249,
-      "net": -16.9
+      "minutes": 106,
+      "poss": 226,
+      "net": -3.1
+    },
+    {
+      "label": "Neither Williams nor Kessler",
+      "sub": "2026–27 · LAL",
+      "minutes": 136,
+      "poss": 300,
+      "net": -8.7
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "WAS",
   "season": "2026-27",
-  "generatedAt": "2026-11-13T13:03:26.401Z",
+  "generatedAt": "2026-11-16T18:37:30.572Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,7 +16,7 @@
           "name": "Bub Carrington",
           "slug": "bub-carrington",
           "espnId": "4845374",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Tre Mann",
@@ -28,7 +28,7 @@
           "name": "Tre Johnson",
           "slug": "tre-johnson",
           "espnId": "5238230",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -45,13 +45,13 @@
           "name": "Tre Johnson",
           "slug": "tre-johnson",
           "espnId": "5238230",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Bub Carrington",
           "slug": "bub-carrington",
           "espnId": "4845374",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Will Riley",
@@ -86,7 +86,7 @@
           "name": "Tre Johnson",
           "slug": "tre-johnson",
           "espnId": "5238230",
-          "status": null
+          "status": "DTD"
         }
       ]
     },

@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "LAC",
-  "gp": 9,
-  "generatedAt": "2026-11-14T13:38:39.853Z",
+  "gp": 10,
+  "generatedAt": "2026-11-16T19:06:38.392Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · LAC",
-      "minutes": 268,
-      "poss": 556,
-      "net": -10.8
+      "minutes": 290,
+      "poss": 600,
+      "net": -11.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · LAC",
-      "minutes": 265,
-      "poss": 554,
-      "net": 0.4
+      "minutes": 291,
+      "poss": 603,
+      "net": 3.5
     },
     {
       "label": "On, w/o Garland",
@@ -28,23 +28,23 @@
     {
       "label": "On, w/o Dunn",
       "sub": "2026–27 · LAC",
-      "minutes": 75,
-      "poss": 156,
-      "net": -35.9
+      "minutes": 79,
+      "poss": 165,
+      "net": -34.7
     },
     {
       "label": "On, w/o Jones Jr.",
       "sub": "2026–27 · LAC",
-      "minutes": 32,
-      "poss": 69,
-      "net": -14.6
+      "minutes": 34,
+      "poss": 73,
+      "net": -19.2
     },
     {
       "label": "Neither Hachimura nor Garland",
       "sub": "2026–27 · LAC",
-      "minutes": 146,
-      "poss": 312,
-      "net": 12.8
+      "minutes": 159,
+      "poss": 336,
+      "net": 10.7
     }
   ]
 }

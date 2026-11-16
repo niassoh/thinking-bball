@@ -1,7 +1,7 @@
 {
   "team": "CHA",
   "season": "2026-27",
-  "generatedAt": "2026-11-14T13:03:28.625Z",
+  "generatedAt": "2026-11-16T18:37:20.600Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,15 +36,15 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Grayson Allen",
-          "slug": "grayson-allen",
-          "espnId": "3135045",
-          "status": null
-        },
-        {
           "name": "Sion James",
           "slug": "sion-james",
           "espnId": "4602025",
+          "status": null
+        },
+        {
+          "name": "Grayson Allen",
+          "slug": "grayson-allen",
+          "espnId": "3135045",
           "status": null
         },
         {
@@ -68,7 +68,7 @@
           "name": "Brandon Miller",
           "slug": "brandon-miller",
           "espnId": "4433287",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Royce O'Neale",

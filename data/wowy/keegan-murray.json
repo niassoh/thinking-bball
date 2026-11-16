@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAC",
-  "gp": 5,
-  "generatedAt": "2026-11-14T13:38:18.416Z",
+  "gp": 6,
+  "generatedAt": "2026-11-16T19:06:19.424Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAC",
-      "minutes": 141,
-      "poss": 297,
-      "net": -10.1
+      "minutes": 162,
+      "poss": 340,
+      "net": -15.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAC",
-      "minutes": 435,
-      "poss": 908,
-      "net": -13.6
+      "minutes": 462,
+      "poss": 967,
+      "net": -12.7
     },
     {
       "label": "On, w/o Acuff Jr.",
       "sub": "2026–27 · SAC",
-      "minutes": 23,
-      "poss": 49,
-      "net": -2
-    },
-    {
-      "label": "On, w/o LaVine",
-      "sub": "2026–27 · SAC",
-      "minutes": 40,
-      "poss": 87,
-      "net": -17.2
+      "minutes": 31,
+      "poss": 63,
+      "net": 9.5
     },
     {
       "label": "On, w/o Sabonis",
       "sub": "2026–27 · SAC",
-      "minutes": 45,
-      "poss": 94,
-      "net": -17
+      "minutes": 54,
+      "poss": 112,
+      "net": -15.2
+    },
+    {
+      "label": "On, w/o LaVine",
+      "sub": "2026–27 · SAC",
+      "minutes": 61,
+      "poss": 130,
+      "net": -28.6
     },
     {
       "label": "Neither Murray nor Acuff Jr.",
       "sub": "2026–27 · SAC",
-      "minutes": 107,
-      "poss": 224,
-      "net": -23.2
+      "minutes": 115,
+      "poss": 241,
+      "net": -23.7
     }
   ]
 }

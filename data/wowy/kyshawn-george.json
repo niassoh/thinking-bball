@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "WAS",
-  "gp": 13,
-  "generatedAt": "2026-11-13T13:28:13.802Z",
+  "gp": 14,
+  "generatedAt": "2026-11-16T19:04:33.709Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · WAS",
-      "minutes": 430,
-      "poss": 882,
-      "net": -1
+      "minutes": 460,
+      "poss": 941,
+      "net": -2.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · WAS",
-      "minutes": 204,
-      "poss": 426,
-      "net": -15.5
+      "minutes": 222,
+      "poss": 468,
+      "net": -16.5
     },
     {
       "label": "On, w/o Young",
       "sub": "2026–27 · WAS",
-      "minutes": 132,
-      "poss": 260,
-      "net": -3.5
+      "minutes": 145,
+      "poss": 286,
+      "net": -3.2
     },
     {
       "label": "On, w/o Davis",
       "sub": "2026–27 · WAS",
-      "minutes": 133,
-      "poss": 274,
-      "net": -11
+      "minutes": 141,
+      "poss": 289,
+      "net": -11.1
     },
     {
       "label": "On, w/o Sarr",
       "sub": "2026–27 · WAS",
-      "minutes": 197,
-      "poss": 392,
-      "net": 0.5
+      "minutes": 203,
+      "poss": 405,
+      "net": 0
     },
     {
       "label": "Neither George nor Young",
       "sub": "2026–27 · WAS",
-      "minutes": 33,
-      "poss": 73,
-      "net": -17.9
+      "minutes": 42,
+      "poss": 90,
+      "net": -14.5
     }
   ]
 }
