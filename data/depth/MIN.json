@@ -1,7 +1,7 @@
 {
   "team": "MIN",
   "season": "2026-27",
-  "generatedAt": "2026-11-14T13:03:33.729Z",
+  "generatedAt": "2026-11-17T13:03:25.713Z",
   "rows": [
     {
       "pos": "PG",
@@ -65,27 +65,27 @@
       "pos": "SF",
       "players": [
         {
+          "name": "Jonathan Kuminga",
+          "slug": "jonathan-kuminga",
+          "espnId": "4433247",
+          "status": "DTD"
+        },
+        {
+          "name": "Jaylen Clark",
+          "slug": "jaylen-clark",
+          "espnId": "4432247",
+          "status": "OUT"
+        },
+        {
           "name": "Jaden McDaniels",
           "slug": "jaden-mcdaniels",
           "espnId": "4431671",
           "status": null
         },
         {
-          "name": "Jaylen Clark",
-          "slug": "jaylen-clark",
-          "espnId": "4432247",
-          "status": null
-        },
-        {
           "name": "Terrence Shannon Jr.",
           "slug": "terrence-shannon-jr",
           "espnId": "4432847",
-          "status": null
-        },
-        {
-          "name": "Ayo Dosunmu",
-          "slug": "ayo-dosunmu",
-          "espnId": "4397002",
           "status": null
         }
       ]
@@ -94,9 +94,9 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Jonathan Kuminga",
-          "slug": "jonathan-kuminga",
-          "espnId": "4433247",
+          "name": "Jaden McDaniels",
+          "slug": "jaden-mcdaniels",
+          "espnId": "4431671",
           "status": null
         },
         {
@@ -106,10 +106,10 @@
           "status": null
         },
         {
-          "name": "Jaden McDaniels",
-          "slug": "jaden-mcdaniels",
-          "espnId": "4431671",
-          "status": null
+          "name": "Jonathan Kuminga",
+          "slug": "jonathan-kuminga",
+          "espnId": "4433247",
+          "status": "DTD"
         },
         {
           "name": "Terrence Shannon Jr.",

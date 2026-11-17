@@ -1,7 +1,7 @@
 {
   "team": "LAL",
   "season": "2026-27",
-  "generatedAt": "2026-11-13T13:03:20.062Z",
+  "generatedAt": "2026-11-17T13:03:24.195Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,25 +10,25 @@
           "name": "Luka Doncic",
           "slug": "luka-doncic",
           "espnId": "3945274",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Collin Sexton",
           "slug": "collin-sexton",
           "espnId": "4277811",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Austin Reaves",
           "slug": "austin-reaves",
           "espnId": "4066457",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Quentin Grimes",
           "slug": "quentin-grimes",
           "espnId": "4397014",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -39,19 +39,19 @@
           "name": "Austin Reaves",
           "slug": "austin-reaves",
           "espnId": "4066457",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Quentin Grimes",
           "slug": "quentin-grimes",
           "espnId": "4397014",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Collin Sexton",
           "slug": "collin-sexton",
           "espnId": "4277811",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Ziaire Williams",
@@ -86,7 +86,7 @@
           "name": "Quentin Grimes",
           "slug": "quentin-grimes",
           "espnId": "4397014",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -126,7 +126,7 @@
           "name": "Walker Kessler",
           "slug": "walker-kessler",
           "espnId": "4433136",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Sandro Mamukelashvili",

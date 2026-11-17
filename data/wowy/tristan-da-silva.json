@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "ORL",
-  "gp": 10,
-  "generatedAt": "2026-11-14T13:39:27.424Z",
+  "gp": 11,
+  "generatedAt": "2026-11-17T13:57:45.934Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · ORL",
-      "minutes": 306,
-      "poss": 627,
-      "net": -3.8
+      "minutes": 337,
+      "poss": 689,
+      "net": -1.9
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · ORL",
-      "minutes": 275,
-      "poss": 553,
-      "net": -5.2
+      "minutes": 292,
+      "poss": 587,
+      "net": -5.1
     },
     {
       "label": "On, w/o Wagner",
       "sub": "2026–27 · ORL",
-      "minutes": 91,
-      "poss": 185,
-      "net": -19
-    },
-    {
-      "label": "On, w/o Carter Jr.",
-      "sub": "2026–27 · ORL",
-      "minutes": 111,
-      "poss": 225,
-      "net": -11.6
+      "minutes": 98,
+      "poss": 199,
+      "net": -19.6
     },
     {
       "label": "On, w/o Bane",
       "sub": "2026–27 · ORL",
-      "minutes": 133,
-      "poss": 277,
-      "net": -10.8
+      "minutes": 142,
+      "poss": 295,
+      "net": -10.2
+    },
+    {
+      "label": "On, w/o Carter Jr.",
+      "sub": "2026–27 · ORL",
+      "minutes": 129,
+      "poss": 261,
+      "net": -5.7
     },
     {
       "label": "Neither da Silva nor Wagner",
       "sub": "2026–27 · ORL",
-      "minutes": 48,
-      "poss": 100,
-      "net": -28
+      "minutes": 52,
+      "poss": 106,
+      "net": -26.4
     }
   ]
 }

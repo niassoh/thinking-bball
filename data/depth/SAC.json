@@ -1,7 +1,7 @@
 {
   "team": "SAC",
   "season": "2026-27",
-  "generatedAt": "2026-11-14T13:03:36.766Z",
+  "generatedAt": "2026-11-16T18:37:28.999Z",
   "rows": [
     {
       "pos": "PG",
@@ -39,7 +39,7 @@
           "name": "Zach LaVine",
           "slug": "zach-lavine",
           "espnId": "3064440",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Emanuel Sharp",
@@ -68,7 +68,7 @@
           "name": "De'Andre Hunter",
           "slug": "de-andre-hunter",
           "espnId": "4065732",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Leaky Black",
@@ -80,7 +80,7 @@
           "name": "Zach LaVine",
           "slug": "zach-lavine",
           "espnId": "3064440",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Malik Monk",
@@ -94,22 +94,22 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Precious Achiuwa",
-          "slug": "precious-achiuwa",
-          "espnId": "4431679",
-          "status": "OUT"
-        },
-        {
           "name": "Keegan Murray",
           "slug": "keegan-murray",
           "espnId": "4594327",
           "status": null
         },
         {
+          "name": "Precious Achiuwa",
+          "slug": "precious-achiuwa",
+          "espnId": "4431679",
+          "status": "DTD"
+        },
+        {
           "name": "De'Andre Hunter",
           "slug": "de-andre-hunter",
           "espnId": "4065732",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Dylan Cardwell",

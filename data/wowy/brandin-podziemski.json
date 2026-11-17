@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "GSW",
-  "gp": 11,
-  "generatedAt": "2026-11-14T13:32:23.321Z",
+  "gp": 12,
+  "generatedAt": "2026-11-17T13:50:52.596Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · GSW",
-      "minutes": 356,
-      "poss": 736,
-      "net": 7.9
+      "minutes": 386,
+      "poss": 796,
+      "net": 7.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · GSW",
-      "minutes": 273,
-      "poss": 557,
-      "net": 0
+      "minutes": 291,
+      "poss": 595,
+      "net": -3.7
     },
     {
       "label": "On, w/o Lendeborg",
       "sub": "2026–27 · GSW",
-      "minutes": 84,
-      "poss": 168,
-      "net": 38.7
-    },
-    {
-      "label": "On, w/o Melton",
-      "sub": "2026–27 · GSW",
-      "minutes": 235,
-      "poss": 497,
-      "net": 11.1
+      "minutes": 92,
+      "poss": 184,
+      "net": 37.1
     },
     {
       "label": "On, w/o Green",
       "sub": "2026–27 · GSW",
-      "minutes": 172,
-      "poss": 358,
-      "net": 17.3
+      "minutes": 182,
+      "poss": 377,
+      "net": 16.5
+    },
+    {
+      "label": "On, w/o Melton",
+      "sub": "2026–27 · GSW",
+      "minutes": 253,
+      "poss": 533,
+      "net": 9.8
     },
     {
       "label": "Neither Podziemski nor Lendeborg",
       "sub": "2026–27 · GSW",
-      "minutes": 134,
-      "poss": 274,
-      "net": 10.2
+      "minutes": 142,
+      "poss": 290,
+      "net": 11.7
     }
   ]
 }

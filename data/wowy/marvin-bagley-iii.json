@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DEN",
-  "gp": 10,
-  "generatedAt": "2026-11-12T13:42:48.833Z",
+  "gp": 12,
+  "generatedAt": "2026-11-17T14:04:17.857Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DEN",
-      "minutes": 123,
-      "poss": 234,
-      "net": -4.7
+      "minutes": 146,
+      "poss": 277,
+      "net": -6.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DEN",
-      "minutes": 362,
-      "poss": 746,
-      "net": 3.1
-    },
-    {
-      "label": "On, w/o Murray",
-      "sub": "2026–27 · DEN",
-      "minutes": 58,
-      "poss": 116,
-      "net": -5.2
+      "minutes": 435,
+      "poss": 900,
+      "net": 2.9
     },
     {
       "label": "On, w/o Jokić",
       "sub": "2026–27 · DEN",
-      "minutes": 112,
-      "poss": 211,
-      "net": -6.7
+      "minutes": 133,
+      "poss": 250,
+      "net": -8.8
+    },
+    {
+      "label": "On, w/o Murray",
+      "sub": "2026–27 · DEN",
+      "minutes": 66,
+      "poss": 130,
+      "net": -6.9
     },
     {
       "label": "On, w/o Braun",
       "sub": "2026–27 · DEN",
-      "minutes": 78,
-      "poss": 150,
-      "net": -6
+      "minutes": 99,
+      "poss": 188,
+      "net": -7.4
     },
     {
-      "label": "Neither Bagley III nor Murray",
+      "label": "Neither Bagley III nor Jokić",
       "sub": "2026–27 · DEN",
-      "minutes": 63,
-      "poss": 140,
-      "net": -20.7
+      "minutes": 10,
+      "poss": 21,
+      "net": -4.9
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "GSW",
   "season": "2026-27",
-  "generatedAt": "2026-11-14T13:03:30.958Z",
+  "generatedAt": "2026-11-17T13:03:22.630Z",
   "rows": [
     {
       "pos": "PG",
@@ -19,15 +19,15 @@
           "status": "OUT"
         },
         {
-          "name": "De'Anthony Melton",
-          "slug": "de-anthony-melton",
-          "espnId": "4066436",
+          "name": "LJ Cryer",
+          "slug": "lj-cryer",
+          "espnId": "4433149",
           "status": null
         },
         {
-          "name": "Will Richard",
-          "slug": "will-richard",
-          "espnId": "4897262",
+          "name": "De'Anthony Melton",
+          "slug": "de-anthony-melton",
+          "espnId": "4066436",
           "status": null
         }
       ]
@@ -65,27 +65,27 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Yaxel Lendeborg",
-          "slug": "yaxel-lendeborg",
-          "espnId": "5175737",
-          "status": null
-        },
-        {
           "name": "Will Richard",
           "slug": "will-richard",
           "espnId": "4897262",
           "status": null
         },
         {
-          "name": "Gary Payton II",
-          "slug": "gary-payton-ii",
-          "espnId": "3134903",
-          "status": null
-        },
-        {
           "name": "Gui Santos",
           "slug": "gui-santos",
           "espnId": "4997536",
+          "status": null
+        },
+        {
+          "name": "Yaxel Lendeborg",
+          "slug": "yaxel-lendeborg",
+          "espnId": "5175737",
+          "status": null
+        },
+        {
+          "name": "Gary Payton II",
+          "slug": "gary-payton-ii",
+          "espnId": "3134903",
           "status": null
         }
       ]
@@ -94,9 +94,9 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Gui Santos",
-          "slug": "gui-santos",
-          "espnId": "4997536",
+          "name": "Yaxel Lendeborg",
+          "slug": "yaxel-lendeborg",
+          "espnId": "5175737",
           "status": null
         },
         {
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Draymond Green",
-          "slug": "draymond-green",
-          "espnId": "6589",
+          "name": "Gui Santos",
+          "slug": "gui-santos",
+          "espnId": "4997536",
           "status": null
         },
         {
-          "name": "Yaxel Lendeborg",
-          "slug": "yaxel-lendeborg",
-          "espnId": "5175737",
+          "name": "Draymond Green",
+          "slug": "draymond-green",
+          "espnId": "6589",
           "status": null
         }
       ]

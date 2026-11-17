@@ -1,7 +1,7 @@
 {
   "team": "MIA",
   "season": "2026-27",
-  "generatedAt": "2026-11-14T13:03:33.040Z",
+  "generatedAt": "2026-11-17T13:03:24.958Z",
   "rows": [
     {
       "pos": "PG",
@@ -39,7 +39,7 @@
           "name": "Klay Thompson",
           "slug": "klay-thompson",
           "espnId": "6475",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Tim Hardaway Jr.",
@@ -80,7 +80,7 @@
           "name": "Klay Thompson",
           "slug": "klay-thompson",
           "espnId": "6475",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Tim Hardaway Jr.",
@@ -109,13 +109,13 @@
           "name": "Nikola Jovic",
           "slug": "nikola-jovic",
           "espnId": "4997528",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Klay Thompson",
           "slug": "klay-thompson",
           "espnId": "6475",
-          "status": "OUT"
+          "status": null
         }
       ]
     },
@@ -126,7 +126,7 @@
           "name": "Bam Adebayo",
           "slug": "bam-adebayo",
           "espnId": "4066261",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Bobby Portis",
@@ -144,7 +144,7 @@
           "name": "Nikola Jovic",
           "slug": "nikola-jovic",
           "espnId": "4997528",
-          "status": null
+          "status": "DTD"
         }
       ]
     }

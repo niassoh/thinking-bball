@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-11-14T13:03:34.752Z",
+  "generatedAt": "2026-11-16T18:37:27.056Z",
   "rows": [
     {
       "pos": "PG",
@@ -22,7 +22,7 @@
           "name": "Ajay Mitchell",
           "slug": "ajay-mitchell",
           "espnId": "4900671",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Jared McCain",
@@ -45,7 +45,7 @@
           "name": "Ajay Mitchell",
           "slug": "ajay-mitchell",
           "espnId": "4900671",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Bennett Stirtz",
@@ -68,7 +68,7 @@
           "name": "Ajay Mitchell",
           "slug": "ajay-mitchell",
           "espnId": "4900671",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Alex Caruso",
@@ -94,15 +94,15 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Aday Mara",
-          "slug": "aday-mara",
-          "espnId": "5174983",
-          "status": null
-        },
-        {
           "name": "Kenrich Williams",
           "slug": "kenrich-williams",
           "espnId": "3133626",
+          "status": null
+        },
+        {
+          "name": "Aday Mara",
+          "slug": "aday-mara",
+          "espnId": "5174983",
           "status": null
         },
         {
