@@ -1,7 +1,7 @@
 {
   "team": "PHI",
   "season": "2026-27",
-  "generatedAt": "2026-11-16T18:37:27.809Z",
+  "generatedAt": "2026-11-17T13:03:27.656Z",
   "rows": [
     {
       "pos": "PG",
@@ -57,7 +57,7 @@
           "name": "Jaylen Brown",
           "slug": "jaylen-brown",
           "espnId": "3917376",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -68,7 +68,7 @@
           "name": "Jaylen Brown",
           "slug": "jaylen-brown",
           "espnId": "3917376",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Kentavious Caldwell-Pope",
@@ -97,7 +97,7 @@
           "name": "LeBron James",
           "slug": "lebron-james",
           "espnId": "1966",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Dean Wade",
@@ -126,7 +126,7 @@
           "name": "Joel Embiid",
           "slug": "joel-embiid",
           "espnId": "3059318",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Adem Bona",

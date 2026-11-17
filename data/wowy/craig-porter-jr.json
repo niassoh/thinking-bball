@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "CLE",
-  "gp": 64,
-  "generatedAt": "2026-10-02T03:06:45.258Z",
+  "gp": 12,
+  "generatedAt": "2026-11-17T13:44:55.045Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · CLE",
-      "minutes": 1148,
-      "poss": 2388,
-      "net": 4.313232830820771
+      "sub": "2026–27 · CLE",
+      "minutes": 142,
+      "poss": 294,
+      "net": 0.7
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · CLE",
-      "minutes": 2803,
-      "poss": 5849,
-      "net": 4.0177808172337155
-    },
-    {
-      "label": "On, w/o Harden",
-      "sub": "2025–26 · CLE",
-      "minutes": 1064,
-      "poss": 2217,
-      "net": 5.953991880920163
+      "sub": "2026–27 · CLE",
+      "minutes": 583,
+      "poss": 1215,
+      "net": 2.6
     },
     {
       "label": "On, w/o Mitchell",
-      "sub": "2025–26 · CLE",
-      "minutes": 631,
-      "poss": 1308,
-      "net": 0.9174311926605505
+      "sub": "2026–27 · CLE",
+      "minutes": 89,
+      "poss": 189,
+      "net": 6.9
+    },
+    {
+      "label": "On, w/o Harden",
+      "sub": "2026–27 · CLE",
+      "minutes": 99,
+      "poss": 203,
+      "net": 0
     },
     {
       "label": "On, w/o Mobley",
-      "sub": "2025–26 · CLE",
-      "minutes": 730,
-      "poss": 1530,
-      "net": 8.30065359477124
+      "sub": "2026–27 · CLE",
+      "minutes": 110,
+      "poss": 232,
+      "net": 1.3
     },
     {
-      "label": "Neither Porter Jr. nor Harden",
-      "sub": "2025–26 · CLE",
-      "minutes": 2008,
-      "poss": 4225.5,
-      "net": 3.0055614720151462
+      "label": "Neither Porter Jr. nor Mitchell",
+      "sub": "2026–27 · CLE",
+      "minutes": 171,
+      "poss": 342,
+      "net": -10.8
     }
   ]
 }
