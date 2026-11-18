@@ -1,23 +1,11 @@
 {
   "team": "GSW",
   "season": "2026-27",
-  "generatedAt": "2026-11-17T13:03:22.630Z",
+  "generatedAt": "2026-11-18T14:36:12.158Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
-        {
-          "name": "Brandin Podziemski",
-          "slug": "brandin-podziemski",
-          "espnId": "4709138",
-          "status": null
-        },
-        {
-          "name": "Brandon Williams",
-          "slug": "brandon-williams",
-          "espnId": "4397040",
-          "status": "OUT"
-        },
         {
           "name": "LJ Cryer",
           "slug": "lj-cryer",
@@ -29,24 +17,24 @@
           "slug": "de-anthony-melton",
           "espnId": "4066436",
           "status": null
+        },
+        {
+          "name": "Brandin Podziemski",
+          "slug": "brandin-podziemski",
+          "espnId": "4709138",
+          "status": null
+        },
+        {
+          "name": "Brandon Williams",
+          "slug": "brandon-williams",
+          "espnId": "4397040",
+          "status": "OUT"
         }
       ]
     },
     {
       "pos": "SG",
       "players": [
-        {
-          "name": "De'Anthony Melton",
-          "slug": "de-anthony-melton",
-          "espnId": "4066436",
-          "status": null
-        },
-        {
-          "name": "Gary Payton II",
-          "slug": "gary-payton-ii",
-          "espnId": "3134903",
-          "status": null
-        },
         {
           "name": "Brandin Podziemski",
           "slug": "brandin-podziemski",
@@ -58,6 +46,18 @@
           "slug": "will-richard",
           "espnId": "4897262",
           "status": null
+        },
+        {
+          "name": "De'Anthony Melton",
+          "slug": "de-anthony-melton",
+          "espnId": "4066436",
+          "status": null
+        },
+        {
+          "name": "Gary Payton II",
+          "slug": "gary-payton-ii",
+          "espnId": "3134903",
+          "status": null
         }
       ]
     },
@@ -65,9 +65,9 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Will Richard",
-          "slug": "will-richard",
-          "espnId": "4897262",
+          "name": "Yaxel Lendeborg",
+          "slug": "yaxel-lendeborg",
+          "espnId": "5175737",
           "status": null
         },
         {
@@ -77,9 +77,9 @@
           "status": null
         },
         {
-          "name": "Yaxel Lendeborg",
-          "slug": "yaxel-lendeborg",
-          "espnId": "5175737",
+          "name": "Will Richard",
+          "slug": "will-richard",
+          "espnId": "4897262",
           "status": null
         },
         {
@@ -94,10 +94,10 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Yaxel Lendeborg",
-          "slug": "yaxel-lendeborg",
-          "espnId": "5175737",
-          "status": null
+          "name": "Draymond Green",
+          "slug": "draymond-green",
+          "espnId": "6589",
+          "status": "DTD"
         },
         {
           "name": "Georges Niang",
@@ -112,9 +112,9 @@
           "status": null
         },
         {
-          "name": "Draymond Green",
-          "slug": "draymond-green",
-          "espnId": "6589",
+          "name": "Yaxel Lendeborg",
+          "slug": "yaxel-lendeborg",
+          "espnId": "5175737",
           "status": null
         }
       ]
@@ -123,22 +123,22 @@
       "pos": "C",
       "players": [
         {
-          "name": "Draymond Green",
-          "slug": "draymond-green",
-          "espnId": "6589",
-          "status": null
-        },
-        {
           "name": "Al Horford",
           "slug": "al-horford",
           "espnId": "3213",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Charles Bassey",
           "slug": "charles-bassey",
           "espnId": "4397886",
           "status": null
+        },
+        {
+          "name": "Draymond Green",
+          "slug": "draymond-green",
+          "espnId": "6589",
+          "status": "DTD"
         },
         {
           "name": "Graham Ike",
