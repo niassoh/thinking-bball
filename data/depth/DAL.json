@@ -1,7 +1,7 @@
 {
   "team": "DAL",
   "season": "2026-27",
-  "generatedAt": "2026-11-16T18:37:21.713Z",
+  "generatedAt": "2026-11-18T14:36:10.919Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Kyrie Irving",
           "slug": "kyrie-irving",
           "espnId": "6442",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Marcus Sasser",
@@ -22,7 +22,7 @@
           "name": "Walter Clayton Jr.",
           "slug": "walter-clayton-jr",
           "espnId": "4896372",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Sergio de Larrea",
@@ -57,7 +57,7 @@
           "name": "Kyrie Irving",
           "slug": "kyrie-irving",
           "espnId": "6442",
-          "status": "DTD"
+          "status": null
         }
       ]
     },

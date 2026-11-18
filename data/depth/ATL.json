@@ -1,7 +1,7 @@
 {
   "team": "ATL",
   "season": "2026-27",
-  "generatedAt": "2026-11-16T18:37:19.470Z",
+  "generatedAt": "2026-11-18T14:36:08.443Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,13 +10,13 @@
           "name": "Kingston Flemings",
           "slug": "kingston-flemings",
           "espnId": "5149077",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "CJ McCollum",
           "slug": "cj-mccollum",
           "espnId": "2490149",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Nickeil Alexander-Walker",
@@ -57,7 +57,7 @@
           "name": "CJ McCollum",
           "slug": "cj-mccollum",
           "espnId": "2490149",
-          "status": null
+          "status": "OUT"
         }
       ]
     },
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Asa Newell",
-          "slug": "asa-newell",
-          "espnId": "4873201",
-          "status": "OUT"
-        },
-        {
           "name": "Aaron Wiggins",
           "slug": "aaron-wiggins",
           "espnId": "4397183",
+          "status": null
+        },
+        {
+          "name": "Dorian Finney-Smith",
+          "slug": "dorian-finney-smith",
+          "espnId": "2578185",
           "status": null
         }
       ]
@@ -132,18 +132,18 @@
           "name": "Jock Landale",
           "slug": "jock-landale",
           "espnId": "3146557",
-          "status": "DTD"
-        },
-        {
-          "name": "Asa Newell",
-          "slug": "asa-newell",
-          "espnId": "4873201",
           "status": "OUT"
         },
         {
           "name": "Zuby Ejiofor",
           "slug": "zuby-ejiofor",
           "espnId": "5106262",
+          "status": null
+        },
+        {
+          "name": "Dorian Finney-Smith",
+          "slug": "dorian-finney-smith",
+          "espnId": "2578185",
           "status": null
         }
       ]

@@ -1,5 +1,11 @@
 [
   {
+    "slug": "asa-newell",
+    "status": "OUT",
+    "team": "Atlanta Hawks",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "mouhamed-gueye",
     "status": "OUT",
     "team": "Atlanta Hawks",
@@ -38,6 +44,12 @@
   {
     "slug": "dereck-lively-ii",
     "status": "OUT",
+    "team": "Dallas Mavericks",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "tobi-lawal",
+    "status": "DTD",
     "team": "Dallas Mavericks",
     "reason": "injured but not on a depth chart"
   },
@@ -138,6 +150,18 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "myron-gardner",
+    "status": "DTD",
+    "team": "Miami Heat",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "zyon-pullin",
+    "status": "OUT",
+    "team": "Minnesota Timberwolves",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "anthony-edwards",
     "status": "OUT",
     "team": "Minnesota Timberwolves",
@@ -180,6 +204,12 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "izaiyah-nelson",
+    "status": "OUT",
+    "team": "Orlando Magic",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "noah-penda",
     "status": "OUT",
     "team": "Orlando Magic",
@@ -187,12 +217,6 @@
   },
   {
     "slug": "paolo-banchero",
-    "status": "OUT",
-    "team": "Orlando Magic",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "izaiyah-nelson",
     "status": "OUT",
     "team": "Orlando Magic",
     "reason": "injured but not on a depth chart"
@@ -246,6 +270,12 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "kawhi-leonard",
+    "status": "OUT",
+    "team": "Toronto Raptors",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "nate-bittle",
     "status": "OUT",
     "team": "Toronto Raptors",
@@ -254,12 +284,6 @@
   {
     "slug": "kevin-mccullar-jr",
     "status": "DTD",
-    "team": "Toronto Raptors",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "kawhi-leonard",
-    "status": "OUT",
     "team": "Toronto Raptors",
     "reason": "injured but not on a depth chart"
   },
@@ -279,6 +303,12 @@
     "slug": "jaren-jackson-jr",
     "status": "OUT",
     "team": "Utah Jazz",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "felix-okpara",
+    "status": "DTD",
+    "team": "Washington Wizards",
     "reason": "injured but not on a depth chart"
   },
   {
