@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "DET",
   "gp": 12,
-  "generatedAt": "2026-11-16T19:10:24.208Z",
+  "generatedAt": "2026-11-19T13:41:40.345Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DET",
-      "minutes": 220,
-      "poss": 462,
-      "net": -5.6
+      "minutes": 316,
+      "poss": 650,
+      "net": -0.2
     },
     {
       "label": "On, w/o Cunningham",
@@ -33,18 +33,18 @@
       "net": 7.9
     },
     {
-      "label": "On, w/o Reed",
+      "label": "On, w/o Thompson",
       "sub": "2026–27 · DET",
-      "minutes": 161,
-      "poss": 336,
-      "net": 11.3
+      "minutes": 138,
+      "poss": 285,
+      "net": 20.7
     },
     {
       "label": "Neither Robinson nor Cunningham",
       "sub": "2026–27 · DET",
-      "minutes": 94,
-      "poss": 199,
-      "net": 6
+      "minutes": 152,
+      "poss": 316,
+      "net": 6.7
     }
   ]
 }

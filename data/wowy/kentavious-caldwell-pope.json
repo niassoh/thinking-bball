@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "PHI",
-  "gp": 15,
-  "generatedAt": "2026-11-17T13:54:33.509Z",
+  "gp": 16,
+  "generatedAt": "2026-11-19T13:34:02.243Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHI",
-      "minutes": 338,
-      "poss": 692,
-      "net": 4.8
+      "minutes": 370,
+      "poss": 756,
+      "net": 5.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHI",
-      "minutes": 382,
-      "poss": 804,
-      "net": 1.1
+      "minutes": 398,
+      "poss": 833,
+      "net": 0.5
     },
     {
       "label": "On, w/o Maxey",
       "sub": "2026–27 · PHI",
-      "minutes": 122,
-      "poss": 248,
-      "net": -1.2
-    },
-    {
-      "label": "On, w/o Brown",
-      "sub": "2026–27 · PHI",
-      "minutes": 129,
-      "poss": 265,
-      "net": 0.4
+      "minutes": 154,
+      "poss": 312,
+      "net": 2.2
     },
     {
       "label": "On, w/o Edgecombe",
       "sub": "2026–27 · PHI",
-      "minutes": 180,
-      "poss": 367,
-      "net": -4.1
+      "minutes": 183,
+      "poss": 372,
+      "net": -2.7
+    },
+    {
+      "label": "On, w/o Brown",
+      "sub": "2026–27 · PHI",
+      "minutes": 162,
+      "poss": 329,
+      "net": 3.3
     },
     {
       "label": "Neither Caldwell-Pope nor Maxey",
       "sub": "2026–27 · PHI",
-      "minutes": 57,
-      "poss": 125,
-      "net": 4
+      "minutes": 73,
+      "poss": 154,
+      "net": 0
     }
   ]
 }

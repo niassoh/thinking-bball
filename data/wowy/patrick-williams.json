@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "CHI",
-  "gp": 72,
-  "generatedAt": "2026-10-02T04:31:34.392Z",
+  "gp": 7,
+  "generatedAt": "2026-11-19T13:39:15.361Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · CHI",
-      "minutes": 1474,
-      "poss": 3179,
-      "net": -10.85246932997798
+      "sub": "2026–27 · CHI",
+      "minutes": 149,
+      "poss": 308,
+      "net": 12
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · CHI",
-      "minutes": 2477,
-      "poss": 5258.5,
-      "net": -1.5593800513454408
-    },
-    {
-      "label": "On, w/o Buzelis",
-      "sub": "2025–26 · CHI",
-      "minutes": 961,
-      "poss": 2061.5,
-      "net": -7.179238418627214
-    },
-    {
-      "label": "On, w/o Jones",
-      "sub": "2025–26 · CHI",
-      "minutes": 886,
-      "poss": 1889.5,
-      "net": -11.696215930140248
+      "sub": "2026–27 · CHI",
+      "minutes": 528,
+      "poss": 1147,
+      "net": -13.4
     },
     {
       "label": "On, w/o Giddey",
-      "sub": "2025–26 · CHI",
-      "minutes": 1008,
-      "poss": 2180.5,
-      "net": -8.805319880761294
+      "sub": "2026–27 · CHI",
+      "minutes": 89,
+      "poss": 181,
+      "net": 15.5
     },
     {
-      "label": "Neither Williams nor Buzelis",
-      "sub": "2025–26 · CHI",
-      "minutes": 741,
-      "poss": 1589.5,
-      "net": 1.6986473733878578
+      "label": "On, w/o Buzelis",
+      "sub": "2026–27 · CHI",
+      "minutes": 103,
+      "poss": 210,
+      "net": 15.3
+    },
+    {
+      "label": "On, w/o Powell",
+      "sub": "2026–27 · CHI",
+      "minutes": 114,
+      "poss": 230,
+      "net": 13
+    },
+    {
+      "label": "Neither Williams nor Giddey",
+      "sub": "2026–27 · CHI",
+      "minutes": 194,
+      "poss": 422,
+      "net": -18.2
     }
   ]
 }

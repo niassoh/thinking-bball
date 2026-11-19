@@ -1,7 +1,7 @@
 {
   "team": "IND",
   "season": "2026-27",
-  "generatedAt": "2026-11-18T14:36:13.042Z",
+  "generatedAt": "2026-11-19T13:03:44.996Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,13 +10,13 @@
           "name": "Andrew Nembhard",
           "slug": "andrew-nembhard",
           "espnId": "4395712",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "T.J. McConnell",
           "slug": "tj-mcconnell",
           "espnId": "2530530",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Quenton Jackson",
@@ -28,7 +28,7 @@
           "name": "Braden Smith",
           "slug": "braden-smith",
           "espnId": "5105854",
-          "status": null
+          "status": "DTD"
         }
       ]
     },
@@ -51,7 +51,7 @@
           "name": "Andrew Nembhard",
           "slug": "andrew-nembhard",
           "espnId": "4395712",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Aaron Nesmith",
