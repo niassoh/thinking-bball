@@ -1,7 +1,7 @@
 {
   "team": "DET",
   "season": "2026-27",
-  "generatedAt": "2026-11-17T13:03:22.218Z",
+  "generatedAt": "2026-11-19T13:03:43.943Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Cade Cunningham",
           "slug": "cade-cunningham",
           "espnId": "4432166",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Daniss Jenkins",
@@ -57,7 +57,7 @@
           "name": "Isaiah Joe",
           "slug": "isaiah-joe",
           "espnId": "4395702",
-          "status": "OUT"
+          "status": null
         }
       ]
     },
@@ -74,7 +74,7 @@
           "name": "Isaiah Joe",
           "slug": "isaiah-joe",
           "espnId": "4395702",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Ausar Thompson",

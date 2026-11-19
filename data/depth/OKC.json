@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-11-16T18:37:27.056Z",
+  "generatedAt": "2026-11-19T13:03:48.124Z",
   "rows": [
     {
       "pos": "PG",
@@ -57,7 +57,7 @@
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
-          "status": null
+          "status": "OUT"
         }
       ]
     },
@@ -74,7 +74,7 @@
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Kenrich Williams",
@@ -109,13 +109,13 @@
           "name": "Jaylin Williams",
           "slug": "jaylin-williams",
           "espnId": "4432823",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
-          "status": null
+          "status": "OUT"
         }
       ]
     },
@@ -138,7 +138,7 @@
           "name": "Jaylin Williams",
           "slug": "jaylin-williams",
           "espnId": "4432823",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Thomas Sorber",

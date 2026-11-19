@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DEN",
-  "gp": 12,
-  "generatedAt": "2026-11-17T14:01:17.933Z",
+  "gp": 13,
+  "generatedAt": "2026-11-19T13:41:25.888Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DEN",
-      "minutes": 348,
-      "poss": 714,
-      "net": 3.5
+      "minutes": 378,
+      "poss": 776,
+      "net": 4.1
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DEN",
-      "minutes": 233,
-      "poss": 463,
-      "net": -3.7
+      "minutes": 251,
+      "poss": 499,
+      "net": -4
     },
     {
       "label": "On, w/o Jokić",
       "sub": "2026–27 · DEN",
-      "minutes": 68,
-      "poss": 129,
-      "net": -0.8
+      "minutes": 71,
+      "poss": 134,
+      "net": 0
     },
     {
       "label": "On, w/o Murray",
       "sub": "2026–27 · DEN",
-      "minutes": 38,
-      "poss": 82,
-      "net": -40.2
+      "minutes": 41,
+      "poss": 87,
+      "net": -36.8
     },
     {
       "label": "On, w/o Braun",
       "sub": "2026–27 · DEN",
-      "minutes": 46,
+      "minutes": 47,
       "poss": 92,
-      "net": -24
+      "net": -22.8
     },
     {
       "label": "Neither Gordon nor Jokić",
       "sub": "2026–27 · DEN",
-      "minutes": 74,
-      "poss": 141,
-      "net": -15.6
+      "minutes": 80,
+      "poss": 153,
+      "net": -21
     }
   ]
 }

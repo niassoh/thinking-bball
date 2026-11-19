@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DAL",
-  "gp": 13,
-  "generatedAt": "2026-11-16T19:08:48.801Z",
+  "gp": 14,
+  "generatedAt": "2026-11-19T13:39:58.038Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DAL",
-      "minutes": 225,
-      "poss": 464,
-      "net": -4.1
+      "minutes": 239,
+      "poss": 491,
+      "net": -5.1
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DAL",
-      "minutes": 448,
-      "poss": 933,
-      "net": -1.7
-    },
-    {
-      "label": "On, w/o Washington",
-      "sub": "2026–27 · DAL",
-      "minutes": 105,
-      "poss": 220,
-      "net": -5.9
+      "minutes": 481,
+      "poss": 1002,
+      "net": 1.2
     },
     {
       "label": "On, w/o Flagg",
       "sub": "2026–27 · DAL",
-      "minutes": 94,
-      "poss": 191,
-      "net": -20.9
+      "minutes": 99,
+      "poss": 201,
+      "net": -22.9
+    },
+    {
+      "label": "On, w/o Washington",
+      "sub": "2026–27 · DAL",
+      "minutes": 118,
+      "poss": 243,
+      "net": -10.7
     },
     {
       "label": "On, w/o Irving",
       "sub": "2026–27 · DAL",
-      "minutes": 146,
-      "poss": 305,
-      "net": -8.5
+      "minutes": 151,
+      "poss": 315,
+      "net": -8.9
     },
     {
-      "label": "Neither Johnson Jr. nor Washington",
+      "label": "Neither Johnson Jr. nor Flagg",
       "sub": "2026–27 · DAL",
-      "minutes": 130,
-      "poss": 274,
-      "net": 22.3
+      "minutes": 154,
+      "poss": 319,
+      "net": -7.2
     }
   ]
 }

@@ -1,29 +1,29 @@
 {
   "season": "2026-27",
   "team": "WAS",
-  "gp": 11,
-  "generatedAt": "2026-11-17T13:55:06.730Z",
+  "gp": 12,
+  "generatedAt": "2026-11-19T13:34:33.394Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · WAS",
-      "minutes": 368,
-      "poss": 752,
-      "net": -9.2
+      "minutes": 406,
+      "poss": 826,
+      "net": -8.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · WAS",
-      "minutes": 362,
-      "poss": 759,
-      "net": -6.6
+      "minutes": 372,
+      "poss": 777,
+      "net": -5.8
     },
     {
       "label": "On, w/o Young",
       "sub": "2026–27 · WAS",
-      "minutes": 96,
-      "poss": 193,
-      "net": -16.6
+      "minutes": 111,
+      "poss": 219,
+      "net": -14.2
     },
     {
       "label": "On, w/o George",
@@ -35,16 +35,16 @@
     {
       "label": "On, w/o Davis",
       "sub": "2026–27 · WAS",
-      "minutes": 104,
-      "poss": 218,
-      "net": -16.1
+      "minutes": 110,
+      "poss": 229,
+      "net": -13.1
     },
     {
       "label": "Neither Dybantsa nor Young",
       "sub": "2026–27 · WAS",
-      "minutes": 105,
-      "poss": 216,
-      "net": 3.2
+      "minutes": 107,
+      "poss": 219,
+      "net": 5
     }
   ]
 }
