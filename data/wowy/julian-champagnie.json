@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "SAS",
-  "gp": 15,
-  "generatedAt": "2026-11-19T13:35:43.669Z",
+  "gp": 16,
+  "generatedAt": "2026-11-20T13:53:21.437Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · SAS",
-      "minutes": 401,
-      "poss": 806,
-      "net": 8.6
+      "minutes": 430,
+      "poss": 869,
+      "net": 8.2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAS",
-      "minutes": 334,
-      "poss": 677,
-      "net": 14.6
-    },
-    {
-      "label": "On, w/o Harper",
-      "sub": "2026–27 · SAS",
-      "minutes": 157,
-      "poss": 305,
-      "net": -14.8
+      "minutes": 353,
+      "poss": 717,
+      "net": 15.2
     },
     {
       "label": "On, w/o Wembanyama",
       "sub": "2026–27 · SAS",
-      "minutes": 168,
-      "poss": 348,
-      "net": -9.2
+      "minutes": 175,
+      "poss": 363,
+      "net": -9.7
     },
     {
       "label": "On, w/o Castle",
       "sub": "2026–27 · SAS",
-      "minutes": 167,
-      "poss": 347,
-      "net": 16.4
+      "minutes": 176,
+      "poss": 365,
+      "net": 18.4
     },
     {
-      "label": "Neither Champagnie nor Harper",
+      "label": "On, w/o Harper",
       "sub": "2026–27 · SAS",
-      "minutes": 100,
-      "poss": 205,
-      "net": -2.4
+      "minutes": 186,
+      "poss": 368,
+      "net": -11.7
+    },
+    {
+      "label": "Neither Champagnie nor Wembanyama",
+      "sub": "2026–27 · SAS",
+      "minutes": 115,
+      "poss": 240,
+      "net": -22.1
     }
   ]
 }

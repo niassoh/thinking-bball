@@ -1,7 +1,7 @@
 {
   "team": "LAC",
   "season": "2026-27",
-  "generatedAt": "2026-11-19T13:03:45.326Z",
+  "generatedAt": "2026-11-20T13:03:27.550Z",
   "rows": [
     {
       "pos": "PG",
@@ -123,15 +123,15 @@
       "pos": "C",
       "players": [
         {
-          "name": "Isaiah Jackson",
-          "slug": "isaiah-jackson",
-          "espnId": "4432170",
-          "status": null
-        },
-        {
           "name": "Brook Lopez",
           "slug": "brook-lopez",
           "espnId": "3448",
+          "status": null
+        },
+        {
+          "name": "Isaiah Jackson",
+          "slug": "isaiah-jackson",
+          "espnId": "4432170",
           "status": null
         },
         {

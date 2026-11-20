@@ -1,22 +1,22 @@
 {
   "season": "2026-27",
   "team": "LAC",
-  "gp": 7,
-  "generatedAt": "2026-11-19T13:36:47.661Z",
+  "gp": 8,
+  "generatedAt": "2026-11-20T13:54:25.120Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · LAC",
-      "minutes": 156,
-      "poss": 316,
-      "net": -6.7
+      "minutes": 188,
+      "poss": 387,
+      "net": -6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · LAC",
-      "minutes": 473,
-      "poss": 983,
-      "net": -5.5
+      "minutes": 489,
+      "poss": 1015,
+      "net": -6.3
     },
     {
       "label": "On, w/o Garland",
@@ -26,25 +26,25 @@
       "net": 0.6
     },
     {
-      "label": "On, w/o Dunn",
-      "sub": "2026–27 · LAC",
-      "minutes": 139,
-      "poss": 278,
-      "net": -2.9
-    },
-    {
       "label": "On, w/o Jones Jr.",
       "sub": "2026–27 · LAC",
-      "minutes": 113,
-      "poss": 226,
-      "net": -1.8
+      "minutes": 118,
+      "poss": 239,
+      "net": -5
+    },
+    {
+      "label": "On, w/o Dunn",
+      "sub": "2026–27 · LAC",
+      "minutes": 166,
+      "poss": 336,
+      "net": -0.6
     },
     {
       "label": "Neither Strus nor Garland",
       "sub": "2026–27 · LAC",
-      "minutes": 118,
-      "poss": 254,
-      "net": 17.7
+      "minutes": 131,
+      "poss": 279,
+      "net": 12.2
     }
   ]
 }
