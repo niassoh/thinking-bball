@@ -1,7 +1,7 @@
 {
   "team": "LAL",
   "season": "2026-27",
-  "generatedAt": "2026-11-19T13:03:45.660Z",
+  "generatedAt": "2026-11-20T13:03:27.880Z",
   "rows": [
     {
       "pos": "PG",
@@ -25,9 +25,9 @@
           "status": "OUT"
         },
         {
-          "name": "Quentin Grimes",
-          "slug": "quentin-grimes",
-          "espnId": "4397014",
+          "name": "Bronny James",
+          "slug": "bronny-james",
+          "espnId": "4683774",
           "status": null
         }
       ]
@@ -71,15 +71,15 @@
           "status": null
         },
         {
-          "name": "Ziaire Williams",
-          "slug": "ziaire-williams",
-          "espnId": "4433137",
-          "status": null
-        },
-        {
           "name": "Jake LaRavia",
           "slug": "jake-laravia",
           "espnId": "4592691",
+          "status": null
+        },
+        {
+          "name": "Ziaire Williams",
+          "slug": "ziaire-williams",
+          "espnId": "4433137",
           "status": null
         },
         {
@@ -93,6 +93,12 @@
     {
       "pos": "PF",
       "players": [
+        {
+          "name": "Ziaire Williams",
+          "slug": "ziaire-williams",
+          "espnId": "4433137",
+          "status": null
+        },
         {
           "name": "Jake LaRavia",
           "slug": "jake-laravia",
@@ -109,12 +115,6 @@
           "name": "Jarred Vanderbilt",
           "slug": "jarred-vanderbilt",
           "espnId": "4278077",
-          "status": null
-        },
-        {
-          "name": "Matisse Thybulle",
-          "slug": "matisse-thybulle",
-          "espnId": "3907498",
           "status": null
         }
       ]

@@ -1,7 +1,7 @@
 {
   "team": "OKC",
   "season": "2026-27",
-  "generatedAt": "2026-11-19T13:03:48.124Z",
+  "generatedAt": "2026-11-20T13:03:30.406Z",
   "rows": [
     {
       "pos": "PG",
@@ -57,7 +57,7 @@
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
-          "status": "OUT"
+          "status": "DTD"
         }
       ]
     },
@@ -74,7 +74,7 @@
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Kenrich Williams",
@@ -94,15 +94,15 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Kenrich Williams",
-          "slug": "kenrich-williams",
-          "espnId": "3133626",
-          "status": null
-        },
-        {
           "name": "Aday Mara",
           "slug": "aday-mara",
           "espnId": "5174983",
+          "status": null
+        },
+        {
+          "name": "Kenrich Williams",
+          "slug": "kenrich-williams",
+          "espnId": "3133626",
           "status": null
         },
         {
@@ -115,7 +115,7 @@
           "name": "Alex Caruso",
           "slug": "alex-caruso",
           "espnId": "2991350",
-          "status": "OUT"
+          "status": "DTD"
         }
       ]
     },

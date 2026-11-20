@@ -1,7 +1,7 @@
 {
   "team": "MIL",
   "season": "2026-27",
-  "generatedAt": "2026-11-19T13:03:46.705Z",
+  "generatedAt": "2026-11-20T13:03:29.007Z",
   "rows": [
     {
       "pos": "PG",
@@ -16,7 +16,7 @@
           "name": "Ryan Rollins",
           "slug": "ryan-rollins",
           "espnId": "4591725",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Kasparas Jakucionis",
@@ -51,7 +51,7 @@
           "name": "Ryan Rollins",
           "slug": "ryan-rollins",
           "espnId": "4591725",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Brayden Burries",
@@ -64,6 +64,12 @@
     {
       "pos": "SF",
       "players": [
+        {
+          "name": "Kyle Kuzma",
+          "slug": "kyle-kuzma",
+          "espnId": "3134907",
+          "status": "DTD"
+        },
         {
           "name": "Jaime Jaquez Jr.",
           "slug": "jaime-jaquez-jr",
@@ -81,12 +87,6 @@
           "slug": "aj-green",
           "espnId": "4397475",
           "status": null
-        },
-        {
-          "name": "Nate Ament",
-          "slug": "nate-ament",
-          "espnId": "5164559",
-          "status": null
         }
       ]
     },
@@ -94,10 +94,10 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Kyle Kuzma",
-          "slug": "kyle-kuzma",
-          "espnId": "3134907",
-          "status": null
+          "name": "Myles Turner",
+          "slug": "myles-turner",
+          "espnId": "3133628",
+          "status": "DTD"
         },
         {
           "name": "Nate Ament",
@@ -112,10 +112,10 @@
           "status": null
         },
         {
-          "name": "Ousmane Dieng",
-          "slug": "ousmane-dieng",
-          "espnId": "4997526",
-          "status": "OUT"
+          "name": "Kyle Kuzma",
+          "slug": "kyle-kuzma",
+          "espnId": "3134907",
+          "status": "DTD"
         }
       ]
     },
@@ -123,9 +123,9 @@
       "pos": "C",
       "players": [
         {
-          "name": "Myles Turner",
-          "slug": "myles-turner",
-          "espnId": "3133628",
+          "name": "Jericho Sims",
+          "slug": "jericho-sims",
+          "espnId": "4277922",
           "status": null
         },
         {
@@ -135,10 +135,10 @@
           "status": null
         },
         {
-          "name": "Jericho Sims",
-          "slug": "jericho-sims",
-          "espnId": "4277922",
-          "status": null
+          "name": "Myles Turner",
+          "slug": "myles-turner",
+          "espnId": "3133628",
+          "status": "DTD"
         },
         {
           "name": "Ousmane Dieng",

@@ -1,7 +1,7 @@
 {
   "team": "CHA",
   "season": "2026-27",
-  "generatedAt": "2026-11-19T13:03:42.200Z",
+  "generatedAt": "2026-11-20T13:03:24.500Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,34 +36,46 @@
       "pos": "SG",
       "players": [
         {
-          "name": "Sion James",
-          "slug": "sion-james",
-          "espnId": "4602025",
+          "name": "Brandon Miller",
+          "slug": "brandon-miller",
+          "espnId": "4433287",
           "status": null
         },
         {
           "name": "Grayson Allen",
           "slug": "grayson-allen",
           "espnId": "3135045",
-          "status": "DTD"
+          "status": "OUT"
+        },
+        {
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
+          "status": null
         },
         {
           "name": "Coby White",
           "slug": "coby-white",
           "espnId": "4395651",
           "status": null
-        },
-        {
-          "name": "Dennis Schroder",
-          "slug": "dennis-schroder",
-          "espnId": "3032979",
-          "status": "OUT"
         }
       ]
     },
     {
       "pos": "SF",
       "players": [
+        {
+          "name": "Grant Williams",
+          "slug": "grant-williams",
+          "espnId": "4066218",
+          "status": "OUT"
+        },
+        {
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
+          "status": null
+        },
         {
           "name": "Brandon Miller",
           "slug": "brandon-miller",
@@ -74,18 +86,6 @@
           "name": "Royce O'Neale",
           "slug": "royce-o-neale",
           "espnId": "2583632",
-          "status": null
-        },
-        {
-          "name": "Grayson Allen",
-          "slug": "grayson-allen",
-          "espnId": "3135045",
-          "status": "DTD"
-        },
-        {
-          "name": "Sion James",
-          "slug": "sion-james",
-          "espnId": "4602025",
           "status": null
         }
       ]
@@ -100,21 +100,21 @@
           "status": null
         },
         {
+          "name": "Royce O'Neale",
+          "slug": "royce-o-neale",
+          "espnId": "2583632",
+          "status": null
+        },
+        {
           "name": "Grant Williams",
           "slug": "grant-williams",
           "espnId": "4066218",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Tidjane Salaun",
           "slug": "tidjane-salaun",
           "espnId": "5211176",
-          "status": null
-        },
-        {
-          "name": "Royce O'Neale",
-          "slug": "royce-o-neale",
-          "espnId": "2583632",
           "status": null
         }
       ]

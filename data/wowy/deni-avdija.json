@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "POR",
   "gp": 13,
-  "generatedAt": "2026-11-19T13:35:48.110Z",
+  "generatedAt": "2026-11-20T13:53:38.299Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,16 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · POR",
-      "minutes": 250,
-      "poss": 528,
-      "net": -0.9
-    },
-    {
-      "label": "On, w/o Lillard",
-      "sub": "2026–27 · POR",
-      "minutes": 108,
-      "poss": 225,
-      "net": 1.3
+      "minutes": 298,
+      "poss": 631,
+      "net": 0.8
     },
     {
       "label": "On, w/o Camara",
@@ -33,6 +26,13 @@
       "net": 18
     },
     {
+      "label": "On, w/o Lillard",
+      "sub": "2026–27 · POR",
+      "minutes": 108,
+      "poss": 225,
+      "net": 1.3
+    },
+    {
       "label": "On, w/o Holiday",
       "sub": "2026–27 · POR",
       "minutes": 226,
@@ -40,11 +40,11 @@
       "net": 4.8
     },
     {
-      "label": "Neither Avdija nor Lillard",
+      "label": "Neither Avdija nor Camara",
       "sub": "2026–27 · POR",
-      "minutes": 156,
-      "poss": 332,
-      "net": -8.4
+      "minutes": 155,
+      "poss": 331,
+      "net": 3.3
     }
   ]
 }

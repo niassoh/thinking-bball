@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "POR",
-  "gp": 14,
-  "generatedAt": "2026-11-19T13:44:00.609Z",
+  "gp": 15,
+  "generatedAt": "2026-11-20T13:59:44.631Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · POR",
-      "minutes": 359,
-      "poss": 731,
-      "net": 11
+      "minutes": 386,
+      "poss": 788,
+      "net": 10.5
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · POR",
-      "minutes": 313,
-      "poss": 672,
-      "net": 0.6
-    },
-    {
-      "label": "On, w/o Avdija",
-      "sub": "2026–27 · POR",
-      "minutes": 65,
-      "poss": 136,
-      "net": 15.5
-    },
-    {
-      "label": "On, w/o Lillard",
-      "sub": "2026–27 · POR",
-      "minutes": 77,
-      "poss": 153,
-      "net": -1.3
+      "minutes": 334,
+      "poss": 718,
+      "net": 1.5
     },
     {
       "label": "On, w/o Camara",
       "sub": "2026–27 · POR",
-      "minutes": 107,
-      "poss": 216,
-      "net": 16.7
+      "minutes": 115,
+      "poss": 233,
+      "net": 20.2
     },
     {
-      "label": "Neither Clingan nor Avdija",
+      "label": "On, w/o Lillard",
       "sub": "2026–27 · POR",
-      "minutes": 185,
-      "poss": 392,
-      "net": -6.6
+      "minutes": 83,
+      "poss": 166,
+      "net": 1.2
+    },
+    {
+      "label": "On, w/o Avdija",
+      "sub": "2026–27 · POR",
+      "minutes": 92,
+      "poss": 193,
+      "net": 12.5
+    },
+    {
+      "label": "Neither Clingan nor Camara",
+      "sub": "2026–27 · POR",
+      "minutes": 161,
+      "poss": 349,
+      "net": 2.6
     }
   ]
 }
