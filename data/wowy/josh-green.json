@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "UTA",
-  "gp": 14,
-  "generatedAt": "2026-11-19T13:31:00.011Z",
+  "gp": 15,
+  "generatedAt": "2026-11-21T18:29:41.837Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · UTA",
-      "minutes": 271,
-      "poss": 556,
-      "net": 0.2
+      "minutes": 300,
+      "poss": 613,
+      "net": 0.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · UTA",
-      "minutes": 507,
-      "poss": 1058,
-      "net": -11.1
+      "minutes": 526,
+      "poss": 1096,
+      "net": -12
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · UTA",
-      "minutes": 96,
-      "poss": 199,
-      "net": -15.6
+      "minutes": 100,
+      "poss": 209,
+      "net": -15.3
     },
     {
       "label": "On, w/o Peterson",
       "sub": "2026–27 · UTA",
-      "minutes": 103,
-      "poss": 212,
-      "net": 2.8
+      "minutes": 107,
+      "poss": 222,
+      "net": 1.8
     },
     {
       "label": "On, w/o Bailey",
       "sub": "2026–27 · UTA",
-      "minutes": 94,
-      "poss": 188,
-      "net": -11.2
+      "minutes": 104,
+      "poss": 207,
+      "net": -7.7
     },
     {
       "label": "Neither Green nor George",
       "sub": "2026–27 · UTA",
-      "minutes": 183,
-      "poss": 387,
-      "net": -6.5
+      "minutes": 190,
+      "poss": 401,
+      "net": -6.2
     }
   ]
 }

@@ -1,29 +1,29 @@
 {
   "season": "2026-27",
   "team": "BKN",
-  "gp": 13,
-  "generatedAt": "2026-11-19T13:47:04.659Z",
+  "gp": 14,
+  "generatedAt": "2026-11-21T18:43:54.019Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · BKN",
-      "minutes": 294,
-      "poss": 597,
-      "net": -11.4
+      "minutes": 312,
+      "poss": 631,
+      "net": -12
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · BKN",
-      "minutes": 383,
-      "poss": 794,
-      "net": -6.2
+      "minutes": 413,
+      "poss": 855,
+      "net": -5
     },
     {
       "label": "On, w/o Randle",
       "sub": "2026–27 · BKN",
-      "minutes": 83,
-      "poss": 174,
-      "net": -1.7
+      "minutes": 87,
+      "poss": 180,
+      "net": -2.2
     },
     {
       "label": "On, w/o Porter Jr.",
@@ -35,16 +35,16 @@
     {
       "label": "On, w/o Sharpe",
       "sub": "2026–27 · BKN",
-      "minutes": 113,
-      "poss": 237,
-      "net": -26.2
+      "minutes": 114,
+      "poss": 238,
+      "net": -26.5
     },
     {
       "label": "Neither Traore nor Randle",
       "sub": "2026–27 · BKN",
-      "minutes": 137,
-      "poss": 283,
-      "net": -23
+      "minutes": 143,
+      "poss": 292,
+      "net": -25.3
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "team": "PHI",
   "season": "2026-27",
-  "generatedAt": "2026-11-20T13:03:31.095Z",
+  "generatedAt": "2026-11-21T18:03:52.132Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Tyrese Maxey",
           "slug": "tyrese-maxey",
           "espnId": "4431678",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Anfernee Simons",
@@ -86,7 +86,7 @@
           "name": "Dean Wade",
           "slug": "dean-wade",
           "espnId": "3912848",
-          "status": "DTD"
+          "status": "OUT"
         }
       ]
     },
@@ -103,13 +103,13 @@
           "name": "Dean Wade",
           "slug": "dean-wade",
           "espnId": "3912848",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Dominick Barlow",
           "slug": "dominick-barlow",
           "espnId": "4870562",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Jabari Walker",
@@ -138,7 +138,7 @@
           "name": "Dominick Barlow",
           "slug": "dominick-barlow",
           "espnId": "4870562",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Jabari Walker",

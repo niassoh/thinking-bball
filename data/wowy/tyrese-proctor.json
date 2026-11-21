@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CLE",
-  "gp": 15,
-  "generatedAt": "2026-11-19T13:46:48.707Z",
+  "gp": 16,
+  "generatedAt": "2026-11-21T18:43:37.795Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CLE",
-      "minutes": 304,
-      "poss": 635,
-      "net": 1.6
+      "minutes": 328,
+      "poss": 687,
+      "net": 2.6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CLE",
-      "minutes": 469,
-      "poss": 970,
+      "minutes": 494,
+      "poss": 1022,
       "net": 2.2
-    },
-    {
-      "label": "On, w/o Mitchell",
-      "sub": "2026–27 · CLE",
-      "minutes": 156,
-      "poss": 317,
-      "net": -3.2
     },
     {
       "label": "On, w/o Harden",
       "sub": "2026–27 · CLE",
-      "minutes": 131,
-      "poss": 268,
-      "net": 9.7
+      "minutes": 133,
+      "poss": 275,
+      "net": 8.4
+    },
+    {
+      "label": "On, w/o Mitchell",
+      "sub": "2026–27 · CLE",
+      "minutes": 167,
+      "poss": 341,
+      "net": -0.9
     },
     {
       "label": "On, w/o Mobley",
       "sub": "2026–27 · CLE",
-      "minutes": 222,
-      "poss": 472,
-      "net": 5.3
+      "minutes": 246,
+      "poss": 524,
+      "net": 6.3
     },
     {
-      "label": "Neither Proctor nor Mitchell",
+      "label": "Neither Proctor nor Harden",
       "sub": "2026–27 · CLE",
-      "minutes": 116,
-      "poss": 237,
-      "net": -3.8
+      "minutes": 151,
+      "poss": 316,
+      "net": 6.7
     }
   ]
 }

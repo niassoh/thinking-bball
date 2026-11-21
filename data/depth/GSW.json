@@ -1,21 +1,21 @@
 {
   "team": "GSW",
   "season": "2026-27",
-  "generatedAt": "2026-11-20T13:03:26.561Z",
+  "generatedAt": "2026-11-21T18:03:47.390Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
         {
-          "name": "LJ Cryer",
-          "slug": "lj-cryer",
-          "espnId": "4433149",
-          "status": null
-        },
-        {
           "name": "De'Anthony Melton",
           "slug": "de-anthony-melton",
           "espnId": "4066436",
+          "status": null
+        },
+        {
+          "name": "LJ Cryer",
+          "slug": "lj-cryer",
+          "espnId": "4433149",
           "status": null
         },
         {
@@ -123,15 +123,15 @@
       "pos": "C",
       "players": [
         {
-          "name": "Al Horford",
-          "slug": "al-horford",
-          "espnId": "3213",
-          "status": null
-        },
-        {
           "name": "Charles Bassey",
           "slug": "charles-bassey",
           "espnId": "4397886",
+          "status": null
+        },
+        {
+          "name": "Al Horford",
+          "slug": "al-horford",
+          "espnId": "3213",
           "status": null
         },
         {
