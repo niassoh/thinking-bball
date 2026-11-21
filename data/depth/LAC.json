@@ -1,7 +1,7 @@
 {
   "team": "LAC",
   "season": "2026-27",
-  "generatedAt": "2026-11-20T13:03:27.550Z",
+  "generatedAt": "2026-11-21T18:03:48.506Z",
   "rows": [
     {
       "pos": "PG",
@@ -36,6 +36,12 @@
       "pos": "SG",
       "players": [
         {
+          "name": "Max Strus",
+          "slug": "max-strus",
+          "espnId": "4065778",
+          "status": null
+        },
+        {
           "name": "Kris Dunn",
           "slug": "kris-dunn",
           "espnId": "2991139",
@@ -52,12 +58,6 @@
           "slug": "keaton-wagler",
           "espnId": "5254165",
           "status": null
-        },
-        {
-          "name": "Kobe Sanders",
-          "slug": "kobe-sanders",
-          "espnId": "4702352",
-          "status": null
         }
       ]
     },
@@ -71,15 +71,15 @@
           "status": null
         },
         {
-          "name": "Max Strus",
-          "slug": "max-strus",
-          "espnId": "4065778",
-          "status": null
-        },
-        {
           "name": "Gradey Dick",
           "slug": "gradey-dick",
           "espnId": "5106258",
+          "status": null
+        },
+        {
+          "name": "Max Strus",
+          "slug": "max-strus",
+          "espnId": "4065778",
           "status": null
         },
         {
@@ -129,6 +129,12 @@
           "status": null
         },
         {
+          "name": "Yanic Konan Niederhauser",
+          "slug": "yanic-konan-niederhauser",
+          "espnId": "5108024",
+          "status": null
+        },
+        {
           "name": "Isaiah Jackson",
           "slug": "isaiah-jackson",
           "espnId": "4432170",
@@ -138,12 +144,6 @@
           "name": "Baba Miller",
           "slug": "baba-miller",
           "espnId": "5075626",
-          "status": null
-        },
-        {
-          "name": "Yanic Konan Niederhauser",
-          "slug": "yanic-konan-niederhauser",
-          "espnId": "5108024",
           "status": null
         }
       ]
