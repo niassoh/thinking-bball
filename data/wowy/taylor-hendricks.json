@@ -1,50 +1,50 @@
 {
-  "season": "2025-26",
+  "season": "2026-27",
   "team": "MEM",
-  "gp": 59,
-  "generatedAt": "2026-10-02T05:38:38.756Z",
+  "gp": 12,
+  "generatedAt": "2026-11-22T13:57:07.281Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2025–26 · MEM",
-      "minutes": 626,
-      "poss": 1308,
-      "net": -5.045871559633028
+      "sub": "2026–27 · MEM",
+      "minutes": 178,
+      "poss": 365,
+      "net": 12.6
     },
     {
       "label": "Team, he’s off",
-      "sub": "2025–26 · MEM",
-      "minutes": 3320,
-      "poss": 6996,
-      "net": -6.1034877072612925
+      "sub": "2026–27 · MEM",
+      "minutes": 642,
+      "poss": 1330,
+      "net": 8
     },
     {
-      "label": "On, w/o Wells",
-      "sub": "2025–26 · MEM",
-      "minutes": 421,
-      "poss": 881,
-      "net": -5.675368898978434
-    },
-    {
-      "label": "On, w/o Spencer",
-      "sub": "2025–26 · MEM",
-      "minutes": 366,
-      "poss": 764.5,
-      "net": -0.5232177894048398
+      "label": "On, w/o Boozer",
+      "sub": "2026–27 · MEM",
+      "minutes": 105,
+      "poss": 213,
+      "net": 21.1
     },
     {
       "label": "On, w/o Coward",
-      "sub": "2025–26 · MEM",
-      "minutes": 455,
-      "poss": 960,
-      "net": -7.395833333333333
+      "sub": "2026–27 · MEM",
+      "minutes": 78,
+      "poss": 158,
+      "net": 8.9
     },
     {
-      "label": "Neither Hendricks nor Wells",
-      "sub": "2025–26 · MEM",
-      "minutes": 1704,
-      "poss": 3627.5,
-      "net": -7.2777394900068915
+      "label": "On, w/o Wells",
+      "sub": "2026–27 · MEM",
+      "minutes": 92,
+      "poss": 187,
+      "net": 17.1
+    },
+    {
+      "label": "Neither Hendricks nor Boozer",
+      "sub": "2026–27 · MEM",
+      "minutes": 223,
+      "poss": 451,
+      "net": 7.8
     }
   ]
 }

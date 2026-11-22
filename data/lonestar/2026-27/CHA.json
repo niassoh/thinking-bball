@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "CHA",
-  "generatedAt": "2026-11-21T18:44:50.998Z",
+  "generatedAt": "2026-11-22T14:04:01.600Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -39,15 +39,15 @@
     {
       "id": "1629632",
       "load": 55.2,
-      "obpm": -1.1,
-      "score": 50,
+      "obpm": -1,
+      "score": 55,
       "minutes": 161.87
     },
     {
       "id": "1631217",
       "load": 19.3,
-      "obpm": 0,
-      "score": 39,
+      "obpm": 0.1,
+      "score": 41,
       "minutes": 384.9
     }
   ],
