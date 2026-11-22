@@ -3,7 +3,7 @@ const assert = require('node:assert')
 const { slugify, loadSheet, regularSeasonKeys, seasonFromKey: seasonOf, num } = require('../lib/players')
 const { percentileOf } = require('../lib/percentile')
 const { ALL_STATS, RELATIVE, SHIFT_STATS } = require('../lib/stats')
-const { buildProfile, footprintOf, leaderboard, leaderboardDelta, leaderboardRecent, lonestarDoc, playerIndex, teamList, distribution, lineupLeague, weightedMean, pullOffsets, fillWindows } = require('../lib/profile')
+const { buildProfile, unitsDoc, footprintOf, leaderboard, leaderboardDelta, leaderboardRecent, lonestarDoc, playerIndex, teamList, distribution, lineupLeague, weightedMean, pullOffsets, fillWindows } = require('../lib/profile')
 
 // An illustrated portrait, as approved or in its jersey layers (lib/jerseys.js).
 const ILLUSTRATED = ['portrait', 'jersey']
@@ -137,6 +137,13 @@ test('profile: a past rotation places players without a profile by their listed 
   assert.ok(stewart && stewart.hasProfile)
   const graham = rows.find(r => r.pos === 'SG').players.find(p => p.name === 'Greg Graham')
   assert.ok(graham && !graham.hasProfile)
+})
+
+test('units view: each player carries his position that season, as the rotation sets it', () => {
+  // 1996-97 has no sheet estimate: Olajuwon and Maloney take their listed C and PG.
+  const pos = Object.fromEntries(unitsDoc('1996-97', 'HOU').players.map(p => [p.name, p.pos]))
+  assert.strictEqual(pos['Hakeem Olajuwon'], 5)
+  assert.strictEqual(pos['Matt Maloney'], 1)
 })
 
 test('profile: depth chart flags which players have a profile', () => {
