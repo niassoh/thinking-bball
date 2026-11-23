@@ -1,7 +1,7 @@
 {
   "team": "DET",
   "season": "2026-27",
-  "generatedAt": "2026-11-22T18:01:36.406Z",
+  "generatedAt": "2026-11-23T13:03:43.054Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Cade Cunningham",
           "slug": "cade-cunningham",
           "espnId": "4432166",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Daniss Jenkins",
@@ -22,7 +22,7 @@
           "name": "Ebuka Okorie",
           "slug": "ebuka-okorie",
           "espnId": "5258459",
-          "status": "OUT"
+          "status": "DTD"
         },
         {
           "name": "Elijah Harkless",
@@ -115,7 +115,7 @@
           "name": "Ronald Holland II",
           "slug": "ronald-holland-ii",
           "espnId": "4683771",
-          "status": "OUT"
+          "status": null
         }
       ]
     },

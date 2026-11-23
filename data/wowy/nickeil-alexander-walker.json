@@ -1,29 +1,29 @@
 {
   "season": "2026-27",
   "team": "ATL",
-  "gp": 16,
-  "generatedAt": "2026-11-21T18:30:32.829Z",
+  "gp": 17,
+  "generatedAt": "2026-11-23T14:03:11.616Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · ATL",
-      "minutes": 511,
-      "poss": 1100,
-      "net": 2.7
+      "minutes": 539,
+      "poss": 1159,
+      "net": 2
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · ATL",
-      "minutes": 262,
-      "poss": 551,
-      "net": 2.4
+      "minutes": 282,
+      "poss": 593,
+      "net": 5.1
     },
     {
       "label": "On, w/o Daniels",
       "sub": "2026–27 · ATL",
-      "minutes": 173,
-      "poss": 380,
-      "net": -7.1
+      "minutes": 176,
+      "poss": 387,
+      "net": -5.9
     },
     {
       "label": "On, w/o Okongwu",
@@ -42,9 +42,9 @@
     {
       "label": "Neither Alexander-Walker nor Daniels",
       "sub": "2026–27 · ATL",
-      "minutes": 102,
-      "poss": 206,
-      "net": -4.4
+      "minutes": 108,
+      "poss": 219,
+      "net": -5.5
     }
   ]
 }

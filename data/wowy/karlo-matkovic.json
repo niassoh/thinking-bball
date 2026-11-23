@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "NOP",
   "gp": 17,
-  "generatedAt": "2026-11-22T15:50:39.167Z",
+  "generatedAt": "2026-11-23T15:11:13.178Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -19,13 +19,6 @@
       "net": -7.8
     },
     {
-      "label": "On, w/o Williamson",
-      "sub": "2026–27 · NOP",
-      "minutes": 111,
-      "poss": 230,
-      "net": -24.4
-    },
-    {
       "label": "On, w/o Fears",
       "sub": "2026–27 · NOP",
       "minutes": 69,
@@ -40,11 +33,18 @@
       "net": 2.6
     },
     {
-      "label": "Neither Matković nor Williamson",
+      "label": "On, w/o Williamson",
       "sub": "2026–27 · NOP",
-      "minutes": 250,
-      "poss": 522,
-      "net": -17.8
+      "minutes": 111,
+      "poss": 230,
+      "net": -24.4
+    },
+    {
+      "label": "Neither Matković nor Fears",
+      "sub": "2026–27 · NOP",
+      "minutes": 265,
+      "poss": 550,
+      "net": -8.2
     }
   ]
 }

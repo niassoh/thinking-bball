@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DAL",
-  "gp": 13,
-  "generatedAt": "2026-11-22T13:45:56.692Z",
+  "gp": 14,
+  "generatedAt": "2026-11-23T13:59:11.693Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DAL",
-      "minutes": 235,
-      "poss": 489,
-      "net": 0.2
+      "minutes": 251,
+      "poss": 520,
+      "net": -2.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DAL",
-      "minutes": 533,
-      "poss": 1100,
-      "net": -0.4
+      "minutes": 566,
+      "poss": 1166,
+      "net": 0.9
     },
     {
       "label": "On, w/o Flagg",
       "sub": "2026–27 · DAL",
-      "minutes": 99,
-      "poss": 208,
-      "net": -16.3
+      "minutes": 108,
+      "poss": 224,
+      "net": -21.5
     },
     {
       "label": "On, w/o Washington",
       "sub": "2026–27 · DAL",
-      "minutes": 87,
-      "poss": 181,
-      "net": 20.5
+      "minutes": 102,
+      "poss": 212,
+      "net": 11.3
     },
     {
       "label": "On, w/o Irving",
       "sub": "2026–27 · DAL",
-      "minutes": 123,
-      "poss": 258,
-      "net": -1.6
+      "minutes": 135,
+      "poss": 280,
+      "net": -7.1
     },
     {
       "label": "Neither Christie nor Flagg",
       "sub": "2026–27 · DAL",
-      "minutes": 165,
-      "poss": 335,
-      "net": -9.3
+      "minutes": 174,
+      "poss": 353,
+      "net": -6.8
     }
   ]
 }
