@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "NOP",
   "gp": 12,
-  "generatedAt": "2026-11-22T15:40:22.854Z",
+  "generatedAt": "2026-11-23T15:00:30.840Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -19,13 +19,6 @@
       "net": -5.9
     },
     {
-      "label": "On, w/o Williamson",
-      "sub": "2026–27 · NOP",
-      "minutes": 156,
-      "poss": 327,
-      "net": -12.5
-    },
-    {
       "label": "On, w/o Fears",
       "sub": "2026–27 · NOP",
       "minutes": 139,
@@ -40,11 +33,18 @@
       "net": -45.6
     },
     {
-      "label": "Neither Mathurin nor Williamson",
+      "label": "On, w/o Williamson",
       "sub": "2026–27 · NOP",
-      "minutes": 206,
-      "poss": 424,
-      "net": -25.5
+      "minutes": 156,
+      "poss": 327,
+      "net": -12.5
+    },
+    {
+      "label": "Neither Mathurin nor Fears",
+      "sub": "2026–27 · NOP",
+      "minutes": 195,
+      "poss": 401,
+      "net": -10.7
     }
   ]
 }

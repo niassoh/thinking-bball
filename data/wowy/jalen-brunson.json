@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "NYK",
   "gp": 17,
-  "generatedAt": "2026-11-23T13:53:16.377Z",
+  "generatedAt": "2026-11-23T14:57:17.398Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -19,18 +19,18 @@
       "net": 6.7
     },
     {
-      "label": "On, w/o Anunoby",
-      "sub": "2026–27 · NYK",
-      "minutes": 223,
-      "poss": 429,
-      "net": 7.7
-    },
-    {
       "label": "On, w/o Towns",
       "sub": "2026–27 · NYK",
       "minutes": 221,
       "poss": 423,
       "net": 1.2
+    },
+    {
+      "label": "On, w/o Anunoby",
+      "sub": "2026–27 · NYK",
+      "minutes": 223,
+      "poss": 429,
+      "net": 7.7
     },
     {
       "label": "On, w/o Shamet",
@@ -40,11 +40,11 @@
       "net": -11
     },
     {
-      "label": "Neither Brunson nor Anunoby",
+      "label": "Neither Brunson nor Towns",
       "sub": "2026–27 · NYK",
-      "minutes": 89,
-      "poss": 174,
-      "net": 1.2
+      "minutes": 79,
+      "poss": 155,
+      "net": -18.1
     }
   ]
 }

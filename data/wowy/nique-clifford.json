@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
-  "team": "SAC",
-  "gp": 1,
-  "generatedAt": "2026-10-22T10:16:09.914Z",
+  "team": "OKC",
+  "gp": 15,
+  "generatedAt": "2026-11-23T15:05:03.915Z",
   "rows": [
     {
       "label": "Team, he’s on",
-      "sub": "2026–27 · SAC",
-      "minutes": 17,
-      "poss": 36,
-      "net": -19.4
+      "sub": "2026–27 · OKC",
+      "minutes": 125,
+      "poss": 255,
+      "net": -6.3
     },
     {
       "label": "Team, he’s off",
-      "sub": "2026–27 · SAC",
-      "minutes": 31,
-      "poss": 68,
-      "net": -26.5
+      "sub": "2026–27 · OKC",
+      "minutes": 691,
+      "poss": 1426,
+      "net": 5.5
     },
     {
-      "label": "On, w/o Acuff Jr.",
-      "sub": "2026–27 · SAC",
-      "minutes": 13,
-      "poss": 29,
-      "net": -6.9
+      "label": "On, w/o Gilgeous-Alexander",
+      "sub": "2026–27 · OKC",
+      "minutes": 92,
+      "poss": 188,
+      "net": -3.2
     },
     {
-      "label": "On, w/o LaVine",
-      "sub": "2026–27 · SAC",
-      "minutes": 10,
-      "poss": 18,
-      "net": -57.1
+      "label": "On, w/o McCain",
+      "sub": "2026–27 · OKC",
+      "minutes": 52,
+      "poss": 106,
+      "net": 8.5
     },
     {
-      "label": "On, w/o Sabonis",
-      "sub": "2026–27 · SAC",
-      "minutes": 12,
-      "poss": 25,
-      "net": -40.8
+      "label": "On, w/o Hartenstein",
+      "sub": "2026–27 · OKC",
+      "minutes": 79,
+      "poss": 160,
+      "net": 1.9
     },
     {
-      "label": "Neither Clifford nor Acuff Jr.",
-      "sub": "2026–27 · SAC",
-      "minutes": 0,
-      "poss": 0,
-      "net": null
+      "label": "Neither Clifford nor Gilgeous-Alexander",
+      "sub": "2026–27 · OKC",
+      "minutes": 189,
+      "poss": 379,
+      "net": -2.6
     }
   ]
 }
