@@ -1,7 +1,7 @@
 {
   "team": "BOS",
   "season": "2026-27",
-  "generatedAt": "2026-11-22T18:01:34.071Z",
+  "generatedAt": "2026-11-23T13:03:40.598Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Derrick White",
           "slug": "derrick-white",
           "espnId": "3078576",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Payton Pritchard",
@@ -57,7 +57,7 @@
           "name": "Derrick White",
           "slug": "derrick-white",
           "espnId": "3078576",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -68,7 +68,7 @@
           "name": "Jayson Tatum",
           "slug": "jayson-tatum",
           "espnId": "4065648",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Jordan Walsh",
@@ -97,7 +97,7 @@
           "name": "Paul George",
           "slug": "paul-george",
           "espnId": "4251",
-          "status": null
+          "status": "OUT"
         },
         {
           "name": "Sam Hauser",
@@ -115,7 +115,7 @@
           "name": "Jayson Tatum",
           "slug": "jayson-tatum",
           "espnId": "4065648",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -132,7 +132,7 @@
           "name": "Mitchell Robinson",
           "slug": "mitchell-robinson",
           "espnId": "4351852",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Luka Garza",
