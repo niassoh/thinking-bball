@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "TOR",
-  "gp": 14,
-  "generatedAt": "2026-11-21T18:33:26.401Z",
+  "gp": 15,
+  "generatedAt": "2026-11-24T13:39:21.370Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · TOR",
-      "minutes": 329,
-      "poss": 663,
-      "net": 1.2
+      "minutes": 353,
+      "poss": 716,
+      "net": 0
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · TOR",
-      "minutes": 444,
-      "poss": 900,
-      "net": -0.6
+      "minutes": 468,
+      "poss": 947,
+      "net": -0.2
     },
     {
       "label": "On, w/o Walter",
       "sub": "2026–27 · TOR",
-      "minutes": 92,
-      "poss": 187,
-      "net": 0.5
-    },
-    {
-      "label": "On, w/o Barrett",
-      "sub": "2026–27 · TOR",
-      "minutes": 84,
-      "poss": 176,
-      "net": 10.8
+      "minutes": 97,
+      "poss": 197,
+      "net": 0
     },
     {
       "label": "On, w/o Quickley",
       "sub": "2026–27 · TOR",
-      "minutes": 134,
-      "poss": 276,
-      "net": 6.9
+      "minutes": 146,
+      "poss": 302,
+      "net": 4.3
+    },
+    {
+      "label": "On, w/o Barrett",
+      "sub": "2026–27 · TOR",
+      "minutes": 108,
+      "poss": 229,
+      "net": 4.8
     },
     {
       "label": "Neither Murray-Boyles nor Walter",
       "sub": "2026–27 · TOR",
-      "minutes": 179,
-      "poss": 373,
-      "net": 7
+      "minutes": 185,
+      "poss": 386,
+      "net": 7.8
     }
   ]
 }

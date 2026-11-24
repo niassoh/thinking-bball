@@ -6,6 +6,12 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "cj-mccollum",
+    "status": "OUT",
+    "team": "Atlanta Hawks",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "mouhamed-gueye",
     "status": "OUT",
     "team": "Atlanta Hawks",
@@ -18,8 +24,8 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "grant-nelson",
-    "status": "DTD",
+    "slug": "nolan-traore",
+    "status": "OUT",
     "team": "Brooklyn Nets",
     "reason": "injured but not on a depth chart"
   },
@@ -60,19 +66,13 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "julian-strawther",
-    "status": "OUT",
-    "team": "Denver Nuggets",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "taurean-prince",
+    "slug": "jalen-duren",
     "status": "OUT",
     "team": "Detroit Pistons",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "jalen-duren",
+    "slug": "taurean-prince",
     "status": "OUT",
     "team": "Detroit Pistons",
     "reason": "injured but not on a depth chart"
@@ -150,12 +150,6 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "bryce-mcgowens",
-    "status": "OUT",
-    "team": "New Orleans Pelicans",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "trendon-watford",
     "status": "OUT",
     "team": "New Orleans Pelicans",
@@ -168,6 +162,12 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "jalen-williams",
+    "status": "OUT",
+    "team": "Oklahoma City Thunder",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "cason-wallace",
     "status": "OUT",
     "team": "Oklahoma City Thunder",
@@ -175,12 +175,6 @@
   },
   {
     "slug": "chet-holmgren",
-    "status": "OUT",
-    "team": "Oklahoma City Thunder",
-    "reason": "injured but not on a depth chart"
-  },
-  {
-    "slug": "jalen-williams",
     "status": "OUT",
     "team": "Oklahoma City Thunder",
     "reason": "injured but not on a depth chart"
@@ -259,6 +253,12 @@
   },
   {
     "slug": "kawhi-leonard",
+    "status": "OUT",
+    "team": "Toronto Raptors",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "rj-barrett",
     "status": "OUT",
     "team": "Toronto Raptors",
     "reason": "injured but not on a depth chart"

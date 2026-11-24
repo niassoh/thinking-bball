@@ -1,21 +1,21 @@
 {
   "team": "MIL",
   "season": "2026-27",
-  "generatedAt": "2026-11-21T18:03:49.974Z",
+  "generatedAt": "2026-11-24T13:04:00.462Z",
   "rows": [
     {
       "pos": "PG",
       "players": [
         {
-          "name": "Brayden Burries",
-          "slug": "brayden-burries",
-          "espnId": "5082206",
-          "status": null
-        },
-        {
           "name": "Ryan Rollins",
           "slug": "ryan-rollins",
           "espnId": "4591725",
+          "status": null
+        },
+        {
+          "name": "Brayden Burries",
+          "slug": "brayden-burries",
+          "espnId": "5082206",
           "status": null
         },
         {
@@ -144,7 +144,7 @@
           "name": "Ousmane Dieng",
           "slug": "ousmane-dieng",
           "espnId": "4997526",
-          "status": "OUT"
+          "status": null
         }
       ]
     }

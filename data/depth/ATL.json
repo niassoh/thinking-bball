@@ -1,7 +1,7 @@
 {
   "team": "ATL",
   "season": "2026-27",
-  "generatedAt": "2026-11-23T13:03:39.814Z",
+  "generatedAt": "2026-11-24T13:03:53.322Z",
   "rows": [
     {
       "pos": "PG",
@@ -13,10 +13,10 @@
           "status": null
         },
         {
-          "name": "CJ McCollum",
-          "slug": "cj-mccollum",
-          "espnId": "2490149",
-          "status": "OUT"
+          "name": "Aaron Wiggins",
+          "slug": "aaron-wiggins",
+          "espnId": "4397183",
+          "status": null
         },
         {
           "name": "Nickeil Alexander-Walker",
@@ -42,22 +42,22 @@
           "status": null
         },
         {
+          "name": "Corey Kispert",
+          "slug": "corey-kispert",
+          "espnId": "4280151",
+          "status": null
+        },
+        {
+          "name": "Dyson Daniels",
+          "slug": "dyson-daniels",
+          "espnId": "4869342",
+          "status": null
+        },
+        {
           "name": "Aaron Wiggins",
           "slug": "aaron-wiggins",
           "espnId": "4397183",
           "status": null
-        },
-        {
-          "name": "Luguentz Dort",
-          "slug": "luguentz-dort",
-          "espnId": "4397020",
-          "status": null
-        },
-        {
-          "name": "CJ McCollum",
-          "slug": "cj-mccollum",
-          "espnId": "2490149",
-          "status": "OUT"
         }
       ]
     },
@@ -83,9 +83,9 @@
           "status": null
         },
         {
-          "name": "Nickeil Alexander-Walker",
-          "slug": "nickeil-alexander-walker",
-          "espnId": "4278039",
+          "name": "Corey Kispert",
+          "slug": "corey-kispert",
+          "espnId": "4280151",
           "status": null
         }
       ]
@@ -100,6 +100,12 @@
           "status": null
         },
         {
+          "name": "Zuby Ejiofor",
+          "slug": "zuby-ejiofor",
+          "espnId": "5106262",
+          "status": null
+        },
+        {
           "name": "Luguentz Dort",
           "slug": "luguentz-dort",
           "espnId": "4397020",
@@ -109,12 +115,6 @@
           "name": "Aaron Wiggins",
           "slug": "aaron-wiggins",
           "espnId": "4397183",
-          "status": null
-        },
-        {
-          "name": "Dorian Finney-Smith",
-          "slug": "dorian-finney-smith",
-          "espnId": "2578185",
           "status": null
         }
       ]

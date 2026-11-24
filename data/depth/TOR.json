@@ -1,7 +1,7 @@
 {
   "team": "TOR",
   "season": "2026-27",
-  "generatedAt": "2026-11-21T18:03:53.946Z",
+  "generatedAt": "2026-11-24T13:04:04.856Z",
   "rows": [
     {
       "pos": "PG",
@@ -42,12 +42,6 @@
           "status": null
         },
         {
-          "name": "RJ Barrett",
-          "slug": "rj-barrett",
-          "espnId": "4395625",
-          "status": "OUT"
-        },
-        {
           "name": "Jamal Shead",
           "slug": "jamal-shead",
           "espnId": "4432241",
@@ -58,18 +52,18 @@
           "slug": "alijah-martin",
           "espnId": "4702656",
           "status": null
+        },
+        {
+          "name": "Jaden Bradley",
+          "slug": "jaden-bradley",
+          "espnId": "4432737",
+          "status": null
         }
       ]
     },
     {
       "pos": "SF",
       "players": [
-        {
-          "name": "RJ Barrett",
-          "slug": "rj-barrett",
-          "espnId": "4395625",
-          "status": "OUT"
-        },
         {
           "name": "Jamison Battle",
           "slug": "jamison-battle",
@@ -87,6 +81,12 @@
           "slug": "allen-graves",
           "espnId": "5149115",
           "status": null
+        },
+        {
+          "name": "Scottie Barnes",
+          "slug": "scottie-barnes",
+          "espnId": "4433134",
+          "status": null
         }
       ]
     },
@@ -103,7 +103,7 @@
           "name": "Collin Murray-Boyles",
           "slug": "collin-murray-boyles",
           "espnId": "5093267",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Kyle Anderson",
@@ -126,7 +126,7 @@
           "name": "Collin Murray-Boyles",
           "slug": "collin-murray-boyles",
           "espnId": "5093267",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Jakob Poeltl",

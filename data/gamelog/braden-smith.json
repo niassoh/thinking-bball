@@ -1,13 +1,61 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-11-10T22:00:23.798Z",
+  "generatedAt": "2026-11-24T13:31:12.980Z",
   "recent": {
-    "start": "2026-10-11",
-    "end": "2026-11-09",
-    "games": 8,
-    "seasonGames": 8
+    "start": "2026-10-25",
+    "end": "2026-11-23",
+    "games": 12,
+    "seasonGames": 12
   },
   "games": [
+    {
+      "date": "2026-11-23",
+      "gameId": "0022600289",
+      "opp": "OKC",
+      "home": true,
+      "result": "W",
+      "pts": 6,
+      "reb": 2,
+      "ast": 6,
+      "ts": 33.3,
+      "oppRank": 11
+    },
+    {
+      "date": "2026-11-22",
+      "gameId": "0022600285",
+      "opp": "NYK",
+      "home": false,
+      "result": "L",
+      "pts": 6,
+      "reb": 1,
+      "ast": 4,
+      "ts": 75,
+      "oppRank": 8
+    },
+    {
+      "date": "2026-11-20",
+      "gameId": "0022600045",
+      "opp": "CLE",
+      "home": false,
+      "result": "L",
+      "pts": 5,
+      "reb": 3,
+      "ast": 5,
+      "ts": 62.5,
+      "oppRank": 15
+    },
+    {
+      "date": "2026-11-18",
+      "gameId": "0022600259",
+      "opp": "HOU",
+      "home": true,
+      "result": "L",
+      "pts": 8,
+      "reb": 5,
+      "ast": 3,
+      "ts": 80,
+      "oppRank": 5
+    },
     {
       "date": "2026-11-09",
       "gameId": "0022600207",
@@ -18,55 +66,7 @@
       "reb": 0,
       "ast": 0,
       "ts": null,
-      "oppRank": 12
-    },
-    {
-      "date": "2026-11-07",
-      "gameId": "0022600189",
-      "opp": "DEN",
-      "home": true,
-      "result": "L",
-      "pts": 0,
-      "reb": 0,
-      "ast": 2,
-      "ts": null,
-      "oppRank": 16
-    },
-    {
-      "date": "2026-11-04",
-      "gameId": "0022600178",
-      "opp": "MEM",
-      "home": false,
-      "result": "W",
-      "pts": 10,
-      "reb": 1,
-      "ast": 5,
-      "ts": 55.6,
-      "oppRank": 9
-    },
-    {
-      "date": "2026-11-02",
-      "gameId": "0022600160",
-      "opp": "ATL",
-      "home": true,
-      "result": "L",
-      "pts": 19,
-      "reb": 4,
-      "ast": 10,
-      "ts": 67.9,
-      "oppRank": 15
-    },
-    {
-      "date": "2026-11-01",
-      "gameId": "0022600155",
-      "opp": "BKN",
-      "home": true,
-      "result": "L",
-      "pts": 0,
-      "reb": 0,
-      "ast": 0,
-      "ts": null,
-      "oppRank": 24
+      "oppRank": 17
     }
   ]
 }

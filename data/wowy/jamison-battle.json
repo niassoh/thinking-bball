@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "TOR",
-  "gp": 16,
-  "generatedAt": "2026-11-21T18:34:20.910Z",
+  "gp": 17,
+  "generatedAt": "2026-11-24T13:40:31.224Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · TOR",
-      "minutes": 300,
-      "poss": 621,
-      "net": -1.3
+      "minutes": 313,
+      "poss": 647,
+      "net": -1.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · TOR",
-      "minutes": 473,
-      "poss": 942,
-      "net": 1.2
+      "minutes": 508,
+      "poss": 1016,
+      "net": 0.7
     },
     {
       "label": "On, w/o Walter",
       "sub": "2026–27 · TOR",
-      "minutes": 149,
-      "poss": 312,
-      "net": -0.3
-    },
-    {
-      "label": "On, w/o Barrett",
-      "sub": "2026–27 · TOR",
-      "minutes": 183,
-      "poss": 375,
-      "net": 6.4
+      "minutes": 159,
+      "poss": 331,
+      "net": 0.3
     },
     {
       "label": "On, w/o Quickley",
       "sub": "2026–27 · TOR",
-      "minutes": 189,
-      "poss": 387,
-      "net": -1.3
+      "minutes": 195,
+      "poss": 397,
+      "net": -2
+    },
+    {
+      "label": "On, w/o Barrett",
+      "sub": "2026–27 · TOR",
+      "minutes": 196,
+      "poss": 402,
+      "net": 5.7
     },
     {
       "label": "Neither Battle nor Walter",
       "sub": "2026–27 · TOR",
-      "minutes": 121,
-      "poss": 248,
-      "net": 11.3
+      "minutes": 123,
+      "poss": 251,
+      "net": 11.6
     }
   ]
 }

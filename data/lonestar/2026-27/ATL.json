@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "team": "ATL",
-  "generatedAt": "2026-11-23T15:18:16.608Z",
+  "generatedAt": "2026-11-24T13:52:33.927Z",
   "source": "pbp",
   "fields": [
     "Minutes",
@@ -25,15 +25,15 @@
     {
       "id": "1630552",
       "load": 41.6,
-      "obpm": 1.6,
-      "score": 150,
+      "obpm": 1.5,
+      "score": 146,
       "minutes": 462.74
     },
     {
       "id": "1629638",
       "load": 37.1,
-      "obpm": 1.2,
-      "score": 119,
+      "obpm": 1.1,
+      "score": 115,
       "minutes": 522.09
     },
     {
@@ -46,8 +46,8 @@
     {
       "id": "1630598",
       "load": 30.6,
-      "obpm": 0.1,
-      "score": 64,
+      "obpm": 0,
+      "score": 61,
       "minutes": 428.2
     }
   ],

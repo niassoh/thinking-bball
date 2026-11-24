@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "UTA",
-  "gp": 14,
-  "generatedAt": "2026-11-23T14:17:46.802Z",
+  "gp": 15,
+  "generatedAt": "2026-11-24T13:48:16.765Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · UTA",
-      "minutes": 291,
-      "poss": 600,
-      "net": -3
+      "minutes": 320,
+      "poss": 655,
+      "net": -4.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · UTA",
-      "minutes": 583,
-      "poss": 1207,
-      "net": -9.1
+      "minutes": 602,
+      "poss": 1248,
+      "net": -9.2
     },
     {
       "label": "On, w/o George",
       "sub": "2026–27 · UTA",
-      "minutes": 93,
-      "poss": 187,
-      "net": -5.9
-    },
-    {
-      "label": "On, w/o Peterson",
-      "sub": "2026–27 · UTA",
-      "minutes": 141,
-      "poss": 297,
-      "net": 2.7
+      "minutes": 102,
+      "poss": 204,
+      "net": -11.8
     },
     {
       "label": "On, w/o Bailey",
       "sub": "2026–27 · UTA",
-      "minutes": 114,
-      "poss": 235,
-      "net": 4.7
+      "minutes": 120,
+      "poss": 248,
+      "net": 0.4
+    },
+    {
+      "label": "On, w/o Peterson",
+      "sub": "2026–27 · UTA",
+      "minutes": 150,
+      "poss": 315,
+      "net": 2.5
     },
     {
       "label": "Neither Bamba nor George",
       "sub": "2026–27 · UTA",
-      "minutes": 219,
-      "poss": 468,
-      "net": -7.9
+      "minutes": 226,
+      "poss": 483,
+      "net": -7
     }
   ]
 }
