@@ -1,7 +1,7 @@
 {
   "team": "PHI",
   "season": "2026-27",
-  "generatedAt": "2026-11-22T18:01:41.380Z",
+  "generatedAt": "2026-11-24T13:04:02.852Z",
   "rows": [
     {
       "pos": "PG",
@@ -57,7 +57,7 @@
           "name": "Jaylen Brown",
           "slug": "jaylen-brown",
           "espnId": "3917376",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -68,7 +68,7 @@
           "name": "Jaylen Brown",
           "slug": "jaylen-brown",
           "espnId": "3917376",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Kentavious Caldwell-Pope",
@@ -86,7 +86,7 @@
           "name": "Dean Wade",
           "slug": "dean-wade",
           "espnId": "3912848",
-          "status": "DTD"
+          "status": null
         }
       ]
     },
@@ -103,7 +103,7 @@
           "name": "Dean Wade",
           "slug": "dean-wade",
           "espnId": "3912848",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Dominick Barlow",
@@ -126,13 +126,13 @@
           "name": "Joel Embiid",
           "slug": "joel-embiid",
           "espnId": "3059318",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Adem Bona",
           "slug": "adem-bona",
           "espnId": "5105637",
-          "status": "OUT"
+          "status": null
         },
         {
           "name": "Dominick Barlow",

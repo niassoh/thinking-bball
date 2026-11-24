@@ -1,7 +1,7 @@
 {
   "team": "LAC",
   "season": "2026-27",
-  "generatedAt": "2026-11-21T18:03:48.506Z",
+  "generatedAt": "2026-11-24T13:03:58.561Z",
   "rows": [
     {
       "pos": "PG",
@@ -65,6 +65,12 @@
       "pos": "SF",
       "players": [
         {
+          "name": "Brandon Ingram",
+          "slug": "brandon-ingram",
+          "espnId": "3913176",
+          "status": null
+        },
+        {
           "name": "Derrick Jones Jr.",
           "slug": "derrick-jones-jr",
           "espnId": "3936099",
@@ -80,12 +86,6 @@
           "name": "Max Strus",
           "slug": "max-strus",
           "espnId": "4065778",
-          "status": null
-        },
-        {
-          "name": "Kobe Sanders",
-          "slug": "kobe-sanders",
-          "espnId": "4702352",
           "status": null
         }
       ]
