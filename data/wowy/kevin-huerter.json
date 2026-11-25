@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DET",
-  "gp": 16,
-  "generatedAt": "2026-11-23T14:03:24.698Z",
+  "gp": 17,
+  "generatedAt": "2026-11-25T14:57:23.910Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DET",
-      "minutes": 431,
-      "poss": 884,
-      "net": 4.1
+      "minutes": 464,
+      "poss": 949,
+      "net": 5.6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DET",
-      "minutes": 347,
-      "poss": 699,
-      "net": 5.9
-    },
-    {
-      "label": "On, w/o Cunningham",
-      "sub": "2026–27 · DET",
-      "minutes": 185,
-      "poss": 385,
-      "net": 11.4
+      "minutes": 362,
+      "poss": 728,
+      "net": 5.8
     },
     {
       "label": "On, w/o Jenkins",
       "sub": "2026–27 · DET",
-      "minutes": 125,
-      "poss": 254,
-      "net": -5.1
+      "minutes": 126,
+      "poss": 256,
+      "net": -4.7
+    },
+    {
+      "label": "On, w/o Cunningham",
+      "sub": "2026–27 · DET",
+      "minutes": 218,
+      "poss": 450,
+      "net": 13.6
     },
     {
       "label": "On, w/o Thompson",
       "sub": "2026–27 · DET",
-      "minutes": 231,
-      "poss": 487,
-      "net": 6.2
+      "minutes": 241,
+      "poss": 506,
+      "net": 6.1
     },
     {
-      "label": "Neither Huerter nor Cunningham",
+      "label": "Neither Huerter nor Jenkins",
       "sub": "2026–27 · DET",
-      "minutes": 71,
-      "poss": 146,
-      "net": 2.7
+      "minutes": 176,
+      "poss": 355,
+      "net": 2.3
     }
   ]
 }

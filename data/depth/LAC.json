@@ -1,7 +1,7 @@
 {
   "team": "LAC",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:03:58.561Z",
+  "generatedAt": "2026-11-25T14:01:26.555Z",
   "rows": [
     {
       "pos": "PG",
@@ -13,56 +13,27 @@
           "status": null
         },
         {
-          "name": "Keaton Wagler",
-          "slug": "keaton-wagler",
-          "espnId": "5254165",
-          "status": null
-        },
-        {
           "name": "Kris Dunn",
           "slug": "kris-dunn",
           "espnId": "2991139",
           "status": null
         },
         {
-          "name": "Bradley Beal",
-          "slug": "bradley-beal",
-          "espnId": "6580",
-          "status": "OUT"
+          "name": "Keaton Wagler",
+          "slug": "keaton-wagler",
+          "espnId": "5254165",
+          "status": null
+        },
+        {
+          "name": "Jalen Pickett",
+          "slug": "jalen-pickett",
+          "espnId": "4398390",
+          "status": null
         }
       ]
     },
     {
       "pos": "SG",
-      "players": [
-        {
-          "name": "Max Strus",
-          "slug": "max-strus",
-          "espnId": "4065778",
-          "status": null
-        },
-        {
-          "name": "Kris Dunn",
-          "slug": "kris-dunn",
-          "espnId": "2991139",
-          "status": null
-        },
-        {
-          "name": "Bradley Beal",
-          "slug": "bradley-beal",
-          "espnId": "6580",
-          "status": "OUT"
-        },
-        {
-          "name": "Keaton Wagler",
-          "slug": "keaton-wagler",
-          "espnId": "5254165",
-          "status": null
-        }
-      ]
-    },
-    {
-      "pos": "SF",
       "players": [
         {
           "name": "Brandon Ingram",
@@ -71,21 +42,50 @@
           "status": null
         },
         {
-          "name": "Derrick Jones Jr.",
-          "slug": "derrick-jones-jr",
-          "espnId": "3936099",
-          "status": null
-        },
-        {
-          "name": "Gradey Dick",
-          "slug": "gradey-dick",
-          "espnId": "5106258",
+          "name": "Keaton Wagler",
+          "slug": "keaton-wagler",
+          "espnId": "5254165",
           "status": null
         },
         {
           "name": "Max Strus",
           "slug": "max-strus",
           "espnId": "4065778",
+          "status": null
+        },
+        {
+          "name": "Kris Dunn",
+          "slug": "kris-dunn",
+          "espnId": "2991139",
+          "status": null
+        }
+      ]
+    },
+    {
+      "pos": "SF",
+      "players": [
+        {
+          "name": "Derrick Jones Jr.",
+          "slug": "derrick-jones-jr",
+          "espnId": "3936099",
+          "status": null
+        },
+        {
+          "name": "Max Strus",
+          "slug": "max-strus",
+          "espnId": "4065778",
+          "status": null
+        },
+        {
+          "name": "Kobe Sanders",
+          "slug": "kobe-sanders",
+          "espnId": "4702352",
+          "status": null
+        },
+        {
+          "name": "Gradey Dick",
+          "slug": "gradey-dick",
+          "espnId": "5106258",
           "status": null
         }
       ]

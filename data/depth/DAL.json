@@ -1,7 +1,7 @@
 {
   "team": "DAL",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:03:55.861Z",
+  "generatedAt": "2026-11-25T14:01:24.073Z",
   "rows": [
     {
       "pos": "PG",
@@ -13,22 +13,22 @@
           "status": null
         },
         {
-          "name": "Marcus Sasser",
-          "slug": "marcus-sasser",
-          "espnId": "4432107",
-          "status": null
-        },
-        {
           "name": "Walter Clayton Jr.",
           "slug": "walter-clayton-jr",
           "espnId": "4896372",
           "status": null
         },
         {
-          "name": "Sergio de Larrea",
-          "slug": "sergio-de-larrea",
-          "espnId": "5279129",
-          "status": "OUT"
+          "name": "Marcus Sasser",
+          "slug": "marcus-sasser",
+          "espnId": "4432107",
+          "status": null
+        },
+        {
+          "name": "Cooper Flagg",
+          "slug": "cooper-flagg",
+          "espnId": "5041939",
+          "status": null
         }
       ]
     },
@@ -97,7 +97,7 @@
           "name": "P.J. Washington",
           "slug": "pj-washington",
           "espnId": "4278078",
-          "status": "DTD"
+          "status": null
         },
         {
           "name": "Naji Marshall",
@@ -141,9 +141,9 @@
           "status": null
         },
         {
-          "name": "Moussa Cisse",
-          "slug": "moussa-cisse",
-          "espnId": "4701208",
+          "name": "P.J. Washington",
+          "slug": "pj-washington",
+          "espnId": "4278078",
           "status": null
         }
       ]

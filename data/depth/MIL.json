@@ -1,7 +1,7 @@
 {
   "team": "MIL",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:04:00.462Z",
+  "generatedAt": "2026-11-25T14:01:28.065Z",
   "rows": [
     {
       "pos": "PG",
@@ -19,15 +19,15 @@
           "status": null
         },
         {
-          "name": "Kasparas Jakucionis",
-          "slug": "kasparas-jakucionis",
-          "espnId": "5214640",
-          "status": null
-        },
-        {
           "name": "Tyler Herro",
           "slug": "tyler-herro",
           "espnId": "4395725",
+          "status": null
+        },
+        {
+          "name": "Kasparas Jakucionis",
+          "slug": "kasparas-jakucionis",
+          "espnId": "5214640",
           "status": null
         }
       ]
@@ -42,9 +42,9 @@
           "status": null
         },
         {
-          "name": "AJ Green",
-          "slug": "aj-green",
-          "espnId": "4397475",
+          "name": "Brayden Burries",
+          "slug": "brayden-burries",
+          "espnId": "5082206",
           "status": null
         },
         {
@@ -54,9 +54,9 @@
           "status": null
         },
         {
-          "name": "Brayden Burries",
-          "slug": "brayden-burries",
-          "espnId": "5082206",
+          "name": "Jaime Jaquez Jr.",
+          "slug": "jaime-jaquez-jr",
+          "espnId": "4432848",
           "status": null
         }
       ]
@@ -64,12 +64,6 @@
     {
       "pos": "SF",
       "players": [
-        {
-          "name": "Kyle Kuzma",
-          "slug": "kyle-kuzma",
-          "espnId": "3134907",
-          "status": null
-        },
         {
           "name": "Jaime Jaquez Jr.",
           "slug": "jaime-jaquez-jr",
@@ -83,9 +77,15 @@
           "status": null
         },
         {
-          "name": "AJ Green",
-          "slug": "aj-green",
-          "espnId": "4397475",
+          "name": "Nate Ament",
+          "slug": "nate-ament",
+          "espnId": "5164559",
+          "status": null
+        },
+        {
+          "name": "Kyle Kuzma",
+          "slug": "kyle-kuzma",
+          "espnId": "3134907",
           "status": null
         }
       ]
@@ -94,9 +94,9 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Myles Turner",
-          "slug": "myles-turner",
-          "espnId": "3133628",
+          "name": "Kyle Kuzma",
+          "slug": "kyle-kuzma",
+          "espnId": "3134907",
           "status": null
         },
         {
@@ -112,9 +112,9 @@
           "status": null
         },
         {
-          "name": "Kyle Kuzma",
-          "slug": "kyle-kuzma",
-          "espnId": "3134907",
+          "name": "Jaime Jaquez Jr.",
+          "slug": "jaime-jaquez-jr",
+          "espnId": "4432848",
           "status": null
         }
       ]
@@ -123,9 +123,9 @@
       "pos": "C",
       "players": [
         {
-          "name": "Jericho Sims",
-          "slug": "jericho-sims",
-          "espnId": "4277922",
+          "name": "Myles Turner",
+          "slug": "myles-turner",
+          "espnId": "3133628",
           "status": null
         },
         {
@@ -135,9 +135,9 @@
           "status": null
         },
         {
-          "name": "Myles Turner",
-          "slug": "myles-turner",
-          "espnId": "3133628",
+          "name": "Jericho Sims",
+          "slug": "jericho-sims",
+          "espnId": "4277922",
           "status": null
         },
         {

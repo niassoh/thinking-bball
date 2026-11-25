@@ -1,7 +1,7 @@
 {
   "team": "PHI",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:04:02.852Z",
+  "generatedAt": "2026-11-25T14:01:30.406Z",
   "rows": [
     {
       "pos": "PG",
@@ -71,12 +71,6 @@
           "status": null
         },
         {
-          "name": "Kentavious Caldwell-Pope",
-          "slug": "kentavious-caldwell-pope",
-          "espnId": "2581018",
-          "status": null
-        },
-        {
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
@@ -86,6 +80,12 @@
           "name": "Dean Wade",
           "slug": "dean-wade",
           "espnId": "3912848",
+          "status": null
+        },
+        {
+          "name": "Kentavious Caldwell-Pope",
+          "slug": "kentavious-caldwell-pope",
+          "espnId": "2581018",
           "status": null
         }
       ]
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Dominick Barlow",
-          "slug": "dominick-barlow",
-          "espnId": "4870562",
-          "status": null
-        },
-        {
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
+          "status": null
+        },
+        {
+          "name": "Dominick Barlow",
+          "slug": "dominick-barlow",
+          "espnId": "4870562",
           "status": null
         }
       ]
@@ -129,12 +129,6 @@
           "status": "DTD"
         },
         {
-          "name": "Adem Bona",
-          "slug": "adem-bona",
-          "espnId": "5105637",
-          "status": null
-        },
-        {
           "name": "Dominick Barlow",
           "slug": "dominick-barlow",
           "espnId": "4870562",
@@ -144,6 +138,12 @@
           "name": "Jabari Walker",
           "slug": "jabari-walker",
           "espnId": "4432446",
+          "status": null
+        },
+        {
+          "name": "Adem Bona",
+          "slug": "adem-bona",
+          "espnId": "5105637",
           "status": null
         }
       ]
