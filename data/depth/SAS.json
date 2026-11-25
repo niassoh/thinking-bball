@@ -1,7 +1,7 @@
 {
   "team": "SAS",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:04:04.499Z",
+  "generatedAt": "2026-11-25T14:01:31.956Z",
   "rows": [
     {
       "pos": "PG",
@@ -13,12 +13,6 @@
           "status": "DTD"
         },
         {
-          "name": "Dylan Harper",
-          "slug": "dylan-harper",
-          "espnId": "5037871",
-          "status": "OUT"
-        },
-        {
           "name": "Jordan McLaughlin",
           "slug": "jordan-mclaughlin",
           "espnId": "3134916",
@@ -28,6 +22,12 @@
           "name": "Ja'Kobi Gillespie",
           "slug": "ja-kobi-gillespie",
           "espnId": "5107968",
+          "status": null
+        },
+        {
+          "name": "David Jones Garcia",
+          "slug": "david-jones-garcia",
+          "espnId": "4713010",
           "status": null
         }
       ]
@@ -42,16 +42,16 @@
           "status": null
         },
         {
+          "name": "Keldon Johnson",
+          "slug": "keldon-johnson",
+          "espnId": "4395723",
+          "status": null
+        },
+        {
           "name": "Julian Champagnie",
           "slug": "julian-champagnie",
           "espnId": "4592479",
           "status": null
-        },
-        {
-          "name": "Dylan Harper",
-          "slug": "dylan-harper",
-          "espnId": "5037871",
-          "status": "OUT"
         },
         {
           "name": "Jordan McLaughlin",
@@ -65,27 +65,27 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Dylan Harper",
-          "slug": "dylan-harper",
-          "espnId": "5037871",
-          "status": "OUT"
-        },
-        {
-          "name": "Keldon Johnson",
-          "slug": "keldon-johnson",
-          "espnId": "4395723",
-          "status": null
-        },
-        {
           "name": "Devin Vassell",
           "slug": "devin-vassell",
           "espnId": "4395630",
           "status": null
         },
         {
+          "name": "Harrison Barnes",
+          "slug": "harrison-barnes",
+          "espnId": "6578",
+          "status": null
+        },
+        {
           "name": "Julian Champagnie",
           "slug": "julian-champagnie",
           "espnId": "4592479",
+          "status": null
+        },
+        {
+          "name": "Keldon Johnson",
+          "slug": "keldon-johnson",
+          "espnId": "4395723",
           "status": null
         }
       ]
@@ -94,21 +94,21 @@
       "pos": "PF",
       "players": [
         {
-          "name": "Devin Vassell",
-          "slug": "devin-vassell",
-          "espnId": "4395630",
-          "status": null
-        },
-        {
-          "name": "Tobias Harris",
-          "slug": "tobias-harris",
-          "espnId": "6440",
-          "status": "OUT"
-        },
-        {
           "name": "Julian Champagnie",
           "slug": "julian-champagnie",
           "espnId": "4592479",
+          "status": null
+        },
+        {
+          "name": "Carter Bryant",
+          "slug": "carter-bryant",
+          "espnId": "5061568",
+          "status": null
+        },
+        {
+          "name": "Harrison Barnes",
+          "slug": "harrison-barnes",
+          "espnId": "6578",
           "status": null
         },
         {

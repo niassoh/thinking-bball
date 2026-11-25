@@ -1,7 +1,7 @@
 {
   "team": "NYK",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:04:01.606Z",
+  "generatedAt": "2026-11-25T14:01:29.253Z",
   "rows": [
     {
       "pos": "PG",
@@ -25,10 +25,10 @@
           "status": null
         },
         {
-          "name": "Jordan Clarkson",
-          "slug": "jordan-clarkson",
-          "espnId": "2528426",
-          "status": "OUT"
+          "name": "Miles McBride",
+          "slug": "miles-mcbride",
+          "espnId": "4431823",
+          "status": "DTD"
         }
       ]
     },
@@ -39,7 +39,7 @@
           "name": "Josh Hart",
           "slug": "josh-hart",
           "espnId": "3062679",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Miles McBride",
@@ -71,12 +71,6 @@
           "status": null
         },
         {
-          "name": "Jordan Clarkson",
-          "slug": "jordan-clarkson",
-          "espnId": "2528426",
-          "status": "OUT"
-        },
-        {
           "name": "Landry Shamet",
           "slug": "landry-shamet",
           "espnId": "3914044",
@@ -86,7 +80,13 @@
           "name": "Josh Hart",
           "slug": "josh-hart",
           "espnId": "3062679",
-          "status": null
+          "status": "DTD"
+        },
+        {
+          "name": "Jordan Clarkson",
+          "slug": "jordan-clarkson",
+          "espnId": "2528426",
+          "status": "OUT"
         }
       ]
     },
@@ -97,7 +97,7 @@
           "name": "OG Anunoby",
           "slug": "og-anunoby",
           "espnId": "3934719",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Landry Shamet",
@@ -106,16 +106,16 @@
           "status": null
         },
         {
-          "name": "Karl-Anthony Towns",
-          "slug": "karl-anthony-towns",
-          "espnId": "3136195",
+          "name": "Pacome Dadiet",
+          "slug": "pacome-dadiet",
+          "espnId": "5211983",
           "status": null
         },
         {
-          "name": "Josh Hart",
-          "slug": "josh-hart",
-          "espnId": "3062679",
-          "status": null
+          "name": "Karl-Anthony Towns",
+          "slug": "karl-anthony-towns",
+          "espnId": "3136195",
+          "status": "DTD"
         }
       ]
     },
@@ -126,7 +126,7 @@
           "name": "Karl-Anthony Towns",
           "slug": "karl-anthony-towns",
           "espnId": "3136195",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Andre Drummond",

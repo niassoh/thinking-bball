@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DEN",
-  "gp": 14,
-  "generatedAt": "2026-11-23T14:07:08.302Z",
+  "gp": 15,
+  "generatedAt": "2026-11-25T15:01:22.210Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DEN",
-      "minutes": 315,
-      "poss": 619,
-      "net": -8.7
+      "minutes": 332,
+      "poss": 652,
+      "net": -8.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DEN",
-      "minutes": 415,
-      "poss": 868,
-      "net": 9.3
-    },
-    {
-      "label": "On, w/o Jokić",
-      "sub": "2026–27 · DEN",
-      "minutes": 132,
-      "poss": 250,
-      "net": -16
+      "minutes": 446,
+      "poss": 937,
+      "net": 6.7
     },
     {
       "label": "On, w/o Murray",
       "sub": "2026–27 · DEN",
-      "minutes": 127,
-      "poss": 262,
-      "net": -21.4
+      "minutes": 137,
+      "poss": 280,
+      "net": -22.2
+    },
+    {
+      "label": "On, w/o Jokić",
+      "sub": "2026–27 · DEN",
+      "minutes": 143,
+      "poss": 269,
+      "net": -16
     },
     {
       "label": "On, w/o Braun",
       "sub": "2026–27 · DEN",
-      "minutes": 184,
-      "poss": 366,
-      "net": -15.6
+      "minutes": 199,
+      "poss": 393,
+      "net": -14.2
     },
     {
-      "label": "Neither DeRozan nor Jokić",
+      "label": "Neither DeRozan nor Murray",
       "sub": "2026–27 · DEN",
-      "minutes": 41,
-      "poss": 77,
-      "net": 1.3
+      "minutes": 50,
+      "poss": 110,
+      "net": -14.5
     }
   ]
 }

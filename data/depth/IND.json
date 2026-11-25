@@ -1,7 +1,7 @@
 {
   "team": "IND",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:03:58.140Z",
+  "generatedAt": "2026-11-25T14:01:26.136Z",
   "rows": [
     {
       "pos": "PG",
@@ -19,15 +19,15 @@
           "status": "DTD"
         },
         {
-          "name": "Quenton Jackson",
-          "slug": "quenton-jackson",
-          "espnId": "4592829",
-          "status": null
-        },
-        {
           "name": "Braden Smith",
           "slug": "braden-smith",
           "espnId": "5105854",
+          "status": null
+        },
+        {
+          "name": "Quenton Jackson",
+          "slug": "quenton-jackson",
+          "espnId": "4592829",
           "status": null
         }
       ]
@@ -48,16 +48,16 @@
           "status": null
         },
         {
+          "name": "Braden Smith",
+          "slug": "braden-smith",
+          "espnId": "5105854",
+          "status": null
+        },
+        {
           "name": "Andrew Nembhard",
           "slug": "andrew-nembhard",
           "espnId": "4395712",
           "status": null
-        },
-        {
-          "name": "Aaron Nesmith",
-          "slug": "aaron-nesmith",
-          "espnId": "4396909",
-          "status": "DTD"
         }
       ]
     },
@@ -77,15 +77,15 @@
           "status": null
         },
         {
-          "name": "Kelly Oubre Jr.",
-          "slug": "kelly-oubre-jr",
-          "espnId": "3133603",
-          "status": null
-        },
-        {
           "name": "Quenton Jackson",
           "slug": "quenton-jackson",
           "espnId": "4592829",
+          "status": null
+        },
+        {
+          "name": "Kelly Oubre Jr.",
+          "slug": "kelly-oubre-jr",
+          "espnId": "3133603",
           "status": null
         }
       ]
@@ -129,21 +129,21 @@
           "status": null
         },
         {
-          "name": "Jay Huff",
-          "slug": "jay-huff",
-          "espnId": "4065731",
-          "status": null
-        },
-        {
           "name": "Larry Nance Jr.",
           "slug": "larry-nance-jr",
           "espnId": "2580365",
           "status": "DTD"
         },
         {
-          "name": "Kobe Brown",
-          "slug": "kobe-brown",
-          "espnId": "4431752",
+          "name": "Jay Huff",
+          "slug": "jay-huff",
+          "espnId": "4065731",
+          "status": null
+        },
+        {
+          "name": "Obi Toppin",
+          "slug": "obi-toppin",
+          "espnId": "4278355",
           "status": null
         }
       ]

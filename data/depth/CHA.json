@@ -1,7 +1,7 @@
 {
   "team": "CHA",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:03:54.472Z",
+  "generatedAt": "2026-11-25T14:01:22.139Z",
   "rows": [
     {
       "pos": "PG",
@@ -51,7 +51,7 @@
           "name": "Sion James",
           "slug": "sion-james",
           "espnId": "4602025",
-          "status": null
+          "status": "DTD"
         },
         {
           "name": "Coby White",
@@ -65,15 +65,15 @@
       "pos": "SF",
       "players": [
         {
-          "name": "Grant Williams",
-          "slug": "grant-williams",
-          "espnId": "4066218",
-          "status": "DTD"
-        },
-        {
           "name": "Sion James",
           "slug": "sion-james",
           "espnId": "4602025",
+          "status": "DTD"
+        },
+        {
+          "name": "Grant Williams",
+          "slug": "grant-williams",
+          "espnId": "4066218",
           "status": null
         },
         {
@@ -109,13 +109,13 @@
           "name": "Grant Williams",
           "slug": "grant-williams",
           "espnId": "4066218",
-          "status": "DTD"
+          "status": null
         },
         {
-          "name": "Tidjane Salaun",
-          "slug": "tidjane-salaun",
-          "espnId": "5211176",
-          "status": null
+          "name": "Sion James",
+          "slug": "sion-james",
+          "espnId": "4602025",
+          "status": "DTD"
         }
       ]
     },

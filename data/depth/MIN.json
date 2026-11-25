@@ -1,7 +1,7 @@
 {
   "team": "MIN",
   "season": "2026-27",
-  "generatedAt": "2026-11-20T13:03:29.340Z",
+  "generatedAt": "2026-11-25T14:01:28.459Z",
   "rows": [
     {
       "pos": "PG",
@@ -48,15 +48,15 @@
           "status": null
         },
         {
-          "name": "Isaiah Evans",
-          "slug": "isaiah-evans",
-          "espnId": "5061585",
-          "status": null
-        },
-        {
           "name": "Bones Hyland",
           "slug": "bones-hyland",
           "espnId": "4592492",
+          "status": null
+        },
+        {
+          "name": "Isaiah Evans",
+          "slug": "isaiah-evans",
+          "espnId": "5061585",
           "status": null
         }
       ]
@@ -71,12 +71,6 @@
           "status": null
         },
         {
-          "name": "Jaylen Clark",
-          "slug": "jaylen-clark",
-          "espnId": "4432247",
-          "status": "OUT"
-        },
-        {
           "name": "Jaden McDaniels",
           "slug": "jaden-mcdaniels",
           "espnId": "4431671",
@@ -86,6 +80,12 @@
           "name": "Terrence Shannon Jr.",
           "slug": "terrence-shannon-jr",
           "espnId": "4432847",
+          "status": null
+        },
+        {
+          "name": "Ayo Dosunmu",
+          "slug": "ayo-dosunmu",
+          "espnId": "4397002",
           "status": null
         }
       ]

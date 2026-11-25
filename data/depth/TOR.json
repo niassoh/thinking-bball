@@ -1,7 +1,7 @@
 {
   "team": "TOR",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:04:04.856Z",
+  "generatedAt": "2026-11-25T14:01:32.336Z",
   "rows": [
     {
       "pos": "PG",
@@ -19,15 +19,15 @@
           "status": null
         },
         {
-          "name": "Ja'Kobe Walter",
-          "slug": "ja-kobe-walter",
-          "espnId": "4684272",
-          "status": null
-        },
-        {
           "name": "Scottie Barnes",
           "slug": "scottie-barnes",
           "espnId": "4433134",
+          "status": null
+        },
+        {
+          "name": "Ja'Kobe Walter",
+          "slug": "ja-kobe-walter",
+          "espnId": "4684272",
           "status": null
         }
       ]
@@ -42,15 +42,15 @@
           "status": null
         },
         {
-          "name": "Jamal Shead",
-          "slug": "jamal-shead",
-          "espnId": "4432241",
-          "status": null
-        },
-        {
           "name": "Alijah Martin",
           "slug": "alijah-martin",
           "espnId": "4702656",
+          "status": null
+        },
+        {
+          "name": "Jamal Shead",
+          "slug": "jamal-shead",
+          "espnId": "4432241",
           "status": null
         },
         {
@@ -65,6 +65,12 @@
       "pos": "SF",
       "players": [
         {
+          "name": "Allen Graves",
+          "slug": "allen-graves",
+          "espnId": "5149115",
+          "status": null
+        },
+        {
           "name": "Jamison Battle",
           "slug": "jamison-battle",
           "espnId": "4431893",
@@ -74,12 +80,6 @@
           "name": "Ja'Kobe Walter",
           "slug": "ja-kobe-walter",
           "espnId": "4684272",
-          "status": null
-        },
-        {
-          "name": "Allen Graves",
-          "slug": "allen-graves",
-          "espnId": "5149115",
           "status": null
         },
         {
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "Kyle Anderson",
-          "slug": "kyle-anderson",
-          "espnId": "2993874",
-          "status": null
-        },
-        {
           "name": "Allen Graves",
           "slug": "allen-graves",
           "espnId": "5149115",
+          "status": null
+        },
+        {
+          "name": "Jamison Battle",
+          "slug": "jamison-battle",
+          "espnId": "4431893",
           "status": null
         }
       ]
@@ -122,12 +122,6 @@
     {
       "pos": "C",
       "players": [
-        {
-          "name": "Collin Murray-Boyles",
-          "slug": "collin-murray-boyles",
-          "espnId": "5093267",
-          "status": null
-        },
         {
           "name": "Jakob Poeltl",
           "slug": "jakob-poeltl",
@@ -138,6 +132,12 @@
           "name": "Trayce Jackson-Davis",
           "slug": "trayce-jackson-davis",
           "espnId": "4431684",
+          "status": null
+        },
+        {
+          "name": "Collin Murray-Boyles",
+          "slug": "collin-murray-boyles",
+          "espnId": "5093267",
           "status": null
         },
         {

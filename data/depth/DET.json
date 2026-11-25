@@ -1,7 +1,7 @@
 {
   "team": "DET",
   "season": "2026-27",
-  "generatedAt": "2026-11-24T13:03:56.671Z",
+  "generatedAt": "2026-11-25T14:01:24.885Z",
   "rows": [
     {
       "pos": "PG",
@@ -10,7 +10,7 @@
           "name": "Cade Cunningham",
           "slug": "cade-cunningham",
           "espnId": "4432166",
-          "status": "DTD"
+          "status": "OUT"
         },
         {
           "name": "Daniss Jenkins",
@@ -19,16 +19,16 @@
           "status": null
         },
         {
-          "name": "Ebuka Okorie",
-          "slug": "ebuka-okorie",
-          "espnId": "5258459",
-          "status": "OUT"
-        },
-        {
           "name": "Elijah Harkless",
           "slug": "elijah-harkless",
           "espnId": "4397449",
           "status": null
+        },
+        {
+          "name": "Ebuka Okorie",
+          "slug": "ebuka-okorie",
+          "espnId": "5258459",
+          "status": "OUT"
         }
       ]
     },
@@ -42,6 +42,12 @@
           "status": null
         },
         {
+          "name": "Isaiah Joe",
+          "slug": "isaiah-joe",
+          "espnId": "4395702",
+          "status": null
+        },
+        {
           "name": "Kevin Huerter",
           "slug": "kevin-huerter",
           "espnId": "4066372",
@@ -52,12 +58,6 @@
           "slug": "duncan-robinson",
           "espnId": "3157465",
           "status": "OUT"
-        },
-        {
-          "name": "Isaiah Joe",
-          "slug": "isaiah-joe",
-          "espnId": "4395702",
-          "status": null
         }
       ]
     },
@@ -71,21 +71,21 @@
           "status": "OUT"
         },
         {
-          "name": "Isaiah Joe",
-          "slug": "isaiah-joe",
-          "espnId": "4395702",
-          "status": null
-        },
-        {
-          "name": "Ausar Thompson",
-          "slug": "ausar-thompson",
-          "espnId": "4684742",
-          "status": null
-        },
-        {
           "name": "Kevin Huerter",
           "slug": "kevin-huerter",
           "espnId": "4066372",
+          "status": null
+        },
+        {
+          "name": "Ronald Holland II",
+          "slug": "ronald-holland-ii",
+          "espnId": "4683771",
+          "status": null
+        },
+        {
+          "name": "Isaiah Joe",
+          "slug": "isaiah-joe",
+          "espnId": "4395702",
           "status": null
         }
       ]
@@ -106,15 +106,15 @@
           "status": null
         },
         {
-          "name": "John Collins",
-          "slug": "john-collins",
-          "espnId": "3908845",
-          "status": null
-        },
-        {
           "name": "Ronald Holland II",
           "slug": "ronald-holland-ii",
           "espnId": "4683771",
+          "status": null
+        },
+        {
+          "name": "John Collins",
+          "slug": "john-collins",
+          "espnId": "3908845",
           "status": null
         }
       ]

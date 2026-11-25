@@ -1,7 +1,7 @@
 {
   "team": "WAS",
   "season": "2026-27",
-  "generatedAt": "2026-11-23T13:03:53.602Z",
+  "generatedAt": "2026-11-25T14:01:33.087Z",
   "rows": [
     {
       "pos": "PG",
@@ -48,15 +48,15 @@
           "status": null
         },
         {
-          "name": "Bub Carrington",
-          "slug": "bub-carrington",
-          "espnId": "4845374",
-          "status": null
-        },
-        {
           "name": "Will Riley",
           "slug": "will-riley",
           "espnId": "5144126",
+          "status": null
+        },
+        {
+          "name": "Bub Carrington",
+          "slug": "bub-carrington",
+          "espnId": "4845374",
           "status": null
         }
       ]
@@ -77,15 +77,15 @@
           "status": null
         },
         {
-          "name": "Justin Champagnie",
-          "slug": "justin-champagnie",
-          "espnId": "4432907",
-          "status": "OUT"
+          "name": "Khris Middleton",
+          "slug": "khris-middleton",
+          "espnId": "6609",
+          "status": null
         },
         {
-          "name": "Tre Johnson",
-          "slug": "tre-johnson",
-          "espnId": "5238230",
+          "name": "Will Riley",
+          "slug": "will-riley",
+          "espnId": "5144126",
           "status": null
         }
       ]
@@ -100,12 +100,6 @@
           "status": null
         },
         {
-          "name": "Justin Champagnie",
-          "slug": "justin-champagnie",
-          "espnId": "4432907",
-          "status": "OUT"
-        },
-        {
           "name": "Khris Middleton",
           "slug": "khris-middleton",
           "espnId": "6609",
@@ -115,6 +109,12 @@
           "name": "Will Riley",
           "slug": "will-riley",
           "espnId": "5144126",
+          "status": null
+        },
+        {
+          "name": "AJ Dybantsa",
+          "slug": "aj-dybantsa",
+          "espnId": "5142718",
           "status": null
         }
       ]
@@ -135,10 +135,10 @@
           "status": null
         },
         {
-          "name": "Tristan Vukcevic",
-          "slug": "tristan-vukcevic",
-          "espnId": "4997537",
-          "status": "OUT"
+          "name": "Anthony Davis",
+          "slug": "anthony-davis",
+          "espnId": "6583",
+          "status": null
         },
         {
           "name": "Anthony Gill",

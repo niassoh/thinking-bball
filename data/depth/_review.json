@@ -60,19 +60,25 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "sergio-de-larrea",
+    "status": "OUT",
+    "team": "Dallas Mavericks",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "tarik-biberovic",
     "status": "OUT",
     "team": "Dallas Mavericks",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "jalen-duren",
+    "slug": "taurean-prince",
     "status": "OUT",
     "team": "Detroit Pistons",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "taurean-prince",
+    "slug": "jalen-duren",
     "status": "OUT",
     "team": "Detroit Pistons",
     "reason": "injured but not on a depth chart"
@@ -108,21 +114,39 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "johnny-furphy",
-    "status": "OUT",
-    "team": "Indiana Pacers",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "ben-sheppard",
     "status": "OUT",
     "team": "Indiana Pacers",
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "bradley-beal",
+    "status": "OUT",
+    "team": "LA Clippers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "jordan-miller",
     "status": "OUT",
     "team": "LA Clippers",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "scotty-pippen-jr",
+    "status": "OUT",
+    "team": "Memphis Grizzlies",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "cameron-boozer",
+    "status": "OUT",
+    "team": "Memphis Grizzlies",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "jerami-grant",
+    "status": "OUT",
+    "team": "Memphis Grizzlies",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -138,19 +162,31 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "anthony-edwards",
-    "status": "OUT",
-    "team": "Minnesota Timberwolves",
-    "reason": "injured but not on a depth chart"
-  },
-  {
     "slug": "donte-divincenzo",
     "status": "OUT",
     "team": "Minnesota Timberwolves",
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "jaylen-clark",
+    "status": "OUT",
+    "team": "Minnesota Timberwolves",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "anthony-edwards",
+    "status": "OUT",
+    "team": "Minnesota Timberwolves",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "trendon-watford",
+    "status": "OUT",
+    "team": "New Orleans Pelicans",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "bennedict-mathurin",
     "status": "OUT",
     "team": "New Orleans Pelicans",
     "reason": "injured but not on a depth chart"
@@ -177,6 +213,12 @@
     "slug": "chet-holmgren",
     "status": "OUT",
     "team": "Oklahoma City Thunder",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "jonathan-isaac",
+    "status": "OUT",
+    "team": "Orlando Magic",
     "reason": "injured but not on a depth chart"
   },
   {
@@ -246,13 +288,25 @@
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "nate-bittle",
+    "slug": "dylan-harper",
+    "status": "OUT",
+    "team": "San Antonio Spurs",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "tobias-harris",
+    "status": "OUT",
+    "team": "San Antonio Spurs",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "kawhi-leonard",
     "status": "OUT",
     "team": "Toronto Raptors",
     "reason": "injured but not on a depth chart"
   },
   {
-    "slug": "kawhi-leonard",
+    "slug": "nate-bittle",
     "status": "OUT",
     "team": "Toronto Raptors",
     "reason": "injured but not on a depth chart"
@@ -282,7 +336,19 @@
     "reason": "injured but not on a depth chart"
   },
   {
+    "slug": "tristan-vukcevic",
+    "status": "OUT",
+    "team": "Washington Wizards",
+    "reason": "injured but not on a depth chart"
+  },
+  {
     "slug": "reece-beekman",
+    "status": "OUT",
+    "team": "Washington Wizards",
+    "reason": "injured but not on a depth chart"
+  },
+  {
+    "slug": "justin-champagnie",
     "status": "OUT",
     "team": "Washington Wizards",
     "reason": "injured but not on a depth chart"

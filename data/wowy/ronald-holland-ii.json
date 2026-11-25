@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "DET",
-  "gp": 13,
-  "generatedAt": "2026-11-23T14:12:02.034Z",
+  "gp": 14,
+  "generatedAt": "2026-11-25T15:04:50.867Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · DET",
-      "minutes": 200,
-      "poss": 428,
-      "net": -9.6
+      "minutes": 217,
+      "poss": 463,
+      "net": -7.8
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · DET",
-      "minutes": 578,
-      "poss": 1155,
-      "net": 10.2
-    },
-    {
-      "label": "On, w/o Cunningham",
-      "sub": "2026–27 · DET",
-      "minutes": 114,
-      "poss": 247,
-      "net": 0.8
+      "minutes": 609,
+      "poss": 1214,
+      "net": 10.8
     },
     {
       "label": "On, w/o Jenkins",
       "sub": "2026–27 · DET",
-      "minutes": 71,
-      "poss": 151,
-      "net": -22.6
+      "minutes": 79,
+      "poss": 167,
+      "net": -19.2
+    },
+    {
+      "label": "On, w/o Cunningham",
+      "sub": "2026–27 · DET",
+      "minutes": 131,
+      "poss": 282,
+      "net": 2.5
     },
     {
       "label": "On, w/o Thompson",
       "sub": "2026–27 · DET",
-      "minutes": 188,
-      "poss": 400,
-      "net": -5.3
+      "minutes": 205,
+      "poss": 435,
+      "net": -3.7
     },
     {
-      "label": "Neither Holland II nor Cunningham",
+      "label": "Neither Holland II nor Jenkins",
       "sub": "2026–27 · DET",
-      "minutes": 141,
-      "poss": 284,
-      "net": 16.2
+      "minutes": 224,
+      "poss": 444,
+      "net": 6.3
     }
   ]
 }
