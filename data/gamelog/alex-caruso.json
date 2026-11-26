@@ -1,13 +1,25 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-11-25T14:55:10.379Z",
+  "generatedAt": "2026-11-26T13:36:33.242Z",
   "recent": {
-    "start": "2026-10-26",
-    "end": "2026-11-24",
+    "start": "2026-10-27",
+    "end": "2026-11-25",
     "games": 9,
-    "seasonGames": 12
+    "seasonGames": 13
   },
   "games": [
+    {
+      "date": "2026-11-25",
+      "gameId": "0022600058",
+      "opp": "MIN",
+      "home": true,
+      "result": "L",
+      "pts": 11,
+      "reb": 2,
+      "ast": 2,
+      "ts": 61.1,
+      "oppRank": 2
+    },
     {
       "date": "2026-11-18",
       "gameId": "0022600265",
@@ -42,7 +54,7 @@
       "reb": 1,
       "ast": 4,
       "ts": 25,
-      "oppRank": 23
+      "oppRank": 24
     },
     {
       "date": "2026-11-11",
@@ -54,19 +66,7 @@
       "reb": 7,
       "ast": 2,
       "ts": 100,
-      "oppRank": 7
-    },
-    {
-      "date": "2026-11-10",
-      "gameId": "0022600216",
-      "opp": "POR",
-      "home": false,
-      "result": "L",
-      "pts": 5,
-      "reb": 2,
-      "ast": 1,
-      "ts": 41.7,
-      "oppRank": 7
+      "oppRank": 8
     }
   ]
 }

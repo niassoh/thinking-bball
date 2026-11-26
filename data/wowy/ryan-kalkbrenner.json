@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "CHA",
   "gp": 16,
-  "generatedAt": "2026-11-24T13:47:18.103Z",
+  "generatedAt": "2026-11-26T13:50:23.218Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHA",
-      "minutes": 492,
-      "poss": 975,
-      "net": -16.4
+      "minutes": 540,
+      "poss": 1065,
+      "net": -15.2
     },
     {
       "label": "On, w/o Reid",
@@ -26,13 +26,6 @@
       "net": -0.9
     },
     {
-      "label": "On, w/o James",
-      "sub": "2026–27 · CHA",
-      "minutes": 143,
-      "poss": 290,
-      "net": -12.4
-    },
-    {
       "label": "On, w/o Miller",
       "sub": "2026–27 · CHA",
       "minutes": 149,
@@ -40,11 +33,18 @@
       "net": 2.6
     },
     {
+      "label": "On, w/o James",
+      "sub": "2026–27 · CHA",
+      "minutes": 143,
+      "poss": 290,
+      "net": -12.4
+    },
+    {
       "label": "Neither Kalkbrenner nor Reid",
       "sub": "2026–27 · CHA",
-      "minutes": 155,
-      "poss": 307,
-      "net": -13.4
+      "minutes": 168,
+      "poss": 333,
+      "net": -12.6
     }
   ]
 }

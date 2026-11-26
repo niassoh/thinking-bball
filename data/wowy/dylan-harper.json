@@ -2,7 +2,7 @@
   "season": "2026-27",
   "team": "SAS",
   "gp": 15,
-  "generatedAt": "2026-11-24T13:30:51.186Z",
+  "generatedAt": "2026-11-26T13:33:19.758Z",
   "rows": [
     {
       "label": "Team, he’s on",
@@ -14,9 +14,9 @@
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · SAS",
-      "minutes": 401,
-      "poss": 808,
-      "net": 0.1
+      "minutes": 449,
+      "poss": 907,
+      "net": -0.4
     },
     {
       "label": "On, w/o Castle",
@@ -33,18 +33,18 @@
       "net": -4.9
     },
     {
-      "label": "On, w/o Champagnie",
+      "label": "On, w/o Vassell",
       "sub": "2026–27 · SAS",
-      "minutes": 234,
-      "poss": 472,
-      "net": 22
+      "minutes": 162,
+      "poss": 327,
+      "net": 22.1
     },
     {
       "label": "Neither Harper nor Castle",
       "sub": "2026–27 · SAS",
-      "minutes": 182,
-      "poss": 372,
-      "net": -6.5
+      "minutes": 196,
+      "poss": 398,
+      "net": -7.5
     }
   ]
 }

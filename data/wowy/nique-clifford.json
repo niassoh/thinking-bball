@@ -1,29 +1,29 @@
 {
   "season": "2026-27",
   "team": "OKC",
-  "gp": 16,
-  "generatedAt": "2026-11-24T13:40:03.885Z",
+  "gp": 17,
+  "generatedAt": "2026-11-26T13:42:18.010Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · OKC",
-      "minutes": 131,
-      "poss": 267,
-      "net": -10.1
+      "minutes": 143,
+      "poss": 290,
+      "net": -11.4
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · OKC",
-      "minutes": 733,
-      "poss": 1514,
-      "net": 5.6
+      "minutes": 769,
+      "poss": 1588,
+      "net": 5.2
     },
     {
       "label": "On, w/o Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 94,
-      "poss": 190,
-      "net": -4.2
+      "minutes": 99,
+      "poss": 201,
+      "net": -1
     },
     {
       "label": "On, w/o McCain",
@@ -35,16 +35,16 @@
     {
       "label": "On, w/o Hartenstein",
       "sub": "2026–27 · OKC",
-      "minutes": 81,
-      "poss": 164,
-      "net": -4.3
+      "minutes": 93,
+      "poss": 188,
+      "net": -6.9
     },
     {
       "label": "Neither Clifford nor Gilgeous-Alexander",
       "sub": "2026–27 · OKC",
-      "minutes": 198,
-      "poss": 397,
-      "net": -2.8
+      "minutes": 203,
+      "poss": 407,
+      "net": -2.2
     }
   ]
 }

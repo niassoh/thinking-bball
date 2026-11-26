@@ -1,10 +1,10 @@
 {
   "season": "2026-27",
-  "generatedAt": "2026-11-25T15:59:05.081Z",
+  "generatedAt": "2026-11-26T13:45:09.291Z",
   "recent": {
-    "start": "2026-10-26",
-    "end": "2026-11-24",
-    "games": 14,
+    "start": "2026-10-27",
+    "end": "2026-11-25",
+    "games": 13,
     "seasonGames": 16
   },
   "games": [
@@ -30,7 +30,7 @@
       "reb": 10,
       "ast": 6,
       "ts": 56.5,
-      "oppRank": 18
+      "oppRank": 14
     },
     {
       "date": "2026-11-18",
@@ -42,7 +42,7 @@
       "reb": 8,
       "ast": 3,
       "ts": 52.2,
-      "oppRank": 16
+      "oppRank": 15
     },
     {
       "date": "2026-11-16",
@@ -66,7 +66,7 @@
       "reb": 6,
       "ast": 6,
       "ts": 80,
-      "oppRank": 12
+      "oppRank": 13
     }
   ]
 }

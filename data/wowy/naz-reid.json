@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "CHA",
-  "gp": 16,
-  "generatedAt": "2026-11-24T13:47:40.990Z",
+  "gp": 17,
+  "generatedAt": "2026-11-26T13:50:45.457Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · CHA",
-      "minutes": 504,
-      "poss": 1012,
-      "net": -12
+      "minutes": 540,
+      "poss": 1077,
+      "net": -11.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · CHA",
-      "minutes": 269,
-      "poss": 528,
-      "net": -8.2
-    },
-    {
-      "label": "On, w/o James",
-      "sub": "2026–27 · CHA",
-      "minutes": 175,
-      "poss": 351,
-      "net": -17.9
+      "minutes": 281,
+      "poss": 554,
+      "net": -7.9
     },
     {
       "label": "On, w/o Miller",
       "sub": "2026–27 · CHA",
-      "minutes": 233,
-      "poss": 475,
-      "net": -15.4
+      "minutes": 243,
+      "poss": 492,
+      "net": -14.8
+    },
+    {
+      "label": "On, w/o James",
+      "sub": "2026–27 · CHA",
+      "minutes": 185,
+      "poss": 369,
+      "net": -18.2
     },
     {
       "label": "On, w/o Diabaté",
       "sub": "2026–27 · CHA",
-      "minutes": 197,
-      "poss": 409,
-      "net": -2.9
+      "minutes": 200,
+      "poss": 417,
+      "net": -3.8
     },
     {
-      "label": "Neither Reid nor James",
+      "label": "Neither Reid nor Miller",
       "sub": "2026–27 · CHA",
-      "minutes": 161,
-      "poss": 314,
-      "net": -0.3
+      "minutes": 110,
+      "poss": 223,
+      "net": -15.3
     }
   ]
 }
