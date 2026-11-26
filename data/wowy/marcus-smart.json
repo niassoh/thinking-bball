@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "HOU",
-  "gp": 12,
-  "generatedAt": "2026-11-24T13:34:07.690Z",
+  "gp": 13,
+  "generatedAt": "2026-11-26T13:36:31.704Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · HOU",
-      "minutes": 268,
-      "poss": 533,
-      "net": 9.4
+      "minutes": 286,
+      "poss": 568,
+      "net": 8.6
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · HOU",
-      "minutes": 606,
-      "poss": 1223,
-      "net": 7.5
+      "minutes": 636,
+      "poss": 1280,
+      "net": 8.2
     },
     {
       "label": "On, w/o Durant",
       "sub": "2026–27 · HOU",
-      "minutes": 82,
-      "poss": 164,
-      "net": 0
+      "minutes": 89,
+      "poss": 180,
+      "net": -5
     },
     {
       "label": "On, w/o Smith Jr.",
       "sub": "2026–27 · HOU",
-      "minutes": 93,
-      "poss": 196,
-      "net": 2
+      "minutes": 103,
+      "poss": 214,
+      "net": 3.7
     },
     {
       "label": "On, w/o Thompson",
       "sub": "2026–27 · HOU",
-      "minutes": 163,
-      "poss": 316,
-      "net": 26.9
+      "minutes": 175,
+      "poss": 340,
+      "net": 24.4
     },
     {
       "label": "Neither Smart nor Durant",
       "sub": "2026–27 · HOU",
-      "minutes": 180,
-      "poss": 352,
-      "net": 4.5
+      "minutes": 188,
+      "poss": 366,
+      "net": 3.6
     }
   ]
 }

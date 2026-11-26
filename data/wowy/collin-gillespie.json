@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "PHX",
-  "gp": 16,
-  "generatedAt": "2026-11-24T13:31:53.479Z",
+  "gp": 17,
+  "generatedAt": "2026-11-26T13:34:05.050Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · PHX",
-      "minutes": 397,
-      "poss": 806,
-      "net": 4.1
+      "minutes": 418,
+      "poss": 846,
+      "net": 4.3
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · PHX",
-      "minutes": 376,
-      "poss": 778,
-      "net": -5.4
+      "minutes": 403,
+      "poss": 830,
+      "net": -6.9
     },
     {
       "label": "On, w/o Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 176,
-      "poss": 344,
-      "net": 14.8
-    },
-    {
-      "label": "On, w/o Bridges",
-      "sub": "2026–27 · PHX",
-      "minutes": 212,
-      "poss": 422,
-      "net": 6.2
+      "minutes": 185,
+      "poss": 357,
+      "net": 15.1
     },
     {
       "label": "On, w/o Brooks",
       "sub": "2026–27 · PHX",
-      "minutes": 236,
-      "poss": 477,
+      "minutes": 246,
+      "poss": 499,
+      "net": 8.4
+    },
+    {
+      "label": "On, w/o Bridges",
+      "sub": "2026–27 · PHX",
+      "minutes": 231,
+      "poss": 456,
       "net": 7.5
     },
     {
       "label": "Neither Gillespie nor Booker",
       "sub": "2026–27 · PHX",
-      "minutes": 45,
-      "poss": 99,
-      "net": 5.1
+      "minutes": 48,
+      "poss": 105,
+      "net": 3.8
     }
   ]
 }

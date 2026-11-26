@@ -1,50 +1,50 @@
 {
   "season": "2026-27",
   "team": "HOU",
-  "gp": 15,
-  "generatedAt": "2026-11-24T13:33:28.302Z",
+  "gp": 16,
+  "generatedAt": "2026-11-26T13:35:54.695Z",
   "rows": [
     {
       "label": "Team, he’s on",
       "sub": "2026–27 · HOU",
-      "minutes": 300,
-      "poss": 614,
-      "net": 6.8
+      "minutes": 315,
+      "poss": 643,
+      "net": 4.7
     },
     {
       "label": "Team, he’s off",
       "sub": "2026–27 · HOU",
-      "minutes": 574,
-      "poss": 1141,
-      "net": 8.8
+      "minutes": 606,
+      "poss": 1204,
+      "net": 10.3
     },
     {
       "label": "On, w/o Durant",
       "sub": "2026–27 · HOU",
-      "minutes": 165,
-      "poss": 322,
-      "net": 0
+      "minutes": 178,
+      "poss": 346,
+      "net": -3.8
     },
     {
       "label": "On, w/o Smith Jr.",
       "sub": "2026–27 · HOU",
-      "minutes": 124,
-      "poss": 257,
-      "net": 0.4
+      "minutes": 135,
+      "poss": 276,
+      "net": -0.7
     },
     {
       "label": "On, w/o Thompson",
       "sub": "2026–27 · HOU",
-      "minutes": 148,
-      "poss": 304,
-      "net": 12.9
+      "minutes": 155,
+      "poss": 318,
+      "net": 9.1
     },
     {
       "label": "Neither Sheppard nor Durant",
       "sub": "2026–27 · HOU",
-      "minutes": 96,
-      "poss": 194,
-      "net": 8.2
+      "minutes": 99,
+      "poss": 199,
+      "net": 8.5
     }
   ]
 }
