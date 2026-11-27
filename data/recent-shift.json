@@ -7,7 +7,7 @@
   "start": "2026-10-27",
   "end": "2026-11-25"
  },
- "generatedAt": "2026-11-26T13:18:41.855Z",
+ "generatedAt": "2026-11-27T14:50:15.033Z",
  "players": {
   "victor-wembanyama": [
    {
@@ -93,7 +93,7 @@
     },
     "recent": {
      "value": 12.1,
-     "pctl": 61,
+     "pctl": 60,
      "mp": 454
     },
     "rest": {
@@ -457,11 +457,11 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 15.7,
-     "pctl": 69
+     "pctl": 68
     },
     "recent": {
      "value": 14.7,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 391
     },
     "rest": {
@@ -549,11 +549,11 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 10.8,
-     "pctl": 57
+     "pctl": 56
     },
     "recent": {
      "value": 10.7,
-     "pctl": 56,
+     "pctl": 55,
      "mp": 460
     },
     "rest": {
@@ -707,7 +707,7 @@
     },
     "recent": {
      "value": 1.6,
-     "pctl": 58,
+     "pctl": 57,
      "mp": 450
     },
     "rest": {
@@ -733,7 +733,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 22.4,
-     "pctl": 81
+     "pctl": 80
     },
     "recent": {
      "value": 22.6,
@@ -784,7 +784,7 @@
     },
     "recent": {
      "value": 32.8,
-     "pctl": 69,
+     "pctl": 68,
      "mp": 434
     },
     "rest": {
@@ -814,7 +814,7 @@
     },
     "recent": {
      "value": 8.8,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 434
     },
     "rest": {
@@ -921,7 +921,7 @@
     },
     "recent": {
      "value": 16,
-     "pctl": 70,
+     "pctl": 69,
      "mp": 365
     },
     "rest": {
@@ -1178,7 +1178,7 @@
     "stat": "Net On",
     "season": {
      "value": 7.8,
-     "pctl": 81
+     "pctl": 80
     },
     "recent": {
      "value": 10.1,
@@ -1270,11 +1270,11 @@
     "stat": "Net On",
     "season": {
      "value": 1.9,
-     "pctl": 60
+     "pctl": 59
     },
     "recent": {
      "value": -0.8,
-     "pctl": 51,
+     "pctl": 50,
      "mp": 424
     },
     "rest": {
@@ -1302,7 +1302,7 @@
     "stat": "BPM",
     "season": {
      "value": 4.4,
-     "pctl": 94
+     "pctl": 93
     },
     "recent": {
      "value": 5.3,
@@ -1351,7 +1351,7 @@
     },
     "recent": {
      "value": 2.8,
-     "pctl": 65,
+     "pctl": 64,
      "mp": 381
     },
     "rest": {
@@ -1413,7 +1413,7 @@
     },
     "recent": {
      "value": 1.7,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 368
     },
     "rest": {
@@ -1473,7 +1473,7 @@
     },
     "recent": {
      "value": 32.1,
-     "pctl": 94,
+     "pctl": 93,
      "mp": 368
     },
     "rest": {
@@ -1520,7 +1520,7 @@
     },
     "recent": {
      "value": 29.4,
-     "pctl": 59,
+     "pctl": 58,
      "mp": 418
     },
     "rest": {
@@ -1561,7 +1561,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 14.2,
-     "pctl": 67
+     "pctl": 66
     },
     "recent": {
      "value": 13.6,
@@ -1642,7 +1642,7 @@
     },
     "recent": {
      "value": 8.8,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 425
     },
     "rest": {
@@ -1715,11 +1715,11 @@
     "stat": "rTS%",
     "season": {
      "value": 2.8,
-     "pctl": 65
+     "pctl": 64
     },
     "recent": {
      "value": 1.9,
-     "pctl": 60,
+     "pctl": 59,
      "mp": 425
     },
     "rest": {
@@ -1745,7 +1745,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 10.7,
-     "pctl": 56
+     "pctl": 55
     },
     "recent": {
      "value": 11,
@@ -1777,7 +1777,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.1,
-     "pctl": 52
+     "pctl": 51
     },
     "recent": {
      "value": 0.1,
@@ -1792,11 +1792,11 @@
     "stat": "Load",
     "season": {
      "value": 26,
-     "pctl": 49
+     "pctl": 48
     },
     "recent": {
      "value": 25.9,
-     "pctl": 49,
+     "pctl": 48,
      "mp": 291
     },
     "rest": {
@@ -1903,7 +1903,7 @@
     },
     "recent": {
      "value": -1.5,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 517
     },
     "rest": {
@@ -1976,7 +1976,7 @@
     "stat": "Load",
     "season": {
      "value": 46.8,
-     "pctl": 94
+     "pctl": 93
     },
     "recent": {
      "value": 48.1,
@@ -2010,7 +2010,7 @@
     },
     "recent": {
      "value": -4,
-     "pctl": 34,
+     "pctl": 33,
      "mp": 322
     },
     "rest": {
@@ -2113,11 +2113,11 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 21.7,
-     "pctl": 80
+     "pctl": 79
     },
     "recent": {
      "value": 21.7,
-     "pctl": 80,
+     "pctl": 79,
      "mp": 476
     },
     "rest": {
@@ -2297,7 +2297,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 11.2,
-     "pctl": 59
+     "pctl": 58
     },
     "recent": {
      "value": 11.4,
@@ -2470,7 +2470,7 @@
     },
     "recent": {
      "value": 8,
-     "pctl": 82,
+     "pctl": 81,
      "mp": 472
     },
     "rest": {
@@ -2532,7 +2532,7 @@
     },
     "recent": {
      "value": 37.6,
-     "pctl": 80,
+     "pctl": 79,
      "mp": 494
     },
     "rest": {
@@ -2577,7 +2577,7 @@
     },
     "recent": {
      "value": 13.7,
-     "pctl": 66,
+     "pctl": 65,
      "mp": 494
     },
     "rest": {
@@ -2620,11 +2620,11 @@
     "stat": "Load",
     "season": {
      "value": 26.1,
-     "pctl": 50
+     "pctl": 49
     },
     "recent": {
      "value": 26.5,
-     "pctl": 52,
+     "pctl": 51,
      "mp": 346
     },
     "rest": {
@@ -2635,7 +2635,7 @@
     "stat": "rTS%",
     "season": {
      "value": 3.3,
-     "pctl": 68
+     "pctl": 67
     },
     "recent": {
      "value": 3.4,
@@ -2665,7 +2665,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 6.7,
-     "pctl": 38
+     "pctl": 37
     },
     "recent": {
      "value": 6.8,
@@ -2761,7 +2761,7 @@
     },
     "recent": {
      "value": 16.2,
-     "pctl": 70,
+     "pctl": 69,
      "mp": 500
     },
     "rest": {
@@ -2804,11 +2804,11 @@
     "stat": "Load",
     "season": {
      "value": 24.5,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": 25.5,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 423
     },
     "rest": {
@@ -2819,7 +2819,7 @@
     "stat": "rTS%",
     "season": {
      "value": -4.4,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -4.1,
@@ -2881,7 +2881,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": 3.8,
-     "pctl": 94
+     "pctl": 93
     },
     "recent": {
      "value": 3.2,
@@ -3018,11 +3018,11 @@
     "stat": "Net On",
     "season": {
      "value": -0.7,
-     "pctl": 51
+     "pctl": 50
     },
     "recent": {
      "value": -3.8,
-     "pctl": 35,
+     "pctl": 34,
      "mp": 498
     },
     "rest": {
@@ -3069,7 +3069,7 @@
     },
     "recent": {
      "value": 0.7,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 399
     },
     "rest": {
@@ -3157,7 +3157,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.7,
-     "pctl": 33
+     "pctl": 32
     },
     "recent": {
      "value": -2.3,
@@ -3202,7 +3202,7 @@
     "stat": "Net On",
     "season": {
      "value": 4.1,
-     "pctl": 69
+     "pctl": 68
     },
     "recent": {
      "value": -0.9,
@@ -3360,7 +3360,7 @@
     },
     "recent": {
      "value": 28.8,
-     "pctl": 57,
+     "pctl": 56,
      "mp": 452
     },
     "rest": {
@@ -3375,7 +3375,7 @@
     },
     "recent": {
      "value": 2.8,
-     "pctl": 65,
+     "pctl": 64,
      "mp": 452
     },
     "rest": {
@@ -3452,7 +3452,7 @@
     },
     "recent": {
      "value": 46.6,
-     "pctl": 94,
+     "pctl": 93,
      "mp": 440
     },
     "rest": {
@@ -3467,7 +3467,7 @@
     },
     "recent": {
      "value": -4.4,
-     "pctl": 24,
+     "pctl": 23,
      "mp": 440
     },
     "rest": {
@@ -3621,7 +3621,7 @@
     },
     "recent": {
      "value": 1.7,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 279
     },
     "rest": {
@@ -3666,7 +3666,7 @@
     },
     "recent": {
      "value": 4.8,
-     "pctl": 72,
+     "pctl": 71,
      "mp": 279
     },
     "rest": {
@@ -3724,11 +3724,11 @@
     "stat": "Load",
     "season": {
      "value": 25.3,
-     "pctl": 45
+     "pctl": 44
     },
     "recent": {
      "value": 24.9,
-     "pctl": 42,
+     "pctl": 41,
      "mp": 374
     },
     "rest": {
@@ -3743,7 +3743,7 @@
     },
     "recent": {
      "value": 3.2,
-     "pctl": 67,
+     "pctl": 66,
      "mp": 374
     },
     "rest": {
@@ -3942,7 +3942,7 @@
     },
     "recent": {
      "value": -0.7,
-     "pctl": 51,
+     "pctl": 50,
      "mp": 473
     },
     "rest": {
@@ -4000,11 +4000,11 @@
     "stat": "Load",
     "season": {
      "value": 26,
-     "pctl": 49
+     "pctl": 48
     },
     "recent": {
      "value": 27.1,
-     "pctl": 54,
+     "pctl": 53,
      "mp": 522
     },
     "rest": {
@@ -4049,7 +4049,7 @@
     },
     "recent": {
      "value": 16.2,
-     "pctl": 70,
+     "pctl": 69,
      "mp": 522
     },
     "rest": {
@@ -4062,11 +4062,11 @@
     "stat": "BPM",
     "season": {
      "value": 3.2,
-     "pctl": 83
+     "pctl": 82
     },
     "recent": {
      "value": 3.2,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 492
     },
     "rest": {
@@ -4092,7 +4092,7 @@
     "stat": "Load",
     "season": {
      "value": 46.8,
-     "pctl": 94
+     "pctl": 93
     },
     "recent": {
      "value": 47.9,
@@ -4107,7 +4107,7 @@
     "stat": "rTS%",
     "season": {
      "value": 2.9,
-     "pctl": 66
+     "pctl": 65
     },
     "recent": {
      "value": 2.3,
@@ -4158,7 +4158,7 @@
     },
     "recent": {
      "value": 3.2,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 206
     },
     "rest": {
@@ -4173,7 +4173,7 @@
     },
     "recent": {
      "value": -2.2,
-     "pctl": 6,
+     "pctl": 7,
      "mp": 206
     },
     "rest": {
@@ -4188,7 +4188,7 @@
     },
     "recent": {
      "value": 26.5,
-     "pctl": 52,
+     "pctl": 51,
      "mp": 206
     },
     "rest": {
@@ -4199,7 +4199,7 @@
     "stat": "rTS%",
     "season": {
      "value": 3.5,
-     "pctl": 70
+     "pctl": 69
     },
     "recent": {
      "value": 1.7,
@@ -4250,7 +4250,7 @@
     },
     "recent": {
      "value": 3.2,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 483
     },
     "rest": {
@@ -4276,11 +4276,11 @@
     "stat": "Load",
     "season": {
      "value": 24.5,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": 24.9,
-     "pctl": 42,
+     "pctl": 41,
      "mp": 483
     },
     "rest": {
@@ -4291,7 +4291,7 @@
     "stat": "rTS%",
     "season": {
      "value": 3.3,
-     "pctl": 68
+     "pctl": 67
     },
     "recent": {
      "value": 2.1,
@@ -4353,11 +4353,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.4,
-     "pctl": 43
+     "pctl": 42
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 366
     },
     "rest": {
@@ -4464,7 +4464,7 @@
     },
     "recent": {
      "value": 25.9,
-     "pctl": 49,
+     "pctl": 48,
      "mp": 334
     },
     "rest": {
@@ -4582,7 +4582,7 @@
     "stat": "Net On",
     "season": {
      "value": -11.6,
-     "pctl": 11
+     "pctl": 10
     },
     "recent": {
      "value": -7.7,
@@ -4689,11 +4689,11 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.1,
-     "pctl": 19
+     "pctl": 20
     },
     "recent": {
      "value": 5,
-     "pctl": 18,
+     "pctl": 19,
      "mp": 319
     },
     "rest": {
@@ -4706,7 +4706,7 @@
     "stat": "BPM",
     "season": {
      "value": 3.2,
-     "pctl": 83
+     "pctl": 82
     },
     "recent": {
      "value": 3,
@@ -4721,7 +4721,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": 0.7,
-     "pctl": 68
+     "pctl": 67
     },
     "recent": {
      "value": 0.5,
@@ -5042,7 +5042,7 @@
     "stat": "Net On",
     "season": {
      "value": 8,
-     "pctl": 82
+     "pctl": 81
     },
     "recent": {
      "value": 6.1,
@@ -5061,7 +5061,7 @@
     },
     "recent": {
      "value": 11.2,
-     "pctl": 59,
+     "pctl": 58,
      "mp": 422
     },
     "rest": {
@@ -5089,7 +5089,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": 3.8,
-     "pctl": 94
+     "pctl": 93
     },
     "recent": {
      "value": 4.7,
@@ -5170,7 +5170,7 @@
     },
     "recent": {
      "value": 2.8,
-     "pctl": 80,
+     "pctl": 79,
      "mp": 505
     },
     "rest": {
@@ -5181,7 +5181,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.1,
-     "pctl": 23
+     "pctl": 22
     },
     "recent": {
      "value": -0.3,
@@ -5230,7 +5230,7 @@
     },
     "recent": {
      "value": -0.3,
-     "pctl": 53,
+     "pctl": 52,
      "mp": 505
     },
     "rest": {
@@ -5262,7 +5262,7 @@
     },
     "recent": {
      "value": 2.8,
-     "pctl": 80,
+     "pctl": 79,
      "mp": 295
     },
     "rest": {
@@ -5288,7 +5288,7 @@
     "stat": "Load",
     "season": {
      "value": 21.4,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": 24.6,
@@ -5322,7 +5322,7 @@
     },
     "recent": {
      "value": 0.1,
-     "pctl": 54,
+     "pctl": 53,
      "mp": 295
     },
     "rest": {
@@ -5337,7 +5337,7 @@
     },
     "recent": {
      "value": 5.7,
-     "pctl": 29,
+     "pctl": 30,
      "mp": 295
     },
     "rest": {
@@ -5380,7 +5380,7 @@
     "stat": "Load",
     "season": {
      "value": 37.7,
-     "pctl": 80
+     "pctl": 79
     },
     "recent": {
      "value": 37.4,
@@ -5395,7 +5395,7 @@
     "stat": "rTS%",
     "season": {
      "value": 3.2,
-     "pctl": 67
+     "pctl": 66
     },
     "recent": {
      "value": 5.6,
@@ -5534,7 +5534,7 @@
     "stat": "BPM",
     "season": {
      "value": 2.8,
-     "pctl": 80
+     "pctl": 79
     },
     "recent": {
      "value": 2.6,
@@ -5594,7 +5594,7 @@
     "stat": "Net On",
     "season": {
      "value": 2.1,
-     "pctl": 61
+     "pctl": 60
     },
     "recent": {
      "value": 2.5,
@@ -5641,7 +5641,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.1,
-     "pctl": 52
+     "pctl": 51
     },
     "recent": {
      "value": 0.3,
@@ -5671,7 +5671,7 @@
     "stat": "rTS%",
     "season": {
      "value": -4.4,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -3.5,
@@ -5690,7 +5690,7 @@
     },
     "recent": {
      "value": 8.8,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 296
     },
     "rest": {
@@ -5752,7 +5752,7 @@
     },
     "recent": {
      "value": 32.1,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 371
     },
     "rest": {
@@ -5855,7 +5855,7 @@
     "stat": "rTS%",
     "season": {
      "value": 2.8,
-     "pctl": 65
+     "pctl": 64
     },
     "recent": {
      "value": 2.7,
@@ -5917,7 +5917,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.1,
-     "pctl": 23
+     "pctl": 22
     },
     "recent": {
      "value": -0.6,
@@ -6058,7 +6058,7 @@
     },
     "recent": {
      "value": -1.2,
-     "pctl": 49,
+     "pctl": 48,
      "mp": 384
     },
     "rest": {
@@ -6238,7 +6238,7 @@
     "stat": "Net On",
     "season": {
      "value": -6.8,
-     "pctl": 25
+     "pctl": 24
     },
     "recent": {
      "value": -2.7,
@@ -6304,7 +6304,7 @@
     },
     "recent": {
      "value": 25.3,
-     "pctl": 45,
+     "pctl": 44,
      "mp": 419
     },
     "rest": {
@@ -6488,7 +6488,7 @@
     },
     "recent": {
      "value": 26.7,
-     "pctl": 53,
+     "pctl": 52,
      "mp": 245
     },
     "rest": {
@@ -6518,7 +6518,7 @@
     },
     "recent": {
      "value": -11.2,
-     "pctl": 12,
+     "pctl": 11,
      "mp": 245
     },
     "rest": {
@@ -6546,7 +6546,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.5,
-     "pctl": 45
+     "pctl": 44
     },
     "recent": {
      "value": 2.2,
@@ -6606,7 +6606,7 @@
     "stat": "Net On",
     "season": {
      "value": 3.6,
-     "pctl": 67
+     "pctl": 66
     },
     "recent": {
      "value": 13.7,
@@ -6882,7 +6882,7 @@
     "stat": "Net On",
     "season": {
      "value": 4.8,
-     "pctl": 72
+     "pctl": 71
     },
     "recent": {
      "value": 11.6,
@@ -6901,7 +6901,7 @@
     },
     "recent": {
      "value": 6.5,
-     "pctl": 37,
+     "pctl": 36,
      "mp": 409
     },
     "rest": {
@@ -6914,7 +6914,7 @@
     "stat": "BPM",
     "season": {
      "value": 3.2,
-     "pctl": 83
+     "pctl": 82
     },
     "recent": {
      "value": 2.2,
@@ -6974,11 +6974,11 @@
     "stat": "Net On",
     "season": {
      "value": -1,
-     "pctl": 50
+     "pctl": 49
     },
     "recent": {
      "value": -5.4,
-     "pctl": 31,
+     "pctl": 30,
      "mp": 348
     },
     "rest": {
@@ -7040,7 +7040,7 @@
     },
     "recent": {
      "value": 32.2,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 448
     },
     "rest": {
@@ -7220,7 +7220,7 @@
     "stat": "Load",
     "season": {
      "value": 26.5,
-     "pctl": 52
+     "pctl": 51
     },
     "recent": {
      "value": 28,
@@ -7254,7 +7254,7 @@
     },
     "recent": {
      "value": 7.5,
-     "pctl": 80,
+     "pctl": 79,
      "mp": 438
     },
     "rest": {
@@ -7312,7 +7312,7 @@
     "stat": "Load",
     "season": {
      "value": 21.5,
-     "pctl": 25
+     "pctl": 24
     },
     "recent": {
      "value": 21.6,
@@ -7361,7 +7361,7 @@
     },
     "recent": {
      "value": 5.7,
-     "pctl": 29,
+     "pctl": 30,
      "mp": 420
     },
     "rest": {
@@ -7419,7 +7419,7 @@
     "stat": "rTS%",
     "season": {
      "value": 3.5,
-     "pctl": 70
+     "pctl": 69
     },
     "recent": {
      "value": 3.4,
@@ -7496,7 +7496,7 @@
     "stat": "Load",
     "season": {
      "value": 26.5,
-     "pctl": 52
+     "pctl": 51
     },
     "recent": {
      "value": 29,
@@ -7577,7 +7577,7 @@
     },
     "recent": {
      "value": 1.7,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 445
     },
     "rest": {
@@ -7757,7 +7757,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": 0.6,
-     "pctl": 66
+     "pctl": 65
     },
     "recent": {
      "value": 0.5,
@@ -7772,11 +7772,11 @@
     "stat": "Load",
     "season": {
      "value": 25.7,
-     "pctl": 47
+     "pctl": 46
     },
     "recent": {
      "value": 25.5,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 299
     },
     "rest": {
@@ -7802,11 +7802,11 @@
     "stat": "Net On",
     "season": {
      "value": 3.2,
-     "pctl": 65
+     "pctl": 64
     },
     "recent": {
      "value": 1,
-     "pctl": 57,
+     "pctl": 56,
      "mp": 299
     },
     "rest": {
@@ -7817,11 +7817,11 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.2,
-     "pctl": 20
+     "pctl": 21
     },
     "recent": {
      "value": 5.1,
-     "pctl": 19,
+     "pctl": 20,
      "mp": 299
     },
     "rest": {
@@ -7864,7 +7864,7 @@
     "stat": "Load",
     "season": {
      "value": 32.9,
-     "pctl": 69
+     "pctl": 68
     },
     "recent": {
      "value": 33.2,
@@ -7909,11 +7909,11 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 10.7,
-     "pctl": 56
+     "pctl": 55
     },
     "recent": {
      "value": 10.8,
-     "pctl": 57,
+     "pctl": 56,
      "mp": 460
     },
     "rest": {
@@ -8001,7 +8001,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 10.8,
-     "pctl": 57
+     "pctl": 56
     },
     "recent": {
      "value": 11.4,
@@ -8358,7 +8358,7 @@
     },
     "recent": {
      "value": -9.9,
-     "pctl": 15,
+     "pctl": 14,
      "mp": 189
     },
     "rest": {
@@ -8386,7 +8386,7 @@
     "stat": "BPM",
     "season": {
      "value": 1.2,
-     "pctl": 57
+     "pctl": 56
     },
     "recent": {
      "value": 1.8,
@@ -8435,7 +8435,7 @@
     },
     "recent": {
      "value": -8.3,
-     "pctl": 11,
+     "pctl": 10,
      "mp": 306
     },
     "rest": {
@@ -8542,7 +8542,7 @@
     },
     "recent": {
      "value": -2.9,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 355
     },
     "rest": {
@@ -8677,7 +8677,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": 0.6,
-     "pctl": 66
+     "pctl": 65
     },
     "recent": {
      "value": -0.5,
@@ -8722,7 +8722,7 @@
     "stat": "Net On",
     "season": {
      "value": 1.9,
-     "pctl": 60
+     "pctl": 59
     },
     "recent": {
      "value": -1.7,
@@ -8876,7 +8876,7 @@
     "stat": "Load",
     "season": {
      "value": 25.7,
-     "pctl": 47
+     "pctl": 46
     },
     "recent": {
      "value": 27.4,
@@ -8925,7 +8925,7 @@
     },
     "recent": {
      "value": 14.2,
-     "pctl": 67,
+     "pctl": 66,
      "mp": 388
     },
     "rest": {
@@ -8938,7 +8938,7 @@
     "stat": "BPM",
     "season": {
      "value": 1.2,
-     "pctl": 57
+     "pctl": 56
     },
     "recent": {
      "value": 1.5,
@@ -8968,7 +8968,7 @@
     "stat": "Load",
     "season": {
      "value": 27.1,
-     "pctl": 54
+     "pctl": 53
     },
     "recent": {
      "value": 27.5,
@@ -8998,7 +8998,7 @@
     "stat": "Net On",
     "season": {
      "value": 4.8,
-     "pctl": 72
+     "pctl": 71
     },
     "recent": {
      "value": 5.7,
@@ -9030,7 +9030,7 @@
     "stat": "BPM",
     "season": {
      "value": 1.2,
-     "pctl": 57
+     "pctl": 56
     },
     "recent": {
      "value": 1.5,
@@ -9075,11 +9075,11 @@
     "stat": "rTS%",
     "season": {
      "value": 1.9,
-     "pctl": 60
+     "pctl": 59
     },
     "recent": {
      "value": 1.9,
-     "pctl": 60,
+     "pctl": 59,
      "mp": 527
     },
     "rest": {
@@ -9090,11 +9090,11 @@
     "stat": "Net On",
     "season": {
      "value": -2.9,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": -5.5,
-     "pctl": 31,
+     "pctl": 30,
      "mp": 527
     },
     "rest": {
@@ -9229,11 +9229,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": 1.7,
-     "pctl": 83
+     "pctl": 82
     },
     "recent": {
      "value": 1.7,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 275
     },
     "rest": {
@@ -9259,7 +9259,7 @@
     "stat": "rTS%",
     "season": {
      "value": 6.1,
-     "pctl": 83
+     "pctl": 82
     },
     "recent": {
      "value": 4.6,
@@ -9340,7 +9340,7 @@
     },
     "recent": {
      "value": 19.5,
-     "pctl": 17,
+     "pctl": 16,
      "mp": 385
     },
     "rest": {
@@ -9447,7 +9447,7 @@
     },
     "recent": {
      "value": 2.8,
-     "pctl": 65,
+     "pctl": 64,
      "mp": 396
     },
     "rest": {
@@ -9462,7 +9462,7 @@
     },
     "recent": {
      "value": -2.9,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 396
     },
     "rest": {
@@ -9505,11 +9505,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.1,
-     "pctl": 52
+     "pctl": 51
     },
     "recent": {
      "value": 0.6,
-     "pctl": 66,
+     "pctl": 65,
      "mp": 247
     },
     "rest": {
@@ -9554,7 +9554,7 @@
     },
     "recent": {
      "value": -0.3,
-     "pctl": 53,
+     "pctl": 52,
      "mp": 247
     },
     "rest": {
@@ -9689,7 +9689,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.7,
-     "pctl": 33
+     "pctl": 32
     },
     "recent": {
      "value": -0.6,
@@ -9708,7 +9708,7 @@
     },
     "recent": {
      "value": 25.7,
-     "pctl": 47,
+     "pctl": 46,
      "mp": 367
     },
     "rest": {
@@ -9796,7 +9796,7 @@
     "stat": "Load",
     "season": {
      "value": 24.5,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": 25.2,
@@ -9877,7 +9877,7 @@
     },
     "recent": {
      "value": 1.7,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 306
     },
     "rest": {
@@ -9969,7 +9969,7 @@
     },
     "recent": {
      "value": -1.5,
-     "pctl": 14,
+     "pctl": 13,
      "mp": 307
     },
     "rest": {
@@ -10042,7 +10042,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.1,
-     "pctl": 36
+     "pctl": 35
     },
     "recent": {
      "value": 1.3,
@@ -10087,7 +10087,7 @@
     "stat": "rTS%",
     "season": {
      "value": -7.8,
-     "pctl": 12
+     "pctl": 11
     },
     "recent": {
      "value": -4.9,
@@ -10102,7 +10102,7 @@
     "stat": "Net On",
     "season": {
      "value": -7.1,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -2.1,
@@ -10138,7 +10138,7 @@
     },
     "recent": {
      "value": 1.2,
-     "pctl": 57,
+     "pctl": 56,
      "mp": 395
     },
     "rest": {
@@ -10183,7 +10183,7 @@
     },
     "recent": {
      "value": -4.4,
-     "pctl": 24,
+     "pctl": 23,
      "mp": 395
     },
     "rest": {
@@ -10194,11 +10194,11 @@
     "stat": "Net On",
     "season": {
      "value": -2.9,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": -6.6,
-     "pctl": 26,
+     "pctl": 25,
      "mp": 395
     },
     "rest": {
@@ -10226,11 +10226,11 @@
     "stat": "BPM",
     "season": {
      "value": 0.2,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": 1.2,
-     "pctl": 57,
+     "pctl": 56,
      "mp": 338
     },
     "rest": {
@@ -10256,7 +10256,7 @@
     "stat": "Load",
     "season": {
      "value": 19.1,
-     "pctl": 16
+     "pctl": 15
     },
     "recent": {
      "value": 18.3,
@@ -10286,7 +10286,7 @@
     "stat": "Net On",
     "season": {
      "value": -4.7,
-     "pctl": 32
+     "pctl": 31
     },
     "recent": {
      "value": 3.9,
@@ -10301,7 +10301,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.6,
-     "pctl": 28
+     "pctl": 29
     },
     "recent": {
      "value": 5.5,
@@ -10322,7 +10322,7 @@
     },
     "recent": {
      "value": 1.2,
-     "pctl": 57,
+     "pctl": 56,
      "mp": 385
     },
     "rest": {
@@ -10382,7 +10382,7 @@
     },
     "recent": {
      "value": -6.8,
-     "pctl": 25,
+     "pctl": 24,
      "mp": 385
     },
     "rest": {
@@ -10393,11 +10393,11 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 15.1,
-     "pctl": 68
+     "pctl": 67
     },
     "recent": {
      "value": 15.6,
-     "pctl": 69,
+     "pctl": 68,
      "mp": 385
     },
     "rest": {
@@ -10414,7 +10414,7 @@
     },
     "recent": {
      "value": 1.2,
-     "pctl": 57,
+     "pctl": 56,
      "mp": 400
     },
     "rest": {
@@ -10440,11 +10440,11 @@
     "stat": "Load",
     "season": {
      "value": 25.7,
-     "pctl": 47
+     "pctl": 46
     },
     "recent": {
      "value": 26.2,
-     "pctl": 51,
+     "pctl": 50,
      "mp": 400
     },
     "rest": {
@@ -10506,7 +10506,7 @@
     },
     "recent": {
      "value": 1.2,
-     "pctl": 57,
+     "pctl": 56,
      "mp": 376
     },
     "rest": {
@@ -10594,11 +10594,11 @@
     "stat": "BPM",
     "season": {
      "value": 0.5,
-     "pctl": 45
+     "pctl": 44
     },
     "recent": {
      "value": 1.2,
-     "pctl": 57,
+     "pctl": 56,
      "mp": 223
     },
     "rest": {
@@ -10654,7 +10654,7 @@
     "stat": "Net On",
     "season": {
      "value": 7.5,
-     "pctl": 80
+     "pctl": 79
     },
     "recent": {
      "value": 6.1,
@@ -10720,7 +10720,7 @@
     },
     "recent": {
      "value": 37.6,
-     "pctl": 80,
+     "pctl": 79,
      "mp": 439
     },
     "rest": {
@@ -10731,7 +10731,7 @@
     "stat": "rTS%",
     "season": {
      "value": -1.5,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": -2.7,
@@ -10778,7 +10778,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.5,
-     "pctl": 45
+     "pctl": 44
     },
     "recent": {
      "value": 1.1,
@@ -10797,7 +10797,7 @@
     },
     "recent": {
      "value": 1.7,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 346
     },
     "rest": {
@@ -10885,7 +10885,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.1,
-     "pctl": 23
+     "pctl": 22
     },
     "recent": {
      "value": -0.6,
@@ -10904,7 +10904,7 @@
     },
     "recent": {
      "value": 32.3,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 279
     },
     "rest": {
@@ -10930,7 +10930,7 @@
     "stat": "Net On",
     "season": {
      "value": -3.2,
-     "pctl": 37
+     "pctl": 36
     },
     "recent": {
      "value": -0.6,
@@ -11129,7 +11129,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.2,
-     "pctl": 20
+     "pctl": 21
     },
     "recent": {
      "value": 4.8,
@@ -11195,7 +11195,7 @@
     },
     "recent": {
      "value": 3.3,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 458
     },
     "rest": {
@@ -11210,7 +11210,7 @@
     },
     "recent": {
      "value": -3.8,
-     "pctl": 35,
+     "pctl": 34,
      "mp": 458
     },
     "rest": {
@@ -11272,7 +11272,7 @@
     },
     "recent": {
      "value": 26.5,
-     "pctl": 52,
+     "pctl": 51,
      "mp": 259
     },
     "rest": {
@@ -11298,7 +11298,7 @@
     "stat": "Net On",
     "season": {
      "value": -7.8,
-     "pctl": 22
+     "pctl": 21
     },
     "recent": {
      "value": -5.2,
@@ -11360,11 +11360,11 @@
     "stat": "Load",
     "season": {
      "value": 24.2,
-     "pctl": 37
+     "pctl": 36
     },
     "recent": {
      "value": 26.2,
-     "pctl": 51,
+     "pctl": 50,
      "mp": 339
     },
     "rest": {
@@ -11437,7 +11437,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.1,
-     "pctl": 23
+     "pctl": 22
     },
     "recent": {
      "value": -1.4,
@@ -11482,11 +11482,11 @@
     "stat": "Net On",
     "season": {
      "value": -6.1,
-     "pctl": 28
+     "pctl": 27
     },
     "recent": {
      "value": -7.5,
-     "pctl": 23,
+     "pctl": 22,
      "mp": 302
     },
     "rest": {
@@ -11497,11 +11497,11 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.7,
-     "pctl": 29
+     "pctl": 30
     },
     "recent": {
      "value": 5.6,
-     "pctl": 28,
+     "pctl": 29,
      "mp": 302
     },
     "rest": {
@@ -11518,7 +11518,7 @@
     },
     "recent": {
      "value": 0.9,
-     "pctl": 51,
+     "pctl": 50,
      "mp": 297
     },
     "rest": {
@@ -11544,11 +11544,11 @@
     "stat": "Load",
     "season": {
      "value": 25.1,
-     "pctl": 44
+     "pctl": 43
     },
     "recent": {
      "value": 26.1,
-     "pctl": 50,
+     "pctl": 49,
      "mp": 297
     },
     "rest": {
@@ -11574,7 +11574,7 @@
     "stat": "Net On",
     "season": {
      "value": -0.7,
-     "pctl": 51
+     "pctl": 50
     },
     "recent": {
      "value": -8.1,
@@ -11593,7 +11593,7 @@
     },
     "recent": {
      "value": 5.7,
-     "pctl": 29,
+     "pctl": 30,
      "mp": 297
     },
     "rest": {
@@ -11610,7 +11610,7 @@
     },
     "recent": {
      "value": 0.9,
-     "pctl": 51,
+     "pctl": 50,
      "mp": 396
     },
     "rest": {
@@ -11640,7 +11640,7 @@
     },
     "recent": {
      "value": 24.8,
-     "pctl": 42,
+     "pctl": 41,
      "mp": 396
     },
     "rest": {
@@ -11666,7 +11666,7 @@
     "stat": "Net On",
     "season": {
      "value": -0.3,
-     "pctl": 53
+     "pctl": 52
     },
     "recent": {
      "value": 5.7,
@@ -11698,11 +11698,11 @@
     "stat": "BPM",
     "season": {
      "value": 0.1,
-     "pctl": 36
+     "pctl": 35
     },
     "recent": {
      "value": 0.9,
-     "pctl": 51,
+     "pctl": 50,
      "mp": 169
     },
     "rest": {
@@ -11758,7 +11758,7 @@
     "stat": "Net On",
     "season": {
      "value": -0.7,
-     "pctl": 51
+     "pctl": 50
     },
     "recent": {
      "value": 0.5,
@@ -11794,7 +11794,7 @@
     },
     "recent": {
      "value": 0.9,
-     "pctl": 51,
+     "pctl": 50,
      "mp": 319
     },
     "rest": {
@@ -11882,7 +11882,7 @@
     "stat": "BPM",
     "season": {
      "value": -0.3,
-     "pctl": 30
+     "pctl": 29
     },
     "recent": {
      "value": 0.8,
@@ -11897,11 +11897,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.9,
-     "pctl": 28
+     "pctl": 27
     },
     "recent": {
      "value": -1.1,
-     "pctl": 23,
+     "pctl": 22,
      "mp": 211
     },
     "rest": {
@@ -11912,7 +11912,7 @@
     "stat": "Load",
     "season": {
      "value": 29.1,
-     "pctl": 58
+     "pctl": 57
     },
     "recent": {
      "value": 29.5,
@@ -11942,11 +11942,11 @@
     "stat": "Net On",
     "season": {
      "value": -2.8,
-     "pctl": 40
+     "pctl": 39
     },
     "recent": {
      "value": -3.8,
-     "pctl": 35,
+     "pctl": 34,
      "mp": 211
     },
     "rest": {
@@ -11974,7 +11974,7 @@
     "stat": "BPM",
     "season": {
      "value": 1.2,
-     "pctl": 57
+     "pctl": 56
     },
     "recent": {
      "value": 0.8,
@@ -12019,11 +12019,11 @@
     "stat": "rTS%",
     "season": {
      "value": 3.2,
-     "pctl": 67
+     "pctl": 66
     },
     "recent": {
      "value": 3.3,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 348
     },
     "rest": {
@@ -12038,7 +12038,7 @@
     },
     "recent": {
      "value": -4.3,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 348
     },
     "rest": {
@@ -12053,7 +12053,7 @@
     },
     "recent": {
      "value": 5.2,
-     "pctl": 20,
+     "pctl": 21,
      "mp": 348
     },
     "rest": {
@@ -12158,7 +12158,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.6,
-     "pctl": 46
+     "pctl": 45
     },
     "recent": {
      "value": 0.7,
@@ -12218,11 +12218,11 @@
     "stat": "Net On",
     "season": {
      "value": -9.6,
-     "pctl": 16
+     "pctl": 15
     },
     "recent": {
      "value": -11.7,
-     "pctl": 11,
+     "pctl": 10,
      "mp": 510
     },
     "rest": {
@@ -12284,7 +12284,7 @@
     },
     "recent": {
      "value": 27.8,
-     "pctl": 55,
+     "pctl": 54,
      "mp": 463
     },
     "rest": {
@@ -12310,11 +12310,11 @@
     "stat": "Net On",
     "season": {
      "value": -13.3,
-     "pctl": 6
+     "pctl": 5
     },
     "recent": {
      "value": -13.9,
-     "pctl": 5,
+     "pctl": 4,
      "mp": 463
     },
     "rest": {
@@ -12406,7 +12406,7 @@
     },
     "recent": {
      "value": 3.3,
-     "pctl": 66,
+     "pctl": 65,
      "mp": 490
     },
     "rest": {
@@ -12453,7 +12453,7 @@
     },
     "recent": {
      "value": -0.4,
-     "pctl": 43,
+     "pctl": 42,
      "mp": 378
     },
     "rest": {
@@ -12464,7 +12464,7 @@
     "stat": "Load",
     "season": {
      "value": 21.4,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": 21.6,
@@ -12494,11 +12494,11 @@
     "stat": "Net On",
     "season": {
      "value": -6.4,
-     "pctl": 27
+     "pctl": 26
     },
     "recent": {
      "value": -6.1,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 378
     },
     "rest": {
@@ -12526,11 +12526,11 @@
     "stat": "BPM",
     "season": {
      "value": 0.1,
-     "pctl": 36
+     "pctl": 35
     },
     "recent": {
      "value": 0.6,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 343
     },
     "rest": {
@@ -12601,7 +12601,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.6,
-     "pctl": 28
+     "pctl": 29
     },
     "recent": {
      "value": 5.9,
@@ -12622,7 +12622,7 @@
     },
     "recent": {
      "value": 0.6,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 517
     },
     "rest": {
@@ -12697,7 +12697,7 @@
     },
     "recent": {
      "value": 31.8,
-     "pctl": 94,
+     "pctl": 93,
      "mp": 517
     },
     "rest": {
@@ -12714,7 +12714,7 @@
     },
     "recent": {
      "value": 0.6,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 238
     },
     "rest": {
@@ -12806,7 +12806,7 @@
     },
     "recent": {
      "value": 0.6,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 421
     },
     "rest": {
@@ -12821,7 +12821,7 @@
     },
     "recent": {
      "value": -0.9,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 421
     },
     "rest": {
@@ -12877,7 +12877,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 10.7,
-     "pctl": 56
+     "pctl": 55
     },
     "recent": {
      "value": 10.6,
@@ -12898,7 +12898,7 @@
     },
     "recent": {
      "value": 0.6,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 381
     },
     "rest": {
@@ -12990,7 +12990,7 @@
     },
     "recent": {
      "value": 0.6,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 337
     },
     "rest": {
@@ -13005,7 +13005,7 @@
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 337
     },
     "rest": {
@@ -13020,7 +13020,7 @@
     },
     "recent": {
      "value": 37.6,
-     "pctl": 80,
+     "pctl": 79,
      "mp": 337
     },
     "rest": {
@@ -13082,7 +13082,7 @@
     },
     "recent": {
      "value": 0.5,
-     "pctl": 45,
+     "pctl": 44,
      "mp": 319
     },
     "rest": {
@@ -13097,7 +13097,7 @@
     },
     "recent": {
      "value": 0.6,
-     "pctl": 66,
+     "pctl": 65,
      "mp": 319
     },
     "rest": {
@@ -13174,7 +13174,7 @@
     },
     "recent": {
      "value": 0.5,
-     "pctl": 45,
+     "pctl": 44,
      "mp": 368
     },
     "rest": {
@@ -13185,11 +13185,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": 0.6,
-     "pctl": 66
+     "pctl": 65
     },
     "recent": {
      "value": -0.1,
-     "pctl": 52,
+     "pctl": 51,
      "mp": 368
     },
     "rest": {
@@ -13200,7 +13200,7 @@
     "stat": "Load",
     "season": {
      "value": 39.2,
-     "pctl": 83
+     "pctl": 82
     },
     "recent": {
      "value": 41.5,
@@ -13266,7 +13266,7 @@
     },
     "recent": {
      "value": 0.5,
-     "pctl": 45,
+     "pctl": 44,
      "mp": 418
     },
     "rest": {
@@ -13311,7 +13311,7 @@
     },
     "recent": {
      "value": -8.3,
-     "pctl": 11,
+     "pctl": 10,
      "mp": 418
     },
     "rest": {
@@ -13322,7 +13322,7 @@
     "stat": "Net On",
     "season": {
      "value": 4.4,
-     "pctl": 70
+     "pctl": 69
     },
     "recent": {
      "value": 2.7,
@@ -13354,7 +13354,7 @@
     "stat": "BPM",
     "season": {
      "value": 1.2,
-     "pctl": 57
+     "pctl": 56
     },
     "recent": {
      "value": 0.4,
@@ -13373,7 +13373,7 @@
     },
     "recent": {
      "value": -0.4,
-     "pctl": 43,
+     "pctl": 42,
      "mp": 339
     },
     "rest": {
@@ -13418,7 +13418,7 @@
     },
     "recent": {
      "value": -8.6,
-     "pctl": 20,
+     "pctl": 19,
      "mp": 339
     },
     "rest": {
@@ -13461,11 +13461,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": 0.7,
-     "pctl": 68
+     "pctl": 67
     },
     "recent": {
      "value": 0.6,
-     "pctl": 66,
+     "pctl": 65,
      "mp": 473
     },
     "rest": {
@@ -13495,7 +13495,7 @@
     },
     "recent": {
      "value": 1.6,
-     "pctl": 58,
+     "pctl": 57,
      "mp": 473
     },
     "rest": {
@@ -13587,7 +13587,7 @@
     },
     "recent": {
      "value": -9.4,
-     "pctl": 8,
+     "pctl": 7,
      "mp": 169
     },
     "rest": {
@@ -13602,7 +13602,7 @@
     },
     "recent": {
      "value": -4,
-     "pctl": 34,
+     "pctl": 33,
      "mp": 169
     },
     "rest": {
@@ -13675,7 +13675,7 @@
     "stat": "rTS%",
     "season": {
      "value": -4.4,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -5.2,
@@ -13722,7 +13722,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.2,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": 0.4,
@@ -13741,7 +13741,7 @@
     },
     "recent": {
      "value": -0.9,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 280
     },
     "rest": {
@@ -13771,7 +13771,7 @@
     },
     "recent": {
      "value": -1.5,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 280
     },
     "rest": {
@@ -13829,11 +13829,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.4,
-     "pctl": 43
+     "pctl": 42
     },
     "recent": {
      "value": 0.6,
-     "pctl": 66,
+     "pctl": 65,
      "mp": 332
     },
     "rest": {
@@ -13844,11 +13844,11 @@
     "stat": "Load",
     "season": {
      "value": 24.2,
-     "pctl": 37
+     "pctl": 36
     },
     "recent": {
      "value": 24.9,
-     "pctl": 42,
+     "pctl": 41,
      "mp": 332
     },
     "rest": {
@@ -13874,11 +13874,11 @@
     "stat": "Net On",
     "season": {
      "value": -1.2,
-     "pctl": 49
+     "pctl": 48
     },
     "recent": {
      "value": 4.4,
-     "pctl": 70,
+     "pctl": 69,
      "mp": 332
     },
     "rest": {
@@ -13921,7 +13921,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.4,
-     "pctl": 43
+     "pctl": 42
     },
     "recent": {
      "value": -0.5,
@@ -13936,7 +13936,7 @@
     "stat": "Load",
     "season": {
      "value": 32.3,
-     "pctl": 68
+     "pctl": 67
     },
     "recent": {
      "value": 30.3,
@@ -13966,7 +13966,7 @@
     "stat": "Net On",
     "season": {
      "value": 3.2,
-     "pctl": 65
+     "pctl": 64
     },
     "recent": {
      "value": 1.6,
@@ -13981,11 +13981,11 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 16.2,
-     "pctl": 70
+     "pctl": 69
     },
     "recent": {
      "value": 14.9,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 245
     },
     "rest": {
@@ -13998,7 +13998,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.1,
-     "pctl": 36
+     "pctl": 35
     },
     "recent": {
      "value": 0.3,
@@ -14017,7 +14017,7 @@
     },
     "recent": {
      "value": -0.1,
-     "pctl": 52,
+     "pctl": 51,
      "mp": 237
     },
     "rest": {
@@ -14032,7 +14032,7 @@
     },
     "recent": {
      "value": 24.2,
-     "pctl": 37,
+     "pctl": 36,
      "mp": 237
     },
     "rest": {
@@ -14058,7 +14058,7 @@
     "stat": "Net On",
     "season": {
      "value": -1.2,
-     "pctl": 49
+     "pctl": 48
     },
     "recent": {
      "value": 0,
@@ -14094,7 +14094,7 @@
     },
     "recent": {
      "value": 0.2,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 405
     },
     "rest": {
@@ -14120,7 +14120,7 @@
     "stat": "Load",
     "season": {
      "value": 31.5,
-     "pctl": 66
+     "pctl": 65
     },
     "recent": {
      "value": 31.4,
@@ -14182,11 +14182,11 @@
     "stat": "BPM",
     "season": {
      "value": 0.9,
-     "pctl": 51
+     "pctl": 50
     },
     "recent": {
      "value": 0.2,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 285
     },
     "rest": {
@@ -14201,7 +14201,7 @@
     },
     "recent": {
      "value": -2.2,
-     "pctl": 6,
+     "pctl": 7,
      "mp": 285
     },
     "rest": {
@@ -14274,11 +14274,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.9,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": 0.2,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 407
     },
     "rest": {
@@ -14293,7 +14293,7 @@
     },
     "recent": {
      "value": -0.9,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 407
     },
     "rest": {
@@ -14304,7 +14304,7 @@
     "stat": "Load",
     "season": {
      "value": 29.4,
-     "pctl": 59
+     "pctl": 58
     },
     "recent": {
      "value": 28.9,
@@ -14319,7 +14319,7 @@
     "stat": "rTS%",
     "season": {
      "value": 3.5,
-     "pctl": 70
+     "pctl": 69
     },
     "recent": {
      "value": 5,
@@ -14334,11 +14334,11 @@
     "stat": "Net On",
     "season": {
      "value": -9.5,
-     "pctl": 16
+     "pctl": 15
     },
     "recent": {
      "value": -4.8,
-     "pctl": 32,
+     "pctl": 31,
      "mp": 407
     },
     "rest": {
@@ -14349,7 +14349,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 11.2,
-     "pctl": 59
+     "pctl": 58
     },
     "recent": {
      "value": 10.9,
@@ -14370,7 +14370,7 @@
     },
     "recent": {
      "value": 0.1,
-     "pctl": 36,
+     "pctl": 35,
      "mp": 436
     },
     "rest": {
@@ -14400,7 +14400,7 @@
     },
     "recent": {
      "value": 31,
-     "pctl": 65,
+     "pctl": 64,
      "mp": 436
     },
     "rest": {
@@ -14430,7 +14430,7 @@
     },
     "recent": {
      "value": -6.8,
-     "pctl": 25,
+     "pctl": 24,
      "mp": 436
     },
     "rest": {
@@ -14462,7 +14462,7 @@
     },
     "recent": {
      "value": 0.1,
-     "pctl": 36,
+     "pctl": 35,
      "mp": 305
     },
     "rest": {
@@ -14473,11 +14473,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.2,
-     "pctl": 22
+     "pctl": 21
     },
     "recent": {
      "value": -1.2,
-     "pctl": 22,
+     "pctl": 21,
      "mp": 305
     },
     "rest": {
@@ -14488,11 +14488,11 @@
     "stat": "Load",
     "season": {
      "value": 25.5,
-     "pctl": 46
+     "pctl": 45
     },
     "recent": {
      "value": 25.9,
-     "pctl": 49,
+     "pctl": 48,
      "mp": 305
     },
     "rest": {
@@ -14518,11 +14518,11 @@
     "stat": "Net On",
     "season": {
      "value": -6.6,
-     "pctl": 26
+     "pctl": 25
     },
     "recent": {
      "value": -6.8,
-     "pctl": 25,
+     "pctl": 24,
      "mp": 305
     },
     "rest": {
@@ -14550,11 +14550,11 @@
     "stat": "BPM",
     "season": {
      "value": 0.1,
-     "pctl": 36
+     "pctl": 35
     },
     "recent": {
      "value": 0.1,
-     "pctl": 36,
+     "pctl": 35,
      "mp": 364
     },
     "rest": {
@@ -14569,7 +14569,7 @@
     },
     "recent": {
      "value": -0.9,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 364
     },
     "rest": {
@@ -14584,7 +14584,7 @@
     },
     "recent": {
      "value": 24.5,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 364
     },
     "rest": {
@@ -14614,7 +14614,7 @@
     },
     "recent": {
      "value": -6.2,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 364
     },
     "rest": {
@@ -14642,7 +14642,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.2,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": 0,
@@ -14661,7 +14661,7 @@
     },
     "recent": {
      "value": -1.2,
-     "pctl": 22,
+     "pctl": 21,
      "mp": 330
     },
     "rest": {
@@ -14702,11 +14702,11 @@
     "stat": "Net On",
     "season": {
      "value": -3.9,
-     "pctl": 34
+     "pctl": 33
     },
     "recent": {
      "value": -2.6,
-     "pctl": 41,
+     "pctl": 40,
      "mp": 330
     },
     "rest": {
@@ -14721,7 +14721,7 @@
     },
     "recent": {
      "value": 5.6,
-     "pctl": 28,
+     "pctl": 29,
      "mp": 330
     },
     "rest": {
@@ -14794,11 +14794,11 @@
     "stat": "Net On",
     "season": {
      "value": 1,
-     "pctl": 57
+     "pctl": 56
     },
     "recent": {
      "value": -3.2,
-     "pctl": 37,
+     "pctl": 36,
      "mp": 264
     },
     "rest": {
@@ -14856,7 +14856,7 @@
     "stat": "Load",
     "season": {
      "value": 38.3,
-     "pctl": 81
+     "pctl": 80
     },
     "recent": {
      "value": 40,
@@ -14886,7 +14886,7 @@
     "stat": "Net On",
     "season": {
      "value": -6.2,
-     "pctl": 28
+     "pctl": 27
     },
     "recent": {
      "value": -5,
@@ -14905,7 +14905,7 @@
     },
     "recent": {
      "value": 13.7,
-     "pctl": 66,
+     "pctl": 65,
      "mp": 272
     },
     "rest": {
@@ -14918,7 +14918,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.1,
-     "pctl": 36
+     "pctl": 35
     },
     "recent": {
      "value": 0,
@@ -14937,7 +14937,7 @@
     },
     "recent": {
      "value": -1.2,
-     "pctl": 22,
+     "pctl": 21,
      "mp": 287
     },
     "rest": {
@@ -15010,7 +15010,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.1,
-     "pctl": 36
+     "pctl": 35
     },
     "recent": {
      "value": 0,
@@ -15025,7 +15025,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.9,
-     "pctl": 28
+     "pctl": 27
     },
     "recent": {
      "value": -1,
@@ -15074,7 +15074,7 @@
     },
     "recent": {
      "value": -2.9,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 206
     },
     "rest": {
@@ -15117,7 +15117,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.9,
-     "pctl": 28
+     "pctl": 27
     },
     "recent": {
      "value": -0.5,
@@ -15166,7 +15166,7 @@
     },
     "recent": {
      "value": -4.5,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 379
     },
     "rest": {
@@ -15254,7 +15254,7 @@
     "stat": "Net On",
     "season": {
      "value": 1.4,
-     "pctl": 59
+     "pctl": 58
     },
     "recent": {
      "value": 5.3,
@@ -15320,7 +15320,7 @@
     },
     "recent": {
      "value": 25.9,
-     "pctl": 49,
+     "pctl": 48,
      "mp": 253
     },
     "rest": {
@@ -15331,7 +15331,7 @@
     "stat": "rTS%",
     "season": {
      "value": 1.6,
-     "pctl": 58
+     "pctl": 57
     },
     "recent": {
      "value": 0.8,
@@ -15361,7 +15361,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.2,
-     "pctl": 20
+     "pctl": 21
     },
     "recent": {
      "value": 5.3,
@@ -15442,7 +15442,7 @@
     },
     "recent": {
      "value": -11.5,
-     "pctl": 11,
+     "pctl": 10,
      "mp": 437
     },
     "rest": {
@@ -15470,7 +15470,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.9,
-     "pctl": 51
+     "pctl": 50
     },
     "recent": {
      "value": -0.2,
@@ -15485,7 +15485,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.5,
-     "pctl": 14
+     "pctl": 13
     },
     "recent": {
      "value": -1.8,
@@ -15530,11 +15530,11 @@
     "stat": "Net On",
     "season": {
      "value": -3.2,
-     "pctl": 37
+     "pctl": 36
     },
     "recent": {
      "value": -5.4,
-     "pctl": 31,
+     "pctl": 30,
      "mp": 460
     },
     "rest": {
@@ -15592,7 +15592,7 @@
     "stat": "Load",
     "season": {
      "value": 24.9,
-     "pctl": 42
+     "pctl": 41
     },
     "recent": {
      "value": 24,
@@ -15637,7 +15637,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 11.5,
-     "pctl": 60
+     "pctl": 59
     },
     "recent": {
      "value": 12.9,
@@ -15669,7 +15669,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.1,
-     "pctl": 23
+     "pctl": 22
     },
     "recent": {
      "value": -1,
@@ -15714,7 +15714,7 @@
     "stat": "Net On",
     "season": {
      "value": -8.6,
-     "pctl": 20
+     "pctl": 19
     },
     "recent": {
      "value": -8.5,
@@ -15746,7 +15746,7 @@
     "stat": "BPM",
     "season": {
      "value": -1,
-     "pctl": 21
+     "pctl": 20
     },
     "recent": {
      "value": -0.2,
@@ -15780,7 +15780,7 @@
     },
     "recent": {
      "value": 25.4,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 255
     },
     "rest": {
@@ -15898,7 +15898,7 @@
     "stat": "Net On",
     "season": {
      "value": 4.1,
-     "pctl": 69
+     "pctl": 68
     },
     "recent": {
      "value": 6.4,
@@ -15934,7 +15934,7 @@
     },
     "recent": {
      "value": -0.3,
-     "pctl": 30,
+     "pctl": 29,
      "mp": 230
     },
     "rest": {
@@ -15990,7 +15990,7 @@
     "stat": "Net On",
     "season": {
      "value": -3.4,
-     "pctl": 36
+     "pctl": 35
     },
     "recent": {
      "value": 1.7,
@@ -16026,7 +16026,7 @@
     },
     "recent": {
      "value": -0.3,
-     "pctl": 30,
+     "pctl": 29,
      "mp": 218
     },
     "rest": {
@@ -16037,7 +16037,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.1,
-     "pctl": 52
+     "pctl": 51
     },
     "recent": {
      "value": 0.1,
@@ -16118,7 +16118,7 @@
     },
     "recent": {
      "value": -0.3,
-     "pctl": 30,
+     "pctl": 29,
      "mp": 512
     },
     "rest": {
@@ -16174,7 +16174,7 @@
     "stat": "Net On",
     "season": {
      "value": -6.4,
-     "pctl": 27
+     "pctl": 26
     },
     "recent": {
      "value": -7.3,
@@ -16210,7 +16210,7 @@
     },
     "recent": {
      "value": -0.4,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 242
     },
     "rest": {
@@ -16225,7 +16225,7 @@
     },
     "recent": {
      "value": 1.7,
-     "pctl": 83,
+     "pctl": 82,
      "mp": 242
     },
     "rest": {
@@ -16302,7 +16302,7 @@
     },
     "recent": {
      "value": -0.5,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 174
     },
     "rest": {
@@ -16328,11 +16328,11 @@
     "stat": "Load",
     "season": {
      "value": 26.2,
-     "pctl": 51
+     "pctl": 50
     },
     "recent": {
      "value": 27.8,
-     "pctl": 55,
+     "pctl": 54,
      "mp": 174
     },
     "rest": {
@@ -16358,7 +16358,7 @@
     "stat": "Net On",
     "season": {
      "value": 2.1,
-     "pctl": 61
+     "pctl": 60
     },
     "recent": {
      "value": 2,
@@ -16390,11 +16390,11 @@
     "stat": "BPM",
     "season": {
      "value": -1.6,
-     "pctl": 13
+     "pctl": 12
     },
     "recent": {
      "value": -0.5,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 165
     },
     "rest": {
@@ -16465,7 +16465,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5,
-     "pctl": 18
+     "pctl": 19
     },
     "recent": {
      "value": 4.9,
@@ -16486,7 +16486,7 @@
     },
     "recent": {
      "value": -0.5,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 225
     },
     "rest": {
@@ -16501,7 +16501,7 @@
     },
     "recent": {
      "value": -0.4,
-     "pctl": 43,
+     "pctl": 42,
      "mp": 225
     },
     "rest": {
@@ -16542,7 +16542,7 @@
     "stat": "Net On",
     "season": {
      "value": -2.6,
-     "pctl": 41
+     "pctl": 40
     },
     "recent": {
      "value": -4.9,
@@ -16574,11 +16574,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.8,
-     "pctl": 26
+     "pctl": 25
     },
     "recent": {
      "value": -0.5,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 457
     },
     "rest": {
@@ -16589,7 +16589,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.5,
-     "pctl": 14
+     "pctl": 13
     },
     "recent": {
      "value": -1.6,
@@ -16619,7 +16619,7 @@
     "stat": "rTS%",
     "season": {
      "value": -6.5,
-     "pctl": 16
+     "pctl": 15
     },
     "recent": {
      "value": -5.4,
@@ -16666,11 +16666,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.3,
-     "pctl": 30
+     "pctl": 29
     },
     "recent": {
      "value": -0.5,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 418
     },
     "rest": {
@@ -16726,11 +16726,11 @@
     "stat": "Net On",
     "season": {
      "value": 0.8,
-     "pctl": 56
+     "pctl": 55
     },
     "recent": {
      "value": -0.7,
-     "pctl": 51,
+     "pctl": 50,
      "mp": 418
     },
     "rest": {
@@ -16758,7 +16758,7 @@
     "stat": "BPM",
     "season": {
      "value": -0.4,
-     "pctl": 28
+     "pctl": 27
     },
     "recent": {
      "value": -0.6,
@@ -16788,7 +16788,7 @@
     "stat": "Load",
     "season": {
      "value": 21.4,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": 23.8,
@@ -16833,7 +16833,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.7,
-     "pctl": 29
+     "pctl": 30
     },
     "recent": {
      "value": 5.9,
@@ -16865,7 +16865,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -2.2,
-     "pctl": 6
+     "pctl": 7
     },
     "recent": {
      "value": -1.9,
@@ -16880,7 +16880,7 @@
     "stat": "Load",
     "season": {
      "value": 28.8,
-     "pctl": 57
+     "pctl": 56
     },
     "recent": {
      "value": 29,
@@ -16914,7 +16914,7 @@
     },
     "recent": {
      "value": -11.6,
-     "pctl": 11,
+     "pctl": 10,
      "mp": 351
     },
     "rest": {
@@ -16961,7 +16961,7 @@
     },
     "recent": {
      "value": -0.9,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 287
     },
     "rest": {
@@ -16976,7 +16976,7 @@
     },
     "recent": {
      "value": 25.5,
-     "pctl": 46,
+     "pctl": 45,
      "mp": 287
     },
     "rest": {
@@ -17002,7 +17002,7 @@
     "stat": "Net On",
     "season": {
      "value": -9.9,
-     "pctl": 15
+     "pctl": 14
     },
     "recent": {
      "value": -13,
@@ -17017,7 +17017,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.2,
-     "pctl": 20
+     "pctl": 21
     },
     "recent": {
      "value": 5.4,
@@ -17068,7 +17068,7 @@
     },
     "recent": {
      "value": 19.5,
-     "pctl": 17,
+     "pctl": 16,
      "mp": 347
     },
     "rest": {
@@ -17109,7 +17109,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.7,
-     "pctl": 29
+     "pctl": 30
     },
     "recent": {
      "value": 5.5,
@@ -17126,11 +17126,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.9,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -0.7,
-     "pctl": 27,
+     "pctl": 26,
      "mp": 241
     },
     "rest": {
@@ -17218,11 +17218,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.9,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -0.7,
-     "pctl": 27,
+     "pctl": 26,
      "mp": 220
     },
     "rest": {
@@ -17282,7 +17282,7 @@
     },
     "recent": {
      "value": -3.4,
-     "pctl": 36,
+     "pctl": 35,
      "mp": 220
     },
     "rest": {
@@ -17310,11 +17310,11 @@
     "stat": "BPM",
     "season": {
      "value": 0.2,
-     "pctl": 39
+     "pctl": 38
     },
     "recent": {
      "value": -0.7,
-     "pctl": 27,
+     "pctl": 26,
      "mp": 183
     },
     "rest": {
@@ -17325,7 +17325,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -2.2,
-     "pctl": 6
+     "pctl": 7
     },
     "recent": {
      "value": -2.5,
@@ -17406,7 +17406,7 @@
     },
     "recent": {
      "value": -0.8,
-     "pctl": 26,
+     "pctl": 25,
      "mp": 340
     },
     "rest": {
@@ -17421,7 +17421,7 @@
     },
     "recent": {
      "value": -1.2,
-     "pctl": 22,
+     "pctl": 21,
      "mp": 340
     },
     "rest": {
@@ -17498,7 +17498,7 @@
     },
     "recent": {
      "value": -0.8,
-     "pctl": 26,
+     "pctl": 25,
      "mp": 467
     },
     "rest": {
@@ -17513,7 +17513,7 @@
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 467
     },
     "rest": {
@@ -17528,7 +17528,7 @@
     },
     "recent": {
      "value": 46.6,
-     "pctl": 94,
+     "pctl": 93,
      "mp": 467
     },
     "rest": {
@@ -17554,7 +17554,7 @@
     "stat": "Net On",
     "season": {
      "value": -6.8,
-     "pctl": 25
+     "pctl": 24
     },
     "recent": {
      "value": -7.7,
@@ -17590,7 +17590,7 @@
     },
     "recent": {
      "value": -0.9,
-     "pctl": 24,
+     "pctl": 23,
      "mp": 349
     },
     "rest": {
@@ -17601,7 +17601,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.9,
-     "pctl": 28
+     "pctl": 27
     },
     "recent": {
      "value": -1.4,
@@ -17646,7 +17646,7 @@
     "stat": "Net On",
     "season": {
      "value": -10.1,
-     "pctl": 14
+     "pctl": 13
     },
     "recent": {
      "value": -12.7,
@@ -17678,11 +17678,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.4,
-     "pctl": 28
+     "pctl": 27
     },
     "recent": {
      "value": -0.9,
-     "pctl": 24,
+     "pctl": 23,
      "mp": 277
     },
     "rest": {
@@ -17697,7 +17697,7 @@
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 277
     },
     "rest": {
@@ -17738,11 +17738,11 @@
     "stat": "Net On",
     "season": {
      "value": -0.7,
-     "pctl": 51
+     "pctl": 50
     },
     "recent": {
      "value": -4.3,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 277
     },
     "rest": {
@@ -17770,11 +17770,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.9,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -0.9,
-     "pctl": 24,
+     "pctl": 23,
      "mp": 170
     },
     "rest": {
@@ -17789,7 +17789,7 @@
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 170
     },
     "rest": {
@@ -17800,11 +17800,11 @@
     "stat": "Load",
     "season": {
      "value": 21.5,
-     "pctl": 25
+     "pctl": 24
     },
     "recent": {
      "value": 21.4,
-     "pctl": 24,
+     "pctl": 23,
      "mp": 170
     },
     "rest": {
@@ -17834,7 +17834,7 @@
     },
     "recent": {
      "value": -7,
-     "pctl": 25,
+     "pctl": 24,
      "mp": 170
     },
     "rest": {
@@ -17862,11 +17862,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.9,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -0.9,
-     "pctl": 24,
+     "pctl": 23,
      "mp": 455
     },
     "rest": {
@@ -17907,7 +17907,7 @@
     "stat": "rTS%",
     "season": {
      "value": 1.9,
-     "pctl": 60
+     "pctl": 59
     },
     "recent": {
      "value": 2,
@@ -17958,7 +17958,7 @@
     },
     "recent": {
      "value": -1,
-     "pctl": 21,
+     "pctl": 20,
      "mp": 197
     },
     "rest": {
@@ -17984,7 +17984,7 @@
     "stat": "Load",
     "season": {
      "value": 25.3,
-     "pctl": 45
+     "pctl": 44
     },
     "recent": {
      "value": 28.5,
@@ -18046,7 +18046,7 @@
     "stat": "BPM",
     "season": {
      "value": -1.5,
-     "pctl": 13
+     "pctl": 12
     },
     "recent": {
      "value": -1.1,
@@ -18091,7 +18091,7 @@
     "stat": "rTS%",
     "season": {
      "value": 2.8,
-     "pctl": 65
+     "pctl": 64
     },
     "recent": {
      "value": 4.2,
@@ -18121,7 +18121,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 5.6,
-     "pctl": 28
+     "pctl": 29
     },
     "recent": {
      "value": 6,
@@ -18138,7 +18138,7 @@
     "stat": "BPM",
     "season": {
      "value": -0.9,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -1.1,
@@ -18198,7 +18198,7 @@
     "stat": "Net On",
     "season": {
      "value": -2.6,
-     "pctl": 41
+     "pctl": 40
     },
     "recent": {
      "value": -4.9,
@@ -18230,7 +18230,7 @@
     "stat": "BPM",
     "season": {
      "value": -1,
-     "pctl": 21
+     "pctl": 20
     },
     "recent": {
      "value": -1.1,
@@ -18322,7 +18322,7 @@
     "stat": "BPM",
     "season": {
      "value": -1,
-     "pctl": 21
+     "pctl": 20
     },
     "recent": {
      "value": -1.1,
@@ -18382,7 +18382,7 @@
     "stat": "Net On",
     "season": {
      "value": -3.3,
-     "pctl": 37
+     "pctl": 36
     },
     "recent": {
      "value": -5.7,
@@ -18414,7 +18414,7 @@
     "stat": "BPM",
     "season": {
      "value": -1,
-     "pctl": 21
+     "pctl": 20
     },
     "recent": {
      "value": -1.1,
@@ -18433,7 +18433,7 @@
     },
     "recent": {
      "value": -1.1,
-     "pctl": 23,
+     "pctl": 22,
      "mp": 252
     },
     "rest": {
@@ -18493,7 +18493,7 @@
     },
     "recent": {
      "value": 5.7,
-     "pctl": 29,
+     "pctl": 30,
      "mp": 252
     },
     "rest": {
@@ -18566,11 +18566,11 @@
     "stat": "Net On",
     "season": {
      "value": -10.8,
-     "pctl": 12
+     "pctl": 11
     },
     "recent": {
      "value": -6.8,
-     "pctl": 25,
+     "pctl": 24,
      "mp": 391
     },
     "rest": {
@@ -18598,7 +18598,7 @@
     "stat": "BPM",
     "season": {
      "value": -1,
-     "pctl": 21
+     "pctl": 20
     },
     "recent": {
      "value": -1.2,
@@ -18632,7 +18632,7 @@
     },
     "recent": {
      "value": 31.5,
-     "pctl": 66,
+     "pctl": 65,
      "mp": 310
     },
     "rest": {
@@ -18658,7 +18658,7 @@
     "stat": "Net On",
     "season": {
      "value": 0.8,
-     "pctl": 56
+     "pctl": 55
     },
     "recent": {
      "value": -0.1,
@@ -18705,7 +18705,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.5,
-     "pctl": 14
+     "pctl": 13
     },
     "recent": {
      "value": -1.4,
@@ -18782,7 +18782,7 @@
     "stat": "BPM",
     "season": {
      "value": -0.5,
-     "pctl": 28
+     "pctl": 27
     },
     "recent": {
      "value": -1.3,
@@ -18801,7 +18801,7 @@
     },
     "recent": {
      "value": 0.7,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 166
     },
     "rest": {
@@ -18846,7 +18846,7 @@
     },
     "recent": {
      "value": 7.7,
-     "pctl": 81,
+     "pctl": 80,
      "mp": 166
     },
     "rest": {
@@ -18874,7 +18874,7 @@
     "stat": "BPM",
     "season": {
      "value": -1.5,
-     "pctl": 13
+     "pctl": 12
     },
     "recent": {
      "value": -1.3,
@@ -18893,7 +18893,7 @@
     },
     "recent": {
      "value": 0.6,
-     "pctl": 66,
+     "pctl": 65,
      "mp": 259
     },
     "rest": {
@@ -18919,7 +18919,7 @@
     "stat": "rTS%",
     "season": {
      "value": -9.3,
-     "pctl": 8
+     "pctl": 7
     },
     "recent": {
      "value": -11.2,
@@ -18934,11 +18934,11 @@
     "stat": "Net On",
     "season": {
      "value": -3.1,
-     "pctl": 38
+     "pctl": 37
     },
     "recent": {
      "value": -1.2,
-     "pctl": 49,
+     "pctl": 48,
      "mp": 259
     },
     "rest": {
@@ -18966,7 +18966,7 @@
     "stat": "BPM",
     "season": {
      "value": -1,
-     "pctl": 21
+     "pctl": 20
     },
     "recent": {
      "value": -1.3,
@@ -18981,7 +18981,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.1,
-     "pctl": 23
+     "pctl": 22
     },
     "recent": {
      "value": -1.6,
@@ -18996,7 +18996,7 @@
     "stat": "Load",
     "season": {
      "value": 27.8,
-     "pctl": 55
+     "pctl": 54
     },
     "recent": {
      "value": 28.9,
@@ -19015,7 +19015,7 @@
     },
     "recent": {
      "value": -4.5,
-     "pctl": 24,
+     "pctl": 23,
      "mp": 381
     },
     "rest": {
@@ -19058,7 +19058,7 @@
     "stat": "BPM",
     "season": {
      "value": 0.1,
-     "pctl": 36
+     "pctl": 35
     },
     "recent": {
      "value": -1.4,
@@ -19077,7 +19077,7 @@
     },
     "recent": {
      "value": -0.1,
-     "pctl": 52,
+     "pctl": 51,
      "mp": 218
     },
     "rest": {
@@ -19103,7 +19103,7 @@
     "stat": "rTS%",
     "season": {
      "value": 3.2,
-     "pctl": 67
+     "pctl": 66
     },
     "recent": {
      "value": -0.8,
@@ -19150,7 +19150,7 @@
     "stat": "BPM",
     "season": {
      "value": -1.5,
-     "pctl": 13
+     "pctl": 12
     },
     "recent": {
      "value": -1.4,
@@ -19210,11 +19210,11 @@
     "stat": "Net On",
     "season": {
      "value": -13.7,
-     "pctl": 5
+     "pctl": 4
     },
     "recent": {
      "value": -12.8,
-     "pctl": 8,
+     "pctl": 7,
      "mp": 414
     },
     "rest": {
@@ -19229,7 +19229,7 @@
     },
     "recent": {
      "value": 14.8,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 414
     },
     "rest": {
@@ -19272,7 +19272,7 @@
     "stat": "Load",
     "season": {
      "value": 19.5,
-     "pctl": 17
+     "pctl": 16
     },
     "recent": {
      "value": 19.8,
@@ -19302,7 +19302,7 @@
     "stat": "Net On",
     "season": {
      "value": -12.8,
-     "pctl": 8
+     "pctl": 7
     },
     "recent": {
      "value": -12.4,
@@ -19409,7 +19409,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 21.7,
-     "pctl": 80
+     "pctl": 79
     },
     "recent": {
      "value": 23,
@@ -19426,11 +19426,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.7,
-     "pctl": 27
+     "pctl": 26
     },
     "recent": {
      "value": -1.5,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 166
     },
     "rest": {
@@ -19441,11 +19441,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.7,
-     "pctl": 33
+     "pctl": 32
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 166
     },
     "rest": {
@@ -19518,11 +19518,11 @@
     "stat": "BPM",
     "season": {
      "value": -0.7,
-     "pctl": 27
+     "pctl": 26
     },
     "recent": {
      "value": -1.5,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 221
     },
     "rest": {
@@ -19533,7 +19533,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.2,
-     "pctl": 22
+     "pctl": 21
     },
     "recent": {
      "value": -1.3,
@@ -19567,7 +19567,7 @@
     },
     "recent": {
      "value": -1.5,
-     "pctl": 39,
+     "pctl": 38,
      "mp": 221
     },
     "rest": {
@@ -19614,7 +19614,7 @@
     },
     "recent": {
      "value": -1.5,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 193
     },
     "rest": {
@@ -19625,7 +19625,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": 0.7,
-     "pctl": 68
+     "pctl": 67
     },
     "recent": {
      "value": 0.1,
@@ -19655,7 +19655,7 @@
     "stat": "rTS%",
     "season": {
      "value": 3.6,
-     "pctl": 71
+     "pctl": 70
     },
     "recent": {
      "value": 1.1,
@@ -19670,7 +19670,7 @@
     "stat": "Net On",
     "season": {
      "value": 3.2,
-     "pctl": 65
+     "pctl": 64
     },
     "recent": {
      "value": -2.7,
@@ -19702,11 +19702,11 @@
     "stat": "BPM",
     "season": {
      "value": -2,
-     "pctl": 10
+     "pctl": 9
     },
     "recent": {
      "value": -1.6,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 291
     },
     "rest": {
@@ -19747,7 +19747,7 @@
     "stat": "rTS%",
     "season": {
      "value": -10.8,
-     "pctl": 5
+     "pctl": 4
     },
     "recent": {
      "value": -7.9,
@@ -19766,7 +19766,7 @@
     },
     "recent": {
      "value": -4.5,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 291
     },
     "rest": {
@@ -19798,7 +19798,7 @@
     },
     "recent": {
      "value": -1.6,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 401
     },
     "rest": {
@@ -19809,11 +19809,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.7,
-     "pctl": 33
+     "pctl": 32
     },
     "recent": {
      "value": -1.1,
-     "pctl": 23,
+     "pctl": 22,
      "mp": 401
     },
     "rest": {
@@ -19828,7 +19828,7 @@
     },
     "recent": {
      "value": 30.9,
-     "pctl": 65,
+     "pctl": 64,
      "mp": 401
     },
     "rest": {
@@ -19854,11 +19854,11 @@
     "stat": "Net On",
     "season": {
      "value": -9.4,
-     "pctl": 17
+     "pctl": 16
     },
     "recent": {
      "value": -11.5,
-     "pctl": 11,
+     "pctl": 10,
      "mp": 401
     },
     "rest": {
@@ -19869,7 +19869,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 13.7,
-     "pctl": 66
+     "pctl": 65
     },
     "recent": {
      "value": 13.8,
@@ -19890,7 +19890,7 @@
     },
     "recent": {
      "value": -1.6,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 200
     },
     "rest": {
@@ -19901,7 +19901,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.7,
-     "pctl": 33
+     "pctl": 32
     },
     "recent": {
      "value": -1.3,
@@ -19965,7 +19965,7 @@
     },
     "recent": {
      "value": 16.2,
-     "pctl": 70,
+     "pctl": 69,
      "mp": 200
     },
     "rest": {
@@ -19982,7 +19982,7 @@
     },
     "recent": {
      "value": -1.6,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 252
     },
     "rest": {
@@ -20008,11 +20008,11 @@
     "stat": "Load",
     "season": {
      "value": 32.9,
-     "pctl": 69
+     "pctl": 68
     },
     "recent": {
      "value": 32.1,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 252
     },
     "rest": {
@@ -20023,7 +20023,7 @@
     "stat": "rTS%",
     "season": {
      "value": -7.4,
-     "pctl": 13
+     "pctl": 12
     },
     "recent": {
      "value": -10,
@@ -20042,7 +20042,7 @@
     },
     "recent": {
      "value": -6.9,
-     "pctl": 25,
+     "pctl": 24,
      "mp": 252
     },
     "rest": {
@@ -20070,11 +20070,11 @@
     "stat": "BPM",
     "season": {
      "value": -1.5,
-     "pctl": 13
+     "pctl": 12
     },
     "recent": {
      "value": -1.6,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 350
     },
     "rest": {
@@ -20100,7 +20100,7 @@
     "stat": "Load",
     "season": {
      "value": 26.2,
-     "pctl": 51
+     "pctl": 50
     },
     "recent": {
      "value": 25,
@@ -20119,7 +20119,7 @@
     },
     "recent": {
      "value": -11,
-     "pctl": 5,
+     "pctl": 4,
      "mp": 350
     },
     "rest": {
@@ -20162,7 +20162,7 @@
     "stat": "BPM",
     "season": {
      "value": -1,
-     "pctl": 21
+     "pctl": 20
     },
     "recent": {
      "value": -1.7,
@@ -20177,7 +20177,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.7,
-     "pctl": 33
+     "pctl": 32
     },
     "recent": {
      "value": -1.3,
@@ -20192,7 +20192,7 @@
     "stat": "Load",
     "season": {
      "value": 26.7,
-     "pctl": 53
+     "pctl": 52
     },
     "recent": {
      "value": 27.2,
@@ -20222,7 +20222,7 @@
     "stat": "Net On",
     "season": {
      "value": -7.1,
-     "pctl": 24
+     "pctl": 23
     },
     "recent": {
      "value": -9,
@@ -20241,7 +20241,7 @@
     },
     "recent": {
      "value": 5.2,
-     "pctl": 20,
+     "pctl": 21,
      "mp": 468
     },
     "rest": {
@@ -20299,7 +20299,7 @@
     "stat": "rTS%",
     "season": {
      "value": -7.8,
-     "pctl": 12
+     "pctl": 11
     },
     "recent": {
      "value": -5.9,
@@ -20314,7 +20314,7 @@
     "stat": "Net On",
     "season": {
      "value": -13.7,
-     "pctl": 5
+     "pctl": 4
     },
     "recent": {
      "value": -14.8,
@@ -20333,7 +20333,7 @@
     },
     "recent": {
      "value": 5.2,
-     "pctl": 20,
+     "pctl": 21,
      "mp": 299
     },
     "rest": {
@@ -20406,11 +20406,11 @@
     "stat": "Net On",
     "season": {
      "value": -12,
-     "pctl": 10
+     "pctl": 9
     },
     "recent": {
      "value": -9.9,
-     "pctl": 15,
+     "pctl": 14,
      "mp": 266
     },
     "rest": {
@@ -20438,7 +20438,7 @@
     "stat": "BPM",
     "season": {
      "value": -1.5,
-     "pctl": 13
+     "pctl": 12
     },
     "recent": {
      "value": -1.8,
@@ -20453,7 +20453,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": 0.6,
-     "pctl": 66
+     "pctl": 65
     },
     "recent": {
      "value": -0.3,
@@ -20472,7 +20472,7 @@
     },
     "recent": {
      "value": 24.2,
-     "pctl": 37,
+     "pctl": 36,
      "mp": 287
     },
     "rest": {
@@ -20530,7 +20530,7 @@
     "stat": "BPM",
     "season": {
      "value": -1.5,
-     "pctl": 13
+     "pctl": 12
     },
     "recent": {
      "value": -1.8,
@@ -20549,7 +20549,7 @@
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 174
     },
     "rest": {
@@ -20590,11 +20590,11 @@
     "stat": "Net On",
     "season": {
      "value": -9.4,
-     "pctl": 17
+     "pctl": 16
     },
     "recent": {
      "value": -10.4,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 174
     },
     "rest": {
@@ -20622,7 +20622,7 @@
     "stat": "BPM",
     "season": {
      "value": -2,
-     "pctl": 10
+     "pctl": 9
     },
     "recent": {
      "value": -1.8,
@@ -20637,11 +20637,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.5,
-     "pctl": 14
+     "pctl": 13
     },
     "recent": {
      "value": -1.1,
-     "pctl": 23,
+     "pctl": 22,
      "mp": 288
     },
     "rest": {
@@ -20686,7 +20686,7 @@
     },
     "recent": {
      "value": -10.5,
-     "pctl": 13,
+     "pctl": 12,
      "mp": 288
     },
     "rest": {
@@ -20729,7 +20729,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.4,
-     "pctl": 43
+     "pctl": 42
     },
     "recent": {
      "value": -0.2,
@@ -20778,7 +20778,7 @@
     },
     "recent": {
      "value": -4.3,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 182
     },
     "rest": {
@@ -20810,7 +20810,7 @@
     },
     "recent": {
      "value": -2,
-     "pctl": 10,
+     "pctl": 9,
      "mp": 551
     },
     "rest": {
@@ -20825,7 +20825,7 @@
     },
     "recent": {
      "value": -1.5,
-     "pctl": 14,
+     "pctl": 13,
      "mp": 551
     },
     "rest": {
@@ -20866,7 +20866,7 @@
     "stat": "Net On",
     "season": {
      "value": -12.5,
-     "pctl": 9
+     "pctl": 8
     },
     "recent": {
      "value": -11.9,
@@ -20902,7 +20902,7 @@
     },
     "recent": {
      "value": -2,
-     "pctl": 10,
+     "pctl": 9,
      "mp": 338
     },
     "rest": {
@@ -20917,7 +20917,7 @@
     },
     "recent": {
      "value": -0.9,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 338
     },
     "rest": {
@@ -20932,7 +20932,7 @@
     },
     "recent": {
      "value": 46.5,
-     "pctl": 94,
+     "pctl": 93,
      "mp": 338
     },
     "rest": {
@@ -20943,7 +20943,7 @@
     "stat": "rTS%",
     "season": {
      "value": -8.3,
-     "pctl": 11
+     "pctl": 10
     },
     "recent": {
      "value": -7.7,
@@ -20958,7 +20958,7 @@
     "stat": "Net On",
     "season": {
      "value": -7.5,
-     "pctl": 23
+     "pctl": 22
     },
     "recent": {
      "value": -10.3,
@@ -20994,7 +20994,7 @@
     },
     "recent": {
      "value": -2.1,
-     "pctl": 10,
+     "pctl": 9,
      "mp": 305
     },
     "rest": {
@@ -21050,7 +21050,7 @@
     "stat": "Net On",
     "season": {
      "value": -5.4,
-     "pctl": 31
+     "pctl": 30
     },
     "recent": {
      "value": -3,
@@ -21086,7 +21086,7 @@
     },
     "recent": {
      "value": -2.1,
-     "pctl": 10,
+     "pctl": 9,
      "mp": 237
     },
     "rest": {
@@ -21161,7 +21161,7 @@
     },
     "recent": {
      "value": 5.7,
-     "pctl": 29,
+     "pctl": 30,
      "mp": 237
     },
     "rest": {
@@ -21174,11 +21174,11 @@
     "stat": "BPM",
     "season": {
      "value": -1.5,
-     "pctl": 13
+     "pctl": 12
     },
     "recent": {
      "value": -2.1,
-     "pctl": 10,
+     "pctl": 9,
      "mp": 292
     },
     "rest": {
@@ -21193,7 +21193,7 @@
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 292
     },
     "rest": {
@@ -21281,7 +21281,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.7,
-     "pctl": 33
+     "pctl": 32
     },
     "recent": {
      "value": -1,
@@ -21377,7 +21377,7 @@
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 358
     },
     "rest": {
@@ -21407,7 +21407,7 @@
     },
     "recent": {
      "value": -9.4,
-     "pctl": 8,
+     "pctl": 7,
      "mp": 358
     },
     "rest": {
@@ -21437,7 +21437,7 @@
     },
     "recent": {
      "value": 15,
-     "pctl": 68,
+     "pctl": 67,
      "mp": 358
     },
     "rest": {
@@ -21469,7 +21469,7 @@
     },
     "recent": {
      "value": -1.5,
-     "pctl": 14,
+     "pctl": 13,
      "mp": 353
     },
     "rest": {
@@ -21514,7 +21514,7 @@
     },
     "recent": {
      "value": -9.5,
-     "pctl": 16,
+     "pctl": 15,
      "mp": 353
     },
     "rest": {
@@ -21557,11 +21557,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": 0.6,
-     "pctl": 66
+     "pctl": 65
     },
     "recent": {
      "value": -0.4,
-     "pctl": 43,
+     "pctl": 42,
      "mp": 212
     },
     "rest": {
@@ -21679,7 +21679,7 @@
     "stat": "rTS%",
     "season": {
      "value": -10.4,
-     "pctl": 6
+     "pctl": 5
     },
     "recent": {
      "value": -11.3,
@@ -21741,11 +21741,11 @@
     "stat": "AuPM / g",
     "season": {
      "value": 0.6,
-     "pctl": 66
+     "pctl": 65
     },
     "recent": {
      "value": -0.4,
-     "pctl": 43,
+     "pctl": 42,
      "mp": 167
     },
     "rest": {
@@ -21756,7 +21756,7 @@
     "stat": "Load",
     "season": {
      "value": 26.1,
-     "pctl": 50
+     "pctl": 49
     },
     "recent": {
      "value": 22.9,
@@ -21822,7 +21822,7 @@
     },
     "recent": {
      "value": -2.7,
-     "pctl": 5,
+     "pctl": 4,
      "mp": 289
     },
     "rest": {
@@ -21833,7 +21833,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.7,
-     "pctl": 33
+     "pctl": 32
     },
     "recent": {
      "value": -1,
@@ -21925,7 +21925,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -0.7,
-     "pctl": 33
+     "pctl": 32
     },
     "recent": {
      "value": 0,
@@ -21985,7 +21985,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 14.2,
-     "pctl": 67
+     "pctl": 66
     },
     "recent": {
      "value": 13.1,
@@ -22081,7 +22081,7 @@
     },
     "recent": {
      "value": 5.1,
-     "pctl": 19,
+     "pctl": 20,
      "mp": 188
     },
     "rest": {
@@ -22158,7 +22158,7 @@
     },
     "recent": {
      "value": -11.1,
-     "pctl": 12,
+     "pctl": 11,
      "mp": 416
     },
     "rest": {
@@ -22169,7 +22169,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 12.1,
-     "pctl": 61
+     "pctl": 60
     },
     "recent": {
      "value": 12.8,
@@ -22186,7 +22186,7 @@
     "stat": "BPM",
     "season": {
      "value": -2.7,
-     "pctl": 5
+     "pctl": 4
     },
     "recent": {
      "value": -2.9,
@@ -22265,7 +22265,7 @@
     },
     "recent": {
      "value": 6.7,
-     "pctl": 38,
+     "pctl": 37,
      "mp": 191
     },
     "rest": {
@@ -22353,7 +22353,7 @@
     "stat": "Time of Poss %",
     "season": {
      "value": 32.4,
-     "pctl": 94
+     "pctl": 93
     },
     "recent": {
      "value": 33.3,
@@ -22389,7 +22389,7 @@
     },
     "recent": {
      "value": -0.4,
-     "pctl": 43,
+     "pctl": 42,
      "mp": 205
     },
     "rest": {
@@ -22404,7 +22404,7 @@
     },
     "recent": {
      "value": 32.9,
-     "pctl": 69,
+     "pctl": 68,
      "mp": 205
     },
     "rest": {
@@ -22430,11 +22430,11 @@
     "stat": "Net On",
     "season": {
      "value": -3.9,
-     "pctl": 34
+     "pctl": 33
     },
     "recent": {
      "value": -6.1,
-     "pctl": 28,
+     "pctl": 27,
      "mp": 205
     },
     "rest": {
@@ -22462,7 +22462,7 @@
     "stat": "BPM",
     "season": {
      "value": -3.3,
-     "pctl": 3
+     "pctl": 2
     },
     "recent": {
      "value": -3.4,
@@ -22569,7 +22569,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.5,
-     "pctl": 14
+     "pctl": 13
     },
     "recent": {
      "value": -1,
@@ -22603,7 +22603,7 @@
     },
     "recent": {
      "value": -10.8,
-     "pctl": 5,
+     "pctl": 4,
      "mp": 173
     },
     "rest": {
@@ -22618,7 +22618,7 @@
     },
     "recent": {
      "value": -9.5,
-     "pctl": 16,
+     "pctl": 15,
      "mp": 173
     },
     "rest": {
@@ -22646,7 +22646,7 @@
     "stat": "BPM",
     "season": {
      "value": -3.8,
-     "pctl": 2
+     "pctl": 1
     },
     "recent": {
      "value": -4.3,
@@ -22661,7 +22661,7 @@
     "stat": "AuPM / g",
     "season": {
      "value": -1.2,
-     "pctl": 22
+     "pctl": 21
     },
     "recent": {
      "value": -2.1,
@@ -22691,7 +22691,7 @@
     "stat": "rTS%",
     "season": {
      "value": -10.4,
-     "pctl": 6
+     "pctl": 5
     },
     "recent": {
      "value": -15.1,
@@ -22757,7 +22757,7 @@
     },
     "recent": {
      "value": -0.7,
-     "pctl": 33,
+     "pctl": 32,
      "mp": 189
     },
     "rest": {
